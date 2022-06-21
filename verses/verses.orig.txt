@@ -1,0 +1,3988 @@
+# Translations by Arthur W. Ryder
+
+These are verses translated by Ryder, besides his books. Where the source can be guessed, it has been included.
+
+Most from Bhartṛhari have been taken from GRETIL:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/1_sanskr/5_poetry/5_subhas/bharst_u.htm
+
+{
+  [Ryder]
+}
+{
+  [Sanskrit]
+}
+{
+  [Others' translations, if any]
+}
+
+# Women's Eyes
+
+{
+  WOMEN'S EYES
+
+  The world is full of women's eyes,
+  Defiant, filled with shy surprise,
+  Demure, a little overfree,
+  Or simply sparkling roguishly;
+  It seems a gorgeous lily-bed,
+  Whichever way I turn my head.
+}
+{
+|| BharSt_2.4 ||
+}
+{
+Miller:
+  Lured here by curving beautiful brows,
+  There by gestures of modesty,
+  By quivering looks of alarm,
+  By the graces of amorous play,
+  By lovely faces and darting eyes;
+  I am lured by signs of awakening maids
+  And every direction seems strewn
+  With lotuses blooming for dalliance.
+}
+
+{
+  IF ONLY WE MIGHT DRESS IN AIR
+
+  If only we might dress in air,
+    And eat what begging brings,
+  And sleep outdoors, we should not care
+    For all the money-kings.
+}
+
+{
+  LOVE IS YOUNG
+
+  The wrinkles on my face are all untold;
+    My hair is gray and thin;
+  My limbs are sadly feeble grown, and old:
+    But love is young, and sin.
+}
+
+{
+  LOVE GROWS BY WHAT IT FEEDS ON
+
+  When she is far, I only want to see see her;
+    When she is seen, I only want to kiss her;
+  When she is kissed, I never want to flee her;
+    I know that I could never bear to miss her.
+}
+
+{
+  GENTLE EYES
+
+  Candle, and fire, and star,
+    Sun, moon, to give me light;
+  But her dear, gentle eyes are far—
+    This world is night.
+}
+{
+|| BharSt_2.14 ||
+}
+{
+Miller:
+  Beside a lamp or flaming hearth,
+  In light of stars or sun or moon,
+  Without her fawnlike eyes
+  My world remains in darkness.
+}
+
+{
+  THE STUBBORN FOOL-I
+
+    A diamond you may draw
+    From an alligator's jaw;
+  You may cross the raging ocean like a pool;
+    A cobra you may wear
+    Like a blossom in your hair;
+  But you never can convince a stubborn fool.
+}
+{
+|| BharSt_1.4 ||
+}
+{
+Tawney:
+  Snatch a jewel, if it please you, from the tiger's ravening throat;
+  Cross the ocean, though its billows toss in foamwreaths round your boat;
+  Fearless twine an angry cobra like a garland round your head;
+  But with fools forbear to argue,—better strive to wake the dead.
+}
+
+{
+  THE STUBBORN FOOL-II
+
+    With sufficient toil and travail
+    You may gather oil from gravel;
+  The mirage perhaps your thirsty lips may cool;
+    If you seek it night and morn,
+    You may find a rabbit's horn;
+  But you never can convince a stubborn fool.
+}
+{
+  labheta sikatāsu tailam api yatnataḥ pīḍayan
+  pibec ca mṛga-tṛṣṇikāsu salilaṃ pipāsārditaḥ |
+  kvacid api paryaṭan śaśa-viṣāṇam āsādayet
+  na tu pratiniviṣṭa-mūrkha-cittam ārādhayet || BharSt_1.5 ||
+}
+{
+Tawney:
+  If you squeeze with might and main,
+  Oil from sand you may obtain;
+  If with parching thirst you burn,
+  Some mirage may serve your turn;
+  If you wander far and wide,
+  Rabbits' horns may grace your side;
+  But you'll never—trust my rule—
+  Please a headstrong, bumptious fool.
+
+More:
+  Oil from the sand a man may strain,
+  If chance he squeeze with might and main;
+  The pilgrim at the magic well
+  Of the mirage his desert thirst may quell.
+
+  So traveling far a man by luck
+  May find a hare horned like a buck; —
+  But who by art may straighten out
+  The crooked counsels of a stubborn lout?
+}
+
+{
+  SEVEN ARROWS
+
+  Seven arrows pierce my heart:
+  The moonbeams that by day depart;
+  The maid whose youthful beauty flies;
+  The pool wherein the lotus dies;
+  The handsome man whose lips are dumb
+  The rich man, miserly and glum;
+  The good man sunk in suffering;
+  The rogue in favor with the king.
+}
+{
+  śaśī divasa-dhūsaro galita-yauvanā kāminī
+  saro vigata-vārijaṃ mukham anakṣaraṃ svākṛteḥ |
+  prabhur dhana-parāyaṇaḥ satata-durgataḥ sajjano
+  nṛpāṅgaṇa-gataḥ khalo manasi sapta śalyāni me || BharSt_1.56 ||
+}
+{
+Tawney:
+  The moon when dimmed by daylight, and a maid whose charms have fled,
+  A lake with faded lotuses, a good man ill bested,
+  A speechless mouth, a grasping king, a scoundrel in his train,
+  Are seven thorns that fret my soul with neverending pain.
+
+Miller:
+  The moon paled by day,
+  An amorous lady with lost youth,
+  A lake without lotuses,
+  The dumb face of a handsome man,
+  A prince obsessed with wealth,
+  A man of virtue ever wretched,
+  A villain come to the court of a king—
+  Seven barbs in my heart.
+}
+
+
+{
+  SUBSTITUTES
+
+  What need of armor to the patient soul?
+  What need of foes, if temper spurns control?
+  If rogues are near, what need of snakes to harm you?
+  If relatives, what need of fire to warm you?
+  If friends, what need of magic draughts for health?
+  If blameless scholarship, what need of wealth?
+  If modesty, what need of gems and flowers?
+  If poetry, what need of kingly powers?
+}
+{
+  kṣāntiś cet kavacena kiṃ kim aribhiḥ krodho 'sti ced dehināṃ
+  jñātiś ced analena kiṃ yadi suhṛd divyauṣadhaṃ kiṃ phalam |
+  kiṃ sarpair yadi durjanāḥ kim u dhanair vidyā 'navadyā yadi
+  vrīḍā cet kim u bhūṣaṇaiḥ sukavitā yady asti rājyena kim || BharSt_1.21 ||
+}
+{
+Tawney:
+  Better silence far than speaking,
+  Worse are kinsmen oft than fire,
+  There's no balm like friendly counsel,
+  There's no enemy like ire,
+  Rogues have keener teeth than vipers,
+  Brains outweigh the miser's hoard,
+  Better modesty than jewels,
+  Tuneful lyre than kingly sword.
+
+More:
+  Where patience dwells what need of other shield?
+  Why prate of foemen when to wrath we yield?
+    More warmth our kindred give than fires; and friends
+  Far more than soothing herbs our wounds have healed.
+
+  Why pray the gods whose heaven by love is wrought?
+  Why slave for wealth when wisdom is unbought?
+    What pearls can modesty adorn? what gift
+  Of kings add splendor to the poet's thought?
+}
+
+{
+  SWEET AND BITTER
+
+  Sweet are the moonbeams, sweet the grass-grown wood,
+  Sweet is the peaceful converse of the good,
+  The poet's song is sweet, the maiden's face
+  When angry tear-drops lend a sudden grace:
+  All would be sweet if human fate were fitter;
+  The thought of death turns all the sweet to bitter.
+}
+{
+  ramyāś candra-marīcayas tṛṇavatī ramyā vanānta-sthalī
+  ramyaṃ sādhu-samāgamāgata-sukhaṃ kāvyeṣu ramyāḥ kathāḥ |
+  kopopāhita-bāṣpa-bindu-taralaṃ ramyaṃ priyāyā mukhaṃ
+  sarvaṃ ramyam anityatām upagate citte na kiñcit punaḥ || BharSt_3.79 ||
+}
+{
+Miller:
+  Moonlight beams, a forest glade,
+  The fellowship of friends,
+  The legends told in poetry,
+  All are enchanting.
+  Enchanting too is her lovely face
+  Gleaming with tears of anger;
+  Enchanting if only your thought can forget
+  Their ephemeral nature.
+}
+
+{
+  WHEN I KNEW A LITILE BIT
+
+  When I knew a little bit,
+  Then my silly, blinded wit,
+  Mad as elephants in rut,
+  Thought it was omniscient; but
+  When I learned a little more
+  From the scholar's hoarded store,
+  Madness' fever soon grew cool,
+  And I knew I was a fool.
+}
+{
+  yadā kiñcij-jño 'haṃ dvipa iva madāndhaḥ samabhavaṃ
+  tadā sarvajño 'smīty abhavad avaliptaṃ mama manaḥ
+  yadā kiñcit kiñcid budhajana-sakāśād avagataṃ
+  tadā mūrkho 'smīti jvara iva mado me vyapagataḥ || BharSt_1.8 ||
+}
+{
+Tawney:
+  When but a little I had learned, in my own partial eyes
+  I seemed a perfect Solon and immeasurably wise;
+  But when a little higher I had climbed in wisdom's school,
+  The fever-fit was over and I knew myself a fool.
+}
+
+{
+  WHOM DOES SHE LOVE?
+
+  With one she gossips full of art;
+  Her glances with a second flirt;
+  She holds another in her heart:
+  Whom does she love enough to hurt?
+}
+{
+}
+{
+More:
+  With one they laugh and chatter, yet beguile
+  With luring eyes a second;
+  A third they cherish in their heart the while, -
+  Their true love who hath reckoned?
+}
+
+{
+  ARROWS OF LOVE
+
+  Where are you going, winsome maid,
+  Though deepest, darkest night? (he said.)
+  I go to him whom love has made
+  Dearer to me than life (she said).
+  Ah, girl, and are you not afraid,
+  For you are all alone? (he said.)
+  The god of love shall be mine aid,
+  Arrows of love fly true (she said).
+}
+{
+  [Amaru]
+}
+
+{
+  THE DANGER OF DELAY
+
+  In giving, and receiving too,
+  In every deed you have to do,
+  Act quickly; if you wait a bit,
+  Then time will suck the juice of it.
+}
+{
+  [Hitopadesha]
+}
+
+{
+BETTER TO DWELL IN MOUNTAINS WILD
+
+Better to dwell in mountains wild
+  With beasts of prey
+Than in the palaces of gods
+  With fools to stay.
+}
+{
+  varaṃ parvata-durgeṣu
+  bhrāntaṃ vanacaraiḥ saha
+  na mūrkha-jana-samparkaḥ
+  surendra-bhavaneṣv api || BharSt_1.14 ||
+}
+{
+Tawney:
+  I'd sooner live in mountain caves with lions, bears, and apes,
+  Than dwell in Indra's heavenly halls with brainless human shapes.
+
+More:
+  Better, I said, in trackless woods to roam
+  With chattering apes or the dumb grazing herds,
+  Than dwell with fools, though in a prince's home,
+  And bear the dropping of their ceaseless words.
+}
+
+{
+  THE APRIL WIND
+
+  The wind of April is a lover bold:
+  He makes the women shiver hot and cold;
+  He shuts their eyes, he rumples up their hair,
+  And catches rudely at the gowns they wear;
+  Time after time he presses pretty lips
+  From which a cry indignant-joyful slips.
+}
+
+{
+  MY FOLLY'S DONE
+
+  Why should that girl still use her keen,
+  Coquettish eyes that steal the sheen
+  From lotus-flowers. What can she mean?
+
+  My folly's done. The fever-sting
+  Of love's soft arrow does not cling;
+  And yet she doesn't stop, poor thing!
+}
+
+{
+  DOES SHE LOVE ME?
+
+  Although she does not speak to me,
+    She listens while I speak;
+  Her eyes turn not, my face to see,
+    But nothing else they seek.
+}
+{
+  [Shakuntala]
+}
+
+{
+  REMEDIES
+
+  A fire with water we defeat,
+  With parasols the midday heat,
+  Mad elephants with goads that prick,
+  Oxen and asses with a stick,
+  Sickness with draughts that banish harm,
+  Poison with many a spell and charm,
+  Science has cures for every ill
+  Except the fool; be prospers still.
+}
+{
+|| BharSt_1.11 ||
+}
+{
+Tawney:
+  Water will serve to put out fire, umbrellas 'gainst the heat,
+  A sharp hook guides the elephant, the ox and ass we beat,
+  Disease we cure with doctor's stuff, the serpent's bite with charms,—
+  Against the fool, the worst of ills, Nature provides no arms.
+}
+
+{
+  THE BEAUTIFUL AND THE GOOD
+
+  You are a teacher of the youth
+  Who master philosophic truth;
+  I seek in the poetic art
+  What charms and ravishes the heart.
+  Yet we are honest and we see
+  The only good is charity;
+  And nothing charms us, fools or wise,
+  Except a maid with lotus-eyes.
+}
+
+{
+  THE POWER OF MONEY
+
+  His powers are still the same, his actions too,
+  His mind is quite as keen, his speech as true;
+  Yet he has undergone a wondrous change—
+  He lost his money. Do you think it strange?
+}
+
+{
+  DESIRE IS YOUNG
+
+  Not time, but we, have passed away;
+  Not virtue, we ourselves grow cold;
+  Not joys, but we, no longer stay:
+  Desire is young, but we are old.
+}
+{
+[Guess]
+  bhogā na bhuktā vayam eva bhuktās
+  tapo na taptaṃ vayam eva taptāḥ |
+  kālo na yāto vayam eva yātāstṛṣṇā
+  na jīrṇā vayam eva jīrṇāḥ || BharSt_3.7 ||
+}
+{
+Miller:
+  We savored no pleasure,
+  So we are consumed.
+  We practiced no penance,
+  So we are afflicted.
+  We did not elude time,
+  So we are pursued.
+  We did not wither craving,
+  So we are the wizened.
+}
+
+{
+  THOU ART A FLOWER
+
+  Thou art a flower whose fragrance none has tasted,
+    A gem uncut by workman's tool,
+  A branch no desecrating hands have wasted,
+    A virgin forest, sweetly cool.
+
+  No man on earth deserves to taste thy beauty,
+    Thy blameless loveliness and worth,
+  Unless he has fulfilled man's perfect duty—
+  And is there such a one on earth?
+}
+{
+  [Shakuntala]
+}
+
+{
+  THE DIVINE DECREE
+  Thy wise creator wrote upon thy brow,
+    When thou wast born, what wealth should once be thine;
+  The sum was great perhaps, or small; yet now
+    Thy fate is fixed, and sure the law divine.
+
+  For if thou dwell within the desert's bound,
+    Thou shalt have nothing less than his decree;
+  Nor shall a single penny more be found,
+    Although the golden mount thy dwelling be.
+
+  Ah, then be brave and play the manly part,
+  Nor be so fond to humble thy proud heart
+  And fawn before the rich with cringing art.
+
+  For see! A jar that in the ocean fell
+  Holds no more water in its little shell
+  Than when you lowered it in the meanest well.
+}
+{
+  yad dhātrā nija-bhāla-paṭṭa-likhitaṃ stokaṃ mahad vā dhanaṃ
+  tat prāpnoti marusthale 'pi nitarāṃ merau tato nādhikam |
+  tad dhīro bhava vittavatsu kṛpaṇāṃ vṛttiṃ vṛthā sā kṛthāḥ
+  kūpe paśya payonidhāv api ghaṭo gṛhṇāti tulyaṃ jalam || BharSt_1.49 ||
+}
+{
+Miller:
+  Whatever wealth, vast or scant, is traced
+  On man's brow by Disposer Brahmā
+  Will he win though he dwell on a barren desert,
+  But no more on the golden mountain Meru.
+  Be patient then! Do not sully yourself
+  Before the rich with vile servility!
+  Perceive that a jug draws its measure
+  Of water from a well or from the sea.
+}
+
+{
+  TWO KINGS
+
+  Flee from the palace where they say:
+  The king is sleeping; go away-
+  He has no time for you today-
+  Or-he will see you if you stay-
+  He will be angry anyway.
+
+  Flee to another, greater king,
+  My soul, wbo rules each mortal thing,
+  Whose palace knows no bolt, no ring,
+  No porter's harsh. sarcastic fling,
+  No pain, no human suffering.
+}
+
+{
+  ABSENCE AND UNION
+
+  Absence is union dear,
+  When hearts are one;
+  Union is absence drear.
+  When love is done.
+}
+
+{
+  THE SERPENT-WOMAN
+
+  Avoid the poison-glance, my friends;
+    The serpent-woman flee;
+  Her crooked path has crooked ends;
+    Her hood is coquetry.
+
+  If you are stung by common snakes,
+    Perhaps you will not die;
+  If poison from a woman takes,
+    The doctors say good-bye.
+}
+
+{
+  CAN SHE BE DEAR?
+
+  The thought of her is saddening,
+    The sight of her is fear,
+  The touch of her is maddening—
+    Can she be really dear?
+}
+{
+}
+{
+More:
+  But to remember her my heart is sad,
+  To see her is to know
+  Bewildered thoughts, and touching driveth mad —
+  How is she dear that worketh only woe?
+}
+
+{
+  THE DECLINE OF TRUE LEARNING
+
+  Once, learning slew the living woe
+  Of wise men. That was long ago.
+  She then disdained such service rare,
+  Became a practical affair.
+  But nowadays she sees that kings
+  Despise all intellectual things,
+  And sinking lower day by day,
+  She seems to vanish quite away.
+}
+
+{
+  THE LAST DAY
+
+  When the celestial mount shall totter, burning
+    In all-devouring flame,
+  When seas go dry, where crocodiles are turning
+    And sharks no man may tame,
+  When the compact earth itself shall tumble sheer,
+    Great mountains madly dance,
+  What of our bodies, quivering like the ear
+    Of baby elephants?
+}
+
+{
+  LOGIC
+
+  How long may subtle logic play its part
+  In science and theology and art?
+    So long as no young fawn-eyed maiden's glance
+  Shall find its way to the logician's heart.
+}
+{
+  [Bhamini-vilasa of Jagannatha?]
+}
+
+{
+  THE ANGER OF THE KING
+
+  None from the anger of the king
+    May be released;
+  The fire consumes the offering
+    And burns the priest.
+}
+{
+  na kaścic caṇḍa-kopānām
+  ātmīyo nāma bhūbhujām |
+  hotāram api juhvānaṃ
+  spṛṣṭo vahati pāvakaḥ || BharSt_1.57 ||
+}
+{
+Tawney:
+  I would not be the kinsman of a monarch prone to ire,
+  Not e'en the sacrificing priest unharmed can touch the fire.
+}
+
+{
+  THE RAINS
+
+  And when the rainy days are come,
+  Your lady-love must stay at home;
+  She clings to you, a little bold
+  Because she shivers with the cold;
+  The breeze is fresh with heaven's spray
+  And drives her lassitude away:
+  When happy lovers are together,
+  The rainy time is fairest weather.
+}
+
+{
+  THE LOVERS' ALLY
+
+  Ye maids, exhaust your haughty scorn
+    On lovers bending low;
+  For soon the breeze in southland born,
+  With sandal sweet, will blow.
+}
+
+{
+  WHY?
+
+  The deer, the fish, the good man hunger
+    For grass, for water, for content;
+  Yet hunter, fisher, scandalmonger
+    Pursue each harmless innocent.
+}
+{
+  mṛga-mīna-sajjanānāṃ tṛṇa-jala-santoṣa-vihita-vṛttīnām |
+  lubdhaka-dhīvara-piśunā niṣkāraṇa-vairiṇo jagati || BharSt_1.61 ||
+}
+{
+Tawney:
+  Hunters entrap the harmless deer,
+    Fishers the finny brood,
+  So bad men causeless interfere
+    To persecute the good.
+}
+
+{
+  ALL THE WORLD'S A STAGE
+
+  Child for an hour, and lovesick youth an hour,
+    Beggar an hour, then fanned by riches' breath,
+  The wrinkled actor, Man, bereft of power,
+    Creeps tottering behind the curtain, Death.
+}
+
+{
+  THE WAY OF THE WORLD
+
+  In daily journeys of the sun
+  Our little life is quickly done;
+  In anxious duties of the day
+  The hours unnoticed slip away;
+  Though birth and age are ever near,
+  And grief and death, we do not fear:
+  The world forgets its sore distress,
+  Goes mad with wine of heedlessness.
+}
+
+{
+  SHE ONLY LOOKED
+
+  She did not redden nor deny
+    My entrance to her room;
+  She did not speak an angry word;
+    She did not fret and fume;
+  She did not frown upon poor me,
+    Her lover now as then;
+  She only looked at me the way
+    She looks at other men.
+}
+{
+  [Amaru]
+}
+
+{
+  WHO UNDERSTANDS A MAN?
+
+  Once he would follow at my feet,
+    Obey my slightest word;
+  And black was black, if black to me,
+    Or white, if I preferred;
+  And he began to walk or sit
+    The moment I began;
+  But he is different now. Oh, dear!
+    Who understands a man?
+}
+{
+  [Amaru]
+}
+
+{
+  UNTRUSTWORTHY THINGS
+
+  The things that can claw, and the things that can gore,
+    Are very untrustworthy things;
+  And a man with a sword in his hand, furthermore,
+    And rivers and women and kings.
+}
+{
+  [Hitopadesha]
+}
+
+{
+  TWO VIEWS OF LIFE
+  When ignorance my life entwined,
+  Love's ointment made me strangely blind-
+  I thought the world was made of womankind.
+
+  But clearer judgment than, of yore
+  The veil before my vision tore-
+  I knew that God is all the world and more.
+}
+{
+  yadāsīd ajñānaṃ smara-timira-sañcāra-janitaṃ
+  tadā dṛṣṭa-nārī-mayam idam aśeṣaṃ jagad iti |
+  idānīm asmākaṃ paṭutara-vivekāñjana-juṣāṃ
+  samībhūtā dṛṣṭis tribhuvanam api brahma manute || BharSt_2.69 ||
+}
+{
+Miller:
+  When the darkness of passion wove
+  A web of ignorance about me,
+  Then a woman seemed
+  To fill the world's expanse.
+  But now that I am favored with the salve
+  Of keener discernment,
+  My tranquil sight sees Brahman
+  Ubiquitous in the world.
+}
+
+{
+  PROCRASTINATION
+
+  By and by-
+  Never fret-
+  I shall try
+  By and by.
+
+  By and by-
+  Don't forget-
+  You must die
+  By and by.
+}
+{
+  [Anthology?]
+}
+
+{
+  SHOULD FANCY CEASE
+
+  The lover's patient fancy brings him peace,
+    Paints her he loves before his inward eye,
+  And gives him comfort; but should fancy cease,
+    The world would be a forest dead and dry,
+    And hearts that shrivel in the burning chaff must die.
+}
+{
+  [Uttara-rama-charita, Bhavabhuti]
+}
+
+{
+  WHAT THEN?-I
+
+  What if my life is fed
+    With all that seems most sweet?
+  What if my foeman's head
+    Is ground beneath my feet?
+  What if my wealth makes friends
+    Again and yet again?
+  What if my soul ascends
+    Through countless lives? What then?
+}
+
+{
+  WHAT THEN?-II
+
+  Old rags, or fine, white silk that flows and clings-
+    Why should I care?
+  Poor wife, or horses, elephants, and things-
+    What difference there?
+  Sweet rice, or wretched food when day is o'er-
+    Why care again?
+  God's light, or groping in the dark once more-
+    What then? What then?
+}
+
+{
+  THE QUEEN OF LOVE
+
+  Surely the love-god is the slave
+    Of her sweet eyes;
+  For when they give a hint, the knave
+    Obedient flies.
+}
+
+{
+  JOYOUS TREASURES
+
+  How hard a thing it is that they achieve
+    Whose hearts the thought of God keeps pure and bright,
+  Who for His sake earth's joyous treasures leave
+    Without a pang at losing such delight!
+
+  Those joyous treasures I could never get;
+    I cannot get them now; I am not sure
+  That I shall ever win to them; and yet
+    I cannot flout the thought, the hope, the lure.
+}
+
+{
+  VEXATIONS-I
+
+  The scholarship that grasps at straws,
+    The woman's love that must be bought,
+  The life that hangs on tyrants' laws-
+    These things are with vexation fraught.
+}
+{
+  [Hitopadesha]
+}
+
+{
+  VEXATIONS-II
+
+  The fear of dying vexes birth;
+    Age vexes flashing youth ;
+  The carper vexes honest worth;
+    Irresolution, truth.
+
+  To vex our peace the women love;
+    Our joy, ambition's sting;
+  Rogues vex the court, and snakes the grove;
+    And something, everything.
+}
+
+{
+  LOVE, THE FISHER
+
+  Love, the fisher, casts his woman-hook
+    Into the sea of lust and fond desire,
+  And just as soon as greedy men-fish look
+    And snap the red bait, lips so sweet, so dire,
+  Then he is quick to catch them and to cook
+    The hungry wretches over passion's fire.
+}
+
+{
+  EPHEMERAL POTIONS
+
+  If mouths are dry with thirst,
+  Men think of water first;
+  If hungry, bolt their rice
+  With many a toothsome spice;
+  If love flames bright and brighter,
+  They clasp the women tighter:
+  They have the strangest notions;
+  They think ephemeral potions
+  Will heal the soul's commotions.
+}
+
+{
+  ALL THESE THINGS SHALL BE ADDED
+
+  What though she have a bosom sweet,
+    A form to beauty wed,
+  A face in which the graces meet-
+    She must not turn your head.
+
+  Nay, if her charm your fancy haunts,
+    Then live on virtue's food;
+  One cannot have the things he wants
+    Except by being good.
+}
+
+{
+  THE BLIND FOREST
+
+  The lady's body is a forest blind,
+    With dangerous hills, her bosom fair;
+  Think not to wander there, my mind;
+    The robber, Love, is lurking there.
+}
+{
+  kāminī-kāya-kāntāre
+  kuca-parvata-durgame |
+  mā saṃcara manaḥ pāntha
+  tatrāste smara-taskaraḥ || BharSt_2.54 ||
+}
+{
+Miller:
+  Let not your wanderer's mind
+  Roam in the forest of woman's form.
+  There in the mountains of her bosom
+  Lurks the robber Kama.
+}
+
+{
+  THE LITTLENESS OF THE WORLD
+
+  Why should the truly wise man wish
+    To hold the world in fee?
+  'Tis but the leaping of a baby fish
+    Upon the boundless sea.
+}
+
+{
+  FRIENDSHIP'S END
+
+  Yes, you were I, and I was you,
+  So fond the love that linked us two;
+  Alas, my friend, for friendship's end!
+  Now I am I, and you are you.
+}
+
+{
+  A WASTED LIFE-I
+
+  No stainless wisdom have I learned;
+  No honest money have I earned;
+  No fond obedience have I brought
+  To parents, with a heart well-taught;
+  I never dreamed of sweet embraces,
+  Of sparkling eyes and roguish faces:
+  My life was wasted like the crow's:
+  I lived on strangers' bread and blows.
+}
+
+{
+  A WASTED LIFE-II
+
+  I never learned to vanquish other men
+    In conference, with the just and fitting word;
+  I never made high heaven ring again,
+    Praising the elephant-hunter's sturdy sword;
+  I never tasted honey from the kind,
+    Soft lips of maids when moonlight scatters gloom:
+  My youth is gone and left no good behind,
+    A candle burning in an empty room.
+}
+
+{
+  A WASTED LIFE-III
+  The paths of thought I never trod
+  Which lead to unity in God;
+  Nor were my days to virtue given
+  Which opens wide the gates of heaven;
+  Delights of love that men esteem
+  Were mine not even in a dream:
+  I was a sorry axe in sooth
+  To cut the tree, my mother's youth.
+}
+
+{
+  FLAMING BANNERS
+
+  Learning and dignity,
+    Wisdom and manners
+  Last till the god of love
+    Plants flaming banners.
+}
+
+{
+  THE THIEF OF HEARTS
+
+  You practice theft by strangest arts
+    Once and again;
+  In broad daylight you steal the hearts
+    Of waking men.
+}
+{
+  [Subhashitavali of Vallabhadeva?]
+}
+
+{
+  TWO KINDS OF FRIENDSHIP
+
+  The friendship of the rogue or saint,
+    Like shade at dawn or shade at noon,
+  Starts large and slowly grows more faint,
+    Or starting faint, grows larger soon.
+}
+{
+  ārambha-gurvī kṣayiṇī krameṇa
+  laghvī purā vṛddhimatī ca paścāt |
+  dinasya pūrvārdha-parārdha-bhinnā
+  chāyeva maitrī khala-saj-janānām || BharSt_1.60 ||
+}
+{
+Tawney:
+  The kindness of the bad at first
+    Is great, and then doth wane;
+  The good man's love, at th' outset small,
+    Slowly doth bulk attain;
+  Such difference between these two
+    In nature doth abide,
+  As 'twixt the shadow of the morn
+    And that of eventide.
+
+More:
+  Like as the shadows of the twilight hour
+    Differ from those at morn,
+  So doth a good man's friendship in its power
+    From that of evil born : —
+  One small at first still stronger, deeper grows,
+    One shortens to the close.
+}
+
+{
+  CHOOSING A VOCATION
+
+  What shall I do in these few hours of life?
+  Live humbly with a sweet, religious wife?
+  Renounce the world, the ties of kindred sever,
+  And spend my days beside the sacred river?
+  Drink deep of honeyed poems' nectar-flow?
+  Or learn philosophy? I hardly know.
+}
+
+{
+  THE GOOD ARE RARE
+
+  Through thoughts and words and deeds their virtues flow
+    To all the world their kindness brings delight;
+  They make a mote of good in others show
+    Like a great mountain; for their hearts are bright,
+  And brighten all they touch with their own worth:
+  How many such are to be found on earth?
+}
+
+{
+  THERE WAS A NOBLE CITY
+
+  There was a noble city old,
+  A mighty king, and vassals bold;
+  And there were gathered scholars true,
+  And moon-faced ladies not a few;
+  And there were princes proud and free,
+  And stories told, and minstrelsy:
+  A memory now; we mourn their fall
+  And honor Time, who levels all.
+}
+
+{
+  WHERE EDUCATION FAILS
+
+  Though many youths a training get
+  In law, religion, etiquette,
+  Why are there few whose actions would,
+  Interpreted, seem wholly good?
+
+  Some arching brow is sure to be
+  As cunning as a master-key,
+  That serves its purpose passing well
+  In flinging wide the gates of hell.
+}
+
+{
+  ON GIVING A DAUGHTER IN MARRIAGE
+
+  A girl is held in trust, another's treasure;
+    To arms of love my child today is given;
+  And now I feel a calm and sacred pleasure;
+    I have restored the pledge that came from heaven.
+}
+{
+  [Shakuntala]
+}
+
+{
+  STRUGGLING FANCIES
+
+  It is my body leaves my love, not I;
+    My body moves away, but not my mind;
+  For back to her my struggling fancies fly
+    Like silken banners borne against the wind.
+}
+{
+  [Shakuntala]
+}
+
+{
+  OH, MIGHT I END THE QUEST!
+
+  I dug beueath the earth most greedily
+    In search of hidden treasure;
+  I smelted ore; I crossed the mighty sea,
+    Forgetting every pleasure;
+  I cringed to kings; and muddling all my brains
+    With magic, lost my rest:
+  But never got a penny for my pains;
+    Oh, might I end the quest!
+}
+{
+  utkhātaṃ nidhi-śaṅkayā kṣiti-talaṃ dhmātā girer dhātavo
+  nistīrṇaḥ saritāṃ patir nṛpatayo yatnena santoṣitāḥ |
+  mantrārādhana-tat-pareṇa manasā nītāḥ śmaśāne niśāḥ
+  prāptaḥ kāṇa-varāṭako 'pi na mayā tṛṣṇe sakāmā bhava || BharSt_3.3 ||
+}
+{
+Miller:
+  I mined the earth in search of treasure,
+  Smelted iron mountains' rocky hoards,
+  Crossed treacherous oceans' expanses,
+  Placated kings with devoted care;
+  Bent on evoking the powers occult,
+  By night I roamed the burning grounds.
+  Yet ne'er a broken cowry shell did I obtain-
+  Cursed greed, grant me at least some reprieve!
+}
+
+{
+  WHAT DELIGHTS AND HURTS
+
+  It is the truth sans prejudice I speak;
+    Ye people, heed this truth forever true;
+  All that delights in women you must seek,
+    And all that hurts, you find in women too.
+}
+{
+  satyaṃ janā vacmi na pakṣa-pātāl
+  lokeṣu saptasv api tathyam etat |
+  nānyan manohāri nitambinībhyo
+  duḥkhaika-hetur na ca kaścid anyaḥ || BharSt_2.40 ||
+}
+{
+Miller:
+  I do indeed speak without bias,
+  This is acknowledged as truth among men:
+  Nothing enthralls us like an ample-hipped woman,
+  Nothing else causes such pain.
+}
+
+{
+  THE SWEETEST THINGS
+  The sweetest sight a man may see
+    Is a maiden's loving face;
+  The sweetest thing to touch should be
+    Her body's close embrace;
+
+  Her voice should be the sweetest sound;
+    Her breath, the sweetest scent;
+  The sweetest taste, the honey found
+    On lips to kisses lent;
+
+  The thought of her is fervent prayer,
+    Religion's sweetest part;
+  The charm of her is everywhere
+    Unto the pure in heart.
+}
+
+
+{
+  THE UNLUCKY MAN
+
+  A bald man once, whose hairless pate
+  Felt inconveniently hot,
+  Fled to a cocoa-tree at noon-
+  He hoped to find a shady spot.
+  And then a big nut fell, and crack!
+  The poor, hald head was split in two.
+  Misfortunes almost always find
+  The man whom evil fares pursue.
+}
+{
+  khalv āto divaseśvarasya kiraṇaiḥ santāḍito mastake
+  vāñchan deśam anātapaṃ vidhi-vaśāt tālasya mūlaṃ gataḥ |
+  tatrāpy asya mahāphalena patatā bhagnaṃ saśabdaṃ śiraḥ
+  prāyo gacchati yatra bhāgya-rahitas tatraiva yānty āpadaḥ || BharSt_1.90 ||
+}
+{
+Tawney:
+  A bald man felt the sun's fierce rays
+    Scorch his defenceless head,
+  In haste to shun the noontide blaze
+    Beneath a palm he fled:
+  Prone as he lay, a heavy fruit
+    Crashed through his drowsy brain:
+  Whom fate has sworn to persecute
+    Finds every refuge vain.
+
+More:
+    An old man bald as a copper pot,
+    Because one noon his head grew hot,
+    Crawled to a spreading bilva-tree
+    To seek the shade. By Fate's decree
+    A fruit just then came tumbling down,
+    And cracked the old man's brittle crown
+    With loud explosion — which was worse. —
+  Ill dogs us everywhere when Fate's averse.
+}
+
+{
+  A REASON FOR RENUNCIATION
+
+  Possessions leave us at the end,
+    However long they stay;
+  Then why not cast aside, my friend,
+    What leaves us anyway?
+
+  And if they leave against our will,
+    The heart takes time in mending;
+  If given willingly, they fill
+    That heart with joy unending.
+}
+
+{
+  RENUNCIATION
+
+  What does renunciation mean?
+  It means a lonely woodland scene
+  Remote from men and human sin,
+  From woes of love, from love of kin,
+  Free from the world, a life apart
+  That slays the tortures of the heart
+  As fear of death and fear of birth:
+  It means the best of heaven and earth.
+}
+
+{
+  THE BETTER PART
+
+  Is there no splendid Himalayan height
+    Cooled by the spray from Ganges' holy springs,
+  With rocks where fairies now and then alight,
+    That men should fawn upon contemptuous kings?
+}
+
+{
+  THE FIVE ROBBERS
+
+  "Here are banquets, and singing sweet,
+  Perfumes, and glimpse of dancing feet,
+  And bosoms that on mine may bear."
+
+  Five rascal senses whisper this,
+  Lead me from virtue much amiss,
+  And cheat me of my highest bliss.
+}
+
+{
+  WHEN WOMAN WILLS
+
+  When loving woman wants her way.
+  God hesitates to say her nay.
+}
+
+{
+A LITTLE KNOWLEDGE
+
+  A fool's opinion easily is bent;
+    More easy 'tis to win the wise and great;
+  But God himself could never make content
+    The man who feels himself elate
+    With one small grain of knowledge in his pate.
+}
+{
+  ajñaḥ sukham ārādhyaḥ
+  sukhataram ārādhyate viśeṣajñaḥ |
+  jñāna-lava-durvidagdhaṃ
+  brahmāpi taṃ naraṃ na rañjayati || BharSt_1.3 ||
+}
+{
+Tawney:
+  Easy is a fool to manage, easier still a man of sense,
+  Brahma's self is foiled by one of little brains and great pretence.
+More:
+  Lightly an ignorant boor is made content,
+  And lightlier yet a sage;
+  But minds by half-way knowledge warped and bent,
+  Not Brahma's self their fury may assuage.
+}
+
+{
+  THE WEAKER SEX
+
+  The classic poets make a great mistake;
+    Forever of the weaker sex they speak;
+  When gods are subjugated for the sake
+    Of starry glances, are the women weak?
+}
+{
+  nūnaṃ hi te kavi-varā viparīta-vāco
+  ye nityam āhur abalā iti kāminīs tāḥ |
+  yābhir vilolitara-tāraka-dṛṣṭi-pātaiḥ
+  śakrādayo 'pi vijitās tv abalāḥ kathaṃ tāḥ || BharSt_2.10 ||
+}
+
+{
+  YOUNG WOMANHOOD
+
+  Half-smiles that brighten on her face,
+    Innocent, roving glances,
+  The wealth of budding charms that show
+    In little steps and dances,
+
+  The flow of words that shyly prove
+    The sweet, new woman-feeling:
+  Yes, all the fawn-eyed maiden does
+    Is wondrously appealing.
+}
+
+{
+  THE BRAVEST OF THE BRAVE
+
+  A few brave men pursue
+    Rogue elephants to death;
+  There are a braver few
+    Who stop the lion's breath;
+  The bravest of the brave-
+    And fewer yet they prove-
+  Are they who can enslave
+    The haughty god of love.
+}
+
+{
+  DIGNITY
+
+  The dog will roll, and wag his tail, and fawn,
+  Show mouth and belly, just to get some meat;
+  The majestic elephant gazes gravely on;
+  Till coaxed a hundred times, he will not eat.
+}
+{
+  lāṅgūla-cālanam adhaś-caraṇāvapātaṃ
+  bhūmau nipatya vadanodara-darśanaṃ ca |
+  śvā piṇḍadasya kurute gaja-puṅgavas tu
+  dhīraṃ vilokayati cāṭu-śataiś ca bhuṅkte || BharSt_1.31 ||
+}
+{
+Tawney:
+  Dogs fawn on those who bring them meat,
+  And grovel whimpering at their feet
+  With upturned throat, and wag their tails in gamesome mood;
+  But the huge elephant erect
+  Bates not one jot of self-respect,
+  And after thousand coaxings deigns to taste his food.
+}
+
+{
+  IN THE DAYS OF THY YOUTH
+
+  While life is vigorous and bright,
+    While sickness comes not, nor decay,
+  While all your powers are at their height,
+    While yet old age is far away,
+  Then, wise man, let your thoughts be turning
+    To heaven's hopes and fears of hell;
+  For when the house is fired and burning,
+    It is too late to dig a well.
+}
+{
+  yāvat svastham idaṃ śarīram arujaṃ yāvac ca dūre jarā
+  yāvac cendriya-śaktir apratihatā yāvat kṣayo nāyuṣaḥ |
+  ātma-śreyasi tāvad eva viduṣā kāryaḥ prayatno mahān
+  sandīpte bhavane tu kūpa-khananaṃ pratyudyamaḥ kīdṛśaḥ || BharSt_3.75 ||
+}
+
+{
+  THEY WANT THE EARTH
+
+  'Tis but a little ball of mud
+    With a streak of water round;
+  Yet kings for it will shed their blood,
+    As for a treasure found.
+
+  They cannot, will not leave the thing,
+    So poor are they, so mean;
+  And men will fawn on such a king!
+    Oh, shame upon the scene!
+}
+
+{
+  THE BEASTS THAT DON'T EAT GRASS
+
+  Unschooled in music, poetry, and art,
+    Man is a beast, a hornless, tailless beast;
+   He doesn't eat the grass; for this at least
+  The other beasts may well be glad at heart.
+}
+{
+  sāhitya-saṅgīta-kalā-vihīnaḥ
+  sākṣāt paśuḥ puccha-viṣāṇa-hīnaḥ |
+  tṛṇaṃ na khādann api jīvamānas
+  tad bhāga-dheyaṃ paramaṃ paśūnām || BharSt_1.12 ||
+}
+{
+Tawney:
+  Deem him who verse and music scorns
+  A beast without the tail and horns;
+  What though he never feed on grass,
+  I hold him none the less an ass.
+}
+
+{
+  WHY MEN BEG
+
+  Is there a man of spirit who would beg
+    In broken words that stumble with his sobbing,
+  Harsh sobs of him who fears a surly "No!"
+    And all to ease his belly's empty throbbing?
+
+  None but the man who sees his wretched wife
+    Sad always, sees her worn and ragged skins,
+  Sees sad-faced babies tugging at their folds
+    With screams that tell how fiercely hunger hurts.
+}
+{
+  dīnā dīna-mukhaiḥ sadaiva śiśukairākṛṣṭa-jīrṇāmbarā
+  krośadbhiḥ kṣudhitair niranna-vidhurā dṛśyā na ced gehinī |
+  yācñā-bhaṅga-bhayena gadgada-gala-truṭyad-vilīnākṣaraṃ
+  ko dehīti vadet sva-dagdha-jaṭharasyārthe manasvī pumān || BharSt_3.21 ||
+}
+{
+Miller:
+  If other men did not see his wife the pitiful victim
+  Of poverty's woe, and the gaunt faces
+  Of his starved and whimpering children
+  As they pulled at their mother's ragged clothes,
+  How could he stammer out the word "give"
+  That sticks in his throat from fear of rebuff?
+  What high-minded man would stoop to beg
+  For the sake of his own empty belly?
+}
+
+{
+  THE WISE MISOGYNIST
+
+  The wise misogynist, poor soul,
+  To self-deceit is given;
+  For heaven rewards his self-conrrol,
+  And women swarm in heaven.
+}
+{
+  sva-para-pratārako 'sau
+  nindati yo 'līka-paṇḍito yuvatīḥ |
+  yasmāt tapaso 'pi phalaṃ
+  svargaḥ svarge 'pi cāpsarasaḥ || BharSt_2.72 ||
+}
+
+{
+  NECTAR AND POISON
+
+  All nectar and all poison lives
+    In woman's changing states;
+  For she is nectar when she loves,
+    And poison when she hates.
+}
+{
+  nāmṛtaṃ na viṣaṃ kiñcid etāṃ muktvā nitambinīm |
+  saivāmṛta-latā raktā viraktā viṣa-vallarī || BharSt_2.44 ||
+}
+{
+  There is no ambrosia or poison
+  Except in the love of an ample-hipped woman;
+  Enamored, she is an ambrosial vine,
+  Indifferent, a poisonous creeper.
+}
+
+{
+  THE ONE THING NEEDFUL
+
+  Why should I study scripture, sacred lore,
+  0r any good, big book? Why get a store
+  Of pious actions, anxiously performed—
+  And win a humble tent in heaven, no more?
+
+  The knowledge of myself is all I need
+  To give me lasting joy, to burn the seed
+    Of the interminable pain of life—
+  Let pious peddlers show their wares and plead.
+}
+
+{
+  THE TWO THINGS THAT MATTER
+
+  Why all this talk and foolish chatter?
+  There are just two things that really matter:
+  A buxom, young, and frisky wife;
+  Or else a lonely forest-life.
+}
+{
+  kim iha bahubhir uktair yukti-śūnyaiḥ pralāpairdvayam
+  iha puruṣāṇāṃ sarvadā sevanīyam |
+  abhinava-mada-līlā-lālasaṃ sundarīṇāṃ
+  stana-bhara-parikhinnaṃ yauvanaṃ vā vanaṃ vā || BharSt_2.39 ||
+}
+{
+  Why all these words and empty prattle?
+  Two worlds alone are worth a man's devotion.
+  The youth of beautiful women wearied by heavy breasts
+  And full of fresh wine's heady ardor for sport,
+  Or the forest ...
+}
+
+{
+  UNINTELLIGIBLE VIRTUE
+  Are palace-joys so incomplete?
+    Is song a despicable pleasure?
+  And is there anything so sweet
+    As clasping her you love and treasure?
+
+  Yet pious men account these things
+  As vain as flickering candlelight
+  'Neath dancing moths on troubled wings;
+  And to the woods they take their flight.
+}
+
+{
+  THE LINES OF FATE
+  If thorn-plants in the desert leafless be,
+    The spring is not to blame.
+  If owls in broadest daylight cannot see,
+    The sun should feel no shame.
+  If in the plover's bill no raindrops fall,
+    'Twere wrong to blame the cloud.
+  The lines that fate has written once for all,
+    Are never disallowed.
+}
+
+{
+  POVERTY
+
+  The moon by night, the sun by day
+  Continue in their heavenly way;
+  One rag they have, one ragged cloud
+  To serve them both as robe and shroud.
+  Poor things!
+}
+
+{
+  HOW HARD FATE GRIPS
+
+  The snake and elephant are caged;
+  The moon and sun must meet eclipse;
+  The prudent are in strife engaged
+  With poverty. How hard fate grips!
+}
+
+{
+  WHEN MY LOVE DRAWS NIGH
+
+  When my love draws nigh,
+    When his voice I hear,
+  Why am I all eye?
+    Why am I all ear?
+}
+{
+  [Amaru]
+}
+
+{
+  THE HERMIT
+
+  I seem to see a hermit good:
+  He has no pride, he begs his food;
+  From man-made laws his acts are free;
+  He seeks no man's society;
+  He has no care for common ways
+  Of giving, getting all his days;
+  He stitches up his garment ragged
+  With wayside tatters, torn and jagged;
+  No false conceit his fancy haunts—
+  Eternal peace is all he wants.
+}
+
+{
+  WHY GO TO COURT?
+
+  I am not fashion's changing sport,
+  I never acted, sang, nor hated;
+  What figure should I cut at court?
+  I am no lady languid-gaited.
+}
+
+{
+  IMPOSSIBLE!
+
+  The consecrated saints of old
+    Who lived on water, leaves, and air,
+  Went mad with love when they beheld
+    A face that showed how maids are fair.
+
+  And if the common men who eat
+    Their rice and milk and curds and ghee,
+  Should curb the wish for things so sweet,
+    The mountains would fly oversea.
+}
+
+{
+  HINDRANCES
+  'Twould not be hard, through life's gray sea
+    To find the track;
+  But fawn-eyed women hinder me,
+    And hold me hack.
+}
+
+{
+  DIVINE VISION
+
+  My love is in a distant land,
+  And yet I see her where I stand.
+  The gods have vision less divine,
+  Because the eye of love is mine.
+}
+{
+  [Subhashitavali of Vallabhadeva?]
+}
+
+{
+  WHY MY POEMS DIED
+
+  The critics all were jealous,
+  The patrons full of pride,
+  The public had no judgment;
+  And so my poems died.
+}
+
+------------------------------------------------------------
+
+{
+}
+{
+}
+{
+}
+{
+}
+
+
+{
+  yāṃ cintayāmi satataṃ mayi sā viraktā
+  sā apyanyam icchati janaṃ sa jano anyasaktaḥ |
+  asmat kṛte ca pariśuṣyati kācid anyā
+  dhik tāṃ ca taṃ ca madanaṃ ca imāṃ ca māṃ ca ||
+}
+{
+  She whom I worship night and day, she loathes my very sight,
+  And on my neighbour dotes, who in another takes delight;
+  A third she in my humble self nothing but good can see:
+  Now out upon the god of love, and him, and them, and me!
+}
+{
+  Now judge ye! — For a girl I walked forlorn
+  Who laughed my vows to scorn;
+  She loved another, who in coin repaid
+  Wooing a second maid.
+
+  And she, this second, making all complete,
+  Would worship at my feet.—
+  Four pretty fools and Kama with his malice
+  Thus drove me from my palace.
+}
+{
+  The maid my true heart loves would not my true love be;
+  She seeks another man; another maid loves he;
+  And me another maid her own true love would see:
+  Oh, fie on her and him and Love and HER and me!
+}
+
+
+
+
+
+
+{
+  vyālaṃ bāla-mṛṇāla-tantubhir asau roddhuṃ samujjṛmbhate
+  chettuṃ vajra-maṇiṃ śirīṣa-kusuma-prāntena sannahyati |
+  mādhuryaṃ madhu-bindunā racayituṃ kṣārāmudher īhate
+  netuṃ vāñchanti yaḥ khalān pathi satāṃ sūktaiḥ sudhā-syandibhiḥ || BharSt_1.6 ||
+}
+{
+  As well attempt to pierce with flowers the diamond of the mine,
+  As well attempt with honey-drops to sweeten ocean's brine,
+  As well go bind with lotus-bands the lord of forest herds,
+  As strive to lead in wisdom's ways the bad with sugared words.
+}
+{
+}
+{
+  PREACHING
+
+  He longs, with twigs from lotus-bowers
+    To bind an elephant,
+  He strives, with softest siris-flowers
+    To sever adamant,
+  He yearns, with honey-drops alone
+    To sweeten ocean's taint,
+  Who hopes, with sugar-coated tone
+    To make a rogue a saint.
+}
+
+{
+  svāyattam ekānta-guṇaṃ vidhātrā
+  vinirmitaṃ chādanam ajñatāyāḥ |
+  viśeṣāataḥ sarva-vidāṃ samāje
+  vibhūṣaṇaṃ maunam apaṇḍitānām || BharSt_1.7 ||
+}
+{
+  When the Creator made the dolt,
+  He left him not without his bolt;
+  That fool shows best the wise among
+  Who strokes his beard and holds his tongue.
+}
+{
+  The god hath wove for ignorance a cloak
+  That he who will may wear;
+  And mantled thus amid the wisest folk
+  Fools may unchallenged fare: —
+  Be silent! over all that words afford,
+    Silence hath its reward.
+}
+{
+  THE FORTUNATE FOOL
+
+  God to the fool a way has shown,
+  A way unfailing, all his own,
+    To hide his lack of sense;
+  For each, however great a fool,
+  Among the wise may wear the jewel
+    Called Silence.
+}
+
+
+
+{
+  kṛmi-kula-cittaṃ lālā-klinnaṃ vigandhi-jugupsitaṃ
+  nirupama-rasaṃ prītyā khādan narāsthi nirāmiṣam |
+  surapatim api śvā pārśvasthaṃ vilokya na śaṅkate
+  na hi gaṇayati kṣudro jantuḥ parigraha-phalgutām || BharSt_1.9 ||
+}
+{
+  See that _pariah_ making off there with a filthy greasy bone,
+  How he'll mumble and enjoy it when he finds himself alone!
+  Not, if Indra's self reproved him, would he blush and leave his treat,
+  For the mean abhor no meanness if it only yield them meat.
+}
+{
+}
+{
+}
+
+{
+  śiraḥ śārvaṃ svargāt paśupati-śirastaḥ kṣitidharaṃ
+  mhīdhrād uttuṅgād avanim avaneś cāpi jaladhim |
+  adho 'dho gaṅgeyaṃ padam upagatā stokam
+  athavāviveka-bhraṣṭānāṃ bhavati vinipātaḥ śatamukhaḥ || BharSt_1.10 ||
+}
+{
+  From Heaven to Siva's head, and thence to Himalaya's snows,
+  To India's plain, thence to the main, the sacred Ganges flows—
+  A sad descent! hut rivers go astray, like foolish men,
+  From heaven's crown they tumble down and never rise again.
+}
+{
+}
+{
+}
+
+
+
+
+{
+  yeṣāṃ na vidyā na tapo na dānaṃ
+  jñānaṃ na śīlaṃ na guṇo na dharmaḥ |
+  te martya-loke bhuvi bhāra-bhūtā
+  manuṣya-rūpeṇa mṛgāś caranti || BharSt_1.13 ||
+}
+{
+  Those slaves who neither fast nor give,
+  Unjust, unthinking, idle live,
+  Are beasts, though men by right of birth,
+  Unwieldy burdens, cumbering earth.
+}
+{
+}
+{
+  BEASTS
+
+  Men void of learning, character, and worth,
+    Religion, kindness, wisdom, piety,
+  Are but a mortal burden on the earth;
+    Such men are beasts allowed to wander free.
+}
+
+
+
+# The Praise of the Wise Man
+
+{
+  śāstropaskṛta-śabda-sundara-giraḥ śiṣya-pradeyāgamā
+  vikhyātāḥ kavayo vasanti viṣaye yasya prabhor nirdhanāḥ |
+  taj-jāḍyaṃ vasudhādipasya kavayas tv arthaṃ vināpīśvarāḥ
+  kutsyāḥ syuḥ kuparīkṣakā hi maṇayo yair arghataḥ pātitāḥ || BharSt_1.15 ||
+}
+{
+  Kings in whose country tuneful bards are found
+  Naked and starving, though for lore renowned,
+  Are voted dullards by all men of sense;
+  Poets are ever lords, though short of pence,
+  And he who spurns the diamond's flawless ray
+  Himself degrades, not that he flings away.
+}
+{
+}
+{
+  A CONSOLATION
+
+  If there are famous poets, fit
+    To teach the art of poesy,
+  So sweetly smooth their verses flit,
+    And if they live in poverty—
+
+  That shows the dullness of the king;
+    Poets, though poor, are rich in fame.
+  Where gems find undervaluing,
+    Only the jeweler is to blame.
+}
+
+{
+  hartur yāti na gocaraṃ kim api śaṃ puṣṇāti yat sarvadā 'py
+  arthibhyaḥ pratipādyamānam aniśaṃ prāpnoti vṛddhiṃ parām |
+  kalpānteṣv api na prayāti nidhanaṃ vidyākhyam antardhanaṃ
+  yeṣāṃ tān prati mānam ujjhata nṛpāḥ kas taiḥ saha spardhate || BharSt_1.16 ||
+}
+{
+  Those who possess that treasure which no thief can take away,
+  Which, though on suppliants freely spent, increaseth day by day,
+  A source of inward happiness which shall outlast the earth—
+  To them e'en kings should yield the palm, and own their higher worth.
+}
+{
+}
+{
+}
+
+{
+  adhigata-paramārthān paṇḍitān māvamaṃsthās
+  tṛṇam iva laghu lakṣmīr naiva tān saṃruṇaddhi |
+  abhinava-mada-lekhā-śyāma-gaṇḍa-sthalānāṃ
+  na bhavati bisatantur vāraṇaṃ vāraṇānām || BharSt_1.17 ||
+}
+{
+  Scorn not those sages who have scaled the topmost heights of truth;
+  Who snap the cords of wealth like bonds of straw.
+  For lotus-strings will never hold in awe
+  Th' infuriate sovereign of the herd, drunk with the pride of youth.
+}
+{
+}
+{
+}
+
+{
+  ambhojinī-vana-vihāra-vilāsam eva
+  haṃsasya hanti nitarāṃ kupito vidhātā |
+  na tv asya dugdha-jala-bheda-vidhau prasiddhāṃ
+  vaidagdhī-kīrtim apahartum asau samarthaḥ || BharSt_1.18 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+  keyūrāṇi na bhūṣayanti puruṣaṃ hārā na candrojjvalā
+  na snānaṃ na vilepanaṃ na kusumaṃ nālaṅkṛtā mūrdhajāḥ |
+  vāṇy ekā samalaṅkaroti puruṣaṃ yā saṃskṛtā dhāryate
+  kṣīyante khalu bhūṣaṇāni satataṃ vāg-bhūṣaṇaṃ bhūṣaṇam || BharSt_1.19 ||
+}
+{
+  Neither rings, bright chains, nor bracelets, perfumes, flowers, nor well-trimmed hair,
+  Grace a man like polished language, th' only jewel he should wear.
+}
+{
+}
+{
+}
+
+{
+  vidyā nāma narasya rūpam adhikaṃ pracchanna-guptaṃ dhanaṃ
+  vidyā bhogakarī yaśaḥ-sukhakarī vidyā gurūṇāṃ guruḥ |
+  vidyā bandhujano videśa-gamane vidyā parā devatā
+  vidyā rājasu pūjyate na tu dhanaṃ vidyā-vihīnaḥ paśuḥ || BharSt_1.20 ||
+}
+{
+  Knowledge is man's highest beauty, knowledge is his hidden treasure,
+  Chief of earthly blessings, bringing calm contentment, fame, and pleasure;
+  Friends in foreign lands procuring, love of mighty princes earning;
+  Man is but a beast without it: such a glorious god is Learning.
+}
+{
+}
+{
+}
+
+
+{
+  dākṣiṇyaṃ svajane dayā parijane śāṭhyaṃ sadā durjane
+  prītiḥ sādhujane nayo nṛpa-jane vidvaj-jane cārjavam |
+  śauryaṃ śatru-jane kṣamā guru-jane kāntā-jane dhṛṣṭatā
+  ye caivaṃ puruṣāḥ kalāsu kuśalās teṣv eva loka-sthitiḥ || BharSt_1.22 ||
+}
+{
+  Ever liberal to kinsmen, to the stranger ever kind,
+  Ever stern to evil-doers, ever frank to men of mind,
+  Ever loving to the virtuous, ever loyal to the crown,
+  Ever brave against his foemen, ever honouring the gown,
+  Womankind distrusting ever—such the hero I would see,—
+  Such uphold the world in order; without them 't would cease to be.
+}
+{
+}
+{
+}
+
+{
+  jāḍyaṃ dhiyo harati siñcati vāci satyaṃ
+  mānonnatiṃ diśati pāpam apākaroti |
+  cetaḥ prasādayati dikṣu tanoti kīrtiṃ
+  sat-saṅgatiḥ kathaya kiṃ na karoti puṃsām || BharSt_1.23 ||
+}
+{
+  What blessings flow from converse with the wise!
+  All dulness leaves us, truth we learn to prize;
+  Our hearts expand with consciousness of worth,
+  Our minds enlarge, our glory fills the earth.
+}
+{
+}
+{
+}
+
+{
+  jayanti te sukṛtino
+  rasa-siddhāḥ kavīśvarāḥ |
+  nāsti yeṣāṃ yaśaḥkāye
+  jarā-maraṇa-jaṃ bhayam || BharSt_1.24 ||
+}
+{
+  Those bards of passion who unfold
+  The secrets of the heart,
+  Their glory never groweth old,
+  Nor feels Death's fatal dart.
+}
+{
+}
+{
+  A JOY FOREVER
+
+  The poet-kings who know the art
+  To touch the chord that moves the heart,
+    Secure may draw their breath;
+  Far from the body of their fame apart
+    Lurk fears of age and death.
+}
+
+{
+  sūnuḥ sac-caritaḥ satī priyatamā svāmī prasādonmukhaḥ
+  snigdhaṃ mitram avañcakaḥ parijano niḥkleśa-leśaṃ manaḥ |
+  ākāro ruciraḥ sthiraś ca vibhavo vidyāvadātaṃ mukhaṃ
+  tuṣṭe viṣṭapa-kaṣṭa-hāriṇi harau samprāpyate dehinā || BharSt_1.25 ||
+}
+{
+  A duteous son, a virtuous wife, a lord to kindness prone,
+  A loving friend, a kinsman true, a mind of cheerful tone,
+  A handsome shape, a well-filled purse, a soul-illumined face,
+  Are theirs on whom great Hari smiles, and sheds peculiar grace.
+}
+{
+}
+{
+}
+
+{
+  prāṇāghātān nivṛttiḥ para-dhana-haraṇe saṃyamaḥ satya-vākyaṃ
+  kāle śaktyā pradānaṃ yuvati-jana-kathā-mūka-bhāvaḥ pareṣām |
+  tṛṣṇā-sroto vibhaṅgo guruṣu ca vinayaḥ sarva-bhūtānukampā
+  sāmānyaḥ sarva-śāstreṣv anupahata-vidhiḥ śreyasām eṣa panthāḥ || BharSt_1.26 ||
+}
+{
+  Abstinence from sin of bloodshed, and from speech of others' wives,
+  Truth and open-handed largess, love for men of holy lives,
+  Freedom from desire and avarice,—such the path that leads to bliss,
+  Path which every sect may travel, and the simple cannot miss.
+}
+{
+}
+{
+}
+
+{
+  prārabhyate na khalu vighna-bhayena nīcaiḥ
+  prārabhya vighna-vihatā viramanti madhyāḥ |
+  vighnaiḥ punaḥ punar api pratihanyamānāḥ
+  prārabdham uttama-janā na parityajanti || BharSt_1.27 ||
+}
+{
+  Cowards shrink from toil and peril,
+  Vulgar souls attempt and fail;
+  Men of mettle, nothing daunted,
+  Persevere till they prevail.
+}
+{
+}
+{
+}
+
+{
+  asanto nābhyarthyāḥ suhṛd api na yācyaḥ kṛśa-dhanaḥ
+  priyā nyāyyā vṛttir malinam asubhaṅge 'py asukaram |
+  vipady uccaiḥ stheyaṃ padam anuvidheyaṃ ca mahatāṃ
+  satāṃ kenoddiṣṭaṃ viṣamam asidhārā-vratam idam || BharSt_1.28 ||
+}
+{
+  Not to swerve from truth or mercy, not for life to stoop to shame;
+  From the poor no gifts accepting, nor from men of evil fame;
+  Lofty faith and proud submission,—who on Fortune's giddy ledge
+  Firm can tread this path of duty, narrow as the sabre's edge?
+}
+{
+}
+{
+}
+
+# The Praise of Self-respect and Valour
+
+{
+  kṣut-kṣāmo 'pi jarā-kṛśo 'pi śithila-prāṇo 'pi kaṣṭāṃ daśām
+  āpanno 'pi vipanna-dīdhitir iti prāṇeṣu naśyatsv api |
+  mattebhendra-vibhinna-kumbha-piśita-grāsaika-baddha-spṛhaḥ
+  kiṃ jīrṇaṃ tṛṇam atti māna-mahatām agresaraḥ kesarī || BharSt_1.29 ||
+}
+{
+  Worn with hunger, faint and feeble, shorn of glory and of power,
+  Still the king of beasts is kingly, even to his dying hour;
+  Will he graze on hay like oxen ? No, he longs to meet once more
+  Tusk-armed elephants in battle, and to drink their spouting gore.
+}
+{
+}
+{
+}
+
+{
+  svalpa-snāyu-vasāvaśeṣa-malinaṃ nirmāṃsam apy asthi goḥ
+  śvā labdhvā paritoṣam eti na tu tat tasya kṣudhā-śāntaye |
+  siṃho jambukam aṅkam āgatam api tyaktvā nihanti dvipaṃ
+  sarvaḥ kṛcchra-gato 'pi vāñchanti janaḥ sattvānurūpaṃ phalam || BharSt_1.30 ||
+}
+{
+  Fling a dry and gristly cow's-bone to a low-bred cur to gnaw,
+  Straight he wags his tail delighted, though it cannot fill his maw.
+  Lions spare the prostrate jackal, but the forest monarchs smite,
+  E'en by fortune pressed the valiant scorns to waive his proper right.
+}
+{
+}
+{
+}
+
+
+
+{
+  parivartini saṃsāre
+  mṛtaḥ ko vā na jāyate |
+  sa jāto yena jātena
+  yāti vaṃśaḥ samunnatim || BharSt_1.32 ||
+}
+{
+  In this revolving world the dead
+    Are ever born again,
+  But he is truly born whose race
+    By him doth praise attain.
+}
+{
+}
+{
+  All men alike, birth after birth,
+  Enter upon a life on earth;
+    But he is born indeed, whose house
+  Gains glory from his sterling worth.
+}
+
+{
+  kusuma-stavakasyeva
+  dvayī vṛttir manasvinaḥ |
+  mūrdhni vā sarva-lokasya
+  śīryate vana eva vā || BharSt_1.33 ||
+}
+{
+  Two paths are open to the proud,
+    As to the woodland flowers,
+  Which flourish high above the crowd,
+    Or wither in the bowers.
+}
+{
+}
+{
+}
+
+{
+  santy anye 'pi bṛhaspati-prabhṛtayaḥ sambhāvitāḥ pañcaṣās
+  tān praty eṣa viśeṣa-vikrama-rucī rāhur na vairāyate |
+  dvāv eva grasate divākara-niśā-prāṇeśvarau bhāskarau
+  bhrātaḥ parvaṇi paśya dānava-patiḥ śīrṣāvaśeṣākṛtiḥ || BharSt_1.34 ||
+}
+{
+  Rahu spares the lesser planets
+    As unworthy of his might,
+  But he wreaks his lawful vengeance
+    On the lords of day and night.
+}
+{
+}
+{
+}
+
+{
+  vahati bhuvana-śreṇiṃ śeṣaḥ phaṇāphalaka-sthitāṃ
+  kamaṭha-patinā madhye-pṛṣṭhaṃ sadā sa ca dhāryate |
+  tam api kurute kroḍādhīnaṃ payodhir anādarād
+  ahaha mahatāṃ niḥsīmānaś caritra-vibhūtayaḥ || BharSt_1.35 ||
+}
+{
+  On his hood the serpent Sesha doth this triple world uphold,
+  On the broad back of the tortoise he lies stretched in many a fold,
+  On the ocean's breast the tortoise like a speck eludes the sight:
+  Who in thought can limit greatness, or set bounds to Nature's might?
+}
+{
+}
+{
+}
+
+{
+  varaṃ pakṣa-cchedaḥ samadamaghavan-mukta-kuliśaprahārair
+  udgacchad-bahula-dahanodgāra-gurubhiḥ |
+  tuṣārādreḥ sūnor ahaha pitari kleśa-vivaśe
+  na cāsau sampātaḥ payasi payasāṃ patyur ucitaḥ || BharSt_1.36 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Better had the mount Mainaka borne the brunt of Indra's ire,
+  Than thus plunged beneath the ocean severed from his sorrowing sire:
+  Though he saved unharmed his pinions from the blazing thunder-stone,
+  Yet he mourns amid the waters for his self-abandoned throne.
+}
+{
+}
+{
+}
+
+{
+}
+{
+The sun-gem touched by Heaven's rays,
+Though void of sense, is all ablaze;
+How then can men of spirit brook
+A fellow-mortal's scornful look ?
+}
+{
+}
+{
+}
+
+{
+  siṃhaḥ śiśur api nipatati
+  mada-malina-kapola-bhittiṣu gajeṣu |
+  prakṛtir iyaṃ sattvavatāṃ
+  na khalu vayas tejaso hetuḥ || BharSt_1.37 ||
+}
+{
+A lion's whelp will boldly face th' earth-shaking monarch's rage,
+For valour dwells in valourous kind, without regard of age.
+}
+{
+}
+{
+}
+
+# On Wealth
+
+{
+  jātir yātu rasātalaṃ guṇa-gaṇais tatrāpy adho gamyatāṃ
+  śīlaṃ śaila-taṭāt patatv abhijanaḥ sandahyatāṃ vahninā |
+  śaurye vairiṇi vajram āśu nipatatv artho 'stu naḥ kevalaṃ
+  yenaikena vinā guṇas tṛṇa-lava-prāyāḥ samastā ime || BharSt_1.38 ||
+}
+{
+  Down to the lowest pit with rank, and gifts that all admire;
+  Hurl virtue headlong from the steep, burn pedigrees with fire;
+  On valour let the bolt descend: for wealth alone we pray,
+  Without which noble qualities are vile as mouldy hay.
+}
+{
+}
+{
+}
+
+{
+  dhanam arjaya kākutstha
+  dhana-mūlam idaṃ jagat |
+  antaraṃ nābhijānāmi
+  nirdhanasya mṛtasya ca || BharSt_1.39 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+  tānīndriyāṇy avikalāni tad eva nāma
+  sā buddhir apratihatā vacanaṃ tad eva |
+  arthoṣmaṇā virahitaḥ puruṣaḥ kṣaṇena
+  so 'py anya eva bhavatīti vicitram etat || BharSt_1.40 ||
+}
+{
+  With mind and senses unimpaired,
+    In act and voice the same,
+  He moves among us like a ghost,
+    Wealth's warmth has left his frame.
+}
+{
+}
+{
+}
+
+{
+  yasyāsti vittaṃ sa naraḥ kulīnaḥ
+  sa paṇḍitaḥ sa śrutavān guṇajñaḥ |
+  sa eva vaktā sa ca darśanīyaḥ
+  sarve guṇāḥ kāñcanam āśrayanti || BharSt_1.41 ||
+}
+{
+  The man of means is eloquent,
+    Brave, handsome, noble, wise;
+  All qualities with gold are sent,
+    And vanish when it flies.
+}
+{
+}
+{
+  The rich man is of noble birth,
+  Has learning, sense, and sterling worth;
+  Is eloquent, and beauty's mould—
+  For every virtue clings to gold.
+}
+
+{
+  daurmantryān nṛpatir vinaśyati yatiḥ saṅgāt suto lālanāt
+  vipro 'nadhyayanāt kulaṃ kutanayāc chīlaṃ khalopāsanāt |
+  hrīr madyād anavekṣaṇād api kṛṣiḥ snehaḥ pravāsāśrayān
+  maitrī cāpraṇayāt samṛddhir anayāt tyāga-pramādād dhanam || BharSt_1.42 ||
+}
+{
+  The king by evil counsel falls,
+    By worldliness the saint,
+  Brahmans by want of sacred lore,
+    Bad friends good manners taint;
+  Indulgence spoils a son, and he
+    Upon his race brings shame,
+  Continual absence poisons love,
+    Neglect cools friendship's flame;
+  Carelessness ruins husbandry,
+    Wrong saps a nation's health,
+  Wine chases modesty, unthrift
+    And largess squander wealth.
+}
+{
+}
+{
+}
+
+{
+  dānaṃ bhogo nāśas tisro
+  gatayo bhavanti vittasya |
+  yo na dadāti na bhuṅkte
+  tasya tṛtīyā gatir bhavati || BharSt_1.43 ||
+}
+{
+  Three courses open lie to wealth, to give, enjoy, or lose,
+  Who shrinketh from the former two, perforce the third doth choose.
+}
+{
+}
+{
+}
+
+{
+  maṇiḥ śāṇollīḍhaḥ samara-vijayī heti-dalito
+  mada-kṣīṇo nāgaḥ śaradi saritaḥ śyāna-pulināḥ |
+  kalā-śeṣaś candraḥ surata-mṛditā bāla-vanitā
+  tan-nimnā śobhante galita-vibhavāś cārthiṣu narāḥ || BharSt_1.44 ||
+}
+{
+  Less in size the polished jewel, but its rays far brighter gleam,
+  Who regrets the dwindling sandbanks when boon autumn swells the stream?
+  Glorious we hold the victor, though his life-blood gild the plain,
+  Such the generous soul's undoing, that which seemeth loss is gain.
+}
+{
+}
+{
+}
+
+{
+  parikṣīṇaḥ kaścit spṛhayati yavānāṃ prasṛtaye
+  sa paścāt sampūrṇaḥ kalayati dharitrīṃ tṛṇa-samām |
+  ataś cānaikāntyād guru-laghutayā 'rtheṣu dhaninām
+  avasthā vastūni prathayati ca saṅkocayati ca || BharSt_1.45 ||
+}
+{
+Lo! the same man who longs for a handful of meal
+  As a treasure of infinite worth,
+When his hunger is sated, esteems not a straw
+  All the riches and glories of earth ;
+Hence this moral we draw—in this transient world
+  Nothing 's trifling or great in itself,
+'Tis the mind that projects its own hues on the mass,
+  Now 'tis gold, now 'tis counted but pelf.
+}
+{
+}
+{
+}
+
+{
+  rājan dudhukṣasi yadi kṣiti-dhenum etāṃ
+  tenādya vatsam iva lokam amuṃ puṣāṇa
+  tasmiṃś ca samyag aniśaṃ paripoṣyamāṇe
+  nānā-phalaiḥ phalati kalpalateva bhūmiḥ || BharSt_1.46 ||
+}
+{
+  King, if thou wish the earth to yield to thee the milk of wealth,
+  Cherish its offspring, let thy care be for thy people's health;
+  For if thou watch to do them good with seldomsleeping eyes,
+  Thy realms with golden fruits shall bloom like trees of Paradise.
+}
+{
+}
+{
+}
+
+{
+  satyānṛtā ca paruṣā priya-vādinī ca
+  hiṃsrā dayālur api cārthaparā vadānyā |
+  nitya-vyayā pracura-nitya-dhanāgamā ca
+  vārāṅganeva nṛpa-nītir aneka-rūpā || BharSt_1.47 ||
+}
+{
+  Grasping and bountiful, cruel and kind,
+  Savage and merciful, watchful and blind,
+  Truthful and treacherous, policy's art
+  Changeth its shape as an actress her part.
+}
+{
+}
+{
+}
+
+{
+  ājñā kīrtiḥ pālanaṃ brāhmaṇānāṃ
+  dānaṃ bhogo mitra-saṃrakṣaṇaṃ ca
+  yeṣām ete ṣaḍguṇā na pravṛttāḥ
+  ko 'rthas teṣāṃ pārthivopāśrayeṇa || BharSt_1.48 ||
+}
+{
+  Fame, might, the power to give and spend,
+  To nourish Brahmans, help a friend,
+  These blessings are a courtier's lot;
+  What boots his toil who gains them not?
+}
+{
+}
+{
+}
+
+{
+  yad dhātrā nija-bhāla-paṭṭa-likhitaṃ stokaṃ mahad vā dhanaṃ
+  tat prāpnoti marusthale 'pi nitarāṃ merau tato nādhikam |
+  tad dhīro bhava vittavatsu kṛpaṇāṃ vṛttiṃ vṛthā sā kṛthāḥ
+  kūpe paśya payonidhāv api ghaṭo gṛhṇāti tulyaṃ jalam || BharSt_1.49 ||
+}
+{
+  Fate writes upon thy brow at birth the limits of thy store,
+  In barren wilds, on Meru's peak, 'tis neither less nor more;
+  Then cringe thou not to wealthy men, but let thy looks be free,
+  A pitcher from a pool is filled, as well as from the sea.
+}
+{
+}
+{
+}
+
+{
+  tvam eva cātakādhāro '
+  sīti keṣāṃ na gocaraḥ |
+  kim ambhoda-varāsmākaṃ
+  kārpaṇyoktaṃ pratīkṣase || BharSt_1.50 ||
+}
+{
+  Well spake the _châtak_ to the cloud,
+    " By thee alone we live,
+  This all men know, then why require
+    Our prayers before thou give?"
+}
+{
+}
+{
+}
+
+{
+  re re cātaka sāvadhāna-manasā mitra kṣaṇaṃ śrūyatām
+  ambhodā bahavo vasanti gagane sarve 'pi naitādṛśāḥ |
+  kecid vṛṣṭibhir ārdrayanti vasudhāṃ garjanti kecid vṛthā
+  yaṃ yaṃ paśyasi tasya tasya purato mā brūhi dīnaṃ vacaḥ || BharSt_1.51 ||
+}
+{
+  O _châtak_, listen but a while, and to my speech give ear—
+  Not all alike the clouds that on the face of heaven appear,
+  Some fertilize the earth with showers, some fruitless thunders hurl:
+  This lesson learn—a suppliant speech is wasted on the churl.
+}
+{
+}
+{
+}
+
+# The description of the Wicked Man
+
+{
+  akaruṇatvam akāraṇa-vigrahaḥ
+  paradhane parayoṣiti ca spṛhā |
+  sujana-bandhujaneṣv asahiṣṇutā
+  prakṛti-siddham idaṃ hi durātmanām || BharSt_1.52 ||
+}
+{
+  A cruel mind intent on strife,
+  Envying his neighbour's gold and wife,
+  Hating the virtuous and his kin,
+  Denotes and brands the man of sin.
+}
+{
+}
+{
+}
+
+{
+  durjanaḥ parihartavyo
+  vidyayā 'lakṛto 'pi san |
+  maṇinā bhūṣitaḥ sarpaḥ
+  kim asau na bhayaṅkaraḥ || BharSt_1.53 ||
+}
+{
+  What though the scoundrel learned be, avoid him, cut him dead:
+  Men shudder at the snake that wears a jewel in his head.
+}
+{
+}
+{
+}
+
+{
+  jāḍyaṃ hrīmati gaṇyate vrata-rucau dambhaḥ śucau kaitavaṃ
+  śūre nirghṛṇatā munau vimatitā dainyaṃ priyālāpini |
+  tejasviny avaliptatā mukharatā vaktary aśaktiḥ sthire
+  tat ko nāma guṇo bhavet sa guṇināṃ yo durjanair nāṅkitaḥ || BharSt_1.54 ||
+}
+{
+  The modest man's accounted dull, the pure a prudish knave,
+  Th' austere a sour-faced hypocrite, the meek a heartless slave,
+  The orator is tedious, the ascetic but a fool,
+  The dignified is haughty, stolid and obtuse the cool,
+  The hero savage; thus the bad do all things good despise,
+  Each virtue with its kindred vice is tainted in their eyes.
+}
+{
+}
+{
+}
+
+{
+  lobhaś ced aguṇena kiṃ piśunatā yady asti kiṃ pātakaiḥ
+  satyaṃ cet tapasā ca kiṃ śuci mano yady asti tīrthena kim |
+  saujanyaṃ yadi kiṃ guṇaiḥ sumahimā yady asti kiṃ maṇḍanaiḥ
+  sad-vidyā yadi kiṃ dhanair apayaśo yady asti kiṃ mṛtyunā || BharSt_1.55 ||
+}
+{
+  Treachery is of crimes the blackest,
+    Avarice is a world of vice,
+  Truth is nobler far than penance,
+    Purity than sacrifice.
+  Charity's the first of virtues,
+    Dignity doth most adorn,
+  Knowledge triumphs unassisted,
+    Better death than public scorn.
+}
+{
+}
+{
+}
+
+
+
+
+{
+  maunomūkaḥ pravacana-paṭur bāṭulo jalpako vā
+  dhṛṣṭaḥ pārśve vasati ca sadā dūrataś cāpragalbhaḥ |
+  kṣāntyā bhīrur yadi na sahate prāyaśo nābhijātaḥ
+  sevādharmaḥ parama-gahano yoginām apy agamyaḥ || BharSt_1.58 ||
+}
+{
+  Not e'en a wonder-working saint
+    Can hope to please the great,
+  The silent man is said to sulk,
+    The eloquent to prate,
+  Patience is held but cowardice,
+    Impatience disrespect,
+  Officiousness is impudence,
+    And modesty neglect.
+}
+{
+}
+{
+}
+
+{
+  udbhāsitākhila-khalasya viśṛṅkhalasya
+  prāg-jāta-vistṛta-nijādhama-karma-vṛtteḥ |
+  daivād avāpta-vibhavasya guṇa-dviṣo 'sya
+  nīcasya gocara-gataiḥ sukham āpyate || BharSt_1.59 ||
+}
+{
+  Those do not lead an easy life who fall into the power
+  Of one in whom the seed of vice matures in perfect flower,
+  Who with a herd of fawning rogues delights t' engird his throne,
+  Whose lawless will no bonds of faith nor ties of blood doth own.
+}
+{
+}
+{
+}
+
+
+
+
+# The Praise of the Good Man
+
+{
+  vāñchā sajjana-saṅgame para-guṇe prītir gurau namratā
+  vidyāyāṃ vyasanaṃ sva-yoṣiti ratir lokāpavādād bhayam |
+  bhaktiḥ śūlini śaktir ātma-damane saṃsarga-muktiḥ khale
+  yeṣv ete nivasanti nirmala-guṇās tebhyo narebhyo namaḥ || BharSt_1.62 ||
+}
+{
+  All-hail to those who love the good,
+    And sinful men eschew,
+  Who honour their religious head,
+    And sacred lore pursue,
+  Who undisturbed their neighbours' wives
+    And neighbours' merits view,
+  Who firm on Siva fix their faith,
+    And vain desires subdue!
+}
+{
+}
+{
+}
+
+{
+  vipadi dhairyam athābhyudaye kṣamā
+  sadasi vākya-paṭutā yudhi vikramaḥ |
+  yaśasi cābhirucir vyasanaṃ śrutau
+  prakṛti-siddham idaṃ hi mahātmanām || BharSt_1.63 ||
+}
+{
+  Firmness when fall'n on evil days, restraint when fortune smiles,
+  Courage to look with steady eye on war's embattled files,
+  Persuasive speech in council, and a burning thirst for fame,
+  Joined with a love of holy writ, th' heroic soul proclaim.
+}
+{
+}
+{
+}
+
+{
+  pradānaṃ pracchannaṃ gṛham upagate sambhrama-vidhiḥ
+  priyaṃ kṛtvā maunaṃ sadasi kathanaṃ cāpy upakṛteḥ |
+  anutseko lakṣmyām anabhibhava-gandhāḥ para-kathāḥ
+  satāṃ kenoddiṣṭaṃ viṣamam asidhārā-vratam idam || BharSt_1.64 ||
+}
+{
+  Alms to bestow in secret, and the houseless wanderer feed,
+  To hide one's own and loud proclaim another's kindly deed,
+  Humbly to bear prosperity, and mourn with those who weep—
+  Behold a vow which all the saints as yet have failed to keep!
+}
+{
+}
+{
+}
+
+{
+  kare ślāghyas tyāgaḥ śirasi guru-pāda-praṇayitā
+  mukhe satyā vāṇī vijayi bhujayor vīryam atulam |
+  hṛdi svacchā vṛttiḥ śrutim adhigataṃ ca śravaṇayor
+  vināpy aiśvaryeṇa prakṛti-mahatāṃ maṇḍanam idam || BharSt_1.65 ||
+}
+{
+  Charity best adorns the hand
+    And reverence the head,
+  Truth is the virtue of the mouth
+    In th' ears is scripture read,
+  Valour lends glory to the arms,
+    Contentment calms the heart,
+  Thus lofty souls, though poor, are decked
+    With grace in every part.
+}
+{
+}
+{
+}
+
+{
+  sampatsu mahatāṃ cittaṃ
+  bhavaty utpala-komalam |
+  āpatsu ca mahāśailaśilā-
+  saṅghāta-karkaśam || BharSt_1.66 ||
+}
+{
+  In times of joy the hero's soul
+    Is soft as lotus-flower,
+  But when misfortune's billows roll
+    Stands stiff as granite tower.
+}
+{
+}
+{
+  A noble soul, in days of power,
+  Is tender as a lotus-flower:
+  But when it meets misfortune's shock,
+  Grows hard as Himalayan rock.
+}
+
+{
+  santaptāyasi saṃsthitasya payaso nāmāpi na jñāyate
+  muktākāratayā tad eva nalinī-patra-sthitaṃ rājate |
+  svātyāṃ sāgara-śukti-madhya-patitaṃ tan-mauktikaṃ jāyate
+  prāyeṇādhama-madhyamottama-guṇaḥ saṃsargato jāyate || BharSt_1.67 ||
+}
+{
+  Raindrops on heated iron flung dissolve in airy steam,
+  The same on lotus-leaflets hung like rows of diamonds gleam,
+  In sea-shells, if Arcturus shine, they harden into pearl,—
+  E'en so doth intercourse refine and elevate the churl.
+}
+{
+}
+{
+}
+
+{
+  prīṇāti yaḥ sucaritaiḥ pitaraṃ sa putro
+  yad bhartur eva hitam icchati tat kalatram |
+  tan mitram āpadi sukhe ca sama-kriyaṃ yad
+  etat trayaṃ jagati puṇya-kṛto labhante || BharSt_1.68 ||
+}
+{
+  He only can be called a son who gratifies his sire,
+  She only is a wife who doth to please her lord aspire,
+  He only is a friend who bides the same in weal and woe,—
+  These blessings three the righteous gods on virtuous men bestow.
+}
+{
+}
+{
+}
+
+{
+  eko devaḥ keśavo vā śivo vā
+  hy ekaṃ mitraṃ bhūpatir vā yatir vā |
+  eko vāsaḥ pattane vā vane vā
+  hy ekā bhāryā sundarī vā darī vā || BharSt_1.69 ||
+}
+{
+  The world conspires to honour those
+    Who rise by gentle arts,
+  Who show their own heroic strain
+    By praising others' parts,
+  Who patiently reproaches bear,
+    Nor scorned revile again,
+  Who still to selfish ends prefer
+    The good of other men.
+}
+{
+}
+{
+}
+
+# The Path of Altruism
+
+{
+  namratvenonnamantaḥ para-guṇa-kathanaiḥ svān guṇān khyāpayantaḥ
+  svārthān sampādayanto vitata-pṛthutarārambha-yatnāḥ parārthe |
+  kṣāntyaivākṣepa-rukṣākṣara-mukhara-mukhān durjanān dūṣayantaḥ
+  santaḥ sāścarya-caryā jagati bahu-matāḥ kasya nābhyarcanīyāḥ || BharSt_1.70 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+  bhavanti namrās taravaḥ phalodgamair
+  navāmbubhir dūrāvalambino ghanāḥ |
+  anuddhatāḥ sat-puruṣāḥ samṛddhibhiḥ
+  svabhāva eṣa paropakāriṇām || BharSt_1.71 ||
+}
+{
+  Trees are bowed down with weight of fruit,
+    Clouds big with rain hang low,
+  So good men humbly bear success,
+    Nor overweening grow.
+}
+{
+}
+{
+}
+
+{
+  śrotraṃ śrutenaiva na kuṇḍalena
+  dānena pāṇir na tu kaṅkaṇena |
+  vibhāti kāyaḥ karuṇa-parāṇāṃ
+  paropakārair na tu candanena || BharSt_1.72 ||
+}
+{
+  No earrings deck the good man's ears, which still on scripture feed;
+  His hands, still open to the poor, no golden bracelets need;
+  The perfume of his kindly acts, like flowers in leaves concealed,
+  Exceeds the fragrant scent which nard and sandal unguents yield.
+}
+{
+}
+{
+}
+
+{
+  pāpān nivārayati yojayate hitāya
+  guhyaṃ nigūhati guṇān prakaṭīkaroti |
+  āpad-gataṃ ca na jahāti dadāti kāle
+  san-mitra-lakṣaṇam idaṃ pravadanti santaḥ || BharSt_1.73 ||
+}
+{
+  He brings thee joy, thy foes dismays,
+  Thy secrets hides, proclaims thy praise,
+  With timely gifts relieves thy need,
+  Thus may'st thou know the "friend indeed."
+}
+{
+}
+{
+}
+
+{
+  padmākaraṃ dinakaro vikacīkaroti
+  camdrp volāsayati kairava-cakravālam |
+  nābhyarthito jaladharo 'pi jalaṃ dadāti
+  santaḥ svayaṃ parahite vihitābhiyogāḥ || BharSt_1.74 ||
+}
+{
+  The sun awakes the lotus-bower,
+  The moon cheers up her favourite flower,
+  The cloud unasked its rain bestows,
+  Self-moved the good man's bounty flows.
+}
+{
+}
+{
+}
+
+{
+  eke sat-puruṣāḥ parārtha-ghaṭakāḥ svārthaṃ parityajanti ye
+  sāmānyās tu parārtham udyama-bhṛtaḥ svārthāvirodhena ye |
+  te 'mī mānuṣa-rākṣasāḥ parahitaṃ svārthāya nighnanti ye
+  ye tu ghnanti nirarthakaṃ parahitaṃ te ke na jānīmahe || BharSt_1.75 ||
+}
+{
+  Some generous souls forbear their own, and seek another's gain;
+  Most men, neglecting not their own, their neighbour's cause maintain;
+  Those are mere demons who would build their wealth on other's loss,
+  But what are those who profitless their neighbour's interest cross?
+}
+{
+}
+{
+}
+
+{
+  kṣīreṇātmagatodakāya hi guṇā dattā purā te 'khilā
+  kṣīrottāpam avekṣya tena payasā svātmā kṛśānau hutaḥ |
+  gantuṃ pāvakam unmanas tad abhavad dṛṣṭvā tu mitrāpadaṃ
+  yuktaṃ tena jalena śāmyati satāṃ maitrī punas tv īdṛśī || BharSt_1.76 ||
+}
+{
+  Milk to the water with it mixed its native virtues gave,
+  Which, pitying sore its tortured friend, rushed on a flaming grave;
+  The milk, unwilling to be left, must share its fellow's fate,—
+  True friendship envy cannot reach, nor fiery pains abate!
+}
+{
+}
+{
+}
+
+{
+  itaḥ svapiti keśavaḥ kulam itas tadīya-dviṣām
+  itaś ca śaraṇārthināṃ śikhariṇāṃ gaṇāḥ śerate |
+  ito 'pi baḍavānalaḥ saha samasta-saṃvartakaiṛ
+  aho vitatam ūrjitaṃ bhara-sahaṃ sindhor vapuḥ || BharSt_1.77 ||
+}
+{
+  Here Vishnu sleeps, and there his foes,
+  Yonder the suppliant hills repose,
+  Here lurk the quenchless fires of doom,—
+  Ocean's broad breast for all hath room.
+}
+{
+}
+{
+}
+
+{
+  tṛṣṇāṃ chindhi bhaja kṣamāṃ jahi madaṃ pāpe ratiṃ mā kṛthāḥ
+  satyaṃ brūhy anuyāhi sādhu-padavīṃ sevasva vidvaj-janam |
+  mānyān mānaya vidviṣo 'py anunaya prakhyāpaya praśrayaṃ
+  kīrtiṃ pālaya duḥkhite kuru dayām etat satāṃ ceṣṭitam || BharSt_1.78 ||
+}
+{
+  Subdue desire, and vanquish pride,
+    Bear scorn, in wrong take no delight,
+  Speak truth, for sages' wants provide,
+    And follow still the path of right,
+  Honour the worthy, love thy foes,
+    Hide thy own virtues, cheer the faint,
+  Pursue renown till life doth close,
+    Such conduct marks the perfect saint.
+}
+{
+}
+{
+}
+
+{
+  manasi vacasi kāye puṇya-pīyūṣa-pūrṇās
+  tribhuvanam upakāra-śreṇibhiḥ prīṇayantaḥ |
+  para-guṇa-paramāṇūn parvatīkṛtya nityaṃ
+  nija-hṛdi vikasantaḥ santa santaḥ kiyantaḥ || BharSt_1.79 ||
+}
+{
+  How few there are in mind and speech and body free from stain,
+  Who fill with linked benefits earth, heaven, and Pluto's reign,
+  Who, telling others' virtuous acts, small grains to hills increase,
+  In whose unruffled soul expands the flower of sinless peace!
+}
+{
+}
+{
+}
+
+{
+  kiṃ tena hema-giriṇā rajatādriṇā vā
+  yatrāśritāś ca taravas taravas ta eva |
+  manyāmahe malayam eva yad-āśrayeṇa
+  kaṅkola-nimba-kaṭujā api candanāḥ syuḥ || BharSt_1.80 ||
+}
+{
+  Nor Meru nor Himadri's heights adore,
+  Where trees are simply trees and nothing more,
+  For Malaya's nobler mount thy praises keep,
+  Whose woods sweetgums and odorous balsams weep.
+}
+{
+}
+{
+}
+
+# The Praise of firmness
+
+{
+  ratnair mahārhais tutuṣur na devā
+  na bhejire bhīma-viṣeṇa bhītim |
+  sudhāṃ vinā na parayur virāmaṃ
+  na niścitārthād viramanti dhīrāḥ || BharSt_1.81 ||
+}
+{
+  The gods with priceless jewels were not bought,
+  Nor with the poison-chalice made aghast,
+  Nor ceased until they held the nectar fast,
+  The firm forsake not what they once have sought.
+}
+{
+}
+{
+}
+
+{
+  kvacit pṛthvīśayyaḥ kvacid api ca paraṅka-śayanaḥ
+  kvacic chākāhāraḥ kvacid api ca śālyodana-ruciḥ |
+  kvacit kanthādhārī kvacid api ca divyāmbaradharo
+  manasvī kāryārthī na gaṇayati duḥkhaṃ na ca sukham || BharSt_1.82 ||
+}
+{
+  Sleeping sometimes upon the ground, sometimes on gorgeous bed,
+  Sometimes with simple herbs content, sometimes on dainties fed,
+  One moment clothed in rags, anon ruffling in gallant show,
+  The hero, following still his end, recks not of joy or woe.
+}
+{
+}
+{
+}
+
+{
+  aiśvaryasya vibhūṣaṇaṃ sujanatā śauryasya vāk-saṃyamo
+  jñānasyopaśamaḥ śrutasya vinayo vittasya pātre vyayaḥ |
+  akrodhas tapasaḥ kṣamā prabhavitur dharmasya nirvājatā
+  sarveṣām api sarva-kāraṇam idaṃ śīlaṃ paraṃ bhūṣaṇam || BharSt_1.83 ||
+}
+{
+  Mercy's the ornament of power, of courage courteous rede,
+  Of learning modesty, of wealth bounty to those that need,
+  Of hermits gentleness and truth, longsuffering of a king,
+  Of all men virtuous character, whence all these glories spring.
+}
+{
+}
+{
+}
+
+{
+  nindantu nīti-nipuṇā yadi vā stuvantu
+  lakṣmīḥ samāviśatu gacchatu vā yatheṣṭham |
+  adyaiva vā maraṇam astu yugāntare vā
+  nyāyyāt pathaḥ pravicalanti padaṃ na dhīrāḥ || BharSt_1.84 ||
+}
+{
+  Let cunning statesmen praise or blame,
+    Let Fortune turn or go her way,
+  Come instant death, or lingering shame,
+    Firm souls from virtue will not stray.
+}
+{
+}
+{
+}
+
+{
+  bhagnāśasya karaṇḍa-piṇḍita-tanor mlānendriyasya kṣudhā
+  kṛtvākhur vivaraṃ svayaṃ nipatito naktaṃ mukhe bhoginaḥ |
+  tṛptas tat-piśitena satvaram asau tenaiva yātaḥ yathā
+  lokāḥ paśyata daivam eva hi nṛṇāṃ vṛddhau kṣaye kāraṇam || BharSt_1.85 ||
+}
+{
+  A snake lay helpless in the box pining for lack of meat,
+  A rat by night gnaws through the side, and yields his foe a treat,
+  With strength recruited then the snake by that same hole escapes,—
+  Behold how vain our efforts are! Fate all our fortune shapes.
+}
+{
+    A captive snake half dead with fright
+    Starved in a basket; till one night
+    A silly mouse, who roamed abroad,
+    A hole straight through the wicker gnawed,
+    And in his very gullet jumped.
+    The serpent felt his thin sides plumped,
+    Took cheer, and wriggled out in turn. —
+  Who knows all lucky falls in Fortune's urn?
+}
+{
+}
+
+{
+  ālasyaṃ hi manuṣyāṇāṃ
+  śarīrastho mahān ripuḥ |
+  nāsty udyama-samo bandhuḥ
+  kurvāṇo nāvasīdati || BharSt_1.86 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Flung down with force, the higher springs the ball,
+  So good men rise victorious from their fall.
+  Sloth is the foe that makes our souls his lair,
+  Vigour the friend that saves us from despair.
+}
+{
+}
+{
+}
+
+{
+  chinno 'pi rohati tar kṣīṇo 'py upacīyate punaś candraḥ |
+  iti vimṛśantaḥ santaḥ santapyante na duḥkheṣu || BharSt_1.87 ||
+}
+{
+  The moon her wasted orb renews,
+    The tree when pruned puts forth fresh leaf,
+  Th' afflicted sage this course pursues,
+    Nor yields to unavailing grief.
+}
+{
+}
+{
+}
+
+# The Praise of Destiny
+
+{
+  netā yasya bṛhaspatiḥ praharaṇaṃ vajraṃ surāḥ sainikāḥ
+  svargo durgam anugrahaḥ kila harer airāvato vāraṇaḥ |
+  ity aiśvarya-balānvito 'pi balabhid bhagnaḥ paraiḥ saṅgare
+  tad vyaktaṃ nanu daivam eva śaraṇaṃ dhig dhig vṛthā pauruṣam || BharSt_1.88 ||
+}
+{
+  Under Vrihaspati's own eyes
+    Entrenched on heaven's height
+  Wielding th' artillery of the skies,
+    Followed by gods in fight,
+  Indra, in spite of all his skill,
+    Has seen his host give way ;
+  Strength nought avails.—To whom she will
+    Fortune assigns the day.
+}
+{
+}
+{
+}
+
+{
+  karmāyattaṃ phalaṃ puṃsāṃ
+  buddhiḥ karmānusāriṇī |
+  tathāpi sudhiyā bhāvyaṃ
+  suvicāryaiva kurvatā || BharSt_1.89 ||
+}
+{
+  Our fates, our minds, depend on deeds
+  Done in the soul's career,
+  But each can gain the wit he needs
+  By careful conduct here.
+}
+{
+}
+{
+}
+
+
+
+{
+  ravi-niśākarayor graha-pīḍanaṃ
+  gaja-bhujaṅgamayor api bandhanam |
+  matimatāṃ ca vilokya daridratāṃ
+  vidhir aho balavān iti me matiḥ || BharSt_1.91 ||
+}
+{
+  When sun and moon eclipsed I see,
+    And elephants in bonds,
+  And wise men vexed with poverty;
+    I own, my soul desponds.
+}
+{
+}
+{
+}
+
+{
+  sṛjati tāvad aśeṣa-guṇakaraṃ
+  puruṣa-ratnam alaṅkaraṇaṃ bhuvaḥ |
+  tad api tat-kṣaṇa-bhaṅgi karoti
+  ced ahaha kaṣṭam apaṇḍitatā vidheḥ || BharSt_1.92 ||
+}
+{
+  No wonder sages figure Fortune blind;
+  She first creates a hero to her mind,
+  Whom all men own the glory of the age,
+  Then breaks her model in her childish rage.
+}
+{
+}
+{
+}
+
+{
+  patraṃ naiva yadā karīra-viṭape doṣo vasantasya kim
+  nolūko 'py avaokate yadi divā sūryasya kiṃ dūṣaṇam |
+  dhārā naiva patanti cātaka-mukhe meghasya kiṃ dūṣaṇam
+  yat pūrvaṃ vidhinā lalāṭa-likhitaṃ tan mārjituṃ kaḥ kṣamaḥ || BharSt_1.93 ||
+}
+{
+  If thorns and briars bear no leaves we do not blame the Spring,
+  Nor yet the sun, if blinking owls fly not till evening.
+  That _châtaks_ gape in vain for showers is not the cloud's disgrace;
+  Fate's sentence written on the brow no hand can e'er efface.
+}
+{
+}
+{
+}
+
+# The Praise of Works
+
+{
+  namasyāmo devān nanu hatavidhes te 'pi vaśagā
+  vidhir vandyaḥ so 'pi pratiniyata-karmaika-phaladaḥ |
+  phalaṃ karmāyattaṃ yadi kim amaraiḥ kiṃ ca vidhinā
+  namas tat-karmabhyo vidhir api na yebhyaḥ prabhavati || BharSt_1.94 ||
+}
+{
+  Why honour gods, who must submit to Fate,
+    Or Fate, who gives but what our deeds have won ?
+  Upon our deeds alone depends our state
+    By these exalted, as by these undone.
+}
+{
+}
+{
+}
+
+{
+  brahmā yena kulālavan niyamito brahmāḍa-bhāṇḍodare
+  viṣṇur yena daśāvatāra-gahane kṣipto mahā-saṅkaṭe |
+  rudro yena kapāla-pāṇi-puṭake bhikṣāṭanaṃ kāritaḥ
+  sūryo bhrāmyati nityam eva gagane tasmai namaḥ karmaṇe || BharSt_1.95 ||
+}
+{
+  Mighty are works, which Brahmâ's self confined within the egg,
+  Which forced e'en Siva, skull in hand, from house to house to beg,
+  Made Vishnu through ten tedious births his deity disguise,
+  Which daily bind th' unwilling sun to wander through the skies!
+}
+{
+}
+{
+}
+
+{
+  naivākṛtiḥ phalati naivaa kulaṃ na śīlaṃ
+  vidyāpi naiva na ca yatna-kṛtāpi sevā |
+  bhāgyāni pūrva-tapasā khalu sañcitāni
+  kāle phalanti puruṣasya yathaiva vṛkṣāḥ || BharSt_1.96 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+  vane raṇe śatru-jalāgni-madhye
+  mahārṇave parvata-mastake vā |
+  suptaṃ pramattaṃ viṣama-sthitaṃ vā
+  rakṣanti puṇyāni purākṛtāni || BharSt_1.97 ||
+}
+{
+  Our merits in a former life
+    Preserve us in the midst of foes,
+  In woods, flood, fire, in peace and strife,
+    On ocean waves, and mountain snows.
+}
+{
+}
+{
+}
+
+{
+  yā sādhūṃś ca khalān karoti viduṣo mūrkhān hitān dveṣiṇaḥ
+  pratyakṣaṃ kurute parīkṣam amṛtaṃ hālāhalaṃ tat-kṣaṇāt |
+  tām ārādhaya sat-kriyāṃ bhagavatīṃ bhoktuṃ phalaṃ vāñchitaṃ
+  he sādho vyasanair guṇeṣu vipuleṣv āsthāṃ vṛthā mā kṛthāḥ || BharSt_1.98 ||
+}
+{
+  Kindness can turn the bad man's heart, and fools convert to wise,
+  Make poison into nectar-juice, and friends of enemies,
+  Bring distant objects near: then strive that talisman to gain,
+  Nor set thy heart on glorious gifts acquired with endless pain.
+}
+{
+}
+{
+}
+
+{
+  guṇavad aguṇavad vā kurvatā kārya-jātaṃ
+  pariṇatir avadhāryā yatnataḥ paṇḍitena |
+  atirabhasa-kṛtānāṃ karmaṇām āvipatter
+  bhavati hṛdaya-dāhī śalya-tulyo vipākaḥ || BharSt_1.99 ||
+}
+{
+  Before he act, the man of sense
+  Looks forward to the consequence,
+  For heedless acts infix a dart,
+  That rankles in the tortured heart.
+}
+{
+}
+{
+}
+
+{
+  sthālyāṃ vaidūryamayyāṃ pacati tilakaṇāṃś candanair indhanaughaiḥ
+  sauvarṇair lāṅgalāgrair vilikhati vasudhām arka-mūlasya hetoḥ |
+  kṛtvā karpūra-khaṇḍān vṛttim iha kurute kodravāṇāṃ samantāt
+  prāpyemāṃ karm-bhūmiṃ na carati manujo yas topa manda-bhāgyaḥ || BharSt_1.100 ||
+}
+{
+  In emerald vessels tallow boil,
+    And light the fire with spice,
+  With golden ploughs turn up the soil
+    And then sow worthless rice,
+  Thus wiser far than if thou spend
+    An easy life on earth ;
+  Since all things must on works depend,
+    Why throw away thy birth?
+}
+{
+}
+{
+  EXTRAVAGANCE
+
+  They cook their grain in beryl kettles
+    With fuel of sandal-shoots,
+  They plough with ploughs of precious metals
+    To get the yercum-roots,
+  They make a hedge of camphor wood
+    About the humblest corn,
+  Unhappy fools! who are not good
+    On earth where they were born.
+}
+
+{
+  majjatv ambhasi yātu meru-śikharaṃ śatruṃ jayatv āhave
+  vāṇijyaṃ kṛṣi-sevane ca sakalā vidyāḥ kalāḥ śikṣatām |
+  ākāśaṃ vipulaṃ prayātu khagavat kṛtvā prayatnaṃ paraṃ
+  nābhāvyaṃ bhavatīha karma-vaśato bhāvyasya nāśaḥ kutaḥ || BharSt_1.101 ||
+}
+{
+  What though we climb to Meru's peak, soar birdlike through the sky,
+  Grow rich by trade, or till the ground, or art and science ply,
+  Or vanquish all our earthly foes, we yield to Fate's decree,
+  Whate'er she nills can ne'er take place, whate'er she wills must be.
+}
+{
+}
+{
+}
+
+{
+  bhīmaṃ vanaṃ bhavati tasya puraṃ pradhānaṃ
+  sarvo janaḥ svajanatām upayāti tasya |
+  kṛtsnā ca bhūr bhavati sannidhi-ratna-pūrṇā
+  yasyāsti pūrva-sukṛtaṃ vipulaṃ narasya || BharSt_1.102 ||
+}
+{
+  Whoe'er of merit hath a plenteous store,
+  Will savage woods a glorious city find,
+  With gold and gems abounding every shore,
+  All regions blissful and all people kind.
+}
+{
+}
+{
+}
+
+# Some verses of an opposite tendency
+
+{
+  ko lābho guṇisaṅgamaḥ kim asukhaṃ prājñetaraiḥ saṅgatiḥ
+  kā hāniḥ samaya-cyutir nipuṇatā kā dharma-tattve ratiḥ |
+  kaḥ śūro vijitendriyaḥ priyatamā kā 'nuvratā kiṃ dhanaṃ
+  vidyā kiṃ sukham apravāsa-gamanaṃ rājyaṃ kim ājñā-phalam || BharSt_1.103 ||
+}
+{
+  What is the use of living with the wise ?
+  As well be friends with those that truth despise.
+  Who loses time suffers no loss at all,
+  Who justly deals shall find his profit small,
+  Count him no hero who his sense subdues,
+  A virtuous wife's no blessing one should choose,
+  Knowledge is not a jewel men retain,
+  And sovereign sway's a burden on the brain.
+}
+{
+}
+{
+}
+
+{
+  apriya-vacana-daridraiḥ priya-vacana-dhanāḍhyaiḥ sva-dāra-parituṣṭaiḥ |
+  para-parivāda-nivṛttaiḥ kvacit kvacin maṇḍitā vasudhā || BharSt_1.104 ||
+}
+{
+  Once in a way the earth is blessed
+  With one who breaks no bitter jest,
+  But kindly speaks and all commends,
+  Faithful to kinsmen, wife, and friends.
+}
+{
+}
+{
+}
+
+{
+  kadarthitasyāpi hi dhairya-vṛtter
+  na śakyate dhairya-guṇaḥ pramārṣṭum |
+  adhomukhasyāpi kṛtasya vahner
+  nādhaḥ śikhā yāti kadācid eva || BharSt_1.105 ||
+}
+{
+  Though scorned the man of constant soul
+  Preserves unchanged his self-control,
+  In vain men trample on the fire,
+  For upward still its flames aspire.
+}
+{
+}
+{
+  Although the strong man be disdained,
+    His purpose never bends:
+  As when a lighted torch is held
+    Flame-down, the flame ascends.
+}
+
+{
+  kāntākaṭākṣa-viśikhā na lunanti yasya
+  cittaṃ na nirdahati kipa-kṛśānutāpaḥ |
+  karṣanti bhūri-viṣayāś ca na lobha-pāśair
+  loka-trayaṃ jayati kṛtsnam idaṃ sa dhīraḥ || BharSt_1.106 ||
+}
+{
+  That hero whose obdurate breast is steeled
+    'Gainst sidelong shafts of love and anger's fire,
+    Nor devious drawn with cords of vain desire,
+  Might stand against three worlds in open field.
+}
+{
+}
+{
+}
+
+{
+  ekenāpi hi śūreṇa
+  pādākrāntaṃ mahītalam |
+  kriyate bhāskareṇaiva
+  sphāra-sphurita-tejasā || BharSt_1.107 ||
+}
+{
+}
+{
+}
+{
+}
+
+{
+  vahnis tasya jalāyate jala-nidhiḥ kulyāyate tat-kṣaṇān
+  meruḥ svalpa-śilāyate mṛgapatiḥ sadyaḥ kuraṅgāyate |
+  vyālo mālya-guṇāyate viṣa-rasaḥ pīyūṣa-varṣāyate
+  yasyāṅge 'khila-loka-vallabhatamaṃ śīlaṃ samunmīlati || BharSt_1.108 ||
+}
+{
+  Whoe'er with gentle nature charms
+  The world, all hurtful things disarms,
+  Finds flames as mountain streamlets cool,
+  And ocean calm as summer pool,
+  The lion as the roe-deer meek,
+  Mount Meru but a tiny peak,
+  A cobra but a wreath of flowers,
+  And poison-draughts like nectar-showers.
+}
+{
+}
+{
+}
+
+{
+  lajjā-guṇaugha-jananīṃ jananīm iva svām
+  atyanta-śuddha-hṛdayām anuvartamānām |
+  tejasvinaḥ sukham asūn api santyajanati
+  satya-vrata-vyasanino na punaḥ pratijñām || BharSt_1.109 ||
+}
+{
+  Great-hearted men would sooner part with life
+    Than honour, as their mother ever dear,
+    To which in evil days they still adhere,
+  Nor wage with self-respect unholy strife.
+}
+{
+}
+{
+}
+
+# Some Miscellaneous Stanzas
+
+{
+}
+{
+  A woman's heart is like a glass, reflecting every face,
+  Her secret thoughts, like mountain paths, are difficult to trace,
+  Her fancy wavers, like the dew which lotus-leaves enclose,
+  Her faults, like deadly Upas-buds, develop as she grows.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Who falls in sight of either host
+    Upon th' ensanguined plain,
+  Though victory and heaven be lost,
+    From both sides praise doth gain.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  The Boar's and Râhu's  mighty deeds our reverence command;
+  The one upheld with gleaming tusks the sea-o'erwhelmed land;
+  The other, sorely maimed in fight, while head and throat remain,
+  Makes shift to swallow still the foes he must release again.
+}
+{
+}
+{
+}
+
+{
+}
+{
+The land is limited by sea, the sea its bounds must keep,
+The ever-wandering orb of day measures heaven's trackless deep;
+All things are fettered and restrained, except the sage's mind,
+Which springs beyond the bourn of death, and ranges unconfined.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Between Vishnu and Siva there's nothing to choose,
+  Be thy home but a cave, it will serve thee as well,
+  Man in woods and in deserts the same course pursues,
+  And a friend's but a friend in a court or a cell.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  By tortoise, hills, and king of snakes
+  Upheld and poised, earth's centre shakes;
+  Men of firm faith and constant soul
+  Swerve not, while endless ages roll.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Does not the tortoise feel the load he bears without complaint?
+  Is not the flaming lord of day with ceaseless wandering faint?
+  Are not good men though sore distressed ashamed their troth to break?
+  Great spirits love to carry through whate'er they undertake.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Cymbals to harmonize their tone,
+  Must first with flour be fed;
+  So he can call all bards his own
+  Who fills their mouths with bread.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  The mean pursue a thousand ways to satisfy their greed,
+  But he will ne'er be chief of saints whose gain's his highest meed,
+  The Aurva-fire drinks up the sea to still its craving maw,
+  The cloud, to cheer a thirsty world, the waves doth upward draw.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Hard fate to minister and bard assigned,
+  One must new turns and one new taxes find;
+  By honeyed language both aspire to climb,
+  This slowly builds his power, and that his rhyme;
+  A captious public both must toil to please,
+  And part unthanked with liberty and ease.
+}
+{
+}
+{
+}
+
+{
+}
+{
+Though fortune shower her blessings everywhere,
+  But few will reach the poor man's lowly head;
+  Though rain-clouds all day long their treasures shed,
+Three drops at most reward the _châtak's_ prayer.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  A man should reverence the sage,
+    Not only when he gives advice,—
+  The random words of prudent age,
+    If rightly weighed, are pearls of price.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  The good man, like a bounding ball,
+  Springs ever upward from his fall;
+  The wicked falls like lump of clay,
+  And crumbles into dust away.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  What though by some untoward fate no lotus on the lake be born,
+  The swan will ne'er, like barndoor fowl, rake in the dust for grains of corn.
+}
+{
+}
+{
+NOBILITY
+
+If fate should ever stay the birth
+  Of every lily on the earth,
+Do you suppose that swans would scratch.
+  Like roosters, in the dunghill patch?
+}
+
+{
+}
+{
+  The heart of the contented man enjoys perpetual peace,
+  The covetous pine with lust of wealth; their cravings never cease;
+  Not Meru's peak, of gold entire, can captivate my soul,
+  Let him, who likes it, clamber up and carry off the whole.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  From nature comes the lotus' rosy hue,
+  By nature good men others' good pursue,
+  And cruel men have cruel ends in view.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Truth is the ornament of all mankind,
+  Slim elephants delight the keeper's mind,
+  Learning and patience are a Brahman's boast,
+  Each creature's highest good becomes it most.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  Better to fall from mountain height,
+    And dash thy life out on the plain,
+  Better th' envenomed serpent's bite,
+    Better the death in fiery pain,
+  Than once to swerve from virtue's path,
+    Which they who lose ne'er find again.
+}
+{
+    Better from the sheer mountain-top
+    Headlong thy ruined body drop;
+    Better appease the serpent's ire
+    With thy right hand; or in the fire
+    Behold thy riven members tost,
+  Than once thy mind's integrity were lost.
+}
+{
+}
+
+{
+}
+{
+  Abandon, fool, thy hope to see
+  The brave man dread calamity;
+  When the great doom shall earth o'ertake
+  Nor seas, nor mighty hills will quake.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  The moon the lord of healing herbs,
+    Whose gleaming horn is Siva's crest,
+  Is doomed with dim eclipse to pine ;
+    None can avoid grim Fate's behest.
+}
+{
+}
+{
+}
+
+{
+}
+{
+  A splendid palace, lovely brides, the symbols all of kingly sway,
+  Are jewels strung on merit's thread stretching through many a toilsome day;
+  As pearls are from a necklace shed, when breaks the bond that held them fast,
+  Light they disperse, when merit fails, whirled from us by misfortune's blast.
+}
+{
+}
+{
+}
+
+
+{
+}
+{
+}
+{
+A friend or stranger comes he? — so
+  They reckon of the narrow mind;
+But some of broader reason know
+  In all the world one kith and kind.
+}
+{
+}
+
+{
+}
+{
+}
+{
+    I saw an ass who bore a load
+    Of sandal wood along the road,
+    And almost with the burden bent,
+    Yet never guessed the sandal scent;
+    So pedants bear a ponderous mass
+  Of books they comprehend not, — like the ass
+}
+{
+}
+
+{
+}
+{
+}
+{
+    Wisdom acquire and knowledge hive,
+    As thou a thousand years mightst thrive;
+    For virtue toil with sleepless care,
+  As Death already grasped thee by the hair.
+}
+{
+}
+
+{
+}
+{
+}
+{
+Say thou what kindly is and truth,
+Say not the true that wakens ruth,
+Say not the kind that is not sooth.
+
+Yet rather silence were preferred,
+And second truth, and the law third,
+And only fourth the kindly word.
+}
+{
+}
+
+{
+}
+{
+}
+{
+    One law there is: no deed perform
+    To others that to thee were harm;
+    And this is all, all laws beside
+  With circumstances alter or abide.
+}
+{
+}
+
+{
+}
+{
+}
+{
+    This have I done, and that will do,
+    And this half-done must carry through: —
+    So busied, bustling, full of care,
+  Poor fools, Death pounces on us unaware.
+
+    To-day is thine, fulfill its work,
+    Let no loose hour her duty shirk;
+    Still ere thy task is done, comes Death,
+  The Finisher, — he ends it with thy breath.
+}
+{
+}
+
+
+
+
+
+
+
+
+
+
+{
+}
+{
+}
+{
+}
+{
+  THE PERVERSITY OF FATE
+
+  I see a dog, but not a stone;
+  I find a stone, the dog is flown;
+  If dog and stone at once I view,
+  The king's dog! Damn! What can I do?
+         —From the _Anthology_
+}
+
+{
+}
+{
+}
+{
+}
+{
+  SIMPLE JUSTICE
+If, maiden of the lotus eye,
+  Your anger hurts you so,
+'Tis right you should not let it die,
+  You hardly could, you know.
+
+But once I gave you an embrace,
+  To keep it would be pain;
+And once I kissed your willing face,
+  Give me that kiss again.
+                    — From Amaru
+}
+
+{
+}
+{
+}
+{
+}
+{
+FORESIGHT
+From loving girls, ye wise, refrain;
+'Tis little pleasure, longer pain.
+But love three females none the less,
+Compassion, Wisdom, Friendliness.
+For swelling breasts of lovely girls,
+Trembling beneath their strings of pearls,
+And hips with jingling girdles—well,
+They do not help you much in hell.
+}
+
+{
+}
+{
+}
+{
+}
+{
+ALL OR NOTHING
+Vishnu or Shiva—but one god I crave;
+    One friend—a lordly king or hermit good;
+    One home—a city or a lonely wood;
+One love—a beauty or a desert cave.
+}
+
+{
+}
+{
+}
+{
+}
+{
+THE FLATTERER
+By stammering and tumbling down
+You try to smooth the monarch's frown;
+In the farce of life you play the clown.
+
+What part, I wonder, will you play,
+When age has sucked your strength away,
+And when your ears are fringed with gray?
+}
+
+{
+}
+{
+}
+{
+}
+{
+Hark to the counsel of the good,
+  Although irrelevant it looks;
+Their simple talk is richer food
+  And wiser than the best of books.
+}
+
+{
+viśramya viśramya vana-drumāṇāṃ
+chāyāsu tanvī vicacāra kācit |
+stanottarīyeṇa karoddhṛtena
+nivārayantī śaśino mayūkhān || BharSt_2.21 ||
+}
+{
+}
+{
+}
+{
+Graceful amid the forest shade
+Wandered a weary, weary maid;
+Alone, by moonbeams sore opprest,
+Lifting the garment from her breast.
+}
+
+
+{
+agre gītaṃ sarasa-kavayaḥ pārśvayor dākṣiṇātyāḥ
+paścāl līlāvalaya-raṇitaṃ cāmara-grāhiṇīnām |
+yady asty evaṃ kuru bhava-rasāsvādane lampaṭatvaṃ
+no cec cetaḥ praviśa sahasā nirvikalpe samādhau || BharSt_3.66 ||
+}
+{
+}
+{
+}
+{
+EVERYTHING OR NOTHING
+
+Suppose you have the sweetest song before you,
+  The graceful poets of the south beside you,
+Fan-girls behind who winsomely adore you
+  With tinkling rings; if nothing be denied you,
+
+Then you may well be most extremely greedy
+  To taste each charming, mortal delectation;
+But if you be in anything left needy,
+  Renounce it all and plunge in meditation.
+}
+
+
+
+

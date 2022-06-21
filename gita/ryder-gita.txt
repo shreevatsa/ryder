@@ -1,0 +1,4324 @@
+# My comments
+
+This is a somewhat obscure translation of the Bhagavad Gita, done by
+the prolific Sanskrit translator Arthur W. Ryder in 1929 (now public
+domain: pre-1976, copyright never renewed). As far as I know, it is
+the first and only complete translation into rhymed metrical English
+verse. Such an attempt has its consequences.
+
+By modern standards, this is not a good translation at all.
+
+Translations are considered to lie between two ends:
+
+- Translations (invariably in prose) that reproduce the meaning of the
+  original verses to a great degree, and are thus considered to
+  preserve the fidelity (called “literal” translations),
+
+- Translations that
+
+Inasmuch as these are the recognised extremes, this translation seems
+neither literal nor literary. Or as Gerald James Larson talks of the
+issue in _The song celestial: Two centuries of the Bhagavad Gita in
+English_:
+
+> The Stylistic Continuum
+>
+> It is a truism that every language is unique and that there are nuances and subtleties in one language that are simply untranslatable in another. Apart from this, however, every translator must address the issue of what might be called stylistic verisimilitude. Is the translation to reflect the phonology, morphology, and syntax of the first medium or is it to reflect only an appropriate style in the second medium? [...] Edgerton's precise translation of the Bhagavad Gita (1944) is a classic illustration of the first approach, and Edwin Arnold's The Song Celestial (1885) an illustration of the second. One might refer to this continuum as the “literal/literary continuum,” but much more is involved than that. Closer perhaps is an expression like “first-language/second-language continuum,” for it is quite possible to do a translation that is both literal and literary (for example, R. C. Zaehner's translation of the Gita, 1969) and one that is neither (for example, **Arthur Ryder's trivialization of both Sanskrit *and* English in his rendering of the Gita, 1929**). What is important for a translator is to choose a stylistic mode that is appropriate to one or both of the languages with which the translator is working, and then to use the mode consistently throughout the translation.
+
+Well, yes. But as Ryder points out near the end of his introduction
+below, if you regard the *form* of the poem as part of its content,
+then something is lost in all other translations which is captured
+here. Insofar as the form is part of the original, this is partly more
+literal, and insofar as rhymed verse makes for good reading, this is
+also more literary. But of course, this argument cannot be taken too
+far or seriously, and you must judge for yourself.
+
+The Gita is chanted, sung... it's the *gita*, after all.
+
+The only equivalent in English is rhymed verse.
+
+He even translates anushtup to 4-line verse, and the longer metre to
+6-line verses!
+
+It takes great motivation to read a prose translation, but a rhyming
+translation can be read through (even if one tends to focus less on
+meaning).
+
+It does not seem very meaningful at places: “Goodness, passion and
+darkness”?
+
+
+# TRANSLATOR'S INTRODUCTION
+
+                  I
+
+    The world forever imitates
+      The action of its best;
+    Whatever law of life he sets,
+      Is followed by the rest.  (iii. 21)
+
+Among the many sacred books of India, the
+Bhagavad-gita—the Song of the Blessèd One—is the
+most influential, and probably the greatest. Among
+that people whose long history shows it the most
+deeply and the most creatively religious of peoples,
+the Song has won preeminence as a sacred text.
+Uncounted millions have drawn from it comfort and joy.
+In it they have found an end to perplexity, a clear, if
+difficult, road to salvation. Nor is it a mere document
+of completed history; its influence does not wane.
+Even in the West, in the face of prejudice and powerful
+organization, the Song gains an increasing respect,
+admiration, and devotion. It wins its way with no
+violence, through sheer profundity and nobility.
+
+Thus the Bhagavad-gita deserves attentive study:
+first, as a scripture with a long history of power;
+secondly, as a force that shapes today the life of a
+great people; most of all, as a living light to all who,
+
+                       from pride released,
+     Contemning neither creed nor priest,
+
+will receive illumination from its wisdom and beauty.
+
+             II
+
+    Although they kill me, Krishna, I
+      Have no desire to slay;
+    The earth would not reward me, nor
+    The universe repay.            (i. 35)
+
+The date and authorship of the Song cannot be
+determined; it is probably two thousand years old,
+or more. It comes to us as an episode in the sixth
+book of the vast epic called the Maha-bharata; but
+that great work is itself the growth of centuries,
+and cannot be exactly dated in any part.
+
+The great epic relates the events of a mighty struggle
+between two families of princely cousins, reared
+and educated together. In manhood they quarrel
+over the royal inheritance, and their difference is
+sternly solved by war. Both sides have an arguable
+case, while heroism and honor are not lacking to
+either.
+
+At the opening of the sixth book, the two armies
+are opposed on Kuru field. As the first missiles fly,
+Prince Arjuna, gazing at the enemy line, perceives his
+kinsmen and others to whom honor is due; sinks on his
+chariot floor; and refuses to fight. His argument
+against domestic strife is answered by Krishna, his
+charioteer, who is gradually revealed as an incarnation
+of Almighty God. The setting of the Song in the
+great epic is most powerful; for if it can be shown why
+a warrior must, on fit occasion, kill his own kinsmen,
+all lesser and easier cases of duty are obviously
+included.
+
+Thus the Bhagavad-gita is, first and foremost, a
+discussion of duty; not a mere eloquent exhortation
+(such are common enough) but a true answer, satisfying
+the reflective mind, to the insistent question _why_
+formal duties must be performed, even when they
+appear stupid or cruel.
+
+This answer is given in the second canto. But
+Prince Arjuna is not content. In meeting his natural
+doubts, Krishna is led to discuss the nature of the
+physical universe, and the relation of man's soul
+thereto; so that what began as the consideration of
+an ethical problem, becomes a complete scripture.
+
+               III
+
+    All duties that the dullards do
+      In selfish, greedy mood,
+    The wise should also do, detached,
+      For universal good.               (iii. 25)
+
+Krishna's secret is non-attachment, or disciplined
+activity. The ascetic solution is no solution, for man
+is driven to work, whether he will or no. If, however,
+he permits himself to believe that his soul is
+concerned with work, he becomes a materialist. Work
+well done not only does not bring salvation, it has no
+tendency to bring salvation; yet salvation is impossible
+without it. Its value is great, but negative. It
+is a condition necessary, but not sufficient. It is
+important because it is unimportant. What wise man
+permits the unimportant to block salvation?
+
+In simple cases the truth of this doctrine is
+obvious. Suppose I plan a long walk, and find a pebble
+in my shoe. Its removal is a necessary condition of
+success in my plan, yet of itself does not further that
+plan; hinders it indeed, if I imagine this action to be
+of itself meritorious, and become attached thereto.
+The same reasoning applies to the acquisition of the
+grammar of a language by one whose object is the
+enjoyment of poetry written in that language.
+
+This truth has a corollary. Work is well done only
+by those who perceive its unimportance.
+
+    The guided mind can leave behind
+      On earth, both good and ill;
+    So search out discipline, whereby
+    Is added meaner skill.            (ii.50)
+
+An apt illustration may be found in games of physical
+skill, in which success begins at the point where strain
+ceases.
+
+The principle of non-attachment is extended by
+Krishna to cover all labor. Here is the solution of the
+often-fumbled problem of the relation between faith
+and works. The more this principle is pondered, the
+more fruitful it appears, the more true.
+
+              IV
+
+    He sees himself in every life,
+      Sees every life that lives
+    Within himself; and so to all
+      A like emotion gives.        (vi. 29)
+
+As Krishna's discourse develops, aiming to explain
+the constitution of the physical universe and the
+relation of man's soul thereto, it draws ideas from three
+schools of thought, known in their codified form as the
+Vedanta philosophy, the Sankhya, and the Yoga.
+
+The Vedanta is monistic. It teaches that there is
+but one reality, and this spiritual, the “self”;
+consequently, that all material manifestations are illusory.
+For the Hindus, early dissatisfied with their inherited
+polytheism, discovered the Absolute. Then, since the
+reality of the perceiving mind cannot be denied, there
+is no escape from the conclusion that the self is the
+Absolute. The three stages of thought may be labelled
+with the tags “They are,” “It is,” “I am It.”
+Such infinite expansion of the self until fear and desire
+vanish, offers a vision of extraordinary emotional
+power; it is what we should all believe if we could.
+And even those not mystically gifted have occasional
+glimpses, in aesthetic joy and other strong, pure
+experiences, of what the levelling of all barriers might
+mean.
+
+The great achievement of the Vedanta is not
+logical, but emotional: a vision of what salvation, if
+attained, would be. The achievement is very great;
+for it was necessary to reconcile security with activity,
+and also the elevation of the plane of life with a
+conceivable prolongation of the present life. The achievement
+is best appreciated by considering how other religions
+have evaded the question, or have boggled it.
+
+            V
+
+    Now goodness, passion, darkness roam
+    As elements in matter's home;
+    In bodies, hero, their control
+    Forever fetters changeless soul.    (xiv. 5)
+
+The Sankhya system is pluralistic. It postulates
+the reality and conservation of matter; also, the
+existence of an indefinite number of individual souls. Its
+greatness is logical and scientific, not emotional. To
+the splendid lift and sweep of the Vedanta, it opposes
+“the still, small voice, whispering ‘bosh!’”
+
+Matter consists of three elements, bearing the
+names goodness, passion, and darkness. It is not here
+necessary to enlarge upon these three elements, since
+their nature and operation are clearly presented in
+cantos fourteen, seventeen, and eighteen of the Song.
+
+Matter is eternal and indestructible; but before
+creation, the three elements are in equilibrium. A
+disturbance of this equilibrium produces individuals, or
+in common phrase, causes the creation of the world.
+Each individual behaves in accordance with his physical
+constitution, being good, passionate, or dark in
+proportion to the mixture in him of the three
+elements.
+
+To man, the most important part of the physical
+universe is his own inner organs. These are three: the
+intellect, the I-maker, and the brain. The intellect is
+the organ of determination; the I-maker is the organ
+which introduces into matter the concepts “I,” “me,”
+“mine”; the brain is the central office of the five
+senses and the five functions. All thought, all psychic
+affections take place in matter.
+
+Yet the system is not materialistic; the operation of
+the soul, though reduced to a single function, is
+essential. The soul “illuminates” matter, brings it
+into consciousness. All human pain results from the
+soul's false identification of itself with what is in
+truth material. Salvation is release from this false
+identification; the soul then becomes like a light
+illuminating nothing, a mirror reflecting nothing, a
+clear crystal untinged by the red flower of passion.
+
+It is not here possible to do justice to the wisdom
+and penetration of the Sankhya system. To the present
+writer it appears a nearer approximation to the
+truth concerning the soul's relation to the physical
+universe than does any Occidental philosophy.
+
+              VI
+
+    Who does my work with utter love,
+      From all attachments free
+    And free from hate of any life,
+      Brave soldier, comes to Me.    (xi. 55)
+
+The Yoga system has much in common with the
+Sankhya. But it adds rules for spiritual self-discipline,
+and it introduces a personal God. The latter feature
+is, in strict logic, indefensible, since in such a system
+neither the power nor the mercy of God has any
+opportunity for action. The God of the Yoga is one
+more concession to man's insistent craving to conceive
+the superhuman in terms of personality.
+
+From these three sources—the Vedanta, the
+Sankhya, and the Yoga—the Song draws conceptions
+monistic, pluralistic, and monotheistic. That such
+conceptions cannot be perfectly fused, is, from
+rationalism's standpoint, obvious; and the lack of
+complete logical coherence is sometimes made a reproach
+to the Bhagavad-gita. In a certain sense, the reproach
+is not unjustified; yet here, too, a foolish consistency
+would seem the hobgoblin of little minds, if the emotional
+reconciliation is perfect.
+
+VII
+
+    Some find the self within the self
+      Through self-communion still;
+    A second group, through intellect;
+      And others through the will;
+    While some through discipline of works,
+      The needful task fulfil.              (xiii. 24)
+
+A most remarkable feature of the Song is its generosity,
+its recognition of the irreducible diversity of
+human nature. Other religions, zealous for a partial
+truth, harshly excommunicate those incapable of
+following a certain narrow path; their motto appears
+to be: He that is not with me is against me; and he
+that gathereth not with me scattereth abroad. And
+when the cruelty of deep conviction is overcome, they
+tend to a flabby broad-mindedness, effacing
+distinctions between superior and lower, hard and easy,
+right and wrong.
+
+But the Song (most clearly in xii. 8-11) provides
+various roads to salvation: the way of intuition, the
+way of concentrated study, the way of disciplined
+activity, the way of renunciation. All are hard, but
+for each man one or another is possible, so that none
+need despair. In its combination of sternness with
+tolerance, the Song is unique. Strangely noble also
+is its generous assurance that even a partial
+acceptance of its doctrine has saving power.
+
+    No effort so inspired is lost;
+      No backward slip is here;
+    The tiniest fragment of this law
+      Redeems from monstrous fear.   (ii. 40)
+
+Two difficulties in the doctrine present themselves
+to Occidentals. The first concerns caste, which is
+assumed without argument, so that a possible perplexity
+concerning the content of duty never arises. This
+difficulty is perhaps superficial, since all organized
+society has caste, with regulations more or less flexible;
+and it is probable that few men are seriously
+bewildered as to what duty is. Without discussion of
+the practical working of Indian caste, it may be
+permitted here to praise the theoretic beauty of a rigid
+caste-system, under which (since duty is prescribed
+from birth) labor is seen to be of only negative
+importance, and the soul is freed from the fetters of
+work.
+
+The second, and more profound, difficulty concerns
+the belief in the transmigration of souls. It is
+true that this doctrine satisfies the logical sense; it
+alone introduces order and justice into the otherwise
+inexplicable sadness of human fate; and there is a
+little, a very little, objective evidence of its truth.
+Yet it is hard to accept with a genuine faith.
+
+               VIII
+
+    From native nature every life
+    Its special faith receives;
+    For man is fashioned from his faith
+    And is what he believes.             (xvii. 3)
+
+The Bhagavad-gita makes its prime appeal to the
+reflective mind, depressed and perplexed by the spectacle
+of life. Such a mind, after bitter experience of
+the meanness of power, the imperfections of institutions,
+the sadness of knowledge, inevitably raises the
+questions: Why do one's duty, in such a world as the
+present? How is it possible, in such a world, to see
+any profit or joy in duty done? Partial answers may
+be found in Homer, Ecclesiastes, Lucretius, the New
+Testament, and elsewhere; the full answer, satisfying
+both intellect and spirit, is given in the Song of the
+Blessèd One.
+
+Though such a procedure is somewhat mechanical,
+it may be well to enumerate certain fundamental
+thoughts of the Song, foundation-stones upon which
+is reared its structure of peace and joy:
+
+ 1\) The job of living must be accepted, with all its
+ specific limitations, such as sex, race, and social
+ status.
+
+ 2\) The job must be done without attachment or
+ desire of reward (as in Jesus' beautiful parable of the
+ sower).
+
+ 3\) Salvation is difficult, but open to all. Since
+ there are paths adapted to diverse capacities, none
+ need despair.
+
+ 4\) Intelligent thought is necessary, not shuffling
+ of responsibility upon any other, whether man or
+ god. And beyond intelligent thought, there is need
+ of faith,
+
+    For man is fashioned from his faith,
+      And is what he believes.
+
+
+             IX
+
+    This virtuous dialogue of ours
+    If any study, he
+    Has brought me wisdom's sacrifice:
+    I speak with certainty.            (xviii. 70)
+
+An extensive literature of comment, in the languages
+of India and of Europe, concerns itself with
+the Bhagavad-gita. There are also numerous translations
+into modern languages.
+
+Several of the prose translations into English have
+real excellence; they reproduce the substance of the
+text, insofar as substance can be divorced from form.
+One verse translation—_The Song Celestial_ of Sir
+Edwin Arnold—has, and deserves, a high reputation;
+yet it diverges rather widely from the original, as
+regards both metrical form and the detail of
+interpretation.
+
+The present version aims, so far as is possible, at
+the exactness of the better prose translations, while
+holding as much of the original's poetic grace and
+power as could be captured.
+
+                                Arthur W. Ryder
+
+Berkeley, California
+June, 1929
+
+
+# Canto I
+
+## Narrative introduction: Arjuna hesitates to kill his kinsmen in battle
+
+< Dhritarashtra said,
+
+    My men and Pandu's hostile host
+      Who met on Kuru plain—
+    Their manhood's field—were keen for fight:
+    But what did each attain?
+
+< Sanjaya said,
+
+    Your kingly son—when he beheld
+    The hostile army, led
+    By Pandu foemen—drawing near
+    His aged teacher, said:
+
+    My teacher, see! Before us stands
+      A mighty, marshalled throng;
+    A subtle pupil of your own
+      Deploys that army strong:
+
+    Heroic archers, fierce in fight
+      As Pandu's offspring are;
+    A king I see, a second king,
+      A third with lordly car;
+
+    A fourth, a fifth; the manly lord
+      Of Kashi's realm; and then
+    Comes Kunti's king; his brother; and
+      Bold Shaivya, bull of men;                                      (5)
+    There stands another pair of kings
+      Whose valor reaches far;
+    And sons of two most lovely queens—
+      Each with his lordly car.
+
+    But now, O best of Brahman men,
+      Pay heed while I proclaim
+    My army's stoutest captains whom
+      I mention, name by name:
+
+    Yourself; and Bhishma; Kripa next
+      By whom great fights were won;
+    Your child; Vikarna; Karna, too;
+      And Somadatta's son;
+
+    And many other heroes who
+      Have staked their lives for me
+    With varied arms to cut and thrust,
+      All skilled in strategy.
+
+    Our army, led by Bhishma, seems
+      Unequal to its task;
+    The marshalled foemen have the strength
+      That circumstances ask.                                         (10)
+    But close your ranks, brave gentlemen!
+      Whatever fate befall,
+    To battle's end our chief defend:
+      Guard Bhishma, one and all!
+
+    And valiant Bhishma, grandsire of
+      The noble Kuru clan,
+    Bred joyous lust of battle in
+      His king. The grand old man
+    Sounded his conch-shell. Round the ranks
+      His lion war-cry ran.
+
+    Then drums that boomed or shrilled or squeaked
+      Were beaten. Trumpets blew
+    And conch-shells. In one moment raised,
+      The screaming fury flew.
+
+    White horses drew a splendid car,
+      And in it Krishna stood
+    With Arjuna. They blew their shells
+      Divine in fighting mood.
+
+    For Krishna blew his Demon-spoil;
+      Arjun, his Heaven-sent;
+    While fierce wolf-bellied Bhima's breath
+      To his great conch was lent;                                    (15)
+    The Pandus' royal leader drew
+      From Conquest notes of power;
+    The princely twins, his brothers, blew
+      On Sweet and Jewel-flower.
+
+    The mighty archer of Kashi;
+      He of the stately car;
+    Three other kings of lofty name,
+      Invincible in war;
+
+    King Drupad, and his daughter's sons
+      Blew each his several shell;
+    The stout-armed child of Arjuna
+      Blew valiantly, as well.
+
+    A din arose, the hearts of foes
+      To pierce and terrify;
+    Arose a din, to echo in
+      The earth and in the sky.
+
+    Then monkey-bannered Arjuna
+      Beheld the ordered foe;
+    Though missiles had begun to fly,
+      He lifted up his bow                                            (20)
+    And spoke to Krishna, having need
+      His purpose to explain.
+
+< Arjuna said:
+
+    Unshaken warrior, halt the car
+      Between the armies twain
+
+    While I inspect the men who stand
+      Against us, battle-keen.
+    Who are to fight with me, before
+      The struggle's end is seen?
+
+    I would regard the soldiers who
+      Make up that hostile line.
+    Who fight to win a triumph in
+      Their leader's dark design.
+
+< Sanjaya said:
+
+    So Krishna halted once again
+    The car between the armies twain.
+
+    In face of Bhishma, Drona, and
+      Of many a mighty king
+    “Behold, brave Arjuna,” he said,
+      “The Kurus' gathering.”                                         (25)
+    And Arjuna saw standing there
+      The kin of many mothers,
+    Saw teachers, grandsons, grandsires, sires,
+      Children, companions, brothers,
+
+    Fathers of wives, and comrades dear
+      Within the armies twain.
+    When he beheld so many kin
+      Upon the battle-plain,
+
+    Profoundest pity entered him;
+      His spirit sank; he said.
+
+< ARJUNA SAID,
+
+    When, Krishna, I behold my kin
+      To battle's fury led,
+
+    I feel my mouth go dry; I feel
+      My fainting members fail;
+    My hair stand up in horror; and
+      My trembling body quail.
+
+    The bow Gandiva drops from out
+      My hand; my skin is burning;
+    I can no longer keep my feet;
+      My maddened brain is turning;                                   (30)
+    And evil omens threaten me;
+      Krishna, it is not right
+    To look for any blessing, if
+      I kill my kin in fight.
+
+    I do not wish for victory,
+      A kingdom, or its joys:
+    The kingdom, its delights, and life
+      Would then be foolish toys.
+
+    A kingdom, its delights, its joys
+      I only need for those
+    Who, venturing their lives and wealth,
+      Stand yonder as our foes:
+
+    Our teachers, grandsires, sires, the sires
+      And brothers of our wives,
+    Our uncles, grandsons, sons, the kin
+      Dear as our very lives.
+
+    Although they kill me, Krishna, I
+      Have no desire to slay;
+    The earth would not reward me, nor
+      The universe repay.                                             (35)
+    When Dhritarashtra's sons are slain
+      Where is our pleasure then?
+    Mere sin would fasten on us, if
+      We killed these desperate men.
+
+    Ah, no! It is not right
+      To kill our kin in fight.
+    Where, having killed our kin,
+      Would happiness begin?
+
+    For though they bear a mind
+    That greed has stricken blind,
+      So do not see
+    Betrayal as a sin,
+    Nor ruin struggling in
+      One family,
+
+    Shall we not find a mind
+    To leave such wrong behind
+      Because we see,
+    Bold soldier, what a sin
+    Is ruin struggling in
+      One family?
+
+    Soon family observances
+      Would lose all power to bless;
+    The family entire is then
+      Assailed by lawlessness.                                        (40)
+    Through such assault of lawlessness
+      The women grow impure;
+    When women falter, mingling of
+      An alien blood is sure;
+
+    And this means hell, not only for
+      The sinners, but for all;
+    No longer honored fathers from
+      Their seats in heaven fall.
+
+    Such fatal peccancies, whereby
+      Pure blood and custom flee,
+    Subvert the immemorial laws
+      Of caste and family.
+
+    And men subverting family law
+      (Our old traditions tell)
+    Will find a certain dwelling-place
+      Appointed them in hell.
+
+    A curse upon such awful deeds!
+      We planned a monstrous sin
+    When, greedy for a kingdom's joys,
+      We thought to kill our kin.                                     (45)
+    If I oppose no weapon to
+      Their weapons, if they slay
+    My unresisting body, I
+      Have found the better way.
+
+< SANJAYA SAID:
+
+    So Arjun in the battle spoke,
+      Sank on his chariot's floor,
+    Let fall his arrows and his bow,
+      With sorrow smitten sore.
+
+# Canto II
+
+## Krishna's reply: Be brave (no reasons given)
+
+< SANJAYA SAID:
+
+    To him, desponding thus, his heart
+      With inner pity stirred,
+    His tear-filled eyes bewildered, then
+      Krishna pronounced this word.
+
+< THE BLESSÈD ONE SAID,
+
+    Whence, Arjun, in your hour of trial
+      Comes this ignoble shame,
+    Unfit for heaven, repugnant to
+      An honorable name?
+
+    Yield not to impotence, for you
+      An unbefitting pose!
+    Shun paltry feeble-heartedness!
+      Arise! Distress your foes!
+
+## Arjuna's doubts are not resolved
+
+< ARJUNA SAID,
+
+    _Your_ foes are devils. How shall I
+      With arrows struggle to
+    Fight Bhishma down, and Drona? For
+      Great honor is their due.
+
+    Far better eat a beggar's bread
+      On earth, not having slain
+    These honored ones, than strike them down
+      (Although they lust for gain)
+    And taste earth's richest banquets, all
+      Smeared with a bloody stain.                                    (5)
+    Defeat or conquest? Which would seem
+      More grievous, is unclear;
+    For Dhritarashtra's warlike sons,
+      Before us marshalled here,
+    Stand forth our kinsmen; slaying whom,
+      Not even life were dear.
+
+    A sinful pity clouds my soul;
+      I know not wrong nor right:
+    Reveal my duty certainly
+      Unto my clearer sight;
+    Give sure instruction: for I come
+      A pupil, seeking light.
+
+    For I perceive no instrument
+      To mitigate the woe
+    That then would desiccate my powers,
+      Though rivals failed, and though
+    I were the king of gods above
+      And this rich earth below.
+
+< SANJAYA SAID,
+
+    So spoke heroic Arjuna
+      To Krishna, then released
+    His final purpose in the word
+      “I will not fight,” and ceased.
+
+## Krishna continues: Do not grieve over what is imperishable
+
+    With gentle smiles, between the hosts
+      Of foeman and ally,
+    Unto despondent Arjuna
+      Thus Krishna made reply.                                        (10)
+< THE BLESSÈD ONE SAID,
+
+    You a philosopher! On them
+      Who need it not, you shed
+    Your pity. Wise men pity not
+      The living or the dead.
+
+    There is no past when I was not,
+      Nor you, nor these; and we
+    Shall—none and never—cease to live
+      Throughout the long to-be.
+
+    As this embodied soul endures
+      His childhood, youth, and age,
+    So surely waits a future form—
+      No doubts perplex the sage.
+
+    But matter's impacts—cold and heat,
+      Pleasure and pain—are sure
+    To shock and pass, impermanent;
+      Endure, brave prince, endure.
+
+    For any man, O bull of men,
+      Unvexed thereby, firm, free
+    From pain and pleasure, fits himself
+      For immortality.                                                (15)
+    Since naught unreal can come to birth,
+      No real thing cease to be,
+    The limits of the twain are plain
+      To them who truly see.
+
+    Eternal, then, is that by which
+      Creation's web was spun;
+    Destruction of eternal life
+      Is possible to none.
+
+    These bodies pass; but he within,
+      With life immortal dight,
+    Is neither limited nor lost:
+      Therefore, brave hero, fight!
+
+    If the red slayer think he slays,
+      The slain think he be slain,
+    They err: the slayer vainly kills;
+      The victim dies in vain.
+
+    He is not born, he does not die
+      Forever and forever;
+    The body may be slain, but he
+      Can pass and perish never,
+    Unborn, inveterate, antique
+      In ceaseless new endeavor.                                      (20)
+
+    How then, or whom, can he who knows
+      What passes not away,
+    Eternal. changeless, uncreate,
+      Slay that, or cause to slay?
+
+    Even as a man will cast aside
+      His tattered garments, taking
+    New vesture, so the body's lord,
+      Old, tattered forms forsaking,
+    Endues himself with fresh attire
+      In forms of newer making.
+
+    No weapon's edge can cut him; nor
+      Can water saturate;
+    No fire can burn him; him no wind
+      That blows, can desiccate.
+
+    Immune to cutting and to fire,
+      To dry and wet, is he;
+    Undying, boundless, mountain-firm
+      Throughout eternity;
+
+    Beyond the range of form or thought
+      Or variation's whim:
+    Therefore (this nature recognized)
+      How can you pity him?                                           (25)
+## Nor over what is perishable
+
+    Or if you think him subject to
+      Each oft-recurrent whim
+    Of birth and death—still, mighty lord,
+      How can you _pity_ him?
+
+    For all, once born, will surely die;
+      What dies, will come to birth;
+    In matters ineluctable
+      What is your pity worth?
+
+    All life's beginnings are obscure,
+      But clear the middle plan;
+    Obscure again the latter end—
+      Why should it grieve a man?
+
+    One sees the soul as wonder,
+      A something unexplained;
+    One speaks of him, one hears him
+      While wonder still remained:
+    For even through hearing is no
+      Full understanding gained.
+
+    The body's lord who dwells within
+      Each form, is never slain:
+    That pity, therefore, is misplaced
+      Toward any life, is plain.                                      (30)
+## Appeal to duty as discerned by instinct and training
+
+    Besides, to tremble at the view
+      Of duty, is not right,
+    Since warriors have no duty more
+      Ennobling than fair fight,
+
+    Which freely offers open gates,
+      O prince, to heaven's bliss;
+    And happy warriors run with joy
+      To meet a fight like this.
+
+    With shirking of this righteous fight
+      Your infamies begin:
+    Your virtue and your name are lost,
+      And you are sunk in sin.
+
+    All living things will gossip of
+      Your everlasting shame;
+    And to a man once honored, death
+      Is less than evil fame.
+
+    To simple soldiers such a flight
+      Must craven shirking seem,
+    While you exchange their reverence
+      For sudden disesteem.                                           (35)
+    And many insults will be spread
+      By them who cherish hate,
+    Naming you something less than man:
+      Is there a sadder fate?
+
+    Be slain and thus attain
+      The sky most high;
+    Or win, and revel in
+      Earth's show below—
+    Rise! Find a ready mind
+      For rightful fight.
+
+    Make level conquest and defeat;
+      Pain, pleasure; loss and gain:
+    Then gird yourself to fight; for thus
+      No tainting sins remain.
+
+## Thus far goes Sankhya rationalism; but Yoga intuition has more to say
+
+    Now add the wisdom of the will
+      To wisdom of the mind;
+    For thus, O prince, the broken bond
+      Of works is left behind.
+
+    No effort so inspired is lost;
+      No backward slip is here:
+    The tiniest fragment of this law
+      Redeems from monstrous fear.                                    (40)
+    True thought is simple, and its heart
+      Is resolute, unbending;
+    Irresolution ramifies
+      In whims without an ending.
+
+## Screed against scholars
+
+    But undiscerning men who deck
+      Their speech with verbal flowers,
+    With scripture phrases, who proclaim:
+      “The total truth is ours!”
+
+    Who hug desires, who aim at heaven,
+      New births, rewards, the swarm
+    Of lordly luxuries that flow
+      From duties multiform,
+
+    Who love their lordly luxuries
+      With passion overwrought—
+    These have no wisdom resolute;
+      They know no centred thought.
+
+    For scripture deals with objects. Be
+      Superior to this!
+    Pure goodness be, not glad nor grieved,
+      Calm, free from avarice!                                        (45)
+    For scripture, to the Brahman who
+      Discerns and understands,
+    Has just such value as a well
+      In overflooded lands.
+
+## Labor, but care nothing for the fruits of labor
+
+    With labor let your business be,
+      Not with rewards of work;
+    Be not impelled by work's rewards,
+      Yet do not think to shirk.
+
+    Labor without attachment, firm
+      In discipline of will:
+    Make level gain and failure; thus
+      True discipline fulfil.
+
+    For worth of works lies far beneath
+      True discipline of mind;
+    Seek refuge there, and leave rewards
+      Unto the sordid kind.
+
+    The guided mind can leave behind
+      On earth, both good and ill;
+    So search out discipline, whereby
+      Is added meaner skill.                                          (50)
+    For sages of the guided mind
+      Abandon labor's gain;
+    So freed from bonds of birth, they find
+      A place that knows no pain.
+
+    And when your mind shall leave behind
+      Confused delusions vain,
+    Then scriptures—present and to-be—
+      Will fill you with disdain.
+
+    When once your mind, to scriptures blind,
+      Stands firm and fixed within
+    Pure concentration, you attain
+      The perfect discipline.
+
+## Indifference is peace
+
+< ARJUNA SAID,
+
+    But, Krishna, how describe the man
+      Concentred, firm of wit?
+    How would one fixed of mind proceed
+      To speak? or walk? or sit?
+
+< THE BLESSÈD ONE SAID,
+
+    When all desires are spurned, that mean
+      The brain's bewilderment,
+    Then, Arjun, is he firm of wit
+      With self, in self, content.                                    (55)
+    By pain untroubled, unallured
+      By pleasure, is the sage
+    Whose concentration puts to flight
+      All passion, fear, and rage.
+
+    Whoever scorns self-interest,
+      To gloom and glory blind,
+    Without desire or loathing, he
+      Has an established mind.
+
+    He, when he draws his senses from
+      All objects of their kind,
+    As a turtle draws within his shell,
+      Has an established mind.
+
+    To them who fast, the objects fade
+      While still the hunger stays:
+    Even hunger vanishes for them
+      Who on the highest gaze.
+
+    For, Arjun, though a man may strive
+      With more than common sense,
+    His churning instincts drag astray
+      The mind with violence.
+
+    Subdue them all; be disciplined;
+      Leave all but Me behind:
+    Since he who masters every sense,
+      Has an established mind.
+
+    When man reflects on things of sense,
+      Attachments to them move
+    His spirit; love thus comes to birth;
+      And wrath is born of love;
+
+    Of wrath, delusion; and thereof
+      A roving memory tossed;
+    With memory fails intelligence;
+      And so the man is lost.
+
+    But, meeting things with senses from
+      Desire and hatred free.
+    Subdued to his self-mastered soul,
+      He wins serenity.
+
+    And when serenity is won,
+      All griefs are overpast;
+    Since straightway in the mind serene
+      Intelligence stands fast.                                       (65)
+    The unsteadied lack intelligence,
+      Lack thought of things divine;
+    The unthinking lack perfected peace,
+      So in discomfort pine.
+
+    For when the mind of man becomes
+      His gadding senses' slave,
+    It buffets wisdom, as the wind
+      A ship upon the wave.
+
+    He then whose senses are no more
+      With things of sense entwined,
+    But wholly free, brave hero, he
+      Has an established mind.
+
+    When other creatures sink in night,
+      The seer, self-mastered, wakes;
+    ’Tis night to him, when on the world
+      Its hour of dawning breaks.
+
+    As entering rivers seek to fill
+      But do not fill the sea,
+    So all desires may enter him,
+      Yet perfect peace shall he
+    Hold safe. To him who seeks desires,
+      Such peace shall never be.                                      (70)
+    So, dropping all desires, the man
+      Who walks in full release
+    From every lust of ‘I’ and ‘mine,’
+      Attains his perfect peace.
+
+    This, hero, is a resting-place
+      Of Brahma's high design;
+    Perplexities are banished hence;
+      And man, within this shrine
+    Abiding at his final hour,
+      Attains to peace divine.
+
+# Canto III
+
+## Why then work at all?
+
+< ARJUNA SAID,
+
+    If wisdom seem the greater thing
+      To you, and work the less,
+    Why, O my master, drive me to
+      This work of frightfulness?
+
+    With seeming ambiguities
+      You rob my mind of rest:
+    Determine one clear course for me
+      That I may seek the best.
+
+## Because life is work; but indifference to results is needful
+
+< THE BLESSÈD ONE SAID,
+
+    Still, blameless hero, as of old
+      My twofold prescript lives:
+    The discipline of intellect;
+      And that which action gives.
+
+    Inert refusal cannot save
+      From work, by mere negation;
+    Nor can perfection be attained
+      By bald renunciation.
+
+    None for a single moment can
+      Abide work-free and still;
+    Since driven by matter's elements,
+      Man works despite his will.                                     (5)
+    The self-deceiver who would curb
+      His active powers, to sit
+    Reflecting on the things of sense,
+      Is dubbed a hypocrite.
+
+    While he who can—his senses curbed—
+      With active powers proceed
+    To work without attachment. may
+      Be termed a man indeed.
+
+## Necessity of sacrifice
+
+    Perform the task appointed you;
+      Far better work than shirking:
+    For even your body's life could not
+      Continue but for working.
+
+    Save for the works of sacrifice,
+      All labors cling and bind;
+    With sacrificial purpose work,
+      Attachment left behind.
+
+    The Lord, creating sacrifice
+      With man, proclaimed of old:
+    Through this be multiplied; may this
+      Yield wishes manifold.                                          (10)
+    Through this pay honor to the gods;
+      And may they honor you:
+    High bliss shall be attained through gifts
+      Of mutual honor due.
+
+    Gods, paid by sacrifice, will grant
+      The banquets that you crave;
+    Who eats their gifts without return,
+      Is but a thievish knave.
+
+    The good who pay the gods, then eat,
+      Are freed from guilt within,
+    While rogues who cook for selfish ends,
+      Are truly eating sin.
+
+    All living things proceed from food;
+      And food is born of rain;
+    Rain follows on the sacrifice;
+      Whose Source is work again;
+
+    Work springs from spirit; this from the
+      Imperishable springs:
+    Thus sacrifice the spirit holds
+      Of all eternal things.                                          (15)
+    So rolls the wheel; and he on earth
+      Who does not help it roll,
+    Lives an unserviceable life,
+      A sensual, sinful soul;
+
+## But be satisfied with the self
+
+    While he who finds within the self
+      An all-sufficient beauty,
+    Pure joy, contentment absolute,
+      Is freed from sense of duty.
+
+    To him no action done, nor left
+      Undone, has any worth;
+    He craves no necessary boon
+      From anyone on earth.
+
+    Without attachment, therefore, pay
+      Each day's appointed toll;
+    Since only he who works detached,
+      May win the highest goal.
+
+## Set an example to weaker brethren
+
+    Through labor was perfection won
+      By Janak and his brood
+    Of heroes. You should labor thus
+      For universal good.                                             (20)
+    The world forever imitates
+      The action of its best;
+    Whatever law of life he sets,
+      Is followed by the rest.
+
+    The triple world contains no task
+      Demanding _my_ endeavor,
+    Naught unattained to be attained;
+      Yet I work on forever.
+
+    If I should slacken for a time
+      In my unwearied work,
+    All men, brave Arjun, everywhere
+      Would imitate, and shirk.
+
+    If I should cease to labor, then
+      These worlds would sink away;
+    I should confound all ordered life,
+      And these my children slay.
+
+    All duties that the dullards do
+      In selfish, greedy mood
+    The wise should also do, detached,
+      For universal good.                                             (25)
+    Be wise; confuse no cherished faith
+      Dull, selfish brains within;
+    Approve all works. But work yourself
+      With stern self-discipline.
+
+    From matter's mechanism all
+      Earth's restless works proceed,
+    While some deluded egoist
+      Assumes: “I did the deed.”
+
+    But he who knows as strange to him
+      Work's mechanistic goal,
+    Sees matter act in matter, and
+      Dissociates his soul.
+
+    When matter's action stirs the greed
+      Of sad materialists,
+    The enlightened should not jar these dull,
+      Imperfect scientists.
+
+## Work at your own task; constrain not nature
+
+    Pledge all your works to Me. Seek in
+      The Oversoul for light;
+    So, free from selfishness, and hope
+      And fevered anguish, fight!                                     (30)
+    The man of faith, from malice free,
+      Who this my doctrine heeds
+    And ever practices, may win
+      Salvation even by deeds.
+
+    While he whom malice leads to scorn
+      This doctrine's high command,
+    Is quite deluded, and is lost:
+      He does not understand.
+
+    The wise man also must obey
+      His nature without fail.
+    Life ever follows nature. What
+      Will violence avail?
+
+    The objects of each several sense
+      Are bait about the den
+    Of Passion and of Hatred. Shun
+      These ambushed highwaymen!
+
+    Far better botch your job than gain
+      Perfection in your neighbor's:
+    Die if you must, but do not run
+      The risk of alien labors.                                       (35)
+## The enemy is Desire and Wrath
+
+< ARJUNA SAID,
+
+    But, Krishna, who or what compels
+      A man to practice sin
+    Against his will, as though some force
+      Pulled him and pushed him in?
+
+< THE BLESSÈD ONE SAID,
+
+    Desire and wrath! Desire and wrath!
+      The gluttonous monster! He
+    That springs from man's self-interest!
+      Behold the enemy!
+
+    Like smoke engulfing parent fire,
+      Or rust the mirror's face
+    Or womb the unborn child, he hugs
+      The world in his embrace.
+
+    The wise man's wisdom, Arjun, is
+      Engulfed by draped Desire,
+    The eternal enemy, the hard
+      To be extinguished fire.
+
+    In senses, brain, and intellect
+      He dwells; confounds the whole
+    Of human wisdom by their means;
+      And thus deludes the soul.                                      (40)
+    Therefore constrain your senses first,
+      Brave soldier, and destroy
+    This monstrous foe of conscious truth
+      And wisdom's inner joy.
+
+    High are the senses; higher yet
+      The brain in nature's plan;
+    Yet higher is the intellect;
+      Highest of all is Man.
+
+    Oh, let the self find strength within
+      The self. Gaze ever higher
+    To what beyond the intellect
+      Is given to admire.
+    So, sturdy warrior, smite the foe,
+      The bitter foe, Desire.
+
+
+
+# Canto IV
+
+## Even Krishna must do works, but he seeks no reward
+
+< THE BLESSÈD ONE SAID,
+
+    I to Vivasvat once proclaimed
+      This law that never dies;
+    And he to Manu, who therewith
+      Rendered Ikshvaku wise.
+
+    By this succession it was known
+      To many royal sages;
+    But, hero, it was lost on earth
+      As ages followed ages.
+
+    This ancient mystery supreme,
+      This doctrine true for aye,
+    To you, my devotee and friend,
+      I re-proclaim today.
+
+< ARJUNA SAID,
+
+    Vivasvat's birth was earlier far
+      Than yours. Since this is so,
+    How am I to interpret your
+      Proclaiming long ago?
+
+< THE BLESSÈD ONE SAID,
+
+    My former lives are many, as
+      Are yours. And I recall
+    These lives, heroic Arjuna,
+      While you forget them all.                                      (5)
+    For I, undying, uncreate,
+      Lord of all life on earth,
+    In mystic manner (following
+      My nature) come to birth.
+
+    Whenever vice grows prosperous
+      And virtue fades in pain,
+    O prince of Bharat's breeding,
+      I Create myself again.
+
+    To save the saintly, and to curb
+      The evil-doers' rage,
+    To establish virtue, I am born
+      In each succeeding age.
+
+    If any truly knows my birth
+      And work celestial, he
+    Escapes rebirth when life is done:
+      He, Arjun, comes to Me.
+
+    Yes, many, filled with utter trust,
+      From fear, wrath, passion free,
+    By bleak self-knowledge purified,
+      Have entered into Me.                                           (10)
+    In ways diverse do they approach,
+      And diverse welcome win;
+    For all men, Arjun, everywhere
+      Must tread my path within.
+
+    Some sacrifice to earthy gods
+      That works' rewards be gained;
+    For in the human world, success
+      In works is soon attained.
+
+    Four castes I made for tasks diverse
+      And matter's varied range;
+    I made them, yet myself remain
+      Beyond all tasks, all change.
+
+    My works contaminate me not,
+      I yearn for no reward;
+    Nor is he bound by works, who thus
+      Beholds in me his Lord.
+
+    So minded, worked the men of old
+      Who hungered for salvation;
+    Let ancient work of ancient men
+      In you meet no frustration.                                     (15)
+## Working is not work; not-working is work
+
+    To work? or not to work? Such are
+      The questions that perplex
+    Even the poets. Therefore I
+      Will solve the doubts that vex,
+    Imparting knowledge apt to save
+      Your soul from sinful flecks.
+
+    True work, perverted work, non-work
+      Must all be understood:
+    For this mysterious path of work
+      Winds through a tangled wood.
+
+    Who sees non-working lurk in work,
+      Working in non-work lurk,
+    Is wise, is disciplined, a man
+      Successful in all work.
+
+    When all initiatives are
+      Desire- and fancy-free,
+    When work is burned in wisdom's fire,
+      Wise men a wise man see.
+
+    Detached from fruits of labor in
+      Contented self-reliance,
+    A man may plunge in works, and yet
+      Bid work a calm defiance.                                       (20)
+    At nothing grasping, hoping naught,
+      Mind, soul in strict restraint,
+    Doing his body's work alone,
+      He shuns all sinful taint.
+
+    Past opposites, from envy free,
+      Content with what is found,
+    Unmoved in failure and success,
+      He works, yet is not bound.
+
+## The work of sacrifice is needful, but may be made mystical and symbolic
+
+    Set free, his thoughts in wisdom based,
+      Scorning attachment's price,
+    He sees all labor melt and pass,
+      His work a sacrifice.
+
+    His gift is Spirit. Spirit is
+      Actor, and act, and flame.
+    His goal is Spirit. For he works
+      Rapt, in the Spirit's name.
+
+    Some ministrants make sacrifice
+      To mere gods. Some progress
+    To sacrifice self-sacrifice
+      In flames of holiness.
+
+    Some burn in fires of self-control
+      Their organs of desire,
+    While some consume the objects in
+      Those selfsame organs' fire.
+
+    All acts that in the senses root,
+      All those that breath begins,
+    Some burn in wisdom-kindled flames
+      Of stern self-disciplines.
+
+    Some saints severe make sacrifice
+      Of wealth, or bleak denial,
+    Of learning, or of wisdom, or
+      Deep contemplation's trial.
+
+    One sacrifices outward breath,
+      And inward breath, another;
+    Thus checking each by each, they strive
+      Excessive breath to smother.
+
+    Yet others, fasting, offer up
+      Their life in living breath.
+    All these are deft. Through sacrifice
+      They do their sins to death.                                    (30)
+    The nectar-food of sacrifice
+      Leads to eternal bliss:
+    Could any other world be won
+      By means that forfeit this?
+
+    So diverse sacrifices, spread
+      Before the Spirit's face,
+    Spring all from work. This knowing, you
+      Shall win salvation's grace.
+
+## For work is made perfect in wisdom
+
+    Rather to wisdom's sacrifice
+      Than money's, be directed:
+    All work whatever, valiant knight,
+      In wisdom is perfected.
+
+## Wisdom burns the after-effects of work
+
+    This wisdom, then, with modesty,
+      Zeal, deference, beseech;
+    For wise men who discern the truth,
+      Their truth will gladly teach.
+
+    So never shall you come again
+      Vainly perplexed to be,
+    Because you will behold all life
+      First in yourself, then Me.                                     (35)
+    Yes, even although you be the chief
+      Of sinners, none the less
+    Shall wisdom's raft convey you safe
+      Through seas of wickedness.
+
+    As fuel upon the kindled fire
+      To ashes straightway turns,
+    Just so, brave Arjun, wisdom's flame
+      All work to ashes burns.
+
+    For naught on earth can purify
+      Like wisdom. Self-control
+    Discovers it to man at last
+      Native, within his soul.
+
+## For wisdom faith is necessary
+
+    Through faith alone is wisdom won
+      By one intent, restrained;
+    But soon, on winning wisdom, is
+      His perfect peace attained.
+
+    The doubter, lacking faith, is lost;
+      His folly has no measure.
+    He loses earth, he loses heaven,
+      He loses simple pleasure.                                       (40)
+    When wisdom severs doubt, when works
+      Are discipline alone,
+    Man's works no longer fetter him:
+      He calls his soul his own.
+
+    Unwisdom is the source of doubt
+      That in your bosom lies.
+    A sword of wisdom you must now,
+      To sever it, devise
+    By trust in labor's discipline.
+      Arise, brave prince! Arise!
+
+
+
+# Canto IV
+
+## The Sankhya way and the Yoga way are at bottom the same; but the Yoga way is the more natural to follow
+
+< ARJUNA SAID:
+
+    Renouncing works, performing works
+      In turn you seem to praise.
+    Oh, tell me, Krishna, certainly
+      The better of these ways.
+
+< THE BLESSÈD ONE SAID,
+
+    Renouncing and performing works
+      Both lead to sure salvation.
+    Yet of the two, performance still
+      Excels renunciation.
+
+    Man perfectly renounces, when
+      Desire and hate have died.
+    When opposites are overcome,
+      His fetters fall aside.
+
+    The wise man knows. But children may
+      Proclaim as diverse still
+    The self-denying disciplines
+      Of intellect or will.
+    The fruit of both is given him
+      Who either can fulfil.
+
+    Those trained in intellect or will
+      To one abode proceed:
+    Whoever sees the double road
+      As single, sees indeed.                                         (5)
+    Yet is renunciation hard
+      With untrained will to gain;
+    The will-trained sage in briefer time
+      The Spirit may attain.
+
+## Activity is present only in matter
+
+    So disciplined, so self-subdued,
+      So able to restrain
+    Sense-powers, so purified, his soul
+      Expanding to contain
+    All souls that live, he labors yet
+      Escapes from labor's stain.
+
+    “Nothing is done by me,” he thinks
+      (And simple truth he keeps)
+    While touching, while he sees, or hears,
+      Smells, eats, walks, breathes, or sleeps,
+
+    Discourses, opens, shuts his eyes,
+      Appropriates, resigns.
+    “It is but senses acting on
+      Sense-objects,” he opines.
+
+    When he, detached, lays all his works
+      Before his Spirit chief,
+    Sin stains him not, as water-drops
+      Stain not the lotus-leaf.                                       (10)
+    If body, brain, and intellect,
+      And sensive powers are free,
+    He works detached, and for his soul
+      Finds perfect purity.
+
+    When fruits of work are firmly scorned,
+      Essential peace is found;
+    While wantons, grasping labor's fruit,
+      Are by that effort bound.
+
+    In thought rejecting every work,
+      The lordly soul may dwell
+    At ease within the body (that
+      Nine-gated citadel)
+    All need of work or causing work
+      Ingenious to expel.
+
+    This lord creates no agency,
+      No worldly work's display,
+    Nor fits the work to apt reward;
+      But nature goes its way.
+
+    This master takes upon himself
+      No guilt nor good from any:
+    Unwisdom, clouding wisdom here,
+      Bewilders very many.                                            (15)
+## Hence one should be indifferent to outer objects
+
+    But when, by knowledge of the self,
+      Unwisdom is undone,
+    The goal supreme most clear will seem
+      Through wisdom's heavenly sun.
+
+    With That in purpose, mind, and soul,
+      With thoughts thereto that soar,
+    Those saved by wisdom from their sins,
+      Departing, come no more.
+
+    They look alike on some good priest
+      Matured in learning's vow,
+    An eater of dogs' flesh, a dog,
+      An elephant, a cow.
+
+    They conquer nature here on earth
+      When differences cease.
+    They rest at peace in Spirit, which
+      Is flawless and at peace.
+
+    The Spirit-conscious, firm of mind,
+      Find nothing to perplex
+    Their peace, when pleasures cease to please,
+      Vexations cease to vex.                                         (20)
+    When life to Spirit is attuned,
+      Man finds within his soul
+    The joyfulness that never comes
+      While senses claim their toll.
+    So disciplined, he finds the joys
+      That ever new unroll.
+
+    But all delights of contact, which
+      Begin and have an end,
+    Are truly wombs of pain. To such
+      The wise will not attend.
+
+    He who can conquer here on earth
+      (Before his body's rest)
+    The rush of anger and desire,
+      Is disciplined, is blest.
+
+## For peace is from within
+
+    With inner comfort, inner light,
+      And inner rapture blest,
+    He turns pure Spirit, penetrates
+      The Spirit's final rest.
+
+    That final rest the sages win
+      Who cut the knot of strife
+    Controlled and stainless, taking joy
+      In every happy life.
+
+    That final rest enfolds the seer
+      Whose thoughts are in control,
+    Who leaves desire and wrath behind,
+      Who understands his soul.
+
+    He holds the outer world at bay;
+      His glances never rove;
+    His outward breath and inward breath
+      In even measure move;
+
+    Salvation is his only aim;
+      Desire, fear, anger flee;
+    His senses, brain, and intellect
+      Are curbed. The saint is free.
+
+    If he but knows that it is I
+      Who finally must test
+    Each sacrifice, each bleak denial,
+      The world's high lord and best,
+    The friend of every life that lives,
+      He reaches final rest.
+
+
+# Canto VI
+
+## Peace is a reward rather than an instrument
+
+< THE BLESSÈD ONE SAID:
+
+    That man renounces _and_ performs
+      Who scorns his labor's price
+    Yet does his work, not he who shuns
+      Fit work and sacrifice.
+
+    Renunciation. discipline
+      As one we must admire:
+    No man is disciplined without
+      Renouncing heart's desire.
+
+    The sage who strains for discipline,
+      Finds work his instrument;
+    When discipline is conquered, then
+      A new tool—peace—is sent.
+
+    And discipline is conquered when
+      His thought from work retires,
+    From works and things of sense, and flings
+      Away all heart's desires.
+
+    Oh, let the self exalt itself,
+      Not sink itself below:
+    Self is the only friend of self,
+      And self self's only foe.                                       (5)
+    For self, when it subdues itself,
+      Befriends itself. And so
+    When it eludes self-conquest, is
+      Its own and only foe.
+
+    So calm, so self-subdued, the self
+      Has an unshaken base
+    Through pain and pleasure, cold and heat,
+      Through honor and disgrace.
+
+    In truth and sapience sedate,
+      Joy's peak a man may hold
+    With senses disciplined, and rate
+      Alike clod, stone, and gold.
+
+    Who rates alike friend, lover, foe,
+      Neutral, indifferent,
+    Kinsman, the hateful, sinner, saint,
+      Is deemed preeminent.
+
+## Eternal vigilance over body and mind is necessary, but the reward is infinite
+
+    Alone, withdrawn, and vigilant,
+      He must forever cope
+    With thought and self, and must renounce
+      All heritage and hope.                                          (10)
+    A settled seat he must erect
+      Some holy spot within,
+    Neither too high nor low, and spread
+      With cloth, or grass, or skin.
+
+    There sitting, let him concentrate
+      His focussed thought, constrain
+    His senses' action and his mind's,
+      Soul-purity to gain.
+
+    His body, head, and neck held firm
+      And quiet, let his keen
+    Glance center on his nose-tip, not
+      Survey the distant scene.
+
+    There let him vigilantly sit,
+      Calm, chaste, from fear set free,
+    His brain in train, with every thought
+      And purpose turned to Me.
+
+    With unrelaxed self-discipline,
+      With thoughts in stern control,
+    He wins tranquillity in Me,
+      Wins peace, the final goal.                                     (15)
+    But discipline is not for him
+      Who no due measure keeps
+    In eating or in fasting, or
+      Too much or little sleeps.
+
+    Due measure kept in food and sport
+      And needful works, due measure
+    In sleep and waking, Arjun, sets
+      An end to all displeasure.
+
+    When fancy is subdued. and rests
+      Entire the soul within,
+    When no desires awake desire—
+      This is true discipline.
+
+    “The lamp that flickers not, being set
+      Where no wind stirs,” shall be
+    For a saint whose fancy yields to soul,
+      The good old simile.
+
+    When training fetters fancy till
+      Its vanishment,
+    When man through self beholds the self,
+      With self content,
+
+    When he experiences bliss
+      That has no end,
+    That only intellect—not sense—
+      May apprehend,
+    That makes, while he abides therein,
+      The truth his friend.
+
+    On gaining which, he feels no need
+      Of other gain,
+    Which holds him safe against the shock
+      Of fiercest pain—
+
+    This is the one true discipline
+      (True men agree)
+    This breaks the yoke of sorrow. This
+      Should practiced be
+    With resolution and without
+      Despondency.
+
+    Let him forget desires that spring
+      From fancy, one and all,
+    And dominate those village-folk
+      That men the senses call,
+
+    So sink to rest, his intellect
+      In steadfast tension held,
+    His brain subdued to soul, until
+      All thought can be expelled.                                    (25)
+    Let every door attempted by
+      The restless, darting brain,
+    Be locked, and soul be lord within,
+      All-powerful to constrain.
+
+    He turns pure Spirit. Utter joy
+      Creeps on to tranquillize
+    His mind who seeks such discipline,
+      While sin with passion dies.
+
+    Sin vanishes for him who clings
+      To training such as this;
+    At one with Spirit, he attains
+      With ease an endless bliss.
+
+    He sees himself in every life,
+      Sees every life that lives
+    Within himself; and so to all
+      A like emotion gives.
+
+    Who sees me everywhere, and sees
+      In me all lives that be,
+    I never can be lost to him,
+      Nor he be lost to me.                                           (30)
+    So loving me (since life is one)
+      In all the lives that be,
+    A saint, wherever he abides,
+      Will still abide in me.
+
+    Feeling the pain of all the world
+      And all its joy within
+    Himself, as if his own, he wins
+      The perfect discipline.
+
+## Control of the brain is difficult, but possible and necessary
+
+< ARJUNA SAID:
+
+    You bid me, Krishna, gaze on all
+      The world with level eye.
+    But brain is fickle. What device
+      Can steady, fortify?
+
+
+    Yes, Krishna, brain is fickle, strong,
+      And turbulent and bold;
+    I find it hard to curb as were
+      The wind to catch and hold.
+
+< THE BLESSÈD ONE SAID:
+
+    No doubt, brave soldier, it is hard
+      To curb the wayward brain;
+    Yet practice and ascetic life
+      Are powerful to constrain.                                      (35)
+    I know that it is hard for him
+      Who misses self-control;
+    Yet are there means for one who strives
+      And subjugates his soul.
+
+## Defeat is temporary; one genuinely started on the way will at last attain
+
+< ARJUNA SAID:
+
+    But, Krishna, though a man have faith,
+      His faltering thought may stray
+    Before perfected discipline—
+      What way is his? What way?
+
+    Oh, does he not, like rifted cloud,
+      Lose heaven _and_ earth? and stray
+    Without support, bewildered, lost
+      Upon the Spirit's way?
+
+    Oh, Krishna, cut this doubt or mine,
+      Cut it completely through;
+    There is no being fit to cut
+      This doubt of mine, but you.
+
+< THE BLESSÈD ONE SAID:
+
+    No; Arjun, he is never lost
+      In yonder world or here;
+    No man of honest life can sink
+      To misery, my dear.
+
+    But, lacking discipline, he dwells
+      In pious worlds; and then,
+    When long years pass, is born among
+      Pure, worthy folk again;
+
+    Or even among the disciplined
+      Endowed with wisdom's worth
+    (Yet such a family as this
+      Is rarely won on earth)
+
+    There once again he enters on
+      His former life's direction
+    Toward focussed intellect, and strives
+      Yet further for perfection.
+
+    His former study bears him on
+      Despite his will; since he
+    Who yearns for discipline, is borne
+      Beyond theology.
+
+    So struggling onward, cleansed of sin,
+      His powers in full control,
+    Perfected after many births,
+      He wins the highest goal—
+
+    A loftier goal than scholarship
+      Or bleakest self-constraint
+    Or works meticulously done—
+      Brave Arjun, be a saint!
+
+    And saintliest among the saints,
+      Among all saints that be,
+    Is one who fixes faith and love
+      And inner soul on Me.
+
+
+# Canto VII
+
+## Krishna is the material world, but also the spirit of life in the world
+
+< THE BLESSÈD ONE SAID:
+
+    Be constant. Seek repose in me.
+      Let thought to me aspire.
+    So learn. brave soldier, how to know
+      Me, certain and entire.
+
+    This truth, this wisdom I will now
+      Without reserve make clear;
+    When this is mastered. there remains
+      Naught else worth knowing here.
+
+    One man in many thousands strives
+      Perfection's goal to see;
+    Of those who strive and win, scarce one
+      In very truth knows me.
+
+    Earth. water, ether, fire, and air,
+      Intellect, ego, brain:
+    This eightfold subdivision serves
+      My nature to contain—
+
+    My lower nature, but beyond
+      Is one more high and pure—
+    The living soul, brave hero, which
+      Holds all that lives secure.                                    (5)
+    Regard my nature as the womb
+      Of all that here draws breath;
+    To all the world of life I am
+      Creation; I am death.
+
+    Apart from me, brave Arjun, there
+      Exists no single thing;
+    The universe is strung on me
+      Like pearls upon a string.
+
+    I am the taste in water; sound
+      In ether; none the less
+    Am I the mystic word that gives
+      All scriptures power to bless;
+    I am the light in moon and sun;
+      In man, the manliness;
+
+    I am the fragrance in the earth;
+      I am the heat in fire;
+    The life in life; the energy
+      In men of stern desire;
+
+    I am the everlasting seed
+      All forms of life to save;
+    I am the wisdom of the wise;
+      The courage of the brave;
+
+    I am the strength of those too strong
+      For lust or passion's toll;
+    And I am pure, permitted love
+      Toward every living soul.
+
+    States good and passionate and dark
+      Are mine. Yet none should see
+    My nature in these states, but should
+      Discover them in me.
+
+## The qualities of matter confuse men
+
+    By these three states of matter, all
+      This world is led astray
+    And knows me not as That beyond
+      which passes not away.
+
+    For matter's godlike magic still
+      Bewilders to his loss
+    The seeker. They who win to me,
+      Such seas of magic cross.
+
+    The fool, the sinner, and the mean,
+      Not finding me, turn back;
+    For magic steals their wisdom, and
+      They grow demoniac.                                             (15)
+## True knowledge leads to Krishna
+
+    Four kinds of men love me, and bring
+      Each his own virtue's prize:
+    The oppressed; the student; he who knows
+      His object; and the wise.
+
+    The wise with simple faith is best,
+      If he but constant be;
+    For I am very dear to him,
+      And he is dear to me.
+
+    All these are noble, but the wise
+      Seems my own self to me;
+    To me he clings, the goal than which
+      There can no higher be.
+
+    “Krishna is all” his wise thought runs;
+      So after many a birth
+    He wins to me. But it is rare
+      To find such lofty worth.
+
+## Other enthusiasms are not without value; “verily, they have their reward”
+
+    By them whose wisdom passion steals,
+      Some other god is found,
+    Obeying each his law of life,
+      Each by his nature bound.                                       (20)
+    Whatever form divine appeals
+      To choice and faith and love,
+    I fix in each a faith therein
+      That naught can shake or move.
+
+    So filled with faith, he strives by prayer
+      His reverence to show,
+    And thence receives his good desires
+      (Which I in truth bestow).
+
+    But finite fruit is all that such
+      Small-witted creatures see:
+    God-worshippers attain their gods;
+      My faithful come to me.
+
+## But only enthusiasm for Krishna has lasting value
+
+    The witless fail to comprehend;
+      They think me manifest.
+    They little know my nature high,
+      Invariable, best.
+
+    For I, in matter's magic hid,
+      Elude their best endeavor;
+    This world, bewildered, knows not me
+      Unborn, unchanging ever.                                        (25)
+    All creatures present, past, to be,
+    I know. Not one of them knows me.
+
+    Bewildered by the opposites,
+      By lust and hatred vexed,
+    These creatures, valiant Arjuna,
+      All, all are born perplexed.
+
+    Some righteous bid farewell to sin,
+      Some few. No more perplexed
+    By opposites, they find their faith
+      And love for me unvexed.
+
+    Some few who seek my aid, from age
+      And death to win salvation,
+    Perceive the Spirit, Oversoul,
+      And work's full implication.
+
+    Some few whose thoughts are disciplined,
+      Who pierce to truth, and deem
+    Me highest Being, highest God,
+      And Sacrifice supreme,
+    These know me even in the hour
+      Of life's departing dream.                                      (30)
+
+# Canto VIII
+
+## The course of creative evolution
+
+< ARJUNA SAID:
+
+    What is the Oversoul? and work?
+      Spirit? and God most high?
+    And what does highest Being, O
+      Most lofty, signify?
+
+    What is the Sacrifice supreme?
+      How in this body shown?
+    And how are you, through self-control,
+      At life's departing known?
+
+< THE BLESSÈD ONE SAID,
+
+    Spirit is the unchanging Best;
+      Its essence, Oversoul;
+    Work, the creative act whereby
+      Life's forms and births unroll.
+
+    The highest Being, changing life;
+      The highest God we deem
+    Man's soul. And I, incarnate, am
+      The Sacrifice supreme.
+
+## The soul goes to that on which it is set at the moment of dissolution
+
+    Doubt not that he will come to me
+      Who holds me in his heart
+    When life's last hour bids him forsake
+      This body, and depart.                                          (5)
+    To any form which at the last
+      Man's memory holds warm,
+    To that. on leaving this. he comes,
+      Transformed into its form.
+
+    Therefore in every hour of life
+      Remember me, and fight!
+    So shall you surely come to me
+      With fixèd purpose right.
+
+    Yes, Arjun, he who meditates
+      With disciplined design
+    And thought that never wavers, wins
+      The soul supreme, divine.
+
+    If man recalls this lord of all,
+      This poet, ancient, guide,
+    Whose form, than atoms subtler, no
+      Brave thinking has descried,
+    Who gleams with solar color on
+      The darkness' further side,
+
+    Recalls him at life's parting hour
+      With stubbornest design,
+    With powers that discipline and faith
+      Unitedly align,
+    (Breath checked between his brows) he wins
+      That soul supreme, divine.                                      (10)
+    The home that sacred students call
+      Eternal rest, the same
+    That saints may enter when they have
+      Extinguished passion's flame,
+    For love whereof the saints are chaste,
+      I briefly will proclaim.
+
+    Let every door be locked; let brain
+      Be subjugate to heart;
+    Let discipline unfaltering be;
+      Let not the breath depart;
+
+    Let _om_, the sacred syllable,
+      With thoughts of me, be chanted:
+    To him who leaves the body thus,
+      The goal supreme is granted.
+
+## Therefore think on Krishna, that there may be no rebirth
+
+    For him who ever perseveres
+      In constant discipline,
+    Relaxing not his thought of me,
+      I am not hard to win.
+
+    Such noble spirits, finding me,
+      Attain perfection. So
+    They save themselves from further birth,
+      That shifting home of woe.                                      (15)
+    From Brahma's world and lesser worlds
+      All souls return to earth;
+    But none, brave Arjun, finding me,
+      Shall suffer further birth.
+
+## Evolution and involution in the mundane periods
+
+    Two thousand ages are a day
+      For Brahma, and a night.
+    They grasp the sense of night and day
+      Who comprehend aright.
+
+    From formlessness all forms proceed
+      At dawning of that day;
+    And at its dusk, they sink once more
+      In formlessness away.
+
+    This world's uncounted, shifting shapes
+      Sink helplessly away
+    At dusk, and come to life again
+      At dawn of Brahma's day.
+
+    But far beyond this seeming world
+      Of figures manifest
+    There is another, viewless Life
+      Eternal. While the rest
+    Must perish wholly, it abides,
+      By ruin undistressed.                                           (20)
+    “Formless,” “Eternal” is its name;
+      This is the goal divine;
+    They turn not back who have attained
+      This highest home of mine.
+
+    This soul, most high yet human, is
+      By strict devotion won.
+    All lives abide therein; thereby
+      Creation's web was spun.
+
+## The yogis who return, and those who do not return
+
+    Now at what time departing, saints
+      Return not, or return,
+    You shall, O bull of Bharat's breed,
+      From my instruction learn.
+
+    The Spirit-conscious who in light
+      Or daytime find release,
+    By fire, or waxing moon or sun,
+      Attain the Spirit's peace;
+
+    While saints who pass through smoke or night,
+      By moon or sun awane,
+    Dwell for a time in moonlit halls,
+      Then come to earth again.                                       (25)
+    On these two paths, the bright and dark,
+      Life moves forevermore.
+    One leads to no returning; one
+      Turns as it was before.
+
+    No saint who knows the double path,
+      Brave soldier, goes astray;
+    Therefore to saintly discipline
+      Give every hour and day.
+
+    This truth transports the saint beyond
+      All scripture, sacrifice,
+    Denial, gifts—all acts that lead
+      To virtue's promised price.
+    This brings him to securest rest
+      In that high home, primeval, blest.
+
+# Canto IX
+
+## Krishna is more than his creation
+
+    THE BLESSÈD ONE SAID:
+
+    This mystery profound, this truth
+      And wisdom, I proclaim
+    To you who do not quibble. Truth
+      Redeems from woe and shame.
+
+    This kingly secret, kingly lore,
+      Most lofty and most pure,
+    Is given by intuition, is
+      Most righteous, pleasant, sure.
+
+    Men lacking faith, brave soldier, in
+      This righteous doctrine's worth,
+    Not finding me, return to tread
+      Death's path in further birth.
+
+    This web of life was spun by me,
+      My form unmanifest:
+    All living creatures rest in me;
+      In them I do not rest.
+
+    Yet see my sovereign magic! They
+      Do not abide in me;
+    My soul supports them from without,
+      And causes them to be.                                          (5)
+    Imagine that all creatures move
+      In me, as in the still,
+    Wide space of ether some great wind
+      Moves ever as it will.
+
+    All lives into my substance sink
+      At this world's ending. Then,
+    When fresh creation comes to pass,
+      I give them form again.
+
+    Still constant to my character,
+      I evermore create
+    Entire, this driven world of life,
+      This petty village-state;
+    Yet while creating, bid the laws
+      Of nature operate.
+
+    Such labors do not fetter me,
+      On no reward intent;
+    I work detached, observing all
+      Like one indifferent.
+
+    So, Arjun, moving things and still
+      Are born by nature's laws;
+    So rolls the world, my governance
+      Being the final cause.                                          (10)
+## Devotion to Krishna brings its supreme reward; lesser devotions do not fail of their lesser reward
+
+    But fools contemn this human shape
+      Of mine, as something small;
+    They little know my form supreme
+      As sovereign lord of all.
+
+    Perverted minds! Vain hopes are theirs;
+      Their works, their science vain;
+    Such goblin nature, impish thought
+      Sinks to the mere insane.
+
+    But godlike natures, noble minds
+      Perceive and worship me,
+    The everlasting source of all,
+      With plain sincerity.
+
+    With praises still renewed, with stern
+      And still renewed endeavor,
+    With love and worship they approach,
+      Intent and constant ever.
+
+    Yet others bring the offering
+      Of truth, so strive to reach
+    Me as the One, or me Apart,
+      Or Diverse-faced for each.                                      (15)
+    I am each varied sacrifice;
+      Each hymn the Brahmans sing;
+    The holy herb, oblation, ghee:
+      The fire, the offering;
+
+    I am the father of the world;
+      Its grandsire, mother, lord;
+    Truth, purity, and sacred spell;
+      Hymn, chant, and holy word;
+
+    Its way, its witness, master, king;
+      Its refuge, home, and friend;
+    Its treasure, base, eternal seed;
+      Its maker, and its end.
+
+    I give and I withhold the rain;
+      I tum the cold to hot;
+    Undying life am I, and death;
+      What is, and what is not.
+
+    The worthy scholar-ritualist
+      Begs trips to Paradise,
+    And gains that pious world of gods
+      As fruit of sacrifice,
+    Enjoys with gods in heaven at least
+    Some portion of the heavenly feast;                               (20)
+    Then, having tasted luxuries
+      In heaven, he must go
+    (His merit waning) back to earth;
+      So journeys to and fro,
+    Intent on scripture, nothing higher—
+      Desires awaken his desire.
+
+    But when a man approaches Me
+      With anxious thought sincere
+    And unrelaxing discipline,
+      I guard his welfare here.
+
+    They, too, who worship other gods,
+      With love and faith shot through,
+    Brave Arjun, worship me, although
+      They know not what they do.
+
+    Since I must test all offerings
+      And govern all,
+    These fail to know me as I am;
+      So, climbing, fall.
+
+    For, giving worship to the gods,
+      To gods they go;
+    Or, if to dead progenitors,
+      Are even so;
+
+    Those come to ghosts who supplicate
+      What ghosts there be;
+    And they who bring me sacrifice,
+      Come unto me.                                                   (25)
+## The lowliest may approach Krishna, and the meanest offering is acceptable
+
+    If any, moved by utter love,
+      Is minded me to bring
+    A leaf, a flower, fruit, water, I
+      Receive love's offering.
+
+    Whatever, prince, you do or eat
+      Or give in charity.
+    Endure or sacrifice, let all
+      Be done as unto me.
+
+    So freed from bonds of work, from fruits
+      Both good and evil free.
+    Renouncing or performing, you
+      Shall enter into me.
+
+    I look on life with level eye;
+      I have no foe nor friend;
+    Yet they are mine, and I in them
+      Who love me to the end.
+
+    Yes, even the most complete of rogues
+      In whom no passions fight
+    With love of me, is deemed a saint,
+      Because his heart is right.                                     (30)
+    Soon virtue enters into him;
+      Enduring peace draws nigh;
+    Oh, never doubt, brave Arjuna,
+      My faithful do not die.
+
+    Yes, hero, if they rest in me,
+      Those whom we basest deem,
+    With women, men of business, serfs,
+      Attain the goal supreme;
+
+    Far more, a pious Brahman or
+      A wise, devoted king.
+    Doomed to a transient, suffering world,
+      Bring me love's offering!
+
+    Give thought, love, homage, sacrifice
+      To me, your final goal;
+    So shall you surely come to me
+      With fixed and steadfast soul.
+
+
+# Canto X
+
+## Krishna is the source of all; in knowing him, one knows all
+
+    THE BLESSÈD ONE SAID:
+
+    Brave soldier, hear my lofty speech;
+      Let more be understood,
+    Because it pleases you, and I
+      Desire to do you good.
+
+    The heavenly hosts, the greatest seers
+      Know not my origin,
+    Since all the gods and seers proceed
+      From me, in me begin.
+
+    But any mortal, knowing me
+      Unborn, beginningless,
+    The world's high master, is made free
+      Of doubt and sinfulness.
+
+    Wit, wisdom, unperplexity,
+      Compassion, truth, and peace,
+    Restraint, pain, pleasure, birth, and death,
+      Dismay, dismay's surcease,
+
+    The generous heart, the level eye,
+      Denial, charity,
+    Content, fame, infamy—are states
+      That life derives from me.                                      (5)
+    The mighty seers, the ancient seven,
+      And four primeval men
+    Proceed from mental states of mine
+      To shape creation then.
+
+    Knowing this far-flung power of mine
+      And magic as it is,
+    Man wins unwavering discipline—
+      There is no doubt of this.
+
+    That all things find their origin
+      In me, from me proceed,
+    The enlightened know; their worship and
+      Their love attest their creed.
+
+    Thoughts, lives are mine; they speak of me
+      Again and yet again;
+    So edify each other; so
+      Are glad and happy men.
+
+    In worship, love, and discipline
+      They evermore agree;
+    And I bestow intelligence
+      Whereby they come to me.                                        (10)
+    Self-centered, yet compassionate,
+      I finally destroy
+    Unwisdom's darkness with the lamp
+      Of wisdom's radiant joy.
+
+## Krishna is the seed and the perfection of all that is
+
+< ARJUNA SAID:
+
+    O Spirit lofty and most pure!
+      High home of souls forlorn!
+    Eternal man and primal god!
+      Celestial king unborn!
+
+    The god-seers Narad, Devala,
+      And Vyasa give to you
+    Such names, with Asit and the rest;
+      And you declare them true.
+
+    All this, most blessèd Krishna, I
+      Perceive as true indeed;
+    Ah! Neither gods nor devils know
+      How forms from you proceed.
+
+    Yourself alone can know yourself
+      As soul most high, as cause
+    And lord of life, as god of gods,
+      As source of mundane laws.                                      (15)
+    Oh, tell me all—each far-flung power,
+      Each godlike revelation,
+    Whereby you evermore uphold
+      And permeate creation.
+
+    Oh, teach me modes of constant thought
+      To know you, though afar,
+    The likenesses, most blessèd saint,
+      That hint at what you are.
+
+    Yes, tell me all your magic power
+      That regulates this stuff
+    Of life. For of your nectar-speech
+      I cannot hear enough.
+
+    THE BLESSÈD ONE SAID,
+
+    Come then! I will proclaim what my
+      Self-revelations mean—
+    In chiefest part, brave prince. For else
+      No ending would be seen.
+
+    I am the soul that dwells within,
+      Life's essence to defend;
+    I am the origin of life,
+      Its middle, and its end.                                        (20)
+    Vishnu am I; I am the sun
+      Bright-rayed; the moonlight there
+    Among the stars; I am the storm
+      Among the gods of air.
+
+    I am the chant among the hymns;
+      Among the gods, their king;
+    For nerves, the brain; and consciousness
+      For every living thing;
+
+    Among devourers, Shiva; cash
+      For trolls' and gnomes' desire;
+    Mount Meru for the mountain-peaks;
+      Among the fire-gods, fire.
+
+    Of chaplains, I am heaven's priest;
+      Among the lakes, the sea;
+    Among all generals, regard
+      The god of war as me.
+
+    Of words, the sacred _om_; of seers,
+      Great Bhrigu's name I bear;
+    Himalaya among the hills;
+      Of sacrifices, prayer.                                          (25)
+    Of trees, I am the sacred fig;
+      Narad among the wise;
+    The chief of music-makers, and
+      Those who philosophize.
+
+    Of steeds, I am the godlike steed
+      Born of the ambrosial sea;
+    Behold the king of men, and heaven's
+      Great elephant in me.
+
+    The serpent-king and wonder-cow
+      Am I, of snakes and kine;
+    Of missile arms, the thunderbolt;
+      Creative love divine;
+
+    Of water-powers, the water-king;
+      Of them who rest from breath,
+    Their chief; of snakes, the endless worm;
+      Among constrainers, death;
+
+    Of demons, wise Prahlada; and
+      Of birds, the feathered scion
+    Of Vinata; of reckoners, time;
+      And of all beasts, the lion;                                    (30)
+    Of cleansers, wind; the crocodile
+      Of life that ocean teems;
+    Among the warriors, Rama; and
+      Ganges among the streams.
+
+    I am creations' origin,
+      Continuance, and goal;
+    The speaker's speech; of sciences,
+      That of the Oversoul.
+
+    Of compounds, I the dual am;
+      Of letters, I am A;
+    The all-watchful governor; and time
+      That never wastes away.
+
+    Imperious death am I, and birth
+      Of creatures yet to be;
+    Among things reckoned feminine,
+      You may behold in me
+    Speech, glory, courage, patience, fame,
+      Shrewdness, and memory.
+
+    The greatest chant; the metre with
+      The most melodious swing;
+    Of months, I am December; and
+      Of seasons, I am spring.
+
+    Among deceivers, I am dice;
+      Conquest, and hardihood;
+    The valor of the valorous;
+      The goodness of the good.
+
+    Krishna am I, and Arjuna,
+      Each in his princely line;
+    Of sages, Vyasa; Ushanas
+      Among the bards divine;
+
+    The victors' strategy; the rod
+      Of them who must chastise;
+    The secrecy of secrets; and
+      The wisdom of the wise.
+
+    Life's seed am I, brave Arjuna,
+      Wherever life may be:
+    Not one, of moving things or still,
+      Has substance save through me.
+
+    And so my far-flung powers divine,
+      Bold soldier, know no stint;
+    But such detail as has been heard,
+      Is offered as a hint.                                           (40)
+    Wherever life has vigor, grace,
+      Or glory's magic flower,
+    Derive its special splendor from
+      Some fragment of my power.
+
+    Yet why dilate? What needs it thus
+      At reason's bound to chafe?
+    One fragment holds this world of life
+      Entire, unruffled, safe.
+
+
+# Canto XI
+
+## Krishna's transfiguration
+
+< ARJUNA SAID:
+
+    Your lofty, secret doctrine which
+      The Oversoul explains,
+    Has laid a blessing on me. No
+      Perplexity remains.
+
+    Life's birth and passing I have heard
+      Detailed, a wondrous story,
+    O flower-eyed being, and your own
+      Imperishable glory.
+
+    I do not doubt. But oh that I
+      Your sovereign figure might espy,
+    Your veritable form descry
+      As lord supreme, as soul most high!
+
+    Reveal, if possible and right—
+    O magic's master, lord of might!
+    Your changeless self to human sight.
+
+< THE BLESSÈD ONE SAID,
+
+    By hundreds and by thousands then,
+      Prince of a warlike line,
+    In all their colors, kinds, and shapes,
+      Behold my forms divine.                                         (5)
+    Behold the godlike shapes of sun,
+      Wind, terror, wealth, and healing,
+    With many miracles of form
+      At this their first revealing.
+
+    Behold the total world of life,
+      All moving things and still,
+    Within my body; and therewith
+      Whatever else you will.
+
+    Yet may you not regard my form
+      With human vision; so,
+    As magic's master, I will now
+      Celestial sight bestow.
+
+< SANJAYA SAID,
+
+    And having spoken, Krishna, as
+      Master of magic's dream,
+    Revealed to wondering Arjuna
+      His sovereign form supreme
+
+    With countless aspects, faces, eyes,
+      With countless gems divine,
+    With countless heavenly missiles,high
+      Uplifted for a sign,                                            (10)
+    Divinely perfumed, wreathed, and clad,
+      All miracles embracing,
+    An infinite divinity
+      Toward every quarter facing.
+
+    A thousand simultaneous suns
+      Arising in the sky
+    Might equal that great radiance,
+      With that great glory vie.
+
+    Within the god of gods, the prince
+      Beheld all life unveil,
+    Beheld this world of life compact
+      In infinite detail.
+
+    Amazement entered him; his hair
+      Rose up; he bowed his head;
+    He humbly lifted folded hands,
+      And worshipped God, and said.
+
+< ARJUNA SAID:
+
+    Lord God, within you I behold
+      All gods together driven,
+    With throngs of diverse shapes to which
+      The breath of life is given,
+    Lord Brahma on his lotus-throne,
+      All seers and snakes of heaven.                                 (15)
+    I see a figure infinite
+      Wherein all figures blend;
+    To countless bodies, arms, and eyes,
+      And faces, I attend,
+    But fail, O lord of all, to find
+      Beginning, middle, end.
+
+    The discus, mace, and diadem
+      I see; see glory massed
+    In flashing radiance whereby
+      My sight is overcast;
+    See flaring fires and flaming suns
+      Immeasurably vast.
+
+    I deem you source and focus of
+      This universe's plan;
+    Invariable truth supreme;
+      The changeless partisan
+    Of virtue's immemorial laws;
+      The everlasting man.
+
+    Beginning, middle, end are not;
+      Your jaws are flaming fire;
+    Your endless power and countless arms
+      Are given to admire;
+    Your eyes are moon and sun; you burn
+      This helpless world entire.
+
+    Your form is awful, marvellous,
+      Coterminous with space;
+    You clasp the interval from heaven
+      To earth in one embrace;
+    Beholding you, the triple world
+      Is shaken, crown to base.                                       (20)
+    And yonder gods are drawn within
+      Your person; they adore,
+    In humble hosts, your majesty,
+      Though some are frightened sore;
+    And chants of “Hail! All hail!” swell up
+      From saints and sages hoar.
+
+    The gods of terror, wealth, and sun,
+      Of healing, and of air,
+    The All-gods, the perfectibles,
+      Angels, and ghosts are there,
+    While crowding trolls and imps and saints
+      In bland amazement stare.
+
+    O master, these your mouths and eyes
+      All numbering defy;
+    Your arms, thighs, bellies, feet, and fangs
+      Most horrid multiply;
+    The worlds are shaken, viewing this
+      Dread presence, as am I.
+
+    Viewing this particolored form
+      That streaks the clouds with light,
+    Its jaws agape, great Vishnu, and
+      Its great eyes gleaming bright,
+    The soul within me quakes; my peace
+      And fortitude take flight.
+
+    Beholding these your jaws, fierce-fanged
+      As flames of judgment day,
+    I know not where to turn; all sense
+      Of safety fades away.
+    Life's only refuge! Lord of gods!
+      Be merciful, I pray.                                            (25)
+    See yonder! Dhritarashtra's sons
+      With all their hostile throng
+    Of kings, with Bhishma, Drona, and
+      With honored Karna strong,
+    And with the chiefest captains that
+      In our stout ranks belong,
+
+    Are entering with hurried step
+      Your jaws fierce-fanged and dread,
+    While here and there between the teeth
+      I spy a mangled head.
+
+    As many rivers' rushing streams
+      Sink in one sea, so these
+    Within the jaws that flame and wait—
+      No human hero flees.
+
+    As moths to their destruction in
+      The kindled taper fly,
+    So all the world is pressed to plunge
+      Within your jaws, and die.
+
+    The flaming tongues within your mouths
+      Lick ever and devour
+    The total world of lesser life,
+      While gleams that glow and glower,
+    Great Vishnu, penetrate that world
+      And burn with awful power.                                      (30)
+    Oh, tell me to what goal divine
+      Such fearful visions tend.
+    O god primeval, god of gods!
+      Most mercifully send
+    Enlightenment; for deeds like these
+      I cannot comprehend.
+
+< THE BLESSÈD ONE SAID:
+
+    Death am I, and my present task
+      Destruction. View in me
+    The active slayer of these men;
+      For though you fail and flee,
+    These captains of the hostile hosts
+      Shall die, shall cease to be.
+
+    Arise, on fame, on victory,
+      On kingly joys intent!
+    They are already slain by me;
+      Be you the instrument.
+
+    Yes, Drona, Bhishma, Jayadrath,
+      Kama, with every foe
+    Who stands your rival in the field,
+      Are doomed, and now lie low.
+    Then banish pain and slay the slain!
+      To fight and conquest go!
+
+< SANJAYA SAID:
+
+    Then trembling Arjun clasped his hands
+      And bowed his crested head,
+    Paid fearful worship once again,
+      And stammered as he said.                                       (35)
+< ARJUNA SAID:
+
+    With reason, Krishna, in your praise
+      Is joy and comfort found,
+    While frightened goblins seek in flight
+      The far horizon's bound.
+    While from all hosts of sainted souls
+      Your glories still resound.
+
+    Why should they not bend lowly down
+      To Brahma's worthier mate,
+    Prime mover, boundless, god of gods,
+      Imperishably great,
+    Life's home, embracing more than all
+      Things formed and uncreate?
+
+    Eternal man and primal god!
+      Forms infinite in one!
+    The truth and knower of the truth
+      Are you. By you begun,
+    In you reposes all. Through you
+      Creation's web was spun.
+
+    Wind, water, moon, and fire, and death
+      Are you; the father hoar
+    Who rules the world, and Brahma's self.
+      Let all that lives adore
+    A thousand times and sing your praise
+      Again and evermore.
+
+    Praise be to you before, behind!
+      Be praise on every side!
+    No circumscription of your power
+      Or prowess is descried.
+    For you are all, and all is you:
+      All things in you abide.                                        (40)
+    And if in flippant comradeship
+      I ever cried: “My friend!
+    Dear Krishna! Yadu's son!” did not
+      This glory apprehend,
+    If I did ever in my love
+      Or heedlessness offend,
+
+    If ever I degraded you
+      (Alone, or others by)
+    To make a jest while you relaxed,
+      Slept, sat, or feasted nigh,
+    Forgive me, god invincibly,
+      Immeasurably high!
+
+    You are the father of the world
+      Both still and animate;
+    Its teacher honored and revered;
+      Incomparably great.
+    Dare any in the triple world
+      Lay claim to rival state?
+
+    I therefore cast my body down
+      (Lord God, be glorified!)
+    And humbly pray for mercy, pray
+      You feel forbearance wide
+    As sire to son, as friend to friend,
+      As lover to his bride.
+
+    I thrill with pride at having seen
+      What none has seen before,
+    O god of gods, life's only home!
+      Yet am I shaken sore
+    With diffidence. Be merciful!
+      Appear as man once more!                                        (45)
+    On discus, mace, and diadem
+      My gaze was gladly bent;
+    Though every form be free to you,
+      A thousand arms be lent,
+    Appear as in the days of old
+      With normal complement.
+
+< THE BLESSÈD ONE SAID:
+
+    Brave Arjuna, my grace revealed
+      This vision's magic dream,
+    Primeval, omnipresent, true
+      Behind the parts that seem;
+    And none but you has e'er beheld
+      This radiant form supreme.
+
+    And none among mankind but you,
+      Heroic prince, may see
+    This form, however good his gifts
+      Or pious acts may be,
+    His scripture, study, sacrifice,
+      Or bleak austerity.
+
+    Let not this figure great and grim
+      Perplex or pain you more;
+    Be fearless, comforted; behold
+      Me as I was before.
+
+< SANJAYA SAID:
+
+    Herewith by Krishna once again
+      His former form was taken;
+    And kindly great, he comforted
+      The spirit terror-shaken.                                       (50)
+< ARJUNA SAID:
+
+    Beholding, Krishna, once again
+      A human figure kind,
+    I reassume my mastery
+      Of character and mind.
+
+< THE BLESSÈD ONE SAID,
+
+    The form that you have now beheld
+      Is hardly to be seen;
+    And to perceive it, gods above
+      Are pierced with longing keen.
+
+    The glimpse of me that you have caught
+      Is purchased for no price
+    Of scripture, bleak austerities,
+      Of gifts, or sacrifice.
+
+    It is, heroic Arjuna,
+      Through sincere love alone
+    That I may penetrated be,
+      Be seen, and truly known.
+
+    Who does my work with utter love,
+      From all attachments free
+    And free from hate of any life,
+      Brave soldier, comes to Me.                                     (55)
+# Canto XII
+
+## Worship of Krishna is on the whole better than worship of the Absolute, for it is more conformable to man's nature
+
+< ARJUNA SAID:
+
+    Some bring you love and discipline—
+      But are they more astute
+    Than those who bring devotion to
+      The formless Absolute?
+
+< THE BLESSÈD ONE SAID:
+
+    Those who, disclosing utter faith,
+      Discover mental rest
+    In me through constant discipline,
+      Appear to me the best.
+
+    While those who serve the Absolute—
+      Eluding thought, and strange
+    To rational presentment, fixed,
+      Formless, beyond the range
+    Of local limitation, free
+      From motion or from change—
+
+    These, level-eyed to all the world,
+      Their senses in control,
+    Attain to me at last, when they
+      Wish well to every soul.
+
+    Yet greater pain is theirs who fix
+      The Absolute in mind:
+    For men with bodies, absolutes
+      Are hard to track and find.                                     (5)
+## Practice devotion to Krishna. either with intuition, concentration, works, or at least renunciation
+
+    Whoever pledge all works to me,
+      Who hold me very dear,
+    Who bring me meditative love
+      With discipline sincere,
+
+    To them I come with rescue prompt;
+      I save them from the sea
+    Of lives that end in death, while they
+      Fix every thought on me.
+
+    Then fix your brain on me alone,
+      Reflective thought on me;
+    So shall you dwell in me at last
+      With no uncertainty.
+
+    And if the wavering thought rebels,
+      Prince of a conquering line,
+    By concentrated study strive
+      To sink your life in mine.
+
+    If concentration fails, submit
+      Yourself to works' direction;
+    Since he who works as unto me,
+      May also win perfection.                                        (10)
+    If even so you fail, if joy,
+      In me be not increased,
+    Renounce the fruit of every work—
+      Control your soul at least.
+
+    For wisdom ever teaches
+      What study never can;
+    And self-communion reaches
+      Beyond shrewd wisdom's span:
+    Self-counsel will engender
+      A spirit free from greed
+    For fruits of labor, render
+      The man serene indeed.
+
+## The reward is Krishna's love
+
+    The man who hates no living thing,
+      Kind, patient, and humane,
+    Unselfish, unpretentious, calm
+      In pleasure as in pain,
+
+    Content, controlled, and disciplined,
+      From wavering fancies free,
+    Whose brain and intellect and love
+      Are mine, is dear to me.
+
+    Abhorring none, by none abhorred,
+      Whom fear and fever flee
+    With triumph and intolerance,
+      He too is dear to me.                                           (15)
+    He who, uncalculating, deft,
+      Scorning ambition's fee,
+    Impartial, pure, and unperturbed,
+      Loves me, is dear to me.
+
+    And he who neither grieves nor yearns,
+      Released from hate and glee,
+    Devotedly renouncing good
+      And ill, is dear to me.
+
+    Who looks alike on foe and friend,
+      Pain, pleasure, heat and cold,
+    Who levels honor and disgrace,
+      Whom no attachments hold,
+
+    With equal thought for praise and blame,
+      Content with what may be,
+    Devout, firm, silent, and unhoused—
+      That man is dear to me.
+
+    And they who pay (as here made clear)
+      Immortal virtue's fee,
+    Whose love and zeal and faith I feel,
+      Are wondrous dear to me.                                        (20)
+
+# Canto XIII
+
+## The body, called the field; the soul, called the knower if the field; and knowledge, which consists in right discrimination between them
+
+< THE BLESSÈD ONE SAID,
+
+    This body, Arjuna, is amed
+      “The field” for learnèd ends;
+    And “knower of the field” is called
+      The soul that comprehends.
+
+    To know the knower and the field,
+      The one true knowledge yields;
+    And know me, valiant Arjuna,
+      As knower of all fields.
+
+    Now learn concisely of the field,
+      Its nature, phases, source;
+    Learn also what the knower is,
+      His character and force.
+
+    Of this the seers, in divers hymns,
+      Delighted once to sing;
+    And well-known philosophic texts
+      Show cogent reasoning.
+
+## The constituents of the field
+
+    The unmanifest, the elements,
+      Intellect, ego, brain,
+    Five powers of sense, and functions five,
+      Perception's fivefold plane,                                    (5)
+    Pain, pleasure, consciousness,desire,
+      Hate, unity, and pride—
+    Subsume the field concisely, both
+      Intact and modified.
+
+## The constituents of wisdom
+
+    A spirit modest, just, sincere,
+      A generous, patient soul,
+    Respect for teachers, purity,
+      Steadfastness, self-control,
+
+    A mind unpricked by things of sense
+      And free from vauntings vain,
+    Clear view of evils found in birth,
+      Death, age, disease, and pain,
+
+    Detachment, independence of
+      Wife, children, house, and things,
+    Thought equable in welcome and
+      Unwelcome happenings,
+
+    Unwavering devotion, sure
+      Of me as highest good,
+    Distaste for social gatherings,
+      A love of solitude,                                             (10)
+    Absorption in the Oversoul,
+      The simple power to prize
+    Truth's essence—this is wisdom, and
+      What differs, is unwise.
+
+## The characteristics of living knowledge
+
+    I now explain what object is
+      Worth knowing, being rated
+    As surety of immortal life—
+      The Spirit uncreated,
+    Whereof “It is” and “It is not”
+      Are both untruly stated.
+
+    In hands and feet ubiquitous,
+      And in unnumbered eyes,
+    In heads, mouths, ears for all the world,
+      Its omnipresence lies.
+
+    Supporting, without contact, all;
+      Enjoying things of sense
+    Without an organ; matter-free,
+      Yet with experience;
+
+    Though moving, still; without, and yet
+      Within all things that are;
+    Too subtle for perception; near
+      At hand, yet distant far;                                       (15)
+    Though undivided, yet it seems
+      To act through living flesh;
+    Supporting life, devouring life,
+      Creating life afresh.
+
+    It is the light of lights; the dark
+      It only can dispel;
+    ’Tis wisdom's self, and wisdom's hope,
+      And wisdom's goal as well;
+    And in the heart of everyone
+      It dearly loves to dwell.
+
+    With due concision, such are field,
+      Wisdom, and wisdom's fee;
+    My devotee who comprehends
+      Is fit to enter Me.
+
+## The nature of matter and soul
+
+    Next, learn of matter and of soul
+      Which both precede creation;
+    Discern then matter's elements
+      And curious mutation.
+
+    Production, product, agency
+      Are matter's set domain;
+    The soul endures experience
+      Of pleasure and of pain.                                        (20)
+    The soul, in matter dwelling, tastes
+      That elemental food;
+    Taste so acquired results in births
+      From evil wombs or good.
+
+    In dwelling thus, the lofty soul
+      Is named the self, or he
+    Who tastes, supports, rules, witnesses,
+      Or suffers what may be.
+
+    Whatever be his life, the man
+      Who comprehends the worth
+    Of matter, elements, and soul,
+      Endures no further birth.
+
+## The different roads to salvation
+
+    Some find the self within the self
+      Through self-communion still;
+    A second group, through intellect;
+      And others through the will;
+    While some, through discipline of works,
+      The needful task fulfil.
+
+    And some, less gifted, worship that
+      Whereof their ears have heard;
+    They also vanquish death, who trust
+      The authoritative Word.                                         (25)
+## Discrimination between the field and the knower of the field is salvation
+
+    Whenever moving things or still
+      Are seen new life to yield,
+    Perceive a combination of
+      A knower and his field.
+
+    Who sees in all the lord of all,
+      Sees level life proceed
+    Immortal in mortality,
+      That man has sight indeed.
+
+    Discovering the Lord supreme
+      At home in every soul,
+    The self no longer wrongs the self,
+      So wins the highest goal.
+
+    When man discerns all actions done
+      Through matter's power alone,
+    By him the passive spectator—
+      The soul—is truly known.
+
+    He wins his Spirit home, when he
+      Perceives how difference
+    Melts into unity, and takes
+      Diverse appearance thence.                                      (30)
+    Soul, changeless, passive, and supreme,
+      Discarnate, uncreated,
+    May dwell within the body, yet
+      Be uncontaminated.
+
+    As ether penetrates the whole
+      Yet subtly shrinks from stain,
+    So soul is stainless in its wide
+      Corporeal domain.
+
+    The sun is single, yet to him
+      All darknesses must yield:
+    And so, brave prince, one knower can
+      Illuminate his field.
+
+    Distinguishing the knower and
+      The field with wisdom's eye,
+    And life's release from matter, man
+      Attains the goal most high.
+
+
+# Canto XIV
+
+## Krishna is the mystical father of all beings
+
+< THE BLESSÈD ONE SAID:
+
+    Once more I tell that wisdom which
+      Of wisdoms is the best,
+    Through which all seers have passed beyond
+      This life to perfect rest.
+
+    They gain a likeness to myself,
+      Such wisdom still amassing:
+    They are not born when worlds are born,
+      Nor pained when worlds are passing.
+
+    The mighty Spirit is the womb
+      Wherein I lay the seed:
+    Such is the origin of life,
+      O prince of Bharat's breed.
+
+    Whatever mothers seem to bear
+      This world of form entire,
+    The mighty Spirit is the womb;
+      And I, the seeding sire.
+
+## Goodness, passion, and darkness
+
+    Now goodness, passion, darkness roam
+      As elements in matter's home;
+    In bodies, hero, their control
+      Forever fetters changeless soul.                                (5)
+    And goodness, bringing light and health,
+      Is luminously bright;
+    It fetters by attachment to
+      High wisdom and delight.
+
+    While in ambitious passion, greed
+      Self-interested lurks;
+    It fetters soul, brave hero, by
+      An eagerness for works.
+
+    But all-bewildering darkness springs
+      From folly's deepest deep;
+    It fetters soul by heedlessness,
+      By indolence, and sleep.
+
+    Thus goodness, passion, darkness dense
+    Attach by joy, works, negligence.
+
+    When goodness conquers passion and
+      The darkness, it prevails;
+    So passion, or so darkness rules,
+      When its twin rival fails.           (1O)
+
+    When wisdom's clarifying lamp
+      Shines bright at all the gates
+    With which this body is supplied,
+      Goodness predominates.
+
+    Action, a restless zeal for works,
+      Strong appetite, and greed
+    Appear when passion dominates,
+      O bull of Bharat's breed.
+
+    Murkiness, apathy, and sloth,
+      Bewildered judgments wrong,
+    Appear, O joy of Kuru's line,
+      When darkness is too strong.
+
+    If goodness dominates a man,
+      Then, when the body dies,
+    The soul attains a stainless world
+      Where all are wondrous wise.
+
+    In passion dying, he is born
+      Where busybodies rule;
+    And if he dies in darkness, he
+      Is mothered by a fool.                                          (15)
+    From goodness issues work well done,
+      Serenely free from stain;
+    Stupidity is darkness' fruit;
+      And passion's fruit is pain.
+
+    From goodness, wisdom comes to birth;
+      From passion issues greed;
+    From darkness, sloth, perplexity,
+      Stupidity proceed.
+
+    The good rise high; the passionate
+      Remain on middle ground;
+    The dark, in matter's meanest part
+      Entangled fast, are downed.
+
+    When sages see no actor save
+      The elements, and see
+    The soul beyond the elements,
+      They enter into me.
+
+    Transcending these three elements
+      Within the body, soul
+    Set free from birth, death, age, and pain,
+      Wins its immortal goal.                                         (20)
+## The character of him who is beyond goodness, passion, and darkness
+
+< ARJUNA SAID:
+
+    How recognize, O Lord, the man
+      Who is not matter's slave—
+    Or how does he transcend the three?
+      And how does he behave?
+
+< THE BLESSÈD ONE SAID:
+
+    Light, and activity, brave prince,
+      And dull perplexity
+    He does not hate when present, nor
+      Desire them when they flee.
+
+    Like one who sits indifferent by,
+      From matter's impact safe,
+    He sees the elements at work,
+      Is calm, and does not chafe.
+
+    Then praise and censure, pleasure, pain
+      Find him serenely bold;
+    The glad and sad he rates alike,
+      A clod, a stone, and gold.
+
+    He looks alike on foe and friend,
+      On honor and offense;
+    Renounces all ambition; so
+      Transcends the elements.
+
+    And he who worships Me with strict,
+      Fond thoughts that never roam,
+    Transcends these elements, and grows
+      Fit for his Spirit home.
+
+    For I am Spirit's base, without
+      Mortality's alloy;
+    The base of endless virtue, of
+      Invariable joy.
+
+# Canto XV
+
+## The tree of life
+
+< THE BLESSÈD ONE SAID:
+
+    With roots in heaven, thence branching down,
+      The eternal banyan grows,
+    With hymns as leaves. Who knows that tree,
+      The heart of scripture knows.
+
+    Upward and down stretch branches, fed
+      By matter's elements;
+    The lower roots entwine to form
+      Reticulations dense
+    That tangle men in labor's net;
+      The twigs are things of sense.
+
+    Not so its form, beginning, end,
+      And soil on earth are seen.
+    When those tough roots are severed by
+      Detachment's sword-blade keen,
+
+    Then seek that bourne whence none return
+      Who win thereto, who can
+    Declare: “I take my refuge in
+      This primal soul of man
+    From which the flood of ordered life
+      Flowed forth when time began.”
+
+    When base attachment, folly, pride,
+      Desire have run their course,
+    When opposites of pleasure and
+      Affliction forfeit force,
+    Man in the Oversoul is blest:
+    Clear-eyed, he wins abiding rest.                                 (5)
+## Manifested life is but a part of life
+
+    In that high home, no sun is seen,
+      No moon has need to shine,
+    Nor any fire. They turn not back
+      Who reach that home of mine.
+
+    All living souls proceed from me
+      Immortal. They remain
+    A space, and draw from matter five
+      Sense-organs and a brain.
+
+    With these the body's lord in time
+      Departs again to roam
+    As roams a breeze with perfumes snatched
+      Each from its native home.
+
+    Sight, hearing, touch, and taste, and smell
+      He dominates; and hence
+    Enjoys through them and through the brain
+      The varied world of sense.
+
+    While he enjoys the things of sense,
+      Or deigns to stay, or fly,
+    The blinded see him not; but some
+      Perceive with wisdom's eye.                                     (10)
+    The saint who strives discovers him
+      Within the self. But he
+    Who does not rule his spirit, strives
+      In vain and foolishly.
+
+## Which in its fulness is in Krishna
+
+    In glory that is in the sun,
+      And in the moon, and fire,
+    Behold my glory, shining on
+      This world of life entire.
+
+    I animate the earth, support
+      All creatures by my powers;
+    And, as the virile king of plants,
+      Give life to all that flowers.
+
+    I am the vital fire within
+      All breathing bodies; blent
+    With outward breath and inward, I
+      Digest all nourishment.
+
+    Wisdom and memory are mine,
+      False judgments to dispel;
+    I know all scriptures' sense and pith;
+      Of me all scriptures tell;
+    And in the heart of everyone
+      I dearly love to dwell.                                         (15)
+    Two spirits move this present world:
+      The first is that which ranges
+    Through all the forms of finite life;
+      The second knows no changes.
+
+    Beyond them both, another dwells,
+      Called Soul transcendent, or
+    The immanent supporter, the
+      Eternal governor.
+
+    Since I transcend the first and rule
+      The second as his lord,
+    My name on earth is Man most high,
+      And in the sacred word.
+
+    Who knows me thus as Man most high,
+      Knows all. And fancy-free,
+    He brings devotion, noble prince,
+      Brings all he has to me.
+
+    This is the central mystery;
+      Thereto when man has won,
+    O blameless soldier, he is wise,
+      Has done what need be done.                                     (20)
+
+# Canto XVI
+
+## The nature of the godlike
+
+< THE BLESSÈD ONE SAID:
+
+    A generous spirit, upright, strict;
+      Pluck; purity within;
+    Study; self-conquest; sacrifice;
+      Strong, wise self-discipline;
+
+    A truthful spirit, slow to wrath,
+      Detached, just, peaceful, kind;
+    Good-will to life; a lack of greed;
+      A shy, firm, gentle mind;
+
+    A radiant spirit, patient, pure;
+      A loyal valor sage—
+    Are his, brave prince, succeeding to
+      The godlike heritage.
+
+    Pride, wrath, conceit, hypocrisy,
+      Harsh thought, and judgment slack
+    Descend on him whose birth entails
+      The fate demoniac.
+
+    The godlike fate enfranchises,
+      The impish fetters man.
+    Grieve not, brave soldier. You were born
+      To test the godlike plan.                                       (5)
+## The nature and fate of the demoniac
+
+    There are two races in the world,
+      The impish, the divine;
+    The godlike having been described,
+      The imps are to define.
+
+    These impish persons cannot act
+      Nor leave the world alone;
+    To them no truth, no character,
+      No purity is known.
+
+    They say there is no God, no truth
+      In life, no basic laws,
+    No mutual dependence, naught
+      But greed as final cause.
+
+    They obstinately lose their souls
+      But use their petty wit
+    In cruel deeds, destroying life
+      And ever hating it.
+
+    They sail the seas of lust, equipped
+      With passion, pride, deceit:
+    Perverted are their purposes;
+      Their actions are not sweet.                                    (10)
+    Till death cries halt, they lucubrate
+      Immense ambitions fond.
+    Desires engulf them; they believe
+      That nothing lies beyond.
+
+    Hope's hundred meshes tangle them;
+      They sink in wrath and lust;
+    To satisfy desire, they seek
+      Great hoards of wealth unjust.
+
+    “Here's something that I got today,
+      And that I'll get tomorrow;
+    This money's mine, and more will come:
+      I shall not need to borrow.
+
+    “I killed that man I didn't like,
+      And I will kill the next.
+    I set a gorgeous table; I
+      Am perfect, strong, unvexed.
+
+    “Does any rival me in birth?
+      I'll make a sacrifice,
+    Be very generous, enjoy
+      Myself. I have the price.”
+    Such inebriety of thought
+      Inspires their foolish vice.                                    (15)
+    So fluttering from plan to plan
+      While greed and passion swell,
+    Enmeshed, ensnared in folly's web,
+      They plunge to filthy hell.
+
+    Fanatically proud of wealth,
+      Stiff-necked, and self-esteeming,
+    They make pretended sacrifice
+      Deceitful, unbeseeming.
+
+    In pride, wrath, passion, violence,
+      And self-conceit they labor,
+    Malignant, hating Me within
+      Themselves and in their neighbor.
+
+    These bitter, base, and brutal foes
+      I evermore send back
+    (Through life's recurrent round) to birth
+      In wombs demoniac.
+
+    And so, conceived in impishness,
+      Perplexed from birth to birth,
+    They do not come to me, but tread
+      A lower spot than earth—                                        (20)
+    A hell whose triple gate is named
+      Passion and Greed and Hate,
+    Destructive of the soul of man:
+      Oh, shun that triple gate!
+
+    Oh, shun the triple gate of gloom,
+      Prince of a famous line,
+    Work out your soul's salvation, and
+      Attain the goal divine!
+
+    But he who scorns the holy law
+      Through headstrong, fond design,
+    Will miss perfection, happiness,
+      And final goal divine.
+
+    Then make the Law your guiding law
+      To fix the wrong and right:
+    So do your earthly task, your mind
+      Illumined by that light.
+
+
+# Canto XVII
+
+## The three kinds of faith, depending on goodness, passion, and darkness
+
+< ARJUNA SAID:
+
+    Some sacrifice without the law,
+      Yet full of faith. And should
+    Their state be reckoned, Krishna, as
+      Dark, passionate, or good?
+
+< THE BLESSÈD ONE SAID:
+
+    Three faiths there are, and each is stamped
+      With nature's living mark:
+    I now describe them by the names
+      Good, passionate, and dark.
+
+    From native nature every life
+      Its special faith receives;
+    For man is fashioned from his faith,
+      And is what he believes.
+
+    The good serve gods; the passionate
+      Serve troll and goblin hosts;
+    And some—the dark-bring sacrifice
+      To dead men and to ghosts.
+
+    Some practice grim austerities
+      That wrench the scripture's sense
+    With self-conceit, hypocrisy,
+      Lust, passion, violence.                                        (5)
+    They torture matter's elements
+      And me who dwell within
+    Their bodies, following a mad,
+      An impish discipline.
+
+## The three kinds of food
+
+    I now describe the kind of food
+      That pleases one of three;
+    Their offerings; austerities;
+      And threefold charity.
+
+    Where vigor, life, power, comfort, health,
+      Content are strengthened, food
+    Bland, solid, cordial, savory
+      Is relished by the good.
+
+    Foods bitter, pungent, salt, and hot,
+      That bite, burn, animate,
+    That cause discomfort, pain, disease,
+      Delight the passionate.
+
+    The darkness-dominated still
+      The cravings of the maw
+    With leavings, things impure or stale,
+      Decaying, tasteless, raw.                                       (10)
+## The three kinds of sacrifice
+
+    When sacrifice is offered up
+      In no self-seeking mood
+    But dutifully, lawfully,
+      That sacrifice is good.
+
+    Where there is selfish tendency
+      Or ostentatious fashion,
+    We recognize, most noble prince,
+      The sacrifice of passion.
+
+    Where text and fee and gifts of food
+      Are lacking, where the mark
+    Of faith is absent, and of law,
+      The sacrifice is dark.
+
+## The three kinds of penance
+
+    Pure manners, upright, harmless, chaste;
+      Homage to sages wise,
+    To teachers, Brahmans, gods—that way
+      The body's penance lies.
+
+    Speech pleasant, friendly, true, whereby
+      Excitement is not stirred,
+    And constant use of holy texts—
+      Is penance of the word.                                         (15)
+    Sedateness, silence, self-control,
+      Consideration kind,
+    And inner purity, compose
+      The penance of the mind.
+
+    This triple penance, done by men
+      With lofty faith endued
+    And self-forgetful discipline,
+      Deserves the name of good.
+
+    A penance arrogant, or done
+      For honors, pride, or state,
+    Unfocussed and impermanent,
+      Is here dubbed passionate.
+
+    When penance is self-torture and
+      Conceived in folly stark,
+    Or aimed at ruin of a foe,
+      It takes the name of dark.
+
+## The three kinds of charity
+
+    A gift dispensed in duty's name
+      To one who cannot pay,
+    Well-placed, well-timed, and well-bestowed,
+      Is good, the sages say.                                         (20)
+    When gifts are given in hope of gain
+      Or for some counter-fee,
+    Or proffered under self-constraint,
+      Note passion's charity.
+
+    Gifts offered with discourtesy
+      Or insolently thrown,
+    Ill-placed, ill-timed, and ill-bestowed,
+      As darkness' gifts are known.
+
+## The mystical utterance _om tat sat_
+
+    The Spirit's triple symbol is
+      The mystic “Om, That, True”
+    And Brahmans, scriptures, sacrifice
+      Stand from of old therethrough.
+
+    Hence, they who speak the Spirit's speech
+      Begin each sacrifice,
+    Each lawful gift and self-denial
+      With “Om” as their device.
+
+    Denial, gift, and sacrifice
+      In varied kinds are brought
+    With “That” by them who yearn for peace
+      And spurn self-seeking thought.                                 (25)
+    “True” designates reality
+      And also saintliness;
+    The term defines, most noble prince,
+      Auspicious work no less.
+
+    Now constancy in sacrifice,
+      Denial, gifts, is “True”
+    While works directed thither bear
+      The designation, too.
+
+    Where faith is lacking, sacrifice,
+      Gifts, works, and penance miss—
+    As being “Untrue”—every aim
+      In yonder world and this.
+
+
+# Canto XVIII
+
+## Renunciation is to he practiced, not toward work, but toward the fruits of work
+
+< ARJUNA SAID:
+
+    O great destroyer of your foes,
+      I seek illumination:
+    Just what may resignation mean?
+      And what, renunciation?
+
+< THE BLESSÈD ONE SAID:
+
+    Resigning interested tasks
+      The wise call resignation;
+    Renouncing every fruit of work
+      They name renunciation.
+
+    Some sages ban all labor, as
+      Involving certain sin;
+    Some counsel works of sacrifice,
+      Gifts, bleak self-discipline.
+
+    Give ear, O tiger-man, while I
+      With certainty define
+    Renunciation's triple form,
+      O prince of Bharat's line.
+
+    The works of charity, denial,
+      And sacrifice abide;
+    Such works must ever be performed,
+      May not be thrust aside:
+    By gifts, denial, sacrifice
+      The wise are purified.                                          (5)
+    Yet even these works must be performed
+      With no desire of gain,
+    With no attachment—learn from me
+      This truth most high and plain.
+
+    Neglect of the appointed task
+      Is wrong. It bears the mark
+    Of insufficient sanity,
+      Deserves its name of dark.
+
+    Neglect of work through languid fear
+      Because the job is hard,
+    Is passionate, and fails to win
+      Renouncing's just reward.
+
+    But when a man performs his task
+      With one clear thought: “I should,”
+    Without attachment, Arjuna,
+      In no self-seeking mood—
+    Renunciation such as this
+      Is nominated good.
+
+    He does not cling to pleasant work,
+      In painful feels no pain,
+    When he renounces all reward
+      And wisdom grows amain;
+    So goodness enters into him,
+      And doubt is cut in twain.                                      (10)
+    For no man with a body can
+      All toilsome labor shirk;
+    But he is called renouncer, who
+      Renounces fruits of work.
+
+    Desired, or undesired, or mixed
+      Is labor's fruit; and when
+    Death comes, it clings to selfish folk,
+      Not to renouncing men.
+
+## Work is a function of matter; the soul should be free
+
+    Next, sturdy soldier, learn from me
+      The causative conditions
+    (Five in the Sankhya text) that bring
+      All works to their fruitions:
+
+    The body; sensive organ; and
+      The acts appropriate
+    Thereto; the active agent; while
+      The fifth of them is fate.
+
+    Whatever act a man performs
+      With body, speech, or wit,
+    In virtue or perversity,
+      These five are cause of it.                                     (15)
+    If any dream (since this is so)
+      It be his soul that acts—
+    His lonely soul—he is unwise,
+      Misapprehends the facts.
+
+    He then whose inner being shuns
+      The egotistic way,
+    Whose thought is uncontaminate,
+      May slay, and slay, and slay:
+    He kills a world, and yet kills naught,
+      Unfettered by a selfish thought.
+
+    Thing, knower, knowledge are the three
+      Impelling instruments
+    Of work; while agent, action, tool
+      Compose its full contents.
+
+    But matter's elements divide
+      All knowledge into three;
+    So agents; and activities;
+      Now learn details from me.
+
+## The three kinds of knowledge
+
+    One changeless essence permeates
+      All life and can elude
+    What seems division; knowing this,
+      Your knowledge is called good.
+
+    While knowledge, viewing as diverse
+      The lives that animate
+    This world of seeming-varied forms
+      Is labelled passionate.
+
+    Ill-grounded knowledge, petty, wrong,
+      That cramps within the frame
+    Of one small object all this world—
+      Is dark, and earns the name.
+
+## The three kinds of work
+
+    Work done by one without desire
+      Of gain, because he should,
+    Without attachment, passion, hate
+      Receives the name of good.
+
+    The work of one who hugs desire
+      In egotistic fashion,
+    With bustling effort brought to pass,
+      Is work inspired by passion.
+
+    Insane, inconsequential works,
+      Not heeding loss or wrong
+    Or limitation of one's powers,
+      To darkness' realm belong.                                      (25)
+## The three kinds of agent
+
+    An agent vaunting not himself,
+      From all attachments freed,
+    Still following where energy
+      And resolution lead,
+    Unmoved in failure and success,
+      Is good—is good indeed.
+
+    An agent feeling grief or glee,
+      Impure and avaricious,
+    Who seeks rewards for doing work,
+      A libertine, and vicious
+    In wronging life, is passionate,
+      As judged by the judicious.
+
+    An agent tricky, indolent,
+      Unduly obstinate,
+    Dishonest, and undisciplined,
+      Even illiterate,
+    Procrastinating, woebegone—
+      Is of the dark estate.
+
+## The three kinds of intelligence
+
+    Now, Arjun, learn the triple form
+      Of man's intelligence
+    And fortitude, determined by
+      The same three elements.
+
+    Intelligence of when and what
+      To do or leave alone;
+    Of danger, safety; bondage and
+      Release—as good is known.
+
+    Intelligence that is confused
+      In judging right and wrong,
+    Uncertain when to act or stop,
+      Bears passion's imprint strong.
+
+    A darkness-dimmed intelligence
+      Takes evil as its law;
+    Or can, from any set of facts,
+      False inferences draw.
+
+## The three kinds of fortitude
+
+    When acts of brain and breath and sense
+      Obey a fortitude
+    Unwavering through discipline,
+      Such fortitude is good.
+
+    Pursuit of virtue, love, and wealth
+      In self-promoting mood,
+    Yet earnestly, brave Arjuna,
+      Is passion's fortitude.
+
+    But fortitude that clings to sleep,
+      Fear, sorrow, folly stark,
+    Discouragement-is witless and
+      Deserves its name of dark.                                      (35)
+## The three kinds of happiness
+
+    Learn next, O bull of Bharat's breed,
+      Three kinds of happiness.
+    That which, to custom grown, attains
+      The end of all distress,
+
+    Which is as poison first, and at
+      The last as nectar seen,
+    Is good. Such happiness is born
+      In intellects serene.
+
+    That which the senses' union with
+      Their objects can create
+    (A nectar that to poison turns)
+      Is known as passionate.
+
+    That which at first and to the last
+      Bewilders soul and sense,
+    Is known as dark. It comes to birth
+      In sleep, sloth, negligence.
+
+## The various duties of the four castes
+
+    No life among the gods in heaven,
+      No life on earth may be
+    Released from matter's elements,
+      The often-mentioned three.                                      (40)
+    Caste-duty hangs from matter; each
+      Is to one duty born:
+    The Brahmans, soldiers, middle class,
+      And even serfs forlorn.
+
+    The Brahman's native duty is
+      Faith, truth, an upright mind
+    Peace, penance, purity, control,
+      Wisdom, forbearance kind.
+
+    The soldier's native duty is
+      To stand his ground in fight,
+    And valiant, brilliant, generous, firm,
+      Deft exercise of might.
+
+    The middle class is duty-bound
+      To cattle. plough, and trade;
+    While by the serf his duty is
+      In menial service paid.
+
+## A man should do his own duty, without thought of reward
+
+    A man grows perfect when he clings
+      To his peculiar work:
+    Learn how he finds perfection when
+      He toils and does not shirk.                                    (45)
+    Man finds perfection when his works
+      As unto Him are done
+    From whom all life came forth, by whom
+      Creation's web was spun.
+
+    Far better botch your job than gain
+      Perfection in your neighbor's:
+    No sin attaints the man who works
+      At his appointed labors.
+
+    Let none reject his native work,
+      Though little to admire;
+    For blemish clouds adventures, as
+      The smoke beclouds the fire.
+
+    Attachment done, his soul subdued,
+      His longings vanished, he
+    Grows perfect through renouncing, and
+      His labor leaves him free.
+
+## Thus he attains the eternal Spirit
+
+    Learn briefly now, most noble prince,
+      How he, grown perfect, wins
+    The Spirit as his resting-place:
+      True wisdom here begins.                                        (50)
+    With intellect grown pure, with soul
+      Held firmly subjugate,
+    Abandoning the things of sense,
+      Of passion void, and hate,
+
+    In eating moderate, detached,
+      Enjoying solitude,
+    In self-communion constant, with
+      Speech, body, mind subdued,
+
+    When vauntings and possessive whims,
+      Desire and anger cease,
+    And when from self-conceit he finds
+      (And violence) release,
+    When “mine” is meaningless, he wins
+      The Spirit, wins to peace.
+
+## And is united with Krishna
+
+    To Spirit grown, serene of soul,
+      From grief and longing free,
+    He, level-eyed to all that lives,
+      Gives his high love to Me.
+
+    Through love he knows me as I am,
+      And what my reach may be;
+    So knowing me in very truth,
+      He enters into me.                                              (55)
+    Still laboring, yet all to me
+      Confiding, through my grace
+    He comes to an immutable,
+      Eternal resting-place.
+
+    Pledge every work to me; to me
+      Pledge all your heart's endeavor;
+    With discipline of intellect,
+      Give thought to me forever.
+
+## Man is free to choose salvation or perdition
+
+    Give thought to me, and through my grace
+      Pass perils bristling high;
+    If, deaf in self-conceit, you fail
+      To hearken, you shall die.
+
+    In self-conceit you frame the thought
+      “I will not fight”—in vain;
+    Your soldier's nature, though you strive
+      Against it, will constrain.
+
+    Your work was born when you were born
+      And you are bound to do it;
+    For though, insane, you would refrain,
+      You will be driven to it.                                       (60)
+    The Lord, brave soldier, has his home
+      In every living heart;
+    His magic mechanism whirls
+      Each puppet through his part.
+
+    With all your mind, brave Arjun, find
+      In him dismay's surcease:
+    His sovereign grace will grant a place
+      Of high, enduring peace.
+
+    So have I spoken, so revealed
+      The secret's final fact:
+    Consider everything, then choose;
+      And having chosen, act!
+
+    Yet hear once more my lofty speech,
+      My secret's secret heart:
+    Peculiar love impels me thus
+      My blessing to impart.
+
+    Give worship, mind, love, sacrifice
+      To me! Oh, come to me!
+    You are beloved; my promises
+      Are simple verity.                                              (65)
+    Forget set duties then. Let me
+      Your total trust receive.
+    I will deliver you from all
+      Sin's blemish. Do not grieve.
+
+## The reward of following and disseminating the doctrine
+
+    With scoffers may you never share
+      This lofty doctrine's trial,
+    With them who fail in simple faith,
+      In love, or self-denial.
+
+    He who reveals the secret's heart
+      To men who worship me,
+    Shall find in me his love's reward
+      With no uncertainty.
+
+    No man among the men who live
+      Does dearer work than he;
+    And none among mankind on earth
+      Shall be more dear to me.
+
+    This virtuous dialogue of ours
+      If any study, he
+    Has brought me wisdom's sacrifice:
+      I speak with certainty.                                         (70)
+    And men of unmalicious faith
+      Who hear what others tell
+    Thereof, shall gain bright worlds of peace
+      Where righteous beings dwell.
+
+    And have you heard the doctrine with
+      A concentrated mind?
+    Is all unwise perplexity,
+      Bold soldier, left behind?
+
+## Conclusion
+
+< ARJUNA SAID:
+
+    Perplexity is done;
+    True memory rewon;
+    My doubts are overpast;
+    My purpose now stands fast;
+    Your grace, unshaken one,
+    Prevails. Your will be done.
+
+< SANJAYA SAID:
+
+    Such dialogue I heard, such words
+      Of Krishna, spoken to
+    Brave Arjun. It was marvellous;
+      It thrilled me through and through.
+
+    This high, this secret discipline
+      I heard through Vyasa's grace;
+    Heard Krishna, magic's master, speak;
+      Saw Krishna face to face.                                       (75)
+    That wondrous, righteous dialogue
+      Between the noble twain,
+    O King, is not to be forgot;
+      I thrill, and thrill again.
+
+    Again, O King, I see His form
+      Surpassing the divine:
+    A great amazement enters me;
+      An awful joy is mine.
+
+    Where archer Arjun stands, where stands
+      The Lord most wise, most pure,
+    There glory, grandeur, victory,
+      And steadfast law are sure.
