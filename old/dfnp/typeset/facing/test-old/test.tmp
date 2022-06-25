@@ -1,0 +1,8 @@
+% test.top
+\unprotect
+\setupoutput[pdftex]
+\setupsystem[\c!directory={/Users/shreevatsa/}]
+\setupsystem[\c!n=1]
+\setupsystem[inputfile=test.tex]
+\enablemode[screen]
+\protect

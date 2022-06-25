@@ -1,0 +1,96 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Copyright and other details}{7}{chapter.1}
+\contentsline {section}{Copyright}{7}{section*.2}
+\contentsline {part}{\partnumberline {I}Introductions}{9}{part.1}
+\contentsline {chapter}{\chapternumberline {2}Translator's Introduction}{11}{chapter.2}
+\contentsline {section}{I}{11}{section*.4}
+\contentsline {section}{II}{12}{section*.5}
+\contentsline {section}{III}{18}{section*.6}
+\contentsline {chapter}{\chapternumberline {3}Introduction}{21}{chapter.3}
+\contentsline {part}{\partnumberline {II}Book I: The Loss of Friends}{29}{part.2}
+\contentsline {chapter}{\chapternumberline {4}The Wedge-Pulling Monkey}{40}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}The Jackal and the War-Drum}{73}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Merchant Strong-Tooth}{86}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Godly and June}{105}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}The Jackal at the Ram-fight}{112}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}The Weaver's Wife}{114}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}How the Crow-Hen Killed the Black Snake}{138}{chapter.10}
+\contentsline {chapter}{\chapternumberline {11}The Heron That Liked Crab-Meat}{144}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Numskull and the Rabbit}{154}{chapter.12}
+\contentsline {chapter}{\chapternumberline {13}The Weaver Who Loved a Princess}{170}{chapter.13}
+\contentsline {chapter}{\chapternumberline {14}The Ungrateful Man}{214}{chapter.14}
+\contentsline {chapter}{\chapternumberline {15}Leap and Creep}{228}{chapter.15}
+\contentsline {chapter}{\chapternumberline {16}The Blue Jackal}{234}{chapter.16}
+\contentsline {chapter}{\chapternumberline {17}Passion and the Owl}{247}{chapter.17}
+\contentsline {chapter}{\chapternumberline {18}Ugly's Trust Abused}{258}{chapter.18}
+\contentsline {chapter}{\chapternumberline {19}The Lion and the Carpenter}{272}{chapter.19}
+\contentsline {chapter}{\chapternumberline {20}The Plover Who Fought the Ocean}{280}{chapter.20}
+\contentsline {chapter}{\chapternumberline {21}Shell-Neck, Slim, and Grim}{285}{chapter.21}
+\contentsline {chapter}{\chapternumberline {22}Forethought, Readywit, and Fatalist}{288}{chapter.22}
+\contentsline {chapter}{\chapternumberline {23}The Duel Between Elephant and Sparrow}{297}{chapter.23}
+\contentsline {chapter}{\chapternumberline {24}The Shrewd Old Gander}{305}{chapter.24}
+\contentsline {chapter}{\chapternumberline {25}The Lion and the Ram}{310}{chapter.25}
+\contentsline {chapter}{\chapternumberline {26}Smart, the Jackal}{318}{chapter.26}
+\contentsline {chapter}{\chapternumberline {27}The Monk Who Left His Body Behind}{337}{chapter.27}
+\contentsline {chapter}{\chapternumberline {28}The Girl Who Married a Snake}{342}{chapter.28}
+\contentsline {chapter}{\chapternumberline {29}Poor Blossom}{348}{chapter.29}
+\contentsline {chapter}{\chapternumberline {30}The Unteachable Monkey}{354}{chapter.30}
+\contentsline {chapter}{\chapternumberline {31}Right-Mind and Wrong-Mind}{357}{chapter.31}
+\contentsline {chapter}{\chapternumberline {32}A Remedy Worse Than the Disease}{363}{chapter.32}
+\contentsline {chapter}{\chapternumberline {33}The Mice That Ate Iron}{374}{chapter.33}
+\contentsline {chapter}{\chapternumberline {34}The Results of Education}{383}{chapter.34}
+\contentsline {chapter}{\chapternumberline {35}The Sensible Enemy}{386}{chapter.35}
+\contentsline {chapter}{\chapternumberline {36}The Foolish Friend}{394}{chapter.36}
+\contentsline {part}{\partnumberline {III}Book II: The Winning Of Friends}{409}{part.3}
+\contentsline {chapter}{\chapternumberline {37}The Bharunda Birds}{417}{chapter.37}
+\contentsline {chapter}{\chapternumberline {38}Gold's Gloom}{444}{chapter.38}
+\contentsline {chapter}{\chapternumberline {39}Mother Shandilee's Bargain}{450}{chapter.39}
+\contentsline {chapter}{\chapternumberline {40}Self-Defeating Forethought}{455}{chapter.40}
+\contentsline {chapter}{\chapternumberline {41}Mister Duly}{482}{chapter.41}
+\contentsline {chapter}{\chapternumberline {42}Soft, the Weaver}{509}{chapter.42}
+\contentsline {chapter}{\chapternumberline {43}Hang-Ball and Greedy}{517}{chapter.43}
+\contentsline {chapter}{\chapternumberline {44}The Mice That Set Elephants Free}{538}{chapter.44}
+\contentsline {chapter}{\chapternumberline {45}Spot's Captivity}{547}{chapter.45}
+\contentsline {part}{\partnumberline {IV}Book III: Crows and Owls}{565}{part.4}
+\contentsline {chapter}{\chapternumberline {46}How the Birds Picked a King}{592}{chapter.46}
+\contentsline {chapter}{\chapternumberline {47}How the Rabbit Fooled the Elephant}{601}{chapter.47}
+\contentsline {chapter}{\chapternumberline {48}The Cat's Judgment}{614}{chapter.48}
+\contentsline {chapter}{\chapternumberline {49}The Brahman's Goat}{634}{chapter.49}
+\contentsline {chapter}{\chapternumberline {50}The Snake and the Ants}{638}{chapter.50}
+\contentsline {chapter}{\chapternumberline {51}The Snake who Paid Cash}{646}{chapter.51}
+\contentsline {chapter}{\chapternumberline {52}The Unsocial Swans}{649}{chapter.52}
+\contentsline {chapter}{\chapternumberline {53}The Self-Sacrificing Dove}{652}{chapter.53}
+\contentsline {chapter}{\chapternumberline {54}The Old Man With the Young Wife}{670}{chapter.54}
+\contentsline {chapter}{\chapternumberline {55}The Brahman, the Thief, and the Ghost}{674}{chapter.55}
+\contentsline {chapter}{\chapternumberline {56}The Snake in the Prince's Belly}{679}{chapter.56}
+\contentsline {chapter}{\chapternumberline {57}The Gullible Carpenter}{683}{chapter.57}
+\contentsline {chapter}{\chapternumberline {58}Mouse-Maid Made Mouse}{691}{chapter.58}
+\contentsline {chapter}{\chapternumberline {59}The Bird With Golden Dung}{702}{chapter.59}
+\contentsline {chapter}{\chapternumberline {60}The Cave That Talked}{707}{chapter.60}
+\contentsline {chapter}{\chapternumberline {61}The Frogs That Rode Snakeback}{720}{chapter.61}
+\contentsline {chapter}{\chapternumberline {62}The Butter-Blinded Brahman}{725}{chapter.62}
+\contentsline {part}{\partnumberline {V}Book IV: Loss of Gains}{741}{part.5}
+\contentsline {chapter}{\chapternumberline {63}The Monkey and the Crocodile}{744}{chapter.63}
+\contentsline {chapter}{\chapternumberline {64}Handsome and Theodore}{754}{chapter.64}
+\contentsline {chapter}{\chapternumberline {65}Flop-Ear and Dusty}{768}{chapter.65}
+\contentsline {chapter}{\chapternumberline {66}The Potter Militant}{779}{chapter.66}
+\contentsline {chapter}{\chapternumberline {67}The Jackal Who Killed No Elephants}{782}{chapter.67}
+\contentsline {chapter}{\chapternumberline {68}The Ungrateful Wife}{789}{chapter.68}
+\contentsline {chapter}{\chapternumberline {69}King Joy and Secretary Splendor}{795}{chapter.69}
+\contentsline {chapter}{\chapternumberline {70}The Ass in the Tiger-Skin}{799}{chapter.70}
+\contentsline {chapter}{\chapternumberline {71}The Farmer's Wife}{803}{chapter.71}
+\contentsline {chapter}{\chapternumberline {72}The Pert Hen-Sparrow}{810}{chapter.72}
+\contentsline {chapter}{\chapternumberline {73}How Supersmart Ate the Elephant}{814}{chapter.73}
+\contentsline {chapter}{\chapternumberline {74}The Dog Who Went Abroad}{822}{chapter.74}
+\contentsline {part}{\partnumberline {VI}Book V: Ill-Considered Action}{827}{part.6}
+\contentsline {chapter}{\chapternumberline {75}The Loyal Mungoose}{837}{chapter.75}
+\contentsline {chapter}{\chapternumberline {76}The Four Treasure-Seekers}{841}{chapter.76}
+\contentsline {chapter}{\chapternumberline {77}The Lion-Makers}{857}{chapter.77}
+\contentsline {chapter}{\chapternumberline {78}Hundred-Wit, Thousand-Wit, and Single-Wit}{861}{chapter.78}
+\contentsline {chapter}{\chapternumberline {79}The Musical Donkey}{866}{chapter.79}
+\contentsline {chapter}{\chapternumberline {80}Slow, the Weaver}{874}{chapter.80}
+\contentsline {chapter}{\chapternumberline {81}The Brahman's Dream}{880}{chapter.81}
+\contentsline {chapter}{\chapternumberline {82}The Unforgiving Monkey}{884}{chapter.82}
+\contentsline {chapter}{\chapternumberline {83}The Credulous Fiend}{899}{chapter.83}
+\contentsline {chapter}{\chapternumberline {84}The Three-Breasted Princess}{906}{chapter.84}
+\contentsline {chapter}{\chapternumberline {85}The Fiend who Washed His Feet}{906}{chapter.85}

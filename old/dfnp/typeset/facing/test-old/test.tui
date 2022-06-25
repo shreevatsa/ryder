@@ -1,0 +1,12 @@
+c \thisissectionseparator{:}
+c \thisisutilityversion{2003.07.19}
+c \thisisbytesequence{ã}
+f b {test}
+c \initializevariable\usedcolorchannels{r,g,b,s}
+f e {test}
+c \initializevariable\lastpage{305}
+c \initializevariable\lastpagenumber{305}
+c \initializevariable\totalnofMPgraphics{0}
+c \initializevariable\totalnofpositions{0}
+c \initializevariable\totalnofparbackgrounds{0}
+c \initializevariable\currentstrategypass{1}

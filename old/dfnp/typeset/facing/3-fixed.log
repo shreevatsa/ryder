@@ -1,0 +1,1022 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=pdflatex 2008.12.28)  11 DEC 2009 13:03
+entering extended mode
+ %&-line parsing enabled.
+**3-fixed
+(./3-fixed.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, lithuanian, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, r
+omanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turki
+sh, ukenglish, ukrainian, uppersorbian, welsh, loaded.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2009/02/06 v1.6180339e configurable book, report, articl
+e document class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+Class memoir Info: An `ifetex' package is being emulated on input line 247.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2007/12/12 v1.0 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\headwidth=\skip55
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip56
+\thanksmarkwidth=\skip57
+\thanksmarksep=\skip58
+\droptitle=\skip59
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip60
+\midchapskip=\skip61
+\afterchapskip=\skip62
+\chapindent=\skip63
+\bottomsectionskip=\skip64
+\secindent=\skip65
+\beforesecskip=\skip66
+\aftersecskip=\skip67
+\subsecindent=\skip68
+\beforesubsecskip=\skip69
+\aftersubsecskip=\skip70
+\subsubsecindent=\skip71
+\beforesubsubsecskip=\skip72
+\aftersubsubsecskip=\skip73
+\paraindent=\skip74
+\beforeparaskip=\skip75
+\afterparaskip=\skip76
+\subparaindent=\skip77
+\beforesubparaskip=\skip78
+\aftersubparaskip=\skip79
+\pfbreakskip=\skip80
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip81
+\topsepi=\skip82
+\itemsepi=\skip83
+\parsepii=\skip84
+\topsepii=\skip85
+\topsepiii=\skip86
+\itemsepii=\skip87
+\itemsepiii=\skip88
+\partopsepii=\skip89
+\partopsepiii=\skip90
+\m@msavetopsep=\skip91
+\m@msavepartopsep=\skip92
+\@enLab=\toks14
+\abstitleskip=\skip93
+\absleftindent=\skip94
+\abs@leftindent=\dimen105
+\absrightindent=\skip95
+\absparindent=\skip96
+\absparsep=\skip97
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip98
+\vrightskip=\skip99
+\stanzaskip=\skip100
+\versewidth=\skip101
+\vgap=\skip102
+\vindent=\skip103
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip104
+\afterpoemtitleskip=\skip105
+\c@poem=\count98
+\beforePoemTitleskip=\skip106
+\midPoemTitleskip=\skip107
+\afterPoemTitleskip=\skip108
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip109
+\backup@length=\skip110
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip111
+\ctabrightskip=\skip112
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\@contcwidth=\skip113
+\@contindw=\skip114
+\abovecaptionskip=\skip115
+\belowcaptionskip=\skip116
+\subfloattopskip=\skip117
+\subfloatcapskip=\skip118
+\subfloatcaptopadj=\skip119
+\subfloatbottomskip=\skip120
+\subfloatlabelskip=\skip121
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box26
+\m@mscap@fbox=\box27
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip122
+\afterepigraphskip=\skip123
+\epigraphwidth=\skip124
+\epigraphrule=\skip125
+LaTeX Info: Redefining \em on input line 6881.
+LaTeX Info: Redefining \emph on input line 6889.
+\tocentryskip=\skip126
+\tocbaseline=\skip127
+\cftparskip=\skip128
+\cftbeforebookskip=\skip129
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip130
+\cftpartindent=\skip131
+\cftpartnumwidth=\skip132
+\cftbeforechapterskip=\skip133
+\cftchapterindent=\skip134
+\cftchapternumwidth=\skip135
+\cftbeforesectionskip=\skip136
+\cftsectionindent=\skip137
+\cftsectionnumwidth=\skip138
+\cftbeforesubsectionskip=\skip139
+\cftsubsectionindent=\skip140
+\cftsubsectionnumwidth=\skip141
+\cftbeforesubsubsectionskip=\skip142
+\cftsubsubsectionindent=\skip143
+\cftsubsubsectionnumwidth=\skip144
+\cftbeforeparagraphskip=\skip145
+\cftparagraphindent=\skip146
+\cftparagraphnumwidth=\skip147
+\cftbeforesubparagraphskip=\skip148
+\cftsubparagraphindent=\skip149
+\cftsubparagraphnumwidth=\skip150
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip151
+\indexcolsep=\skip152
+\indexrule=\skip153
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip154
+\sideins=\insert232
+\sidebartopsep=\skip155
+\sidebarhsep=\skip156
+\sidebarvsep=\skip157
+\sidebarwidth=\skip158
+\footmarkwidth=\skip159
+\footmarksep=\skip160
+\footparindent=\skip161
+\footinsdim=\skip162
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip163
+\c@pagenote=\count112
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count113
+\verbatim@in@stream=\read1
+\verbatimindent=\skip164
+\verbatim@out=\write3
+\bvboxsep=\skip165
+\c@memfbvline=\count114
+\c@bvlinectr=\count115
+\bvnumlength=\skip166
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count116
+LaTeX Info: Redefining \: on input line 10718.
+LaTeX Info: Redefining \! on input line 10720.
+\c@ism@mctr=\count117
+\c@xsm@mctr=\count118
+\c@csm@mctr=\count119
+\c@ksm@mctr=\count120
+\c@xksm@mctr=\count121
+\c@cksm@mctr=\count122
+\c@msm@mctr=\count123
+\c@xmsm@mctr=\count124
+\c@cmsm@mctr=\count125
+\c@bsm@mctr=\count126
+\c@workm@mctr=\count127
+\c@sheetsequence=\count128
+\c@lastsheet=\count129
+\c@lastpage=\count130
+\c@figure=\count131
+\c@lofdepth=\count132
+\cftbeforefigureskip=\skip167
+\cftfigureindent=\skip168
+\cftfigurenumwidth=\skip169
+\c@table=\count133
+\c@lotdepth=\count134
+\cftbeforetableskip=\skip170
+\cfttableindent=\skip171
+\cfttablenumwidth=\skip172
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/07/23] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package ifetex [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/memoir/mempatch.sty
+File: mempatch.sty 2008/07/23 v6.0 Patches for memoir class v1.6180339
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count135
+\uc@combtoks=\toks22
+\uc@combtoksb=\toks23
+\uc@temptokena=\toks24
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/parallel/parallel.sty
+Package: parallel 2003/04/13, setting two texts parallel (me)
+
+`parallel': setting two texts parallel, (beta 4) 2003/04/13.
+\ParallelLWidth=\dimen147
+\ParallelRWidth=\dimen148
+\ParallelTextWidth=\dimen149
+\ParallelLeftMargin=\dimen150
+\ParallelUserMidSkip=\dimen151
+\ParallelMainMidSkip=\dimen152
+\ParallelLBox=\box28
+\ParallelRBox=\box29
+\ParallelBoxVar=\box30
+\ParallelLTok=\box31
+\ParallelRTok=\box32
+\ParallelBoolVar=\count136
+\ParallelBoolMid=\count137
+\ParallelWhichBox=\count138
+\ParallelMainMode=\count139
+\ParallelFNMode=\count140
+\ParallelLFNCounter=\count141
+\ParallelRFNCounter=\count142
+\ParallelMaxFN=\count143
+\ParallelFNNumMode=\count144
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+\Gread@gobject=\count145
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count146
+\calc@Bcount=\count147
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip173
+\calc@Bskip=\skip174
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count148
+\calc@Cskip=\skip175
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box33
+\AM@toc@title=\toks28
+\c@AM@survey=\count149
+\AM@templatesizebox=\box34
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2008/11/11 v2.3c Micro-typography with pdfTeX (RS)
+\MT@toks=\toks29
+\MT@count=\count150
+LaTeX Info: Redefining \lsstyle on input line 1585.
+LaTeX Info: Redefining \lslig on input line 1585.
+\MT@outer@space=\skip176
+LaTeX Info: Redefining \textls on input line 1586.
+\MT@outer@kern=\dimen157
+LaTeX Info: Redefining \textmicrotypecontext on input line 2126.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2008/11/11 v2.3c microtype main configuration file (RS)
+))
+(/usr/local/texlive/2008/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/02/22 v6.78p Hypertext links for LaTeX
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2008/09/08 v1.4 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2008/09/08 xcolor patch
+))
+\@linkdim=\dimen158
+\Hy@linkcounter=\count151
+\Hy@pagecounter=\count152
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/02/22 v6.78p Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/local/texlive/2008/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 2824.
+Package hyperref Info: Hyper figures OFF on input line 2935.
+Package hyperref Info: Link nesting OFF on input line 2940.
+Package hyperref Info: Hyper index ON on input line 2943.
+Package hyperref Info: Plain pages OFF on input line 2950.
+Package hyperref Info: Backreferencing OFF on input line 2955.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3145.
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3382.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)))
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2007/09/29 v1.3 Key value parser with default handler suppor
+t (HO)
+)
+\Fld@menulength=\count153
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+\Field@toks=\toks30
+Package hyperref Info: Hyper figures OFF on input line 4299.
+Package hyperref Info: Link nesting OFF on input line 4304.
+Package hyperref Info: Hyper index ON on input line 4307.
+Package hyperref Info: backreferencing OFF on input line 4314.
+Package hyperref Info: Link coloring OFF on input line 4319.
+Package hyperref Info: Link coloring with OCG OFF on input line 4324.
+Package hyperref Info: PDF/A mode OFF on input line 4329.
+
+(/usr/local/texlive/2008/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count154
+\c@Item=\count155
+)
+(/usr/local/texlive/2008/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2009/02/06 v1.12 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count156
+)
+*hyperref using default driver hpdftex*
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/02/22 v6.78p Hyperref driver for pdfTeX
+\Fld@listcount=\count157
+)
+(./3-fixed.aux)
+\openout1 = `3-fixed.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+ (/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+(/usr/local/texlive/2008/texmf-dist/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count158
+\scratchdimen=\dimen161
+\scratchbox=\box35
+\nofMPsegments=\count159
+\nofMParguments=\count160
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count161
+\MPscratchDim=\dimen162
+\MPnumerator=\count162
+\everyMPtoPDFconversion=\toks32
+) ABD: EveryShipout initializing macros
+(/usr/local/texlive/2008/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2008/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 4, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2008/02/29 v1.9a microtype config. file: Computer Modern Roman
+ (RS)
+)
+Package hyperref Info: Link coloring OFF on input line 43.
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/local/texlive/2008/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count163
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+
+(./3-fixed.out) (./3-fixed.out)
+\@outlinefile=\write4
+\openout4 = `3-fixed.out'.
+
+\AtBeginShipoutBox=\box36
+
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+(./3-fixed.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+ [1
+
+{/Users/shreevatsa/.texlive2008/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.74986pt too wide) detected at line 31
+ \OT1/cmr/bx/n/10 100
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 32
+ \OT1/cmr/bx/n/10 101
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 33
+ \OT1/cmr/bx/n/10 104
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 34
+ \OT1/cmr/bx/n/10 110
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 35
+ \OT1/cmr/bx/n/10 111
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 36
+ \OT1/cmr/bx/n/10 113
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 37
+ \OT1/cmr/bx/n/10 114
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 38
+ \OT1/cmr/bx/n/10 115
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 39
+ \OT1/cmr/bx/n/10 117
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 40
+ \OT1/cmr/bx/n/10 120
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 41
+ \OT1/cmr/bx/n/10 123
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 42
+ \OT1/cmr/bx/n/10 124
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 43
+ \OT1/cmr/bx/n/10 126
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 45
+ \OT1/cmr/bx/n/10 134
+ []
+
+[2]
+Overfull \hbox (1.74986pt too wide) detected at line 46
+ \OT1/cmr/bx/n/10 143
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 47
+ \OT1/cmr/bx/n/10 145
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 48
+ \OT1/cmr/bx/n/10 146
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 49
+ \OT1/cmr/bx/n/10 153
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 50
+ \OT1/cmr/bx/n/10 161
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 51
+ \OT1/cmr/bx/n/10 164
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 52
+ \OT1/cmr/bx/n/10 170
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 53
+ \OT1/cmr/bx/n/10 173
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 55
+ \OT1/cmr/bx/n/10 189
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 56
+ \OT1/cmr/bx/n/10 192
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 57
+ \OT1/cmr/bx/n/10 195
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 58
+ \OT1/cmr/bx/n/10 200
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 59
+ \OT1/cmr/bx/n/10 202
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 60
+ \OT1/cmr/bx/n/10 205
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 61
+ \OT1/cmr/bx/n/10 205
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 62
+ \OT1/cmr/bx/n/10 206
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 63
+ \OT1/cmr/bx/n/10 211
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 64
+ \OT1/cmr/bx/n/10 213
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 65
+ \OT1/cmr/bx/n/10 214
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 66
+ \OT1/cmr/bx/n/10 215
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 67
+ \OT1/cmr/bx/n/10 218
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 68
+ \OT1/cmr/bx/n/10 221
+ []
+
+[3]
+Overfull \hbox (1.74986pt too wide) detected at line 69
+ \OT1/cmr/bx/n/10 222
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 70
+ \OT1/cmr/bx/n/10 227
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 71
+ \OT1/cmr/bx/n/10 228
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 73
+ \OT1/cmr/bx/n/10 237
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 74
+ \OT1/cmr/bx/n/10 241
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 75
+ \OT1/cmr/bx/n/10 244
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 76
+ \OT1/cmr/bx/n/10 247
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 77
+ \OT1/cmr/bx/n/10 248
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 78
+ \OT1/cmr/bx/n/10 250
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 79
+ \OT1/cmr/bx/n/10 251
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 80
+ \OT1/cmr/bx/n/10 252
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 81
+ \OT1/cmr/bx/n/10 254
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 82
+ \OT1/cmr/bx/n/10 256
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 83
+ \OT1/cmr/bx/n/10 257
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 84
+ \OT1/cmr/bx/n/10 259
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 86
+ \OT1/cmr/bx/n/10 266
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 87
+ \OT1/cmr/bx/n/10 267
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 88
+ \OT1/cmr/bx/n/10 271
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 89
+ \OT1/cmr/bx/n/10 272
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 90
+ \OT1/cmr/bx/n/10 274
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 91
+ \OT1/cmr/bx/n/10 276
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 92
+ \OT1/cmr/bx/n/10 278
+ []
+
+[4]
+Overfull \hbox (1.74986pt too wide) detected at line 93
+ \OT1/cmr/bx/n/10 278
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 94
+ \OT1/cmr/bx/n/10 282
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 95
+ \OT1/cmr/bx/n/10 284
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 96
+ \OT1/cmr/bx/n/10 284
+ []
+
+) [5] [6] [7
+
+] [8] [9] [10]
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+) [11]
+[12] [13] [14] [15] [16] [17
+
+] [18] [19] [20] [21] [22] [23] [24]
+(/usr/local/texlive/2008/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+) [25] [26]
+[27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
+[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
+[57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
+[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
+[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
+[102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113]
+[114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
+[126] [127] [128] [129] [130] [131
+
+] [132] [133] [134] [135] [136] [137]
+[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
+[162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173]
+[174] [175] [176] [177] [178
+
+] [179] [180] [181] [182] [183] [184] [185]
+[186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
+[198] [199] [200] [201] [202] [203] [204] [205] [206]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [207]
+[208]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [209]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [210]
+[211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222]
+[223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233
+
+] [234]
+[235] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246]
+[247] [248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258]
+[259
+
+] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270]
+[271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281] [282]
+[283] [284]
+\tf@toc=\write5
+\openout5 = `3-fixed.toc'.
+
+ (./3-fixed.aux) ) 
+Here is how much of TeX's memory you used:
+ 10697 strings out of 493876
+ 153298 string characters out of 1150567
+ 299922 words of memory out of 3000000
+ 13427 multiletter control sequences out of 10000+50000
+ 12379 words of font info for 63 fonts, out of 3000000 for 5000
+ 714 hyphenation exceptions out of 8191
+ 40i,12n,38p,947b,733s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cm
+bx10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmbx12.pfb>
+</usr/local/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmcsc10.pfb></usr/lo
+cal/texlive/2008/texmf-dist/fonts/type1/bluesky/cm/cmr10.pfb></usr/local/texliv
+e/2008/texmf-dist/fonts/type1/bluesky/cm/cmr12.pfb></usr/local/texlive/2008/tex
+mf-dist/fonts/type1/bluesky/cm/cmr9.pfb></usr/local/texlive/2008/texmf-dist/fon
+ts/type1/bluesky/cm/cmti10.pfb></usr/local/texlive/2008/texmf-dist/fonts/type1/
+bluesky/cm/cmti9.pfb>
+Output written on 3-fixed.pdf (284 pages, 873522 bytes).
+PDF statistics:
+ 1811 PDF objects out of 2073 (max. 8388607)
+ 387 named destinations out of 1000 (max. 131072)
+ 21773 words of extra memory for PDF output out of 24883 (max. 10000000)
+

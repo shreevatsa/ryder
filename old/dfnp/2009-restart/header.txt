@@ -1,0 +1,45 @@
+\documentclass[article, twoside, 14pt]{memoir}
+
+\chapterstyle{bringhurst}
+\renewcommand{\printchaptername}{\vskip\onelineskip}%
+\renewcommand{\printchaptertitle}[1]{\centering \scshape\MakeUppercase{#1}}
+\renewcommand{\afterchaptertitle}{\vskip0pt} %This seems needed for the previous centering to work
+
+\usepackage[mathletters]{ucs}
+\usepackage[utf8x]{inputenc}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+
+\usepackage{parallel}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{amssymb}
+\newcommand{\qed}{\hfill \ensuremath{\blacksquare}}
+%\includepdfset{openright}
+
+\usepackage{microtype}
+\pdfprotrudechars 2
+
+\usepackage{alltt}
+\renewenvironment{verbatim}{%
+\begin{quote}%
+\vskip -10pt%
+\begin{alltt}\normalfont\large}{\end{alltt}%
+\end{quote}%
+\vskip -10pt
+} %The quote is to indent it!
+\setcounter{tocdepth}{2}
+%\usepackage{fullpage}
+
+\renewcommand{\chaptermark}[1]{}% Don't touch \leftmark and \rightmark when chapters start
+\renewcommand{\partmark}[1]{\markboth{#1}{#1}}%Set them only when a part starts
+\makeoddhead{myheadings}{}{\rightmark}{\thepage}
+\makeevenhead{myheadings}{\thepage}{\thetitle}{} %Useless in oneside
+\pagestyle{myheadings}
+
+\usepackage[breaklinks=true]{hyperref}
+\hypersetup{colorlinks}
+
+
+%\hypersetup{linkbordercolor={0 0 1},
+%pdfborderstyle={/S/D/D[3 2]/W 1}}

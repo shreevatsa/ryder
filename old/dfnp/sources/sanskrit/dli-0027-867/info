@@ -1,0 +1,3 @@
+for i in {00000000..00000205}; do wget --wait=1 http://www.new1.dli.ernet.in/data1/upload/0027/867/PTIFF/$i.tif; done  #1930
+for i in {00000000..00000237}; do wget --wait=1 http://www.new1.dli.ernet.in/data1/upload/0027/868/PTIFF/$i.tif; done  #1906
+for i in {00000000..00000487}; do wget --wait=1 http://www.new1.dli.ernet.in/data1/upload/0027/869/PTIFF/$i.tif; done  #1866

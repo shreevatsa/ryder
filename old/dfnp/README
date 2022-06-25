@@ -1,0 +1,117 @@
+This is the esteemed translation of the Panchatantra, by Arthur
+W. Ryder [Arthur William Ryder], 1877-1938.  He used Dr. Hertel's text
+for the translation.  As the copyright law in India is "author's death
+plus 60 years", this work passed into the public domain in India in
+1998.  Copyright laws may be different in your country.  For example,
+it is still under copyright in the United States, the original country
+of publication.
+
+There is also a near-complete scanned copy of the book on the
+internet, e.g. on Scribd.[link] and archive.org [ http://www.archive.org/details/panchatantra035159mbp ]
+
+It was originally scanned and (poorly) digitized at the University of
+[Hyderabad?], and is available through the Digital Library of India
+Project, at dli.iiit.ac.in
+
+http://dli.iiit.ac.in/cgi-bin/Browse/scripts/use_scripts/advnew/aui/bookreader_india/bookReader_test.cgi?barcode=2020050014407
+http://dli.iiit.ac.in/cgi-bin/Browse/scripts/use_scripts/advnew/aui/bookreader_india/1.cgi?barcode=2020050014407
+
+Actual files:
+
+http://dli.iiit.ac.in//server25/data/upload/PAR/IIIT/RMSC_PAR_DVD_200_TO_216/Rmsc-Par-Disk215-BROU-ENGLISH/BROU-ENGLISH/12008_The%20Panchatantra/HTML/00000005.htm
+
+http://dli.iiit.ac.in//server25/data/upload/PAR/IIIT/RMSC_PAR_DVD_200_TO_216/Rmsc-Par-Disk215-BROU-ENGLISH/BROU-ENGLISH/12008_The%20Panchatantra/TIF/00000005.tif
+
+etc.  I have downloaded the TIF, HTML and TXT files. The GIF files are
+*generated* using some TIF2PNG2GIF or something, so no point getting
+them.
+
+It is also available from http://www.archive.org/details/panchatantra035159mbp
+
+****************************************** ******************************************
+
+The itx version of the Sanskrit source is from
+http://sanskritdocuments.org/doc_z_misc_major_works/panchatantra1.itx
+
+****************************************** ******************************************
+
+Copyright status: Search for 'ryder arthur' at
+http://www.scils.rutgers.edu/~lesk/copyrenew.html
+http://collections.stanford.edu/copyrightrenewals/bin/page?forward=home
+http://onlinebooks.library.upenn.edu/cce/
+http://www.copyright.gov/records/ (Records since 1978)
+[http://en.wikisource.org/wiki/Template:PD-US-no-renewal]
+[For just this one, see http://www.ibiblio.org/ccer/1925a7.htm ]
+
+CLNA: PAÑCHATANTRA.
+TITL: The Pañchatantra, translated from the Sanskrit by Arthur W. Ryder.
+ODAT: 11Sep25 OREG: A872153 DREG: 9Sep53 RREG: R117181 RCLM: Mary E. Ryder & Winifred M. Ryder
+
+CLNA: RYDER, ARTHUR W., tr.
+TITL: The Pañchatantra. R117181.
+XREF: Pañchatantra.
+
+CLNA Name of claimant(s)
+ODAT original date of registration
+DREG Effective date of registration from application
+
+Meanwhile, "Original poems: together with translations from the
+Sanskrit", by Arthur William Ryder, University of California Press,
+Berkeley California 1939, seems to be out of copyright, having been
+published before 1964 and never renewed.
+
+--------
+
+Page numbers to TIF
+
+<span class="pagenum"><a href="pgimages/p004.jpg">[4]</a></span>
+
+
+-----
+
+I have proofread, corrected, formatted and typeset this translation.
+
+* In the plain text file, I have mostly retained the line-breaks of
+the book, except that words broken by a hyphen have been joined on one
+of the two lines in question, generally whichever keeps the larger of
+the two lines shorter.
+
+* I believe that I have caught most OCR errors, and any strange words
+you might see were actually used by the author--such as
+“unguipugnacious”, which, as far as I can tell, no one else in the
+world has used, but this work uses it twice.  Still, if you find
+errors, please do point them out.
+
+* The writing mostly uses American spellings (honor, etc.), but it
+also uses “wilful”, “fulfilment” and so on. Perhaps American English
+gained the extra Ls later? Also, “self-depreciatory” is actually the
+more correct.
+
+* The following pages were missing and I had to retype them: 140, 141, 280, 281,
+456, 457, 468, and 469. Pages 386-395 are in the book *twice*.
+* The following pages had stuff in them: 77, 127, 128, 470
+
+* I have introduced markup to keep stories together. In the HTML it
+makes them collapsible. (TODO)
+
+* The Sanskrit version used for the translation is mentioned once in
+passing in the text ("Dr. Hertel, the learned and painstaking editor
+of the text used by the present translator, believes that"). After
+searching for it and downloading it (also from DLI), I found that the
+translation is a very close one. The Sanskrit version was published by
+Hertel in 1908, which is supposed to be a recension from 1199 AD known
+to the Kashmiran commentator Purnabhadra. It is included facing the
+translated text. The alignment (page and line breaks) are approximate.
+
+
+
+
+-----
+
+Typesetting the book in LaTeX is a bit hard, since we don't want chapter numbers, nor chapters on new pages.
+(Solved with memoir class and appropriate chapterstyle.)
+
+-----
+
+Need to scan pages 140 and 141; how did I miss them!
+

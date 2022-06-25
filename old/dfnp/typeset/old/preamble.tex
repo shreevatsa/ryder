@@ -1,0 +1,24 @@
+\documentclass[draft]{book}
+\usepackage{alltt}
+\usepackage{verse}
+\newcommand{\sk}[1]{\textit{#1}}
+%\newcommand{\attrib}[1]{\rightline{#1}}
+\newcommand{\attrib}[1]{%
+\nopagebreak{\raggedleft\footnotesize #1\par}}
+% {\catcode`\^^M=13%
+%   \gdef\myobeylines{\catcode`\^^M=13 \def^^M{\par\noindent}}%
+% }
+%\newenvironment{pverse}{\begin{verse}\parskip=0pt plus 1.0 pt \myobeylines}{\end{verse}}
+\newenvironment{pverse}[1][0]{\begin{verse}\indentpattern{#1}\begin{patverse*}}{\end{patverse*}\end{verse}}
+%\newenvironment{pverse}{\begin{quote}\begin{alltt}\normalfont}{\end{alltt}\end{quote}}
+%\newenvironment{pverse}{\begin{center}\begin{minipage}{0.75\textwidth}\begin{alltt}\normalfont}{\end{alltt}\end{minipage}\end{center}}
+\setlength{\beforepoemtitleskip}{0.0pt}
+\settowidth{\beforepoemtitleskip}{}
+\setlength{\afterpoemtitleskip}{0.0pt}
+
+\newcommand{\story}[1]{\centerline{#1}}
+
+\hyphenation{Pancha-tantra}
+\title{The Panchatantra}
+\author{Arthur W. Ryder (Tr.)}
+\date{}

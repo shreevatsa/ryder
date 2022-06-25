@@ -1,0 +1,93 @@
+\contentsline {section}{INTRODUCTIONS}{4}{section*.2}
+\contentsline {subsection}{TRANSLATOR'S INTRODUCTION}{4}{section*.3}
+\contentsline {subsubsection}{I}{4}{section*.4}
+\contentsline {subsubsection}{II}{5}{section*.5}
+\contentsline {subsubsection}{III}{10}{section*.6}
+\contentsline {subsection}{INTRODUCTION}{11}{section*.7}
+\contentsline {section}{BOOK I: THE LOSS OF FRIENDS}{13}{section*.8}
+\contentsline {subsection}{THE WEDGE-PULLING MONKEY}{16}{section*.9}
+\contentsline {subsection}{THE JACKAL AND THE WAR-DRUM}{29}{section*.10}
+\contentsline {subsection}{MERCHANT STRONG-TOOTH}{34}{section*.11}
+\contentsline {subsection}{GODLY AND JUNE}{40}{section*.12}
+\contentsline {subsection}{THE JACKAL AT THE RAM-FIGHT}{42}{section*.13}
+\contentsline {subsection}{THE WEAVER'S WIFE}{43}{section*.14}
+\contentsline {subsection}{HOW THE CROW-HEN KILLED THE BLACK SNAKE}{51}{section*.15}
+\contentsline {subsection}{THE HERON THAT LIKED CRAB-MEAT}{52}{section*.16}
+\contentsline {subsection}{NUMSKULL AND THE RABBIT}{56}{section*.17}
+\contentsline {subsection}{THE WEAVER WHO LOVED A PRINCESS}{61}{section*.18}
+\contentsline {subsection}{THE UNGRATEFUL MAN}{75}{section*.19}
+\contentsline {subsection}{LEAP AND CREEP}{80}{section*.20}
+\contentsline {subsection}{THE BLUE JACKAL}{82}{section*.21}
+\contentsline {subsection}{PASSION AND THE OWL}{86}{section*.22}
+\contentsline {subsection}{UGLY'S TRUST ABUSED}{90}{section*.23}
+\contentsline {subsection}{THE LION AND THE CARPENTER}{95}{section*.24}
+\contentsline {subsection}{THE PLOVER WHO FOUGHT THE OCEAN}{97}{section*.25}
+\contentsline {subsection}{SHELL-NECK, SLIM, AND GRIM}{99}{section*.26}
+\contentsline {subsection}{FORETHOUGHT, READYWIT, AND FATALIST}{100}{section*.27}
+\contentsline {subsection}{THE DUEL BETWEEN ELEPHANT AND SPARROW}{102}{section*.28}
+\contentsline {subsection}{THE SHREWD OLD GANDER}{105}{section*.29}
+\contentsline {subsection}{THE LION AND THE RAM}{106}{section*.30}
+\contentsline {subsection}{SMART, THE JACKAL}{109}{section*.31}
+\contentsline {subsection}{THE MONK WHO LEFT HIS BODY BEHIND}{116}{section*.32}
+\contentsline {subsection}{THE GIRL WHO MARRIED A SNAKE}{117}{section*.33}
+\contentsline {subsection}{POOR BLOSSOM}{119}{section*.34}
+\contentsline {subsection}{THE UNTEACHABLE MONKEY}{121}{section*.35}
+\contentsline {subsection}{RIGHT-MIND AND WRONG-MIND}{122}{section*.36}
+\contentsline {subsection}{A REMEDY WORSE THAN THE DISEASE}{124}{section*.37}
+\contentsline {subsection}{THE MICE THAT ATE IRON}{127}{section*.38}
+\contentsline {subsection}{THE RESULTS OF EDUCATION}{130}{section*.39}
+\contentsline {subsection}{THE SENSIBLE ENEMY}{131}{section*.40}
+\contentsline {subsection}{THE FOOLISH FRIEND}{134}{section*.41}
+\contentsline {section}{BOOK II: THE WINNING OF FRIENDS}{139}{section*.42}
+\contentsline {subsection}{THE BHARUNDA BIRDS}{141}{section*.43}
+\contentsline {subsection}{GOLD'S GLOOM}{151}{section*.44}
+\contentsline {subsection}{MOTHER SHANDILEE'S BARGAIN}{153}{section*.45}
+\contentsline {subsection}{SELF-DEFEATING FORETHOUGHT}{155}{section*.46}
+\contentsline {subsection}{MISTER DULY}{163}{section*.47}
+\contentsline {subsection}{SOFT, THE WEAVER}{173}{section*.48}
+\contentsline {subsection}{HANG-BALL AND GREEDY}{176}{section*.49}
+\contentsline {subsection}{THE MICE THAT SET ELEPHANTS FREE}{182}{section*.50}
+\contentsline {subsection}{SPOT'S CAPTIVITY}{186}{section*.51}
+\contentsline {section}{BOOK III: CROWS AND OWLS}{191}{section*.52}
+\contentsline {subsection}{HOW THE BIRDS PICKED A KING}{202}{section*.53}
+\contentsline {subsection}{HOW THE RABBIT FOOLED THE ELEPHANT}{205}{section*.54}
+\contentsline {subsection}{THE CATS JUDGMENT}{209}{section*.55}
+\contentsline {subsection}{THE BRAHMAN'S GOAT}{214}{section*.56}
+\contentsline {subsection}{THE SNAKE AND THE ANTS}{216}{section*.57}
+\contentsline {subsection}{THE SNAKE WHO PAID CASH}{219}{section*.58}
+\contentsline {subsection}{THE UNSOCIAL SWANS}{220}{section*.59}
+\contentsline {subsection}{THE SELF-SACRIFICING DOVE}{221}{section*.60}
+\contentsline {subsection}{THE OLD MAN WITH THE YOUNG WIFE}{227}{section*.61}
+\contentsline {subsection}{THE BRAHMAN, THE THIEF, AND THE GHOST}{228}{section*.62}
+\contentsline {subsection}{THE SNAKE IN THE PRINCE'S BELLY}{230}{section*.63}
+\contentsline {subsection}{THE GULLIBLE CARPENTER}{231}{section*.64}
+\contentsline {subsection}{MOUSE-MAID MADE MOUSE}{234}{section*.65}
+\contentsline {subsection}{THE BIRD WITH GOLDEN DUNG}{238}{section*.66}
+\contentsline {subsection}{THE CAVE THAT TALKED}{239}{section*.67}
+\contentsline {subsection}{THE FROGS THAT RODE SNAKEBACK}{244}{section*.68}
+\contentsline {subsection}{THE BUTTER-BLINDED BRAHMAN}{245}{section*.69}
+\contentsline {section}{BOOK IV: LOSS OF GAINS}{251}{section*.70}
+\contentsline {subsection}{THE MONKEY AND THE CROCODILE}{251}{section*.71}
+\contentsline {subsection}{HANDSOME AND THEODORE}{255}{section*.72}
+\contentsline {subsection}{FLOP-EAR AND DUSTY}{260}{section*.73}
+\contentsline {subsection}{THE POTTER MILITANT}{262}{section*.74}
+\contentsline {subsection}{THE JACKAL WHO KILLED NO ELEPHANTS}{263}{section*.75}
+\contentsline {subsection}{THE UNGRATEFUL WIFE}{265}{section*.76}
+\contentsline {subsection}{KING JOY AND SECRETARY SPLENDOR}{267}{section*.77}
+\contentsline {subsection}{THE ASS IN THE TIGER-SKIN}{268}{section*.78}
+\contentsline {subsection}{THE FARMER'S WIFE}{270}{section*.79}
+\contentsline {subsection}{THE PERT HEN-SPARROW}{272}{section*.80}
+\contentsline {subsection}{HOW SUPERSMART ATE THE ELEPHANT}{274}{section*.81}
+\contentsline {subsection}{THE DOG WHO WENT ABROAD}{276}{section*.82}
+\contentsline {section}{BOOK V: ILL-CONSIDERED ACTION}{277}{section*.83}
+\contentsline {subsection}{THE LOYAL MUNGOOSE}{281}{section*.84}
+\contentsline {subsection}{THE FOUR TREASURE-SEEKERS}{282}{section*.85}
+\contentsline {subsection}{THE LION-MAKERS}{287}{section*.86}
+\contentsline {subsection}{HUNDRED-WIT, THOUSAND-WIT, AND SINGLE-WIT}{288}{section*.87}
+\contentsline {subsection}{THE MUSICAL DONKEY}{289}{section*.88}
+\contentsline {subsection}{SLOW, THE WEAVER}{291}{section*.89}
+\contentsline {subsection}{THE BRAHMAN'S DREAM}{294}{section*.90}
+\contentsline {subsection}{THE UNFORGIVING MONKEY}{295}{section*.91}
+\contentsline {subsection}{THE CREDULOUS FIEND}{299}{section*.92}
+\contentsline {subsection}{THE THREE-BREASTED PRINCESS}{300}{section*.93}
+\contentsline {subsection}{THE FIEND WHO WASHED HIS FEET}{301}{section*.94}

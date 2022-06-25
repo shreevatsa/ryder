@@ -1,0 +1,3662 @@
+%@@1
+% File name             : panchatantra1.itx
+%--------------------------------------------
+% Text title            : panchatantra tantra 1 mitrabhed
+% Author                : viShNusharman
+% Language              : Sanskrit
+% Subject               : philosophy/hinduism/religion
+% Description/comments  : 
+% Transliterated by     : Jan Brzezinski of Gaudiya Grantha Mandira, Arvind Kolhatkar akolhatkar at rogers.com
+% Proofread by          : Arvind Kolhatkar akolhatkar at rogers.com
+% Latest update         : March 29, 2007
+% Send corrections to   : sanskrit@cheerful.com
+%
+% Special Instructions:
+% i1h.hdr,ijag.inc,itrans.sty,multicol.sty,iarticle.sty
+% Transliteration scheme: ITRANS 5.2
+% Site access  :         
+% http://sanskritdocuments.org
+% http://sanskrit.gde.to/
+%-----------------------------------------------------
+% The text is to be used for personal studies and research only.
+% Any use for commercial purpose is prohibited as a 'gentleman's' agreement.
+% @@2
+%
+% Commands upto engtitle are 
+% needed for devanaagarii output and formatting.
+%--------------------------------------------------------
+
+\documentstyle[11pt,multicol,itrans]{article}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=50pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\LARGE #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+\engtitle{.. Panchatantra 1 Mitrabheda Tantra by Vishnusharman  ..}##
+\itxtitle{.. shriiviShNusharmaviracite pa~ncatantre mitrabhedo naama prathama.n tantram  ..}##\endtitles ## 
+kathaamukham |
+
+AUM namaH shriishaaradaagaNapatigurubhyaH |
+mahaakavibhyo namaH |
+
+brahmaa rudraH kumaaro harivaruNayamaa vahnirindraH kubera\-
+shcandraadityau sarasvatyudadhiyuganagaa vaayururvii bhuja~NgaaH |
+siddhaa nadyo.ashvinau shriirditiraditisutaa maatarashcaNDikaadyaaH |
+vedaastiirthaani yakShaa gaNavasumunayaH paantu nitya.n grahaashca ||
+manave vaacaspataye shukraaya paraasharaaya sa sutaaya |
+caaNakyaaya ca viduShe namo.astu nayashaastrakartR^ibhyaH || 1||
+sakalaarthashaastrasaara.n jagati samaalokya viShNusharmedam |
+tantraiH pa~ncabhiretaishcakaara sumanohara.n shaastram || 2||
+
+tadyathaanushruuyate | asti daakShiNaatye janapade mahilaaropya.n naama
+nagaram | tatra sakalaarthisaarthakalpadrumaH pravaranR^ipamukuTamaNi\-
+mariicicayacarcitacaraNayugalaH sakalakalaapaara.ngato.amarashakti\-
+rnaama raajaa babhuuva | tasya trayaH putraaH paramadurmedhaso
+vasushaktirugrashaktiranekashaktishceti naamaano babhuuvuH | atha raajaa
+taan shaastravimukhaanaalokya sacivaanaahuuya provaaca \- bhoH
+dnyaatametadbhavadbhiryanmamaite trayo.api putraaH shaastravimukhaa
+vivekahiinaashca | tadetaanpashyato me mahadapi raajya.n na
+saukhyamaavahati | athavaa saadhvidamucyate \-
+
+ajaatamR^itamuurkhebhyo mR^itaajaatau sutau varam |
+yatastau svalpaduHkhaaya yaavajjiiva.n jaDo dahet || 3||
+vara.n garbhasraavo varamR^ituShu naivaabhigamanam |
+vara.n jaataH preto varamapi ca kanyaiva janitaa |
+vara.n vandhyaa bhaaryaa varamapi ca garbheShu vasati\-
+rna caavidagdhaan ruupadraviNaguNayukto.api tanayaH || 4||
+ki.n tayaa kriyate dhenvaa yaa na suute na dugdhadaa |
+ko.arthaH putreNa jaatena yo na vidvaanna bhaktimaan || 5||
+
+tadeteShaa.n yathaa buddhiprabodhana.n bhavati tathaa ko.apyupaa\-
+yo.anuShThiiyataam | atra ca maddattaa.n vR^itti.n bhu~njaanaanaa.n
+paNDitaanaa.n pa~ncashatii tiShThati | tato yathaa mama manorathaaH
+siddhi.n yaanti tathaanuShThiiyataamiti | tatraikaH provaaca \- deva
+dvaadashabhirvarShairvyaakaraNa.n shruuyate | tato dharmashaastraaNi
+manvaadiinyarthashaastraaNi caaNakyaadiini kaamashaastraaNi
+vaatsyaayanaadiini | eva.n ca tato dharmaarthakaamashaastraaNi
+dnyaayante | tataH pratibodhana.n bhavati | atha tanmadhyataH
+sumatirnaama sacivaH praaha \- ashaashvato.aya.n jiivaviShayaH |
+prabhuutakaaladnyeyaani shabdashaastraaNi | tatsa~NkShepamaatra.n
+shaastra.n ki~ncideteShaa.n prabodhanaartha.n cintyataamiti |
+ukta~nca yataH \-
+
+anantapaara.n kila shabda shaastra.n
+           svalpa.n tathaayurbahavashca vighnaaH |
+saara.n tato graahyamapaasya phalgu
+           ha.nsairyathaa kShiiramivaambumadhyaat || 6||
+
+tadatraasti viShNusharmaa naama braahmaNaH sakalashaastrapaara.n\-
+gamashcaatra sa.nsadi labdhakiirtiH | tasmai samarpayatvetaan | sa
+nuuna.n draak prabuddhaan kariShyatiiti |sa raajaa tadaakarNya
+viShNusharmaaNamaahuuya provaaca\- bho bhagavan madanugra\-
+haarthametaanarthashaastra.n prati draagyathaananyasadR^ishaan
+vidadhaasi tathaa kuru | tadaha.n tvaa.n shaasanashatena yojayiShyaami |
+atha viShNusharmaa ta.n raajaanamaaha \- deva shruuyataa.n me
+tathyavacanam | naaha.n vidyaavikraya.n shaasanashatenaapi karomi |
+punaretaa{\m+}stava putraanmaasaShaTkena yadi niitishaastradnyaanna
+karomi tataH svanaamatyaaga.n karomi |athaasau raajaa taa.n braahmaNa\-
+syaasa.nbhaavyaa.n pratidnyaa.n shrutvaa sasacivaH prahR^iShTo
+vismayaanvitastasmai saadara.n taan kumaaraan samarpya paraa.n
+nirvR^itimaajagaama | viShNusharmaNaapi taanaadaaya tadartha.n
+mitrabhedamitrapraaptikaakoluukiiyalabdhapraNaashaapariikShitakaarakaaNi
+ceti pa~nca tantraaNi racayitvaa paaThitaaste raajaputraaH | te.api 
+taanyadhiitya
+maasaShaTkena yathoktaaH sa.nvR^ittaaH | tataH prabhR^ityetat
+pa~ncatantraka.n naama niitishaastra.n baalaavabodhanaartha.n
+bhuutale pravR^ittam | ki.n bahunaa \-
+
+adhiite ya ida.n nitya.n niitishaastra.n shR^iNoti ca |
+na paraabhavamaapnoti shakraadapi kadaacana || 7||
+
+iti kathaamukham |
+\medskip\hrule\medskip
+
+mitrabhedaH |
+
+vardhamaanavR^ittaantaH |
+
+athaataH praarabhyate mitrabhedo naama prathama.n tantram |
+yasyaayamaadimaH shlokaH \-
+
+vardhamaano mahaan snehaH si.nhagovR^iShayorvane |
+pishunenaatilubdhena jambukena vinaashitaH || 1||
+
+tadyathaanushruuyate | asti dakShiNaatye janapade mahilaaropya.n naama
+nagaram | tatra dharmopaarjitabhuurivibhavo vardhamaanako naama
+vaNikputro babhuuva | tasya kadaacidraatrau shayyaaruuDhasya
+cintaa samutpannaa | yatprabhuute.api vitte.arthopaayaashcintaniiyaaH
+kartavyaashceti | yata ukta~nca \-
+
+na hi tadvidyate ki.ncidyadarthena na sidhyati |
+yatnena matimaa.nstasmaadarthameka.n prasaadhayet || 2||
+yasyaarthaastasya mitraaNi yasyaarthaastasya baandhavaaH |
+yasyaarthaaH sa pumaa{\m+}lloke yasyaarthaaH sa ca paNDitaH || 3||
+na saa vidyaa na taddaana.n na tacChilpa.n na saa kalaa |
+na tatsthairya.n hi dhaninaa.n yaacakairyanna giiyate || 4||
+iha loke hi dhaninaa.n paro.api svajanaayate |
+svajano.api daridraaNaa.n sarvadaa durjanaayate || 5||
+arthebhyo.api hi vR^iddhebhyaH sa.nvR^ittebhyastastataH |
+pravartante kriyaaH sarvaaH parvatebhya ivaapagaaH || 6||
+puujyate yadapuujyo.api yadagamyo.api gamyate |
+vandyate yadavandyo.api sa prabhaavo dhanasya ca || 7||
+ashanaadindriyaaNiiva syuH kaaryaaNyakhilaanyapi |
+etasmaatkaaraNaadvitta.n sarvasaadhanamucyate || 8||
+arthaarthii jiivaloko.aya.n shmashaanamapi sevate |
+tyaktvaa janayitaara.n sva.n niHsva.n gacChati duurataH || 9||
+gatavayasaamapi pu.nsaa.n yeShaamarthaa bhavanti te taruNaaH |
+arthena tu ye vihiinaa vR^iddhaaste yauvane.api syuH || 10||
+
+sa caarthaH puruShaaNaa.n ShaDbhirupaayairbhavati bhikShayaa
+nR^ipasevayaa kR^iShikarmaNaa vidyopaarjanena vyavahaareNa
+vaNikkarmaNaa vaa | sarveShaamapi teShaa.n vaaNijyenaatiraskR^ito\-
+.arthalaabhaH syaat | ukta~nca yataH \-
+
+kR^itaa bhikShaanekairvitarati nR^ipo nocitamaho
+kR^iShiH kliShTaa vidyaa guruvinayavR^ittyaativiShamaa |
+kusiidaaddaaridrya.n parakaragatagranthishamanaa\-
+nna manye vaaNijyaatkimapi parama.n vartanamiha || 11||
+upaayaanaa.n ca sarveShaamupaayaH paNyasa.ngrahaH |
+dhanaartha.n shasyate hyekastadanyaaH sa.nshayaatmakaaH || 12||
+
+tacca vaaNijya.n saptavidhamarthaagamaaya syaat | tadyathaa gaandhika\-
+vyavahaaro nikShepapravesho goShThikakarma paricitagraahakaagamo
+mithyaakrayakathana.n, kuuTatulaamaana.n deshaantaraadbhaaNDaa\-
+nayana.n ceti | ukta~nca \-
+
+paNyaanaa.n gaandhika.n paNya.n kimanyaiH kaa~ncanaadibhiH |
+yatraikena ca yatkriita.n tacChatena pradiiyate || 13||
+nikShepe patite harmye shreShThii stauti svadevataam |
+nikShepii mriyate tubhya.n pradaasyaamyupayaacitam || 14||
+goShThikakarmaniyuktaH shreShThii cintayati cetasaa hR^iShTaH |
+vasudhaa vasusa.npuurNaa mayaadya labdhaa kimanyena || 15||
+paricitamaagacChanta.n graahakamutkaNThayaa vilokyaasau |
+hR^iShyati taddhanalabdho yadvatputreNa jaatena || 16||
+
+anyacca \-
+
+puurNaapuurNe maane paricitajanava~ncana.n tathaa nityam |
+mithyaakrayasya kathana.n prakR^itiriya.n syaatkiraataanaam || 17||
+dviguNa.n triguNa.n vitta.n bhaaNDakrayavicakShaNaaH |
+praapnuvantyudyamaallokaa duuradeshaantara.n gataaH || 18||
+
+ityeva.n sa.npradhaarya mathuraagaamiini bhaaNDaanyaadaaya shubhaayaa.n
+tithau gurujanaanuj~naataH surathaadhiruuDhaH prasthitaH | tasya ca
+ma~NgalavR^iShabhau sa.njiivakanandakanaamaanau gR^ihotpannau
+dhuurvoDhaarau sthitau | tayorekaH sa.njiivakaabhidhaano yamunaakacCha\-
+mavatiirNaH san pa~Nkapuuramaasaadya kalitacaraNo yugabha~Nga.n
+vidhaaya niShasaada | atha ta.n tadavasthamaalokya vardhamaanaH
+para.n viShaadamagamat | tadartha.n ca snehaardrahR^idayastriraatra.n
+prayaaNabha~Ngamakarot | atha ta.n viShaNNamaalokya saarthikairabhihitam
+\- bhoH shreShThin ! kimeva.n vR^iShabhasya kR^ite si.nhavyaaghrasamaakule
+bahvapaaye.asmin vane samastasaarthastvayaa sandehe niyojitaH |
+ukta~nca \-
+
+na svalpasya kR^ite bhuuri naashayenmatimaannaraH |
+etadevaatra paaNDitya.n yatsvalpaadbhuuri rakShaNam || 19||
+
+athaasau tadavadhaarya sa.njiivakasya rakShaapuruShaanniruupyaa\-
+sheShasaartha.n niitvaa prasthitaH | atha rakShaapuruShaa api bahvapaaya.n
+tadvana.n viditvaa sa.njiivaka.n parityajya pR^iShThato gatvaa.anyedyusta.n
+saarthavaaha.n mithyaa.ahuH \- svaamin mR^ito.asau sa.njiivakaH |
+asmaabhistu saarthavaahasyaabhiiShTa iti matvaa vahninaa sa.nskR^ita iti |
+tacChrutvaa saarthavaahaH kR^itaj~natayaa snehaardrahR^idayastasyaurdhva\-
+dehikakriyaa vR^iShotsargaadikaaH sarvaashcakaara | sa.njiivako.apyaayuH\-
+sheShatayaa yamunaasalilamishraiH shishirataravaatairaapyaayitashariiraH
+katha.ncidapyutthaaya yamunaataTamupapede | tatra marakatasadR^ishaani
+baalatR^iNaagraaNi bhakShayankatipayairahobhirharavR^iShabha iva piinaH
+kakudmaanbalavaa.nshca sa.nvR^ittaH | pratyaha.n valmiikashikharaagraaNi
+shR^i~Ngaabhyaa.n vidaarayangarjamaana aaste | saadhu cedamucyate \-
+
+arakShita.n tiShThati devarakShita.n surakShita.n devahata.n vinashyati |
+jiivatyanaatho.api vane visarjitaH kR^itaprayatno.api gR^ihe vinashyati || 20||
+
+atha kadaacitpi~Ngalako naama si.nhaH sarvamR^igaparivR^itaH
+pipaasaakula udakapaanaartha.n yamunaataTamavatiirNaH sa.njiivakasya
+gambhiiratararaava.n duuraadevaashR^iNot | tacChrutvaa.atiiva vyaakula\-
+hR^idayaH sasaadhvasamaakaara.n pracChaadya vaTatale
+caturmaNDalaavasthaanenaavasthitaH | caturmaNDalaavasthaana.n
+tvida.n si.nhaH si.nhaanuyaayinaH kaakakaravaaH ki.nvR^ittaa iti | 
+atha tasya karaTakadamanakanaamaanau dvau shR^igaalau mantriputrau
+bhraShTaadhikaarau sadaanuyaayinaavaastaam | tau ca paraspara.n
+mantrayataH | tatra damanako.abraviit \- bhadra karaTaka aya.n
+taavadasmatsvaamii pi~Ngalaka udakagrahaNaartha.n yamunaakacCha\-
+mavatiirya sthitaH | sa ki.nnimitta.n pipaasaakulo.api nivR^ittya
+vyuuharacanaa.n vidhaaya daurmanasyenaabhibhuuto.atra vaTatale
+sthitaH | karaTaka aaha \- bhadra kimaavayoranena vyaapaareNa |
+ukta~nca yataH \-
+
+avyaapaareShu vyaapaara.n yo naraH kartumicChati |
+sa eva nidhana.n yaati kiilotpaaTiiva vaanaraH || 21||
+
+\medskip\hrule\medskip
+kathaa 1
+kiilotpaaTivaanarakathaa |
+
+kasmi.nshcinnagaraabhyaase kenaapi vaNikputreNa tarukhaNDamadhye
+devataayatana.n kartumaarabdham | tatra ca ye karmakaraaH
+sthaapanaadayaste madhyaahnavelaayaamaahaaraartha.n nagaramadhye
+gacChanti | atha kadaacit tatraanuSha~Ngika.n vaanarayuuthamitashce\-
+tashca paribhramadaagatam | tatraikasya kasyacicChilpino.ardhasphaaTito\-
+.a~njanavR^ikShadaarumayaH stambhaH khadirakiilakena madhyanihitena
+tiShThati | etasminnantare te vaanaraastarushikharapraasaadashR^i~Nga\-
+daaruparyanteShu yathecChayaa kriiDitumaarabdhaaH | ekashca teShaa.n
+pratyaasannamR^ityushcaapalyaattasminnardhasphoTitastambha upavishya
+paaNibhyaa.n kiilaka.n sa.ngR^ihya yaavadutpaadayitumaarebhe taavattasya
+stambhamadhyagatavR^iShaNasya svasthaanaaccalitakiilakena yadvR^itta.n
+tatpraageva niveditam | ato.aha.n braviimi \- avyaapaareShu iti |
+aavayorbhakShitasheSha aahaaro.astyeva | tat kimanena vyaapaareNa |
+damanaka aaha tat ki.n bhavaanaahaaraarthii kevalameva | tanna yuktam |
+ukta~nca \-
+
+suhR^idaamupakaarakaaraNaaddviShataamapyapakaarakaaraNaat |
+nR^ipasa.nshraya iShyate budhairjaThara.n ko na bibharti kevalam || 22||
+
+ki~nca \-
+
+yasmin jiivanti jiivanti bahavaH so.atra jiivati |
+vayaa.nsi ki.n na kurvanti ca~ncvaa svodarapuuraNam || 23||
+
+tathaa ca \-
+
+yajjiivyate kShaNamapi prathita.n manuShyai\-
+           rvij~naanashauryavibhavaaryaguNaiH sametam |
+tannaama jiivitamiha pravadanti tajdnyaaH
+           kaako.api jiivati ciraaya bali.n ca bhu~Nkte || 24||
+yo naatmanaa na ca pareNa ca bandhuvarge
+diine dayaa.n na kurute na ca martyavarge |
+ki.n tasya jiivitaphala.n hi manuShyaloke
+kaako.api jiivati ciraaya bali.n ca bhu~Nkte || 25||
+supuuraa syaatkunadikaa supuuro muuShikaa~njaliH |
+susa.ntuShTaH kaapuruShaH svalpakenaapi tuShyati || 26||
+
+ki~nca \-
+
+ki.n tena jaatu jaatena maaturyauvanahaariNaa |
+aarohati na yaH svasya va.nshasyaagre dhvajo yathaa || 27||
+parivartini sa.nsaare mR^itaH ko vaa na jaayate |
+jaatastu gaNyate so.atra yaH sphurecca shriyaadhikaH || 28||
+
+ki~nca \-
+
+jaatasya nadiitiire tasyaapi tR^iNasya janmasaaphalyam |
+yatsalilamajjanaakulajanahastaalambana.n bhavati || 29||
+
+tathaa ca \-
+
+stimitonnatasa~ncaaraa janasantaapahaariNaH |
+jaayante viralaa loke jaladaa iva sajjanaaH || 30||
+niratishaya.n garimaaNa.n tena jananyaaH smaranti vidvaa.nsaH |
+yatkamapi vahati garbha.n mahataamapi yo gururbhavati || 31||
+aprakaTiikR^itashaktiH shakto.api janastiraskriyaa.n labhate |
+nivasannantardaaruNi la~Nghyo vahnirna tu jvalitaH || 32||
+
+karaTaka aaha \- aavaa.n taavadapradhaanau tatkimaavayoranena
+vyaapareNa | ukta~nca \-
+
+apR^iShTo.atraapradhaano yo bruute raadnyaH puraH kudhiiH |
+na kevalamasa.nmaana.n labhate ca viDambanam || 33||
+
+tathaa ca \-
+
+vacastatra prayoktavya.n yatrokta.n labhate phalam |
+sthaayii bhavati caatyanta.n raagaH shuklapaTe yathaa || 34||
+
+damanaka aaha \- maa maiva.n vada |
+
+apradhaanaH pradhaanaH syaatsevate yadi paarthivam |
+pradhaano.apyapradhaanaH syaadyadi sevaavivarjitaH || 35||
+
+yata ukta~nca \-
+
+aasannameva nR^ipatirbhajate manuShya.n
+           vidyaavihiinamakuliinamasa.nskR^ita.n vaa |
+praayeNa bhuumipatayaH pramadaa lataashca
+           yatpaarshvato bhavati tatpariveShTayanti || 36||
+
+tathaa ca \-
+
+kopaprasaadavastuuni ye vicinvanti sevakaaH |
+aarohanti shanaiH pashcaaddhunvantamapi paarthivam || 37||
+vidyaavataa.n mahecChaanaa.n shilpavikramashaalinaam |
+sevaavR^ittividaa.n caiva naashrayaH paarthiva.n vinaa || 38||
+ye jaatyaadimahotsaahaannarendraannopayaanti ca |
+teShaamaamaraNa.n bhikShaa praayashcitta.n vinirmitam || 39||
+ye ca praahurduraatmaano duraaraadhyaa mahiibhujaH |
+pramaadaalasyajaaDyaani khyaapitaani nijaani taiH || 40||
+sarpaanvyaaghraangajaansi.nhaan dR^iShTopaayairvashiikR^itaan |
+raajeti kiyatii maatraa dhiimataamapramaadinaam || 41||
+raajaanameva sa.nshritya vidvaanyaati paraa.n gatim |
+vinaa malayamanyatra candana.n na prarohati || 42||
+dhavalaanyaatapatraaNi vaajinashca manoramaaH |
+sadaa mattaashca maata~NgaaH prasanne sati bhuupatau || 43||
+
+karaTaka aaha \- atha bhavaanki.n kartumanaaH | so.abraviit \-
+adyaasmatsvaamii pi~Ngalako bhiito bhiitaparivaarashca vartate | tadena.n
+gatvaa bhayakaaraNa.n vij~naaya 
+sandhivigrahayaanaaasanasa.nshrayadvaidhiibhaavaa\-
+naamekatamena sa.nvidhaasye | karaTaka aaha \- katha.n vetti
+bhavaanyadbhayaaviShTo.aya.n svaamii | so.abraviit \- dnyeya.n kimatra |
+yata ukta~nca \-
+
+udiirito.arthaH pashunaapi gR^ihyate
+           hayaashca naagaashca vahanti coditaaH |
+anuktamapyuuhati paNDito janaH
+           pare~Ngitadnyaanaphalaa hi buddhayaH || 44||
+
+tathaa ca manuH (8.26) \-
+
+aakaarairi~Ngitairgatyaa ceShTayaa bhaaShaNena ca |
+netravaktravikaaraishca lakShyate.antargata.n manaH || 45||
+
+tadadyaina.n bhayaakula.n praapya svabuddhiprabhaavena nirbhaya.n
+kR^itvaa vashiikR^itya ca nijaa.n saacivyapadavii.n
+samaasaadayiShyaami | karaTaka aaha \- anabhij~no bhavaan
+sevaadharmasya | tatkathamena.n vashiikariShyasi | so.abraviit \-
+kathamaha.n sevaanabhidnyaH | mayaa hi taatotsa~Nge kriiDataa\-
+.abhyaagatasaadhuunaa.n niitishaastra.n paThataa.n yacChruta.n
+sevaadharmasya saara.n tad hR^idi sthaapitam | shruuyataa.n
+taccedam \-
+
+suvarNapuShpitaa.n pR^ithvii.n vicinvanti naraastrayaH |
+shuurashca kR^itavidyashca yashca jaanaati sevitum || 46||
+saa sevaa yaa prabhuhitaa graahyaa vaakyavisheShataH |
+aashrayetpaarthiva.n vidvaa.nstaddvaareNaiva naanyathaa || 47||
+yo na vetti guNaanyasya na ta.n seveta paNDitaH |
+na hi tasmaatphala.n ki~ncitsukR^iShTaaduuSharaadiva || 48||
+dravyaprakR^itihiino.api sevyaH sevyaguNaanvitaH |
+bhavatyaajiivana.n tasmaatphala.n kaalaantaraadapi || 49||
+api sthaaNuvadaasiinaH shuShyanparigataH kShudhaa |
+na tvevaanaatmasampannaadvR^ittimiiheta paNDitaH || 50||
+sevakaH svaamina.n dveShTi kR^ipaNa.n paruShaakSharam |
+aatmaana.n ki.n sa na dveShTi sevyaasevya.n na vetti yaH || 51||
+yamaashritya na vishraama.n kShudhaartaa yaanti sevakaaH |
+so.arkavannR^ipatistyaajyaH sadaa puShpaphalo.api san || 52||
+raajamaatari devyaa.n ca kumaare mukhyamantriNi |
+purohite pratiihaare sadaa varteta raajavat || 53||
+jiiveti prabruvanproktaH kR^ityaakR^ityavicakShaNaH |
+karoti nirvikalpa.n yaH sa bhavedraajavallabhaH || 54||
+prabhuprasaadaja.n vitta.n supraapta.n yo nivedayet |
+vastraadya.n ca dadhatya~Nge sa bhavedraajavallabhaH || 55||
+antaHpuracaraiH saardha.n yo na mantra.n samaacaret |
+na kalatrairnarendrasya sa bhavedraajavallabhaH || 56||
+dyuuta.n yo yamaduutaabha.n haalaa.n haalaahalopamaam |
+pashyeddaaraanvR^ithaakaaraansa bhavedraajavallabhaH || 57||
+yuddhakaale.agraNiiryaH syaatsadaa pR^iShThaanugaH pure |
+prabhordvaaraashrito harmye sa bhavedraajavallabhaH || 58||
+sammato.aha.n vibhornityamiti matvaa vyatikramet |
+kR^icChreShvapi na maryaadaa.n sa bhavedraajavallabhaH || 59||
+dveShidveShaparo nityamiShTaanaamiShTakarmakR^it |
+yo naro naranaathasya sa bhavedraajavallabhaH || 60||
+proktaH pratyuttara.n naaha viruddha.n prabhuNaa ca yaH |
+na samiipe hasatyuccaiH sa bhavedraajavallabhaH || 61||
+yo raNa.n sharaNa.n tadvanmanyate bhayavarjitaH |
+pravaasa.n svapuraavaasa.n sa bhavedraajavallabhaH || 62||
+na kuryaannaranaathasya yoShidbhiH saha sa.ngatim |
+na nindaa.n na vivaada.n ca sa bhavedraajavallabhaH || 63||
+
+karaTaka aaha \- atha bhavaa.nstatra gatvaa ki.n taavatprathama.n
+vakShyati tattaavaducyataam | damanaka aaha \-
+
+uttaraaduttara.n vaakya.n vadataa.n sa.nprajaayate |
+suvR^iShTiguNasampannaadbiijaadbiijamivaaparam || 64||
+apaayasa.ndarshanajaa.n vipattimupaayasa.ndarshanajaa.n ca siddhim |
+medhaavino niitiguNaprayuktaa.n puraH sphurantiimiva varNayanti || 65||
+ekeShaa.n vaaci shukavadanyeShaa.n hR^idi muukavat |
+hR^idi vaaci tathaanyeShaa.n valgu valganti suuktayaH || 66||
+
+na caahamapraaptakaala.n vakShye | aakarNita.n mayaa niitisaara.n pituH
+puurvamutsa~Nga.n hi niShevataa |
+
+apraaptakaala.n vacana.n bR^ihaspatirapi bruvan |
+labhate bahvavadnyaanamapamaana.n ca puShkalam || 67||
+
+karaTaka aaha \-
+
+duraaraadhyaa hi raajaanaH parvataa iva sarvadaa |
+vyaalaakiirNaaH suviShamaaH kaThinaa duShTasevitaaH || 68||
+
+tathaa ca \-
+
+bhoginaH ka~ncukaaviShTaaH kuTilaaH kruuraceShTitaaH |
+suduShTaa mantrasaadhyaashca raajaanaH pannagaa iva || 69||
+dvijihvaaH kruurakarmaaNo.aniShTaashChidraanusaariNaH |
+duurato.api hi pashyanti raajaano bhujagaa iva || 70||
+svalpamapyapakurvanti ye.abhiiShTaa hi mahiipateH |
+te vahnaaviva dahyante pata~NgaaH paapacetasaH || 71||
+duraaroha.n pada.n raadnyaa.n sarvalokanamaskR^itam |
+svalpenaapyapakaareNa braahmaNyamiva duShyati || 72||
+duraaraadhyaaH shriyo raaj~naa.n duraapaa duShparigrahaaH |
+tiShThantyaapa ivaadhaare ciramaatmani sa.nsthitaaH || 73||
+
+damanaka aaha \- satyametatparam | ki.n tu \-
+
+yasya yasya hi yo bhaavastena tena samaacaret |
+anupravishya medhaavii kShipramaatmavasha.n nayet || 74||
+bhartushcittaanuvartitva.n suvR^itta.n caanujiivinaam |
+raakShasaashcaapi gR^ihyante nitya.n ChandaanuvartibhiH || 75||
+saruShi nR^ipe stutivacana.n tadabhimate prema taddviShi dveShaH |
+taddaanasya ca sha.nsaa amantratantra.n vashiikaraNam || 76||
+
+karaTaka aaha \- yadyevamabhimata.n tarhi shivaaste panthaanaH
+santu | yathaabhilaShitamanuShThiiyataam | so.api praNamya
+pi~Ngalakaabhimukha.n pratasthe | athaagacChanta.n damanaka\-
+maalokya pi~Ngalako dvaaHsthamabraviit \- apasaaryataa.n
+vetralataa | ayamasmaaka.n cirantano mantriputro damanako.avyaa\-
+hatapraveshaH | tatpraveshyataa.n dvitiiyamaNDalabhaagii | iti | sa
+aaha \- yathaavaadiidbhagavaaniti | athopasR^itya damanako
+nirdiShTaasane pi~Ngalaka.n praNamya praaptaanudnya upaviShTaH |
+sa tu tasya nakhakulishaala~NkR^ita.n dakShiNapaaNimupari dattvaa
+maanapuraHsaramuvaaca \- api shiva.n bhavataH | kasmaacciraad
+dR^iShTo.asi |damanaka aaha\- na ki.ncid devapaadaanaamasmaabhiH
+prayojanam | para.n bhavataa.n praaptakaala.n vaktavya.n yata
+uttamamadhyamaadhamaiH sarvairapi raadnyaa.n prayojanam |
+ukta~nca \-
+
+dantasya niShkoShaNakena nitya.n
+           karNasya kaNDuuyanakena vaapi |
+tR^iNena kaarya.n bhavatiishvaraaNaa.n
+           kima~Ngavaagghastavataa nareNa || 77||
+
+tathaa vaya.n devapaadaanaamanvayaagataa bhR^ityaa aapatsvapi
+pR^iShThagaamino yadyapi svamadhikaara.n na labhaamahe tathaapi
+devapaadaanaametadyukta.n na bhavati | ukta~nca \-
+
+sthaaneShveva niyoktavyaa bhR^ityaa aabharaNaani ca |
+na hi cuuDaamaNiH paade prabhavaamiiti badhyate || 78||
+
+yataH \-
+
+anabhij~no guNaanaa.n yo na bhR^ityairanugamyate |
+dhanaaDhyo.api kuliino.api kramaayaato.api bhuupatiH || 79||
+
+ukta~nca \-
+
+asamaiH samiiyamaanaH samaishca parihiiyamaaNasatkaaraH |
+dhuri yo na yujyamaanastribhirarthapati.n tyajati bhR^ityaH || 80||
+
+yaccaavivekitayaa raajaa bhR^ityaanuttamapadayogyaanhiinaadhamasthaane
+niyojayati na te tatraiva tiShThanti sa bhuupaterdoSho na teShaam |
+ukta~nca \-
+
+kanakabhuuShaNasa~NgrahaNocito
+           yadi maNistrapuNi pratibadhyate |
+na sa virauti na caapi sa shobhate
+           bhavati yojayiturvacaniiyataa || 81||
+
+yacca svaamyeva.n vadati ciraaddR^ishyate | tadapi shruuyataam \-
+
+savyadakShiNayoryatra visheSho naasti hastayoH |
+kastatra kShaNamapyaaryo vidyamaanagatirbhavet || 82||
+kaace maNirmaNau kaaco yeShaa.n buddhirvikalpate |
+na teShaa.n sannidhau bhR^ityo naamamaatro.api tiShThati || 83||
+pariikShakaa yatra na santi deshe
+           naarghanti ratnaani samudrajaani |
+aabhiiradeshe kila candrakaanta.n
+           tribhirvaraaTairvipaNanti gopaaH || 84||
+lohitaakhyasya ca maNeH padmaraagasya caantaram |
+yatra naasti katha.n tatra kriyate ratnavikrayaH || 85||
+nirvisheSha.n yadaa svaamii sama.n bhR^ityeShu vartate |
+tatrodyamasamarthaanaamutsaahaH parihiiyate || 86||
+na vinaa paarthivo bhR^ityairna bhR^ityaaH paarthiva.n vinaa |
+teShaa.n ca vyavahaaro.aya.n parasparanibandhanaH || 87||
+bhR^ityairvinaa svaya.n raajaa lokaanugrahakaaribhiH |
+mayuukhairiva diiptaa.nshustejasvyapi na shobhate || 88||
+araiH sandhaaryate naabhirnaabhau caaraaH pratiShThitaaH |
+svaamisevakayoreva.n vR^itticakra.n pravartate || 89||
+shirasaa vidhR^itaa nitya.n snehena paripaalitaaH |
+keshaa api virajyante niHsnehaaH ki.n na sevakaaH || 90||
+raajaa tuShTo hi bhR^ityaanaamarthamaatra.n prayacChati |
+te tu sa.nmaanamaatreNa praaNairapyupakurvate || 91||
+eva.n dnyaatvaa narendreNa bhR^ityaaH kaaryaa vicakShaNaaH |
+kuliinaaH shauryasa.nyuktaaH shaktaa bhaktaaH kramaagataaH || 92||
+yaH kR^itvaa sukR^ita.n raadnyo duShkara.n hitamuttamam |
+lajjayaa vakti no ki~ncittena raajaa sahaayavaan || 93||
+yasminkR^itya.n samaaveshya nirvisha~Nkena cetasaa |
+aasyate sevakaH sa syaatkalatramiva caaparam || 94||
+yo.anaahuutaH samabhyeti dvaari tiShThati sarvadaa |
+pR^iShTaH satya.n mita.n bruute sa bhR^ityo.arho mahiibhujaam || 95||
+anaadiShTo.api bhuupasya dR^iShTvaa haanikara.n ca yaH |
+yatate tasya naashaaya sa bhR^ityo.arho mahiibhujaam || 96||
+taaDito.api durukto.api daNDito.api mahiibhujaa |
+yo na cintayate paapa.n sa bhR^ityo.arho mahiibhujaam || 97||
+na garva.n kurute maane naapamaane ca tapyate |
+svaakaara.n rakShayedyastu sa bhR^ityo.arho mahiibhujaam || 98||
+na kShudhaa piiDyate yastu nidrayaa na kadaacana |
+na ca shiitaatapaadyaishca sa bhR^ityo.arho mahiibhujaam || 99||
+shrutvaa saa.ngraamikii.n vaartaa.n bhaviShyaa.n svaamina.n prati |
+prasannaasyo bhavedyastu sa bhR^ityo.arho mahiibhujaam || 100||
+siimaa vR^iddhi.n samaayaati shuklapakSha ivoDuraaT |
+niyogasa.nsthite yasminsa bhR^ityo.arho mahiibhujaam || 101||
+siimaa sa.nkocamaayaati vahnau carma ivaahitam |
+sthite yasminsa tu tyaajyo bhR^ityo raajya.n samiihataa || 102||
+
+tathaa shR^igaalo.ayamiti manyamaanena mamopari svaaminaa
+yadyavadnyaa kriyate tadapyayuktam | ukta~nca yataH \-
+
+kausheya.n kR^imija.n suvarNamupalaadduurvaapi goromataH
+pa~Nkaattaamarasa.n shashaa~Nka udadherindiivara.n gomayaat |
+kaaShThaadagniraheH phaNaadapi maNirgopittato rocanaa
+praakaashya.n svaguNodayena guNino gacChanti ki.n janmanaa || 103||
+muuShikaa gR^ihajaataapi hantavyaa svaapakaariNii |
+bhakShyapradaanairmaarjaaro hitakR^itpraapyate janaiH || 104||
+eraNDabhiNDaarkanalaiH prabhuutairapi sa~ncitaiH |
+daarukR^itya.n yathaa naasti tathaivaadnyaiH prayojanam || 105||
+ki.n bhaktenaasamarthena ki.n shaktenaapakaariNaa |
+bhakta.n shakta.n ca maa.n raajannaavadnyaatu.n tvamarhasi || 106||
+
+pi~Ngalaka aaha \- bhavatveva.n taavat | asamarthaH samartho vaa
+cirantanastvamasmaaka.n mantriputraH | tadvishrabdha.n bruuhi
+yatki~ncidvaktukaamaH | damanaka aaha \- deva vidnyaapya.n ki~ncidasti |
+pi~Ngalaka aaha \- tannivedayaabhipretam | so.abraviit \-
+
+api svalpatara.n kaarya.n yadbhavetpR^ithiviipateH |
+tanna vaacya.n sabhaamadhye provaaceda.n bR^ihaspatiH || 107||
+
+tadaikaantike madvidnyaapyamaakarNayantu devapaadaaH | yataH \-
+
+ShaTkarNo bhidyate mantrashcatuShkarNaH sthiro bhavet |
+tasmaat sarvaprayatnena ShaTkarNa.n varjayetsudhiiH || 108||
+
+atha pi~Ngalakaabhipraayadnyaa vyaaghradviipivR^ikapuraHsaraa sarve.api
+tadvacaH samaakarNya sa.nsadi tatkShaNaadeva duuriibhuutaaH | tatashca
+damanaka aaha \- udakagrahaNaartha.n pravR^ittasya svaaminaH kimiha
+nivR^ittyaavasthaanam | pi~Ngalaka aaha savilakShasmitam\- na ki~ncidapi |
+so.abraviit \- deva yadyanaakhyeya.n tattiShThatu | ukta~nca \-
+
+daareShu ki~ncitsvajaneShu ki~ncidgopya.n vayasyeShu suteShu ki~ncit |
+yukta.n na vaa yuktamida.n vicintya vadedvipashcinmahato.anurodhaat || 109 ||
+
+tacChrutvaa pi~Ngalakashcintayaamaasa\- yogyo.aya.n dR^ishyate |
+tatkathayaamyetasyaagra aatmano.abhipraayam | ukta~nca \-
+
+svaamini guNaantaradnye guNavati bhR^itye.anuvartini kalatre |
+suhR^idi nirantaracitte nivedya duHkha.n sukhii bhavati || 110 ||
+
+bho damanaka shR^iNoShi shabda.n duuraanmahaantam | so.abraviit\-
+svaamin shR^iNomi | tatkim | pi~Ngalaka aaha \- bhadra
+ahamasmaadvanaadgantumicChaami | damanaka aaha \- kasmaat |pi~Ngalaka
+aaha \- yato.adyaasmadvane kimapyapuurva.n sattva.n praviShTa.n yasyaaya.n
+mahaashabdaH shruuyate | tasya ca shabdaanuruupeNa paraakrameNa
+bhavitavyamiti | damanaka aaha \- yacChabdamaatraadapi bhayamupagataH
+svaamii tadapyayuktam | ukta~nca \-
+
+ambhasaa bhidyate setustathaa mantro.apyarakShitaH |
+paishunyaadbhidyate sneho bhidyate vaagbhiraaturaH || 111||
+
+tanna yukta.n svaaminaH puurvopaarjita.n vana.n tyaktu.n yato bheriiveNu\-
+viinaamR^ida~NgataalapaTahasha~Nkhakaahalaadibhedena shabdaa
+anekavidhaa bhavanti | tanna kevalaacChabdamaatraadapi bhetavyam |
+ukta~nca \-
+
+atyutkaTe ca raudre ca shatrau praapte na hiiyate |
+dhairya.n yasya mahiinaatho na sa yaati paraabhavam || 112||
+darshitabhaye.api dhaatari dhairyadhva.nso bhavenna dhiiraaNaam |
+shoShitasarasi nidaaghe nitaraamevoddhataH sindhuH || 113||
+
+tathaa ca \-
+yasya na vipadi viShaadaH sa.npadi harSho raNe na bhiirutvam |
+ta.n bhuvanatrayatilaka.n janayati jananii suta.n viralam || 114||
+
+tathaa ca \-
+
+shaktivaikalyanamrasya niHsaaratvaallaghiiyasaH |
+janmino maanahiinasya tR^iNasya ca samaa gatiH || 115||
+
+api ca \-
+
+anyaprataapamaasaadya yo dR^iDhatva.n na gacChati |
+jatujaabharaNasyeva ruupeNaapi hi tasya kim || 116||
+
+tadeva.n dnyaatvaa svaaminaa dhairyaavaShTambhaH kaaryaH | na shabda\-
+maatraadbhetavyam | api ca \-
+
+puurvameva mayaa dnyaata.n puurNametaddhi medasaa |
+anupravishya vidnyaata.n yaavaccarma ca daaru ca || 117||
+
+pi~Ngalaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 2
+shR^igaaladundubhikathaa |
+
+kashcidgomaayurnaama shR^igaalaH kShutkShaamakaNTha itastataH
+paribhramanvane sainyadvayasa.ngraamabhuumimapashyat | tasyaa.n ca
+dundubheH patitasya vaayuvashaadvalliishaakhaagrairhanyamaanasya
+shabdamashR^iNot | atha kShubhitahR^idayashcintayaamaasa aho
+vinaShTo.asmi | tadyaavannaasya proccaaritashabdasya dR^iShTigocare
+gacChaami taavadanyato vrajaami | athavaa naitadyujyate sahasaiva |
+
+bhaye vaa yadi vaa harShe sa.npraapte yo vimarshayet |
+kR^itya.n na kurute vegaanna sa santaapamaapnuyaat || 118||
+
+tattaavajjaanaami kasyaaya.n shabdaH | dhairyamaalambya vimarshayan\-
+yaavanmanda.n manda.n gacChati taavaddundubhimapashyat | sa ca ta.n
+paridnyaaya samiipa.n gatvaa svayameva kautukaadataaDayat | bhuuyashca
+harShaadacintayat \- aho ciraadetadasmaaka.n mahadbhojanamaapatitam |
+tannuuna.n maa.nsamedo.asR^igbhiH paripuurita.n bhaviShyati | tataH
+paruShacarmaavaguNThita.n tatkathamapi vidaaryaikadeshe Chidra.n kR^itvaa
+sa.nhR^iShTamanaa madhye praviShTaH | para.n carmavidaaraNato
+da.nShTraabha~NgaH samajani | atha niraashiibhuutastaddaarusheSha\-
+mavalokya shlokamenamapaThat puurvameva mayaa dnyaatam iti | ato na
+shabdamaatraadbhetavyam | pi~Ngalaka aaha\- bhoH pashyaaya.n mama
+sarvo.api parigraho bhayavyaakulitamanaaH palaayitumicChati | tatkathamaha.n
+dhairyaadavaShTambha.n karomi | so.abraviit\- svaaminnaiShaameSha doShaH |
+yataH svaamisadR^ishaa eva bhavanti bhR^ityaaH | ukta~nca \-
+
+ashvaH shastra.n shaastra.n viiNaa vaaNii narashca naarii ca |
+puruShavisheSha.n praaptaa bhavantyayogyaashca yogyaashca || 119 ||
+
+tatpauruShaavaShTambha.n kR^itvaa tva.n taavadatraiva pratipaalaya
+yaavadahametacChabdasvaruupa.n dnyaatvaa aagacChaami | tataHpashcaad
+yathocita.n kaaryamiti | pi~Ngalaka aaha \- ki.n tatra bhavaan
+gantumutsahate | sa aaha\- ki.n svaamyaadeshaatsadbhR^ityasya
+kR^ityaakR^ityamasti | ukta~nca \-
+
+svaamyaadeshaatsubhR^ityasya na bhiiH sa~njaayate kvacit |
+pravishenmukhamaaheya.n dustara.n vaa mahaarNavam || 120||
+
+tathaa ca \-
+
+svaamyaadiShTastu yo bhR^ityaH sama.n viShamameva ca |
+manyate na sa sandhaaryo bhuubhujaa bhuutimicChataa || 121||
+
+pi~Ngalaka aaha \- bhadra.n yadyeva.n tadgacCha | shivaaste panthaanaH
+santviti | damanako.api ta.n praNamya sa.njiivakashabdaanusaarii
+pratasthe | atha damanake gate bhayavyaakulamanaaH
+pi~Ngalakashcintayaamaasa \- aho na shobhana.n kR^ita.n mayaa |
+yattasya vishvaasa.n gatvaatmaabhipraayo niveditaH | kadaacid
+damanako.ayamubhayavetano bhuutvaa mamopari duShTabuddhiH
+syaadbhraShTaadhikaaratvaat | ukta~nca \-
+
+ye bhavanti mahiipasya sammaanitavimaanitaaH |
+yatante tasya naashaaya kuliinaa api sarvadaa || 122||
+
+tattaavadasya cikiirShita.n vettumanyatsthaanaantara.n gatvaa
+pratipaalayaami | kadaaciddamanakastamaadaaya maa.n
+vyaapaadayitumicChati | ukta~nca \-
+
+na badhyante hyavishvastaa balibhirdurbalaa api |
+vishvastaastveva badhyante balavanto.api durbalaiH || 123||
+bR^ihaspaterapi praadnyo na vishvaasa.n vrajennaraH |
+ya icChedaatmano vR^iddhimaayuShya.n ca sukhaani ca || 124||
+shapathaiH sandhitasyaapi na vishvaase vrajedripoH |
+raajyalobhaadyato vR^itraH shakreNa shapathairhataH || 125||
+na vishvaasa.n vinaa shatrurdevaanaamapi sidhyati |
+vishvaasaattridashendreNa ditergarbho vidaaritaH || 126||
+
+eva.n sa.npradhaarya sthaanaantara.n gatvaa damanakamaargamavaloka\-
+yannekaakii tasthau | damanako.api sa.njiivakasakaasha.n gatvaa
+vR^iShabho.ayamiti paridnyaaya hR^iShTamanaa vyacintayat \- aho
+shobhanamaapatitam | anenaitasya sandhivigrahadvaareNa mama pi~Ngalako
+vashyo bhaviShyatiiti | ukta~nca \-
+
+na kauliinaanna sauhaardaannR^ipo vaakye pravartate |
+mantriNaa.n yaavadabhyeti vyasana.n shokameva ca || 127||
+sadaivaapadgato raajaa bhogyo bhavati mantriNaam |
+ata eva hi vaa~nChanti mantriNaH saapada.n nR^ipam || 128||
+yathaa necChati niirogaH kadaacitsucikitsakam |
+tathaapadrahito raajaa saciva.n naabhivaa~nChati || 129||
+
+eva.n vicintayanpi~NgalakaabhimukhaH pratasthe | pi~Ngalako.api
+tamaayaanta.n prekShya svaakaara.n rakShanyathaapuurvasthitaH |
+damanako.api pi~Ngalakasakaasha.n gatvaa praNamyopaviShTaH |
+pi~Ngalaka aaha\- ki.n dR^iShTa.n bhavataa tatsattvam |damanaka aaha\-
+dR^iShTa.n svaamiprasaadaat | pi~Ngalaka aaha\- api satyam | damanaka
+aaha\- ki.n svaamipaadaanaamagre.asatya.n vidnyaapyate | ukta~nca \-
+
+api svalpamasatya.n yaH puro vadati bhuubhujaam |
+devaanaa.n ca vinashyeta sa druta.n sumahaanapi || 130||
+
+tathaa ca \-
+
+sarvadevamayo raajaa manunaa sa.nprakiirtitaH |
+tasmaatta.n devavatpashyenna vyaliikena karhicit || 131||
+sarvadevamayasyaapi visheSho nR^ipaterayam |
+shubhaashubhaphala.n sadyo nR^ipaaddevaadbhavaantare || 132||
+
+pi~Ngalaka aaha \- satya.n dR^iShTa.n bhaviShyati bhavataa | na diinopari
+mahaantaH kupyantiiti na tva.n tena nipaatitaH | yataH \-
+
+tR^iNaani nonmuulayati prabha~njano
+           mR^iduuni niicaiH praNataani sarvataH |
+svabhaava evonnatacetasaamaya.n
+           mahaanmahatsveva karoti vikramam || 133||
+
+api ca \-
+
+gaNDasthaleShu madavaariShu baddharaaga\-
+           mattabhramadbhramarapaadatalaahato.api |
+kopa.n na gacChati nitaantabalo.api naaga\-
+           stulye bale tu balavaanparikopameti || 134||
+
+damanaka aaha \- astveva.n sa mahaatmaa vaya.n kR^ipaNaaH | tathaapi
+svaamii yadi kathayati tato bhR^ityatve niyojayaami | pi~Ngalaka aaha
+socChvaasam \- ki.n bhavaa~nChaknotyeva.n kartum | damanaka aaha \-
+kimasaadhya.n buddherasti | ukta~nca \-
+
+na tacChastrairna naagendrairna hayairna padaatibhiH |
+kaarya.n sa.nsiddhimabhyeti yathaa buddhyaa prasaadhitam || 135||
+
+pi~Ngalaka aaha \- yadyeva.n tarhyamaatyapade.adhyaaropitastvam |
+adyaprabhR^iti prasaadanigrahaadika.n tvayaiva kaaryamiti nishcayaH |atha
+damanakaH satvara.n gatvaa saakShepa.n tamidamaaha \- ehyehiito
+duShTavR^iShabha | svaamii pi~Ngalakastvaamaakaarayati | ki.n niHsha~Nko
+bhuutvaa muhurmuhurnadasi vR^ithaa iti| tacChrutvaa sa.njiivako.abraviit \-
+bhadra ko.aya.n pi~NgalakaH | damanaka aaha \- ki.n svaamina.n
+pi~Ngalakamapi na jaanaasi | tatkShaNa.n pratipaalaya | phalenaiva
+dnyaasyasi | nanvaya.n sarvamR^igaparivR^ito vaTatale svaamii
+pi~Ngalakanaamaa si.nhastiShThati | tacChrutvaa gataayuShamivaatmaana.n
+manyamaanaH sa.njiivakaH para.n viShaadamagamat | aaha ca \-
+bhadra bhavaansaadhusamaacaaro vacanapaTushca dR^ishyate | tadyadi
+maamavashya.n tatra nayasi tadabhayapradaanena svaaminaH sakaashaat
+prasaadaH kaarayitavyaH | damanaka aaha \- bhoH satyamabhihita.n
+bhavataa | niitireShaa yataH \-
+
+paryanto labhyate bhuumeH samudrasya girerapi |
+na katha~ncinmahiipasya cittaantaH kenacitkvacit || 136||
+
+tattvamatraiva tiShTha yaavadaha.n ta.n samaye dR^iShTvaa tataH
+pashcaattvaamanayaami iti | tathaanuShThite damanakaH pi~Ngalaka\-
+sakaasha.n gatvedamaaha \- svaamin na tatpraakR^ita.n sattvam| sa hi
+bhagavato maheshvarasya vaahanabhuuto vR^iShabha iti | mayaa pR^iShTa
+idamuuce | maheshvareNa parituShTena kaalindiiparisare shaShpaagraaNi
+bhakShayitu.n samaadiShTaH | ki.n bahunaa mama pradatta.n bhagavataa
+kriiDaartha.n vanamidam | pi~Ngalaka aaha sabhayam \- satya.n dnyaata.n
+mayaadhunaa | na devataaprasaada.n vinaa shaShpabhojino vyaalaakiirNa
+eva.nvidhe vane niHsha~Nka.n nandanto bhramanti | tatastvayaa
+kimabhihitam | damanaka aaha\-svaamin etadabhihita.n mayaa yadetadvana.n
+caNDikaavaahanabhuutasya pi~Ngalakasya viShayiibhuutam | tadbhavaan
+abhyaagataH priyo.atithiH | tattasya sakaasha.n gatvaa bhraatR^isnehenaikatra
+bhakShaNapaanaviharaNakriyaabhirekasthaanaashrayeNa kaalo neyaH iti |
+tatastenaapi sarvametatpratipannam | ukta~nca saharSha.n svaaminaH
+sakaashaadabhayadakShiNaa daapayitavyaa iti | tadatra svaamii pramaaNam|
+tacChrutvaa pi~Ngalaka aaha \- saadhu sumate saadhu | mantrishrotriya
+saadhu | mama hR^idayena saha sa.nmantrya bhavatedamabhihitam |
+taddattaa mayaa tasyaabhayadakShiNaa | para.n so.api madarthe\-
+.abhayadakShiNaa.n yaacayitvaa drutataramaaniiyataamiti | atha saadhu
+cedamucyate \-
+
+antaHsaarairakuTilairacChidraiH supariikShitaiH |
+mantribhirdhaaryate raajya.n sustambhairiva mandiram || 137||
+
+tathaa ca \-
+
+mantriNaa.n bhinnasandhaane bhiShajaa.n saannipaatike |
+karmaNi vyajyate pradnyaa svasthe ko vaa na paNDitaH || 138||
+
+damanako.api ta.n praNamya sa.njiivakasakaasha prasthitaH saharSha\-
+macintayat \-  aho prasaadasa.nmukho naH svaamii vacanavashagashca
+sa.nvR^ittaH | tannaasti dhanyataro mama | ukta~nca \-
+
+amR^ita.n shishire vahniramR^ita.n priyadarshanam |
+amR^ita.n raajasa.nmaanamamR^ita.n kShiirabhojanam || 139||
+
+atha sa.njiivakasakaashamaasaadya saprashrayamuvaaca \- bho mitra
+praarthito.asau mayaa bhavadarthe svaamyabhayapradaanam |
+tadvishrabdha.n gamyataam iti | para.n tvayaa raajaprasaadamaasaadya
+mayaa saha samayadharmeNa vartitavyam | na garvamaasaadya
+svaprabhutayaa vicaraNiiyam | ahamapi tava sa~Nketena sarvaa.n
+raajyadhuramamaatyapadaviimaashrityoddhariShyaami | eva.n kR^ite
+dvayorapyaavayo raajalakShmiirbhogyaa bhaviShyati | yataH \-
+
+aakheTakasya dharmeNa vibhavaaH syurvashe nR^iNaam |
+nR^iprajaaH prerayatyeko hantyanyo.atra mR^igaaniva || 140 ||
+
+tathaa ca \-
+
+yo na puujayate garvaaduttamaadhamamadhyamaan |
+nR^ipaasannaatsa maanyo.api bhrashyate dantilo yathaa || 141 ||
+
+sa.njiivaka aaha \- katham etat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 3
+dantilagorambhakathaa  |
+
+astyatra dharaatale vardhamaana.n naama nagaram | tatra dantilo naama
+naanaabhaaNDapatiH sakalapuranaayakaH prativasati sma | tena purakaarya.n
+nR^ipakaarya.n ca kurvataa tuShTi.n niitaastatpuravaasino lokaa nR^ipatishca |
+ki.n bahunaa na ko.api taadR^ikkenaapi caturo dR^iShTo shruto vaa | athavaa
+satyametaduktam \-
+
+narapatihitakartaa dveShyataa.n yaati loke
+           janapadahitakartaa tyajyate paarthivendraiH |
+iti mahati virodhe vartamaane samaane
+           nR^ipatijanapadaanaa.n durlabhaH kaaryakartaa || 142||
+
+athaiva.n gacChati kaale dantilasya kadaacidvivaahaH sa.npravR^ittaH |
+tatra tena sarve puranivaasino raajasa.nnidhilokaashca sammaanapuraH\-
+saramaamantrya bhojitaa vastraadibhiH satkR^itaashca | tato vivaahaanantara.n
+raajaa saantaHpuraH svagR^ihamaaniiyaabhyarcitaH | atha tasya
+nR^ipatergR^ihasammaarjanakartaa gorambho naama raajasevako
+gR^ihaayaato.api tenaanucitasthaana upaviShTo.avadnyayaardhacandra.n
+dattvaa niHsaaritaH | so.api tataH prabhR^iti nishvasannapamaanaanna
+raatraavapyadhishete | katha.n mayaa tasya bhaaNDapate raajaprasaadahaaniH
+kartavyaa iti cintayannaaste | athavaa kimanena vR^ithaa shariirashoShaNena |
+na ki.ncinmayaa tasyaapakartu.n shakyamiti | athavaa saadhvidamucyate \-
+
+yo hyapakartumashaktaH kupyati kimasau naro.atra nirlajjaH |
+utpatito.api hi caNakaH shaktaH ki.n bhraaShTraka.n bha~Nktum || 143||
+
+atha kadaacitpratyuuShe yoganidraa.n gatasya raadnyaH shayyaante
+maarjana.n kurvannidamaaha \- aho dantilasya mahaddR^iptatva.n
+yadraajamahiShiimaali~Ngati | tacChrutvaa raajaa sasambhramamutthaaya
+tamuvaaca \- bho bho gorambha | satyametadyattvayaa jalpitam | ki.n
+dantilena samaali~Ngitaa iti | gorambhaH praaha \- deva raatrijaagaraNena
+dyuutaasaktasya me balaannidraa samaayaataa | tanna vedmi ki.n
+mayaabhihitam | raajaa serShya.n svagatameSha taavadasmadgR^ihe\-
+.apratihatagatistathaa dantilo.api | tatkadaacidanena devii
+samaali~Ngyamaanaa dR^iShTaa bhaviShyati | tenedamabhihitam |
+ukta~nca \-
+
+yadvaa~nChati divaa martyo viikShate vaa karoti vaa |
+tat svapne.api tadabhyaasaadbruute vaatha karoti vaa || 144||
+
+tathaa ca \-
+
+shubha.n vaa yadi va paapa.n yannR^iNaa.n hR^idi sa.nsthitam |
+suguuDhamapi tajdnyeya.n svapnavaakyaattathaa madaat || 145||
+
+athavaa striiNaa.n viShaye ko.atra sandehaH |
+
+jalpanti saardhamanyena pashyantyanya.n savibhramaaH |
+hR^idgata.n cintayantyanya.n priyaH ko naama yoShitaam || 146||
+
+anyacca \-
+
+ekena smitapaaTalaadhararuco jalpantyanalpaakSharam |
+viikShante.anyamitaH sphuTatkumudiniiphullollasallocanaaH |
+duurodaaracaritracitravibhava.n dhyaayanti caanya.n dhiyaa |
+kenettha.n paramaarthato.arthavadiva premaasti vaamabhruvaam || 147||
+
+tathaa ca \-
+
+naagnistR^ipyati kaaShThaanaa.n naapagaanaa.n mahodadhiH |
+naantakaH sarvabhuutaanaa.n na pu.nsaa.n vaamalocanaa || 148||
+raho naasti kShaNo naasti naasti praarthayitaa naraH |
+tena naarada naariiNaa.n satiitvamupajaayate || 149||
+yo mohaanmanyate muuDho rakteya.n mama kaaminii |
+sa tasyaa vashago nitya.n bhavetkriiDaashakuntavat || 150||
+taasaa.n vaakyaani kR^ityaani svalpaani suguruuNyapi |
+karoti sa kR^itairloke laghutva.n yaati sarvataH || 151||
+striya.n ca yaH praarthayate sannikarSha.n ca gacChati |
+iiShacca kurute sevaa.n tamevecChanti yoShitaH || 152||
+anarthitvaanmanuShyaaNaa.n bhayaatparijanasya ca |
+maryaadaayaamamaryaadaaH striyastiShThanti sarvadaa || 153||
+naasaa.n kashcidagamyo.asti naasaa.n ca vayasi sthitiH |
+viruupa.n ruupavanta.n vaa pumaanityeva bhujyate || 154||
+rakto hi jaayate bhogyo naariiNaa.n shaaTikaa yathaa |
+ghR^iShyante yo dashaalambii nitambe viniveshitaH || 155||
+alaktako yathaa rakto niShpiiDya puruShastathaa |
+abalaabhirbalaadraktaH paadamuule nipaatyate || 156||
+
+eva.n sa raajaa bahuvidha.n vilapya tataH prabhR^iti dantilasya prasaada\-
+paraa~NmukhaH sa.njaataH | ki.n bahunaa raajadvaarapravesho.api tasya
+nivaaritaH | dantilo.apyakasmaadeva prasaadaparaa~Nmukhamavanipati\-
+mavalokya cintayaamaasa \- aho saadhu cedamucyate \-
+
+ko.arthaanpraapya na garvito viShayiNaH kasyaapado.asta.n gataaH |
+striibhiH kasya na khaNDita.n bhuvi manaH ko naamaa raadnyaa.n priyaH |
+kaH kaalasya na gocaraantaragataH ko.arthii gato gauravam |
+ko vaa durjanavaaguraasu patitaH kShemeNa yaataH pumaan || 157||
+
+tathaa ca \-
+
+kaake shauca.n dyuutakaareShu satya.n
+           sarpe kShaantiH striiShu kaamopashaantiH |
+kliibe dhairya.n madyape tattvacintaa
+           raajaa mitra.n kena dR^iShTa.n shruta.n vaa || 158||
+
+apara.n mayaasya bhuupaterathavaanyasyaapi kasyacidraajasambandhinaH
+svapne.api naaniShTa.n kR^itam | tatkimetatparaa~Nmukho maa.n prati
+bhuupatiriti | eva.n ta.n dantila.n kadaacidraajadvaare viShkambhita.n vilokya
+sa.nmaarjanakartaa gorambho vihasya dvaarapaalaanidamuuce \- bho bho
+dvaarapaalaaH  raajaprasaadaadhiShThito.aya.n dantilaH svaya.n
+nigrahaanugrahakartaa ca | tadanena nivaaritena yathaaha.n tathaa
+yuuyamapyardhacandrabhaajino bhaviShyatha | tacChrutvaa
+dantilashcintayaamaasa \- nuunamidamasya gorambhasya ceShTitam |
+athavaa saadhvidamucyate \-
+
+akuliino.api muurkho.api bhuupaala.n yo.atra sevate |
+api sa.nmaanahiino.api sa sarvatra prapuujyate || 159||
+api kaapuruSho bhiiruH syaaccennR^ipatisevakaH |
+tathaapi na paraabhuuti.n janaadaapnoti maanavaH || 160||
+
+eva.n sa bahuvidha.n vilapya vilakShamanaaH sodvego gataprabhaavaH
+svagR^iha.n nishaamukhe gorambhamaahuuya vastrayugalena
+sa.nmaanyedamuvaaca \- bhadra  mayaa na tadaa tva.n raagavashaanniH\-
+saaritaH | yatastva.n braahmaNaanaamagrato.anucitasthaane samupaviShTo
+dR^iShTa ityapamaanitaH | tatkShamyataam | so.api svargaraajyopama.n
+tadvastrayugalamaasaadya para.n paritoSha.n gatvaa tamuvaaca \- bhoH
+shreShThin  kShaanta.n mayaa te tat | tadasya sa.nmaanasya kR^ite pashya
+me buddhiprabhaava.n raajaprasaada.n ca | evamuktvaa saparitoSha.n
+niShkraantaH | saadhu cedamucyate \-
+
+stokenonnatimaayaati stokenaayaatyadhogatim |
+aho sasadR^ishaa ceShTaa tulaayaShTeH khalasya ca || 161||
+
+tatashcaanyedyuH sa gorambho raajakula.n gatvaa yoganidraa.n gatasya
+bhuupateH sa.nmaarjanakriyaa.n kurvannidamaaha \- aho aviveko.asmad\-
+bhuupateH | yat puriiShotsargamaacara.nshcarbhaTiibhakShaNa.n karoti |
+tacChrutvaa raajaa savismaya.n tamuvaaca \- re re gorambha  kimaprastuta.n
+lapasi | gR^ihakarmakara.n matvaa tvaa.n na vyaapaadayaami | ki.n tvayaa
+kadaacidahameva.nvidha.n karma samaacarandR^iShTaH | so.abraviit \-
+dyuutaasaktasya raatrijaagaraNena sa.nmaarjana.n kurvaaNasya mama
+balaannidraa samaayaataa | tayaadhiShThitena mayaa ki.ncijjalpitam |
+tanna vedmi | tatprasaada.n karotu svaamii nidraaparavashasya iti | eva.n
+shrutvaa raajaa cintitavaan \- yanmayaa janmaantare puriiShotsarga.n kurvataa
+kadaapi cirbhaTikaa na bhakShitaa | tadyathaaya.n vyatikaro.asambhaavyo
+mamaanena muuDhena vyaahR^itaHstathaa dantilasyaapiiti nishcayaH |
+tanmayaa na yukta.n kR^ita.n yatsa varaakaH sa.nmaanena viyojitaH | na
+taadR^ikpuruShaaNaameva.nvidha.n ceShTita.n sambhaavyate | tadabhaavena
+raajakR^ityaani paurakR^ityaani  sarvaaNi shithilataa.n vrajanti | 
+evamanekadhaa
+  vimR^ishya dantila.n samaahuuya nijaa~NgavastraabharaNaadibhiH sa.nyojya
+svaadhikaare niyojayaamaasa | ato.aha.n braviimi yo na puujayate garvaaditi |
+sa.njiivaka aaha \- bhadra evamevaitat | yadbhavataabhihita.n tadeva mayaa
+kartavyamiti | evamabhihite damanakastamaadaaya pi~Ngalakasakaasha\-
+magamat | aaha ca \- deva eSha mayaaniitaH sa sa.njiivakaH | adhunaa devaH
+pramaaNam | sa.njiivako.api ta.n saadara.n praNamyaagrataH savinaya.n
+sthitaH | pi~Ngalako.api tasya piinaayatakakudmato nakhakulishaala.nkR^ita.n
+dakShiNapaaNimupari dattvaa maanapuraHsaramuvaaca api shiva.n bhavataH |
+kutastvamasminvane vijane samaayaato.asi |tenaapyaatmavR^ittaantaH kathitaH |
+yathaa vardhamaanena  saha viyogaH sa.njaatastathaa sarva.n niveditam |
+tacChrutvaa pi~NgalakaH saadaratara.n tamuvaaca \- vayasya na bhetavyam |
+madbhujapa~njaraparirakShitena yathecCha.n tvayaadhunaa vartitavyam |
+anyacca nitya.n matsamiipavartinaa bhaavyam | yataH kaaraNaadbahvapaaya.n
+raudrasattvaniShevita.n vana.n guruuNaamapi sattvaanaamasevya.n kutaH
+shaShpabhojinaam | evamuktvaa sakalamR^igaparivR^ito yamunaakacCha\-
+mavatiiryodakagrahaNa.n kR^itvaa svecChayaa tadeva vana.n praviShTaH |
+tatashca karakaTadamanakanikShiptaraajyabhaaraH sa.njiivikena saha
+subhaaShitagoShThiimanubhavannaaste | athavaa saadhvidamucyate \-
+
+yadR^icChayaapyupanata.n sakR^itsajjanasa~Ngatam |
+bhavatyajaramatyanta.n naabhyaasakramamiikShate || 162||
+
+sa.njiivakenaapyanekashaastraavagaahanaadutpannabuddhipraagalbhyena
+stokairevaahobhirmuuDhamatiH pi~Ngalako dhiimaa.nstathaa kR^ito yathaa\-
+.araNyadharmaadviyojya graamyadharmeShu niyojitaH | ki.n bahunaa pratyaha.n
+pi~Ngalakasa.njiivakaaveva kevala.n rahasi mantrayataH | sheShaH sarvo.api
+mR^igajano duuriibhuutastiShThati | karaTakadamanakaavapi pravesha.n na
+labhete | anyacca si.nhaparaakramaabhaavaatsarvo.api mR^igajanastau ca
+shR^igaalau kShudhaavyaadhibaadhitaa ekaa.n dishamaashritya sthitaaH |
+ukta~nca \-
+
+phalahiina.n nR^ipa.n bhR^ityaaH kuliinamapi connatam |
+santyajyaanyatra gacChanti shuShka.n vR^ikShamivaaNDajaaH || 163||
+
+tathaa ca \-
+
+api sa.nmaanasa.nyuktaaH kuliinaa bhaktitatparaaH |
+vR^ittibha~Ngaanmahiipaala.n tyajantyeva hi sevakaaH || 164||
+
+anyacca \-
+
+kaalaatikramaNa.n vR^itteryo na kurviita bhuupatiH |
+kadaacitta.n na mu~ncanti bhartsitaa api sevakaaH || 165||
+
+tathaa ca kevala.n sevakaa ittha.nbhuutaa yaavatsamastamapyetajjagat\-
+paraspara.n bhakShaNaartha.n saamaadibhirupaayaistiShThati | tadyathaa \-
+
+deshaanaamupari kShmaabhR^idaaturaaNaa.n cikitsakaaH |
+vaNijo graahakaaNaa.n ca muurkhaaNaamapi paNDitaaH || 166||
+pramaadinaa.n tathaa cauraa bhikShukaa gR^ihamedhinaam |
+gaNikaaH kaaminaa.n caiva sarvalokasya shilpinaH || 167||
+saamaadisajjitaiH paashaiH pratiikShante divaanisham |
+upajiivanti shaktyaa hi jalajaa jaladaaniva || 168||
+
+athavaa saadhvidamucyate \-
+
+sarpaaNaa.n ca khalaanaa.n ca paradravyaapahaariNaam |
+abhipraayaa na sidhyanti teneda.n vartate jagat || 169||
+attu.n vaa~nChati shaambhavo gaNapateraakhu.n kShudhaartaH phaNii |
+ta.n ca krau~ncaripoH shikhii girisutaasi.nho.api naagaashanam |
+ittha.n yatra parigrahasya ghaTanaa shambhorapi syaadgR^ihe |
+tatraanyasya katha.n na bhaavi jagato yasmaatsvaruupa.n hi tat || 170||
+
+tataH svaamiprasaadarahitau kShutkShaamakaNThau paraspara.n karaTaka\-
+damanakau mantrayete | tatra damanako bruute \- aarya karaTaka |
+aavaa.n taavadapradhaanataa.n gatau | eSha pi~NgalakaH sa.njiivakaa\-
+nuraktaH svavyaapaaraparaa~NmukhaH sa.njaataH | sarvo.api parijano gataH |
+tatki.n kriyate | karaTaka aaha \- yadyapi tvadiiyavacana.n na karoti
+tathaapi svaamii svadoShanaashaaya vaacyaH | ukta~nca \-
+
+ashR^iNvannapi boddhavyo mantribhiH pR^ithiviipatiH |
+yathaa svadoShanaashaaya vidureNaambikaasutaH || 171||
+
+tathaa ca \-
+
+madonmattasya bhuupasya ku~njarasya ca gacChataH |
+unmaarga.n vaacyataa.n yaanti mahaamaatraaH samiipagaaH || 172||
+
+tat tvayaiSha shaShpabhojii svaaminaH sakaashamaaniitaH |
+tatsvahastenaa~NgaaraaH karShitaaH | damanaka aaha \- satyametat |
+mamaaya.n doSho na svaaminaH | ukta~nca \-
+
+jambuuko huDuyuddhena vaya.n caaShaaDhabhuutinaa |
+duutikaa parakaaryeNa trayo doShaaH svaya.n kR^itaaH || 173||
+
+karaTaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 4
+devasharmaparivraajakakathaa |
+
+asti kasmi.nshcidviviktapradeshe maThaayatanam | tatra devasharmaa naama
+parivraajakaH prativasati sma | tasyaanekasaadhujanadattasuukShmavastra\-
+vikrayavashaatkaalena mahatii vittamaatraa sa~njaataa | tataH sa na
+kasyacidvishvasiti | nakta.n dina.n kakShaantaraattaa.n maatraa.n na
+mu~ncati | athavaa saadhu cedamucyate \-
+
+arthaanaamarjane duHkhamarjitaanaa.n ca rakShaNe |
+naashe duHkha.n vyaye duHkha.n dhigarthaaH kaShTasa.nshrayaaH || 174||
+
+athaa.aShaaDhabhuutirnaama paravittaapahaarii dhuurtastaamarthamaatraa.n
+tasya kakShaantaragataa.n lakShayitvaa vyacintayat \- katha.n
+mayaasyeyamarthamaatraa hartavyaa iti | tadatra maThe taavaddR^iDhashilaa\-
+sa~ncayavashaadbhittibhedo na bhavati | uccaistaratvaacca dvaare pravesho
+na syaat | tadena.n maayaavacanairvishvaasyaaha.n Chaatrataa.n vrajaami
+yena sa vishvastaH kadaacidvishvaasameti | ukta~nca \-
+
+nispR^iho naadhikaarii syaannaakaamii maNDanapriyaH |
+naavidagdhaH priya.n bruuyaatsphuTavaktaa na va~ncakaH || 175||
+
+eva.n nishcitya tasyaantikamupagamya AUM namaH shivaayeti proccaarya
+saaShTaa~Nga.n praNamya ca saprashrayamuvaaca \- bhagavannasaaraH
+
+sa.nsaaro.ayam | girinadiivegopama.n yauvanam | tR^iNaagnisama.n jiivitam |
+sharadabhracChaayaasadR^ishaa bhogaaH | svapnasadR^isho mitraputra\-
+kalatrabhR^ityavargasambandhaH | eva.n mayaa samyakparidnyaatam | tatki.n
+kurvato me sa.nsaarasamudrottaraNa.n bhaviShyati | tacChrutvaa devasharmaa
+saadaramaaha \- vatsa dhanyo.asi yatprathame vayasyeva.n viraktiibhaavaH |
+ukta~nca \-
+
+puurve vayasi yaH shaantaH sa shaanta iti me matiH |
+dhaatuShu kShiiyamaaNeShu shamaH kasya na jaayate || 176||
+aadau citte tataH kaaye sataa.n sa.njaayate jaraa |
+asataa.n ca punaH kaaye naiva citte kadaacana || 177||
+
+yacca maa.n sa.nsaarasaagarottaraNopaaya.n pR^icChasi |
+tacChruuyataam \-
+
+shuudro vaa yadi vaanyo.api caNDaalo.api jaTaadharaH |
+diikShitaH shivamantreNa sa bhasmaa~Ngii shivo bhavet || 178||
+ShaDakShareNa mantreNa puShpamekamapi svayam |
+li~Ngasya muurdhni yo dadyaanna sa bhuuyo.abhijaayate || 179||
+
+tacChrutvaa.aShaaDhabhuutistatpaadau gR^ihiitvaa saprashrayamidamaaha\-
+bhagavan tarhi diikShayaa me.anugraha.n kuru | devasharmaa aaha \- vatsa
+anugraha.n te kariShyaami | parantu raatrau tvayaa maThamadhye na
+praveShTavyam | yatkaaraNa.n niHsa~Ngataa yatiinaa.n prashasyate
+tava ca mamaapi ca | ukta~nca \-
+
+durmantraannR^ipatirvinashyati yatiH sa~Ngaatsuto laalanaat |
+vipro.anadhyayanaatkula.n kutanayaacChiila.n khalopaasanaat |
+maitrii caapraNayaatsamR^iddhiranayaatsnehaH pravaasaashrayaat |
+strii garvaadanavekShaNaadapi kR^iShistyaagaatpramaadaaddhanam || 180||
+
+tattvayaa vratagrahaNaanantara.n maThadvaare tR^iNakuTiirake shayitavyamiti |
+sa aaha \- bhagavan  bhavadaadeshaH pramaaNam | paratra hi tena me
+prayojanam | atha kR^itashayanasamaya.n devasharmanigraha.n kR^itvaa
+shaastroktavidhinaa shiShyataamanayat | so.api hastapaadaavamardanaadi\-
+paricaryayaa ta.n paritoShamanayat | punastathaapi muniH
+kakShaantaraanmaatraa.n na mu~ncati | athaiva.n gacChati kaala
+aaShaaDhabhuutishcintayaamaasa \- aho na katha.ncideSha me
+vishvaasamaagacChati | tatki.n divaapi shastreNa maarayaami ki.n vaa
+viSha.n prayacChaami | ki.n vaa pashudharmeNa vyaapaadayaamiiti | eva.n
+cintayatastasya devasharmaNo.api shiShyaputraH kashcidgraamaad\-
+aamantraNaartha.n samaayaataH| praaha ca \- bhagavan pavitraaropaNa\-
+kR^ite mama gR^ihamaagamyataamiti | tacChrutvaa devasharmaa.
+aShaaDhabhuutinaa saha prahR^iShTamanaaH prasthitaH | athaiva.n
+tasya gacChato.agre kaacinnadii samaayaataa | taa.n dR^iShTvaa maatraa.n
+kakShaantaraadavataarya kanthaamadhye suguptaa.n nidhaaya snaatvaa
+devaarcana.n vidhaaya tadanantaramaaShaaDhabhuutimidamaaha \- bho
+aaShaaDhabhuute yaavadaha.n puriiShotsarga.n kR^itvaa samaagacChaami
+taavadeShaa kanthaa yogeshvarasya saavadhaanatayaa rakShaNiiyaa |
+ityuktvaa gataH | aaShaaDhabhuutirapi tasminnadarshaniibhuute
+maatraamaadaaya satvara.n prasthitaH | devasharmaa.api ChaatraguNaanu\-
+ra~njitamanaaH suvishvasto yaavadupaviShTastiShThati taavatsuvarNaroma\-
+dehayuuthamadhye huDuyuddhamapashyat | atha roShavashaaddhuDu\-
+yugalasya duuramapasaraNa.n kR^itvaa bhuuyo.api samupetya
+lalaaTapaTTaabhyaa.n praharato bhuuri rudhira.n patati | tacca jambuuko
+jihvaalaulyena ra~Ngabhuumi.n praveshyaasvaadayati | devasharmaa.api
+tadaalokya vyacintayat \- aho mandamatiraya.n jambuukaH | yadi
+kathamapyanayoH sa~NghaTTe patiShyati tannuuna.n mR^ityumavaapsyatiiti
+vitarkayaami | kShaNaantare ca tathaiva raktaasvaadanalaulyaanmadhye
+pravisha.nstayoH shiraHsampaate patito mR^itashca shR^igaalaH |
+devasharmaa.api ta.n shocamaano maatraamuddishya shanaiH shanaiH
+prasthito yaavadaaShaaDhabhuuti.n na pashyati tatashcautsukyena
+shauca.n vidhaaya yaavatkanthaamaalokayati taavanmaatraa.n na
+pashyati | tatashca haa haa muShito.asmiiti jalpanpR^ithiviitale muurcChayaa
+nipapaata | tataH kShaNaaccetanaa.n labdhvaa bhuuyo.api samutthaaya
+phuutkartumaarabdhaH \- bho aaShaaDhabhuute kva maa.n va~ncayitvaa
+gato.asi | taddehi me prativacanam | eva.n bahu vilapya tasya padapaddhati\-
+manveShayanshanaiH shanaiH prasthitaH | athaiva gacChansaayantanasamaye
+ka~ncidgraamamaasasaada | atha tasmaadgraamaatkashcitkaulikaH sabhaaryo
+madyapaanakR^ite samiipavartini nagare prasthitaH | devasharmaa.api tamaalokya
+provaaca \- bho bhadra vaya.n suuryoDhaa atithayastavaantika.n praaptaaH | na
+kamapyatra graame jaaniimaH | tadgR^ihyataamatithidharmaH | ukta~nca \-
+
+sampraapto yo.atithiH saaya.n suuryoDhe gR^ihamedhinaam |
+puujayaa tasya devatva.n prayaanti gR^ihamedhinaH || 181||
+
+tathaa ca \-
+
+tR^iNaani bhuumirudaka.n vaakcaturthii ca suunR^itaa |
+sataametaani harmyeShu nocChidyante kadaacana || 182||
+svaagatenaagnayastR^iptaa aasanena shatakratuH |
+paadashaucena pitaro.arghaacChambhustathaatitheH || 183||
+
+kauliko.api tacChrutvaa bhaaryaamaaha \- priye gacCha tvamatithimaadaaya
+gR^iha.n prati paadashaucabhojanashayanaadibhiH satkR^itya tva.n tatraiva
+tiShTha | aha.n tava kR^ite prabhuutamadyamaaneShyaami | evamuktvaa
+prasthitaH | saa.api bhaaryaa pu.nshcalii tamaadaaya prahasitavadanaa
+devadatta.n manasi  dhyaayantii gR^iha.n prati pratasthe | athavaa saadhu
+cedamucyate \-
+
+durdivase ghanatimire duHsa.ncaaraasu nagaraviithiiShu |
+patyurvideshagamane paramasukha.n jaghanacapalaayaaH || 184||
+
+tathaa ca \-
+
+parya~NkeShvaastaraNa.n patimanukuula.n manohara.n shayanam |
+tR^iNamiva laghu manyante kaaminyashcauryaratalubdhaaH || 185||
+
+tathaa ca \-
+
+keli.n pradahati lajjaa shR^i~Ngaaro.asthiini caaTavaH kaTavaH |
+vandhatrayaaH paritoSho na ki.ncidiShTa.n bhavetpatyau || 186||
+kulapatana.n janagarhaa.n bandhanamapi jiivitavyasandeham |
+a~Ngiikaroti kulaTaa satata.n parapuruShasa.nsaktaa || 187||
+
+atha kaulikabhaaryaa gR^iha.n gatvaa devasharmaNe gataastaraNa.n
+bhagnaa.n ca khaTvaa.n samarpyedamaaha \- bho bhagavan yaavadaha.n
+svasakhii.n graamaadabhyaagataa.n  sambhaavya drutamaagacChaami
+taavattvayaa madgR^ihe.apramattena bhaavyam | evamabhidhaaya
+shR^i~Ngaaravidhi.n vidhaaya yaavaddevadattamuddishya vrajati
+taavattadbhartaa sa.nmukho madavihvalaa~Ngo muktakeshaH pade
+pade praskhalangR^ihiitamadyabhaaNDaH samabhyeti | ta.n ca
+dR^iShTvaa saa drutatara.n vyaaghuTya svagR^iha.n pravishya
+muktashR^i~Ngaaraveshaa yathaapuurvamabhavat | kauliko.api taa.n
+palaayamaanaa.n kR^itaadbhutashR^i~Ngaaraa.n vilokya praageva
+karNaparamparayaa tasyaaH shrutaavapavaadakShubhitahR^idayaH
+svaakaara.n niguuhamaanaH sadaivaaste | tatashca tathaavidha.n
+ceShTitamavalokya dR^iShTapratyayaH krodhavashago gR^iha.n pravishya
+taamuvaaca \- aaH paape pu.nshcali kva prasthitaasi |saa provaaca \- aha.n
+tvatsakaashaadaagataa na kutracidapi nirgataa | tatkatha.n madyapaana\-
+vashaadaprastuta.n vadasi | athavaa saadhvidamucyate \-
+
+vaikalya.n dharaNiipaatamayathocitajalpanam |
+sa.nnipaatasya cihnaani madya.n sarvaaNi darshayet || 188||
+karaspando.ambaratyaagastejohaaniH saraagataa |
+vaaruNiisa~Ngajaavasthaa bhaanunaapyanubhuuyate || 189||
+
+so.api tacChrutvaa pratikuulavacana.n veshaviparyaya.n caavalokya tamaaha \-
+pu.nshcali cirakaala.n shruto mayaa tavaapavaadaH | tadadya svaya.n
+sa~njaatapratyayastava yathocita.n nigraha.n karomi | ityabhidhaaya
+laguDaprahaaraistaa.n jarjaritadehaa.n vidhaaya sthuuNayaa saha
+dR^iDhabandhanena baddhvaa so.api madavihvalo nidraavashamagamat |
+etasminnantare tasyaaH sakhii naapitii kaulika.n nidraavasha.n vidnyaaya
+taa.n gatvedamaaha \- sakhi sa devadattastasminsthaane tvaa.n pratiikShate |
+tacChiighramaagamyataamiti | saa caaha \- pashya mamaavasthaam |
+tatkatha.n gacChaami | tadgatvaa bruuhi ta.n kaamina.n yadasyaa.n raatrau
+na tvayaa saha samaagamaH | naapitii praaha \- sakhi, maa maiva.n vada |
+naaya.n kulaTaadharmaH | ukta~nca \-
+
+viShamasthasvaaduphalagrahaNavyavasaayanishcayo yeShaam |
+uShTraaNaamiva teShaa.n manye.aha.n sha.nsita.n janma || 190||
+
+tathaa ca \-
+
+sandigdhe paraloke janaapavaade ca jagati bahucitre |
+svaadhiine pararamaNe dhanyaastaaruNyaphalabhaajaH || 191||
+
+anyacca \-
+
+yadi bhavati daivayogaatpumaanviruupo.api bandhako rahasi |
+na tu kR^icChraadapi bhadra.n nijakaanta.n saa bhajatyeva || 192||
+
+saa.abraviit \- yadyeva.n tarhi kathaya katha.n dR^iDhabandhanabaddhaa satii
+tatra gacChaami | sannihitashcaaya.n paapaatmaa matpatiH | naapityaaha \-
+sakhi madavihvalo.aya.n suuryakaraspR^iShTaH prabodha.n yaasyati | tadaha.n
+  tvamunmocayaami | maamaatmasthaane baddhvaa drutatara.n devadatta.n
+sambhaavyaagacCha | saa.abraviidevamastviti | tadanu saa naapitii taa.n
+svasakhii.n bandhanaadvimocya tasyaaH sthaane yathaapuurvamaatmaana.n
+baddhvaa taa.n devadattasakaashe  sa~Nketasthaana.n preShitavatii |
+tathaanuShThite kaulikaH kasmi.nshcitkShaNe samutthaaya ki.ncidgatakopo
+vimadastaamaaha \- he paruShavaadini yadadyaprabhR^iti gR^ihaanni\-
+ShkramaNa.n na karoShi na ca paruSha.n vadasi tatastvaamunmocayaami |
+naapityapi svarabhedabhayaadyaavanna ki.nciduuce taavatso.api bhuuyo
+bhuuyastaa.n tadevaaha | atha saa yaavatpratyuttara.n kimapi na dadau
+  taavatsa prakupitastiikShNashastramaadaaya naasikaamacChinat | aaha ca \-
+re pu.nshcali tiShThedaaniim | tvaa.n bhuuyastoShayiShyaami | iti jalpan
+punarapi nidraavashamagaat | devasharmaa.api vittanaashaatkShutkShaama\-
+kaNTho naShTanidrastatsarva.n striicaritramapashyat | saa.api kaulikabhaaryaa
+yathecChayaa devadattena saha suratasukhamanubhuuya kasmi.nshcitkShaNe
+svagR^ihamaagataya taa.n naapitiimidamaaha \- ayi shiva.n bhavatyaaH | naaya.n
+paapaatmaa mama gataayaa utthitaH | naapityaaha \- shiva.n naasikayaa vinaa
+sheShasya shariirasya | taddruta.n  mocaya bandhanaadyaavannaaya.n maa.n
+pashyati yena svagR^iha.n gacChaami | tathaanuShThite  bhuuyo.api kaulika
+utthaaya taamaaha \- pu.nshcali kimadyaapi na vadasi ? ki.n bhuuyo.apyato
+duShTatara.n nigraha.n karNacChedena karomi | atha saa sakopa.n saadhikShepa\-
+midamaaha \- dhi~NmahaamuuDha ko maa.n mahaasatii.n dharShayitu.n
+vya~Ngayitu.n vaa samarthaH | tacChR^iNvantu sarve.api lokapaalaaH |
+
+aadityacandraharisha.nkaravaasavaadyaaH
+           shaktaa na jetumatiduHkhakaraaNi yaani |
+taaniindriyaaNi balavanti sudurjayaani
+           ye nirjayanti bhuvane balinasta eke || 193||
+
+tadyadi mama satiitvamasti manasaa.api parapuruSho naabhilaShitaH tato
+devaa bhuuyo.api me naasikaa.n taadR^igruupaakShataa.n kurvantu | athavaa
+yadi mama citte parapuruShasya bhraantirapi bhavati, maa.n
+bhasmasaannayantu | evamuktvaa bhuuyo.api tamaaha \- bho duraatman
+pashya me satiitvaprabhaaveNa taadR^ishyeva naasikaa sa.nvR^ittaa |
+athaasaavulmukamaadaaya yaavatpashyati taavattadruupaa.n naasikaa.n
+ca bhuutale raktapravaaha.n ca mahaantamapashyat | atha sa vismita\-
+manaastaa.n bandhanaadvimucya shayyaayaamaaropya ca caaTushataiH
+paryatoShayat | devasharmaa.a  pi ta.n sarvavR^ittaantamaalokya
+vismitamanaa idamaaha \-
+
+shambarasya ca yaa maayaa yaa maayaa namucerapi |
+baleH kumbhiinasashcaiva sarvaastaa yoShito viduH || 194||
+hasanta.n prahasantyetaa rudanta.n prarudantyapi |
+apriya.n priyavaakyaishca gR^ihNanti kaalayogataH || 195||
+ushanaa veda yacChaastra.n yacca veda bR^ihaspatiH |
+striibuddhyaa na vishiShyete taaH sma rakShyaaH katha.n naraiH || 196||
+anR^ita.n satyamityaahuH satya.n caapi tathaanR^itam |
+iti yaastaaH katha.n viira sa.nrakShyaaH puruShairiha || 197||
+
+anyatraapyuktam \-
+
+naatiprasa~NgaH pramadaasu kaaryo
+           necChedbala.n striiShu vivardhamaanam |
+atiprasaktaiH puruShairyatastaaH
+           kriiDanti kaakairiva luunapakShaiH || 198||
+sumukhena vadanti valgunaa
+           praharantyeva shitena cetasaa |
+madhu tiShThati vaaci yoShitaa.n
+           hR^idi haalahala.n mahadviSham || 199||
+ata eva nipiiyate.adharo
+           hR^idaya.n muShTibhireva taaDyate |
+puruShaiH sukhaleshava~ncitai\-
+           rmadhulubdhaiH kamala.n yathaa.alibhiH || 200||
+
+api ca \-
+
+aavartaH sa.nshayaanaamavinayabhavana.n pattana.n saahasaanaam |
+doShaaNaa.n sa.nnidhaana.n kapaTashatamaya.n kShetramapratyayaanaam |
+svargadvaarasya vighna.n narakapuramukha.n sarvamaayaakaraNDam |
+striiyantra.n kena sR^iShTa.n viShamamR^itamaya.n praaNilokasya 
+paashaH || 201||
+kaarkashya.n stanayordR^ishostaralataa.aliika.n mukhe shlaaghyate |
+kauTilya.n kacasa.ncaye ca vacane maandya.n trike sthuulataa |
+bhiirutva.n hR^idaye sadaiva kathita.n maayaaprayogaH priye |
+yaasaa.n doShagaNo guNo mR^igadR^ishaa.n taaH syurnaraaNaa.n priyaaH || 202||
+etaa hasanti ca rudanti ca kaaryaheto\-
+           rvishvaasayanti ca para.n na ca vishvasanti |
+tasmaannareNa kulashiilasamanvitena
+           naaryaH shmashaanaghaTikaa iva varjaniiyaaH || 203||
+vyaakiirNakesarakaraalamukhaa mR^igendraa
+           naagaashca bhuurimadaraajiviraajamaanaaH |
+medhaavinashca puruShaaH samareShu shuuraaH
+           striisannidhau paramakaapuruShaa bhavanti || 204 ||
+kurvanti taavatprathama.n priyaaNi
+           yaavanna jaananti nara.n prasaktam |
+dnyaatvaa ca ta.n manmathapaashabaddha.n
+           grastaamiSha.n miinamivoddharanti || 205||
+samudraviiciiva calasvabhaavaaH
+           sandhyaabhrarekheva muhuurtaraagaaH |
+striyaH kR^itaarthaaH puruSha.n nirartha.n
+           niShpiiDitaalaktakavattyajanti || 206||
+anR^ita.n saahasa.n maayaa muurkhatvamatilubdhataa |
+ashauca.n nirdayatva.n ca striiNaa.n doShaaH svabhaavajaaH || 207||
+sammohayanti madayanti viDambayanti
+           nirbhartsayanti ramayanti viShaadayanti |
+etaaH pravishya sarala.n hR^idaya.n naraaNaa.n
+           ki.n vaa na vaamanayanaa na samaacaranti || 208||
+antarviShamayaa hyetaa bahishcaiva manoramaaH |
+gu~njaaphalasamaakaaraa yoShitaH kena nirmitaaH || 209||
+
+eva.n cintayatastasya parivraajakasya saa nishaa mahataa
+kR^icChreNaaticakraama | saa ca duutikaa Chinnanaasikaa svagR^iha.n
+gatvaa cintayaamaasa \- kimidaanii.n kartavyam | kathameta\-
+nmahacChidra.n sthagayitavyam | atha tasyaa eva.n vicintayantyaa
+bhartaa kaaryavashaadraajakule paryuShitaH pratyuuShe ca svagR^iha\-
+mabhyupetya dvaaradeshastho vividhapaurakR^ityotsukatayaa taamaaha \-
+bhadre shiighramaaniiyataa.n kShurabhaaNDa.n yena kShaurakarmakaraNaaya
+gacChaami | saapi Chinnanaasikaa gR^ihamadhyasthitaiva kaaryakaraNaa\-
+pekShayaa kShurabhaaNDaatkShurameka.n samaakR^iShya tasyaabhimukha.n
+preShayaamaasa | naapito.apyutsukatayaa tameka.n kShuramavalokya
+kopaaviShTaH san tadabhimukhameva ta.n kShura.n praahiNot | etasminnantare
+saa duShTordhvabaahuu vidhaaya phutakartumanaa gR^ihaannishcakraama |
+aho pashyata paapenaanena mama sadaacaaravartinyaaH naasikaacChedo
+vihitaH | tatparitraayataa.n paritraayataam | atraantare raajapuruShaaH
+samabhyetya ta.n naapita.n laguDaprahaarairjarjariikR^itya dR^iDhabandhanai\-
+rbaddhvaa tayaa Chinnanaasikayaa saha dharmaadhikaraNasthaana.n
+niitvaa sabhyaanuucuH \- shR^iNvantu bhavantaH sabhaasadaH | anena
+naapitenaaparaadha.n vinaa striiratnametadvya~Ngitam | tadasya yadyujyate
+  tatkriyataam | ityabhihite sabhyaa uucuH \- re naapita kimartha.n tvayaa
+bhaaryaa vya~Ngitaa | kimanayaa parapuruSho.abhilaShitaH | utasvitpraaNa\-
+drohaH kR^itaH ki.n vaa cauryakarmaacaritam | tatkathyataamasyaa\-
+.aparaadhaH | naapito.api prahaarapiiDitatanurvaktu.n na shashaaka | atha ta.n
+tuuShNii.nbhuuta.n dR^iShTvaa punaruucuH \- aho satyametadraaja\-
+puruShaaNaa.n vacaH | paapaatmaa.ayam | aneneya.n nirdoShaa varaakii
+duuShitaa | ukta~nca \-
+
+bhinnasvaramukhavarNaH sha~NkitadR^iShTiH samutpatitatejaaH |
+bhavati hi paapa.n kR^itvaa svakarmasantraasitaH puruShaH || 210||
+
+tathaa ca \-
+
+aayaati skhalitaiH paadairmukhavaivarNyasa.nyutaH |
+lalaaTasvedabhaagbhuurigadgada.n bhaaShate vacaH || 211||
+adhodR^iShTirvadetkR^itvaa paapa.n praaptaH sabhaa.n naraH |
+tasmaadyatnaatparidnyeyaashcihnairetairvicakShaNaiH || 212||
+
+anyacca \-
+
+prasannavadano dR^iShTaH spaShTavaakyaH saroShadR^ik |
+sabhaayaa.n vakti saamarSha.n saavaShTambho naraH shuciH || 213||
+
+tadeSha duShTacaritralakShaNo dR^ishyate | striidharShaNaadvadhya iti |
+tacChuuliiyaamaaropyataamiti | atha vadhyasthaane niiyamaana.n tamavalokya
+devasharmaa taandharmaadhikR^itaangatvaa provaaca \- bho bho
+anyaanyenaiSha varaako vadhyate naapitaH | saadhusamaacaara eShaH |
+tacChruuyataa.n me vaakya.n jambuuko huDuyuddhena iti |atha te sabhyaa
+uucuH \- bho bhagavankathametat |tato devasharmaa teShaa.n trayaaNaamapi
+vR^ittaanta.n vistareNaakathayat | tadaakarNya suvismitamanasaste naapita.n
+vimocya mithaH procuH \- aho
+
+avadhyaa braahmaNaa gaavo striyo baalaashca dnyaatayaH |
+yeShaa.n caannaani bhu~njiita ye ca syuH sharaNaagataaH || 214||
+
+tadasyaa naasikaacChedaH svakarmaNaa hi sa.nvR^ittaH | tato raajanigrahastu
+karNacChedaH kaaryaH | tathaanuShThite devasharmaa.api vittanaasha\-
+samudbhuutashokarahitaH punarapi svakiiya.n maThaayatana.n jagaama |
+ato.aha.n braviimi \- jambuuko huDuyuddheneti | karaTaka aaha \- eva.nvidhe
+vyatikare ki.n kartavyamaavayoH | damanako.abraviit \- eva.nvidhe.api samaye
+mama buddhisphuraNa.n bhaviShyati yena sa~njiivaka.n
+prabhorvishleShayiShyaami | ukta~nca, yataH \-
+
+eka.n hanyaanna vaa hanyaadiShuH kShipto dhanuShmataa |
+praadnyena tu matiH kShiptaa hanyaadgarbhagataanapi || 215||
+
+tadaha.n maayaaprapa~ncena guptamaashritya ta.n sphoTayiShyaami |
+karaTaka aaha \- bhadra yadi kathamapi tava maayaapravesha.n pi~Ngalako
+dnyaasyati sa~njiivako vaa tadaa nuuna.n vighaata eva | so.abraviit \- taata
+maiva.n vada | guuDhabuddhibhiraapatkaale vidhure.api daive buddhiH
+prayoktavyaa | nodyamastyaajyaH | kadaaci ghuNaakSharanyaayena
+buddheH saamraajya.n bhavati | ukta~nca \-
+
+tyaajya.n na dhairya.n vidhure.api daive
+           dhairyaatkadaacitsthitimaapnuyaatsaH |
+yaate samudre.api hi potabha~Nge
+           saa.nyaatriko vaa~nChati karma eva || 216||
+
+tathaa ca \-
+
+udyogina.n satatamatra sameti lakShmii\-
+           rdaiva.n hi daivamiti kaapuruShaa vadanti |
+daiva.n nihatya kuru pauruShamaatmashaktyaa
+           yatne kR^ite yadi na sidhyati ko.atra doShaH || 217||
+
+tadeva.n dnyaatvaa suguuDhabuddhiprabhaaveNa yathaa tau dvaavapi
+na dnyaasyataH tathaa mitho viyojayiShyaami | ukta~nca \-
+
+suprayuktasya dambhasya brahmaa.apyanta.n na gacChati |
+kauliko viShNuruupeNa raajakanyaa.n niShevate || 218||
+
+karaTaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 5
+kaulikarathakaarakathaa |
+
+kasmi.nshcidadhiShThaane kaulikarathakaarau mitre prativasataH sma | tatra
+ca baalyaatprabhR^iti sahacaariNau parasparamatiiva snehaparau sadaika\-
+sthaanavihaariNau kaala.n nayataH | atha kadaacit tatraadhiShThaane
+kasmi.nshcid devaayatane yaatraamahotsavaH sa.nvR^ittaH | tatra ca
+  naTanartakacaaraNasa~Nkule naanaadeshaagatajanaavR^ite tau sahacarau
+bhramantau kaa~ncidraajakanyaa.n kareNukaaruuDhaa.n sarvalakShaNa\-
+sanaathaa.n ka~ncukivarShadharaparivaaritaa.n devataadarshanaartha.n
+samaayaataa.n dR^iShTavantau | athaasau kaulikastaa.n dR^iShTvaa
+viShaardita iva duShTagrahagR^ihiita iva kaamasharairhanyamaanaH sahasaa
+bhuutale nipapaata | atha ta.n tadavasthamavalokya rathakaarastad\-
+duHkhaduHkhita aaptapuruShaista.n samutkShipya svagR^ihamaanayat |
+tatra ca vividhaiH shiitopacaaraishcikitsakopadiShTairmantravaadibhi\-
+rupacaryamaaNaishciraatkatha.ncitsacetano babhuuva |tato
+rathakaareNa pR^iShTaH \- bho mitra kimeva.n tvamakasmaadvicetanaH
+sa~njaataH | tatkathyataamaatmasvaruupam | sa aaha \- vayasya yadyeva.n
+tacChR^iNu me rahasya.n yena sarvaamaatmavedanaa.n te vadaami | yadi
+tva.n maa.n suhR^ida.n manyase tataH kaaShThapradaanena prasaadaH
+kriyataam | kShamyataa.n yadvaa ki~ncitpraNayaatirekaadayukta.n tava
+mayaanuShThitam | so.api tadaakarNya baaShpapihitanayanaH sagadgada\-
+muvaaca \- vayasya yatki.ncidduHkhakaaraNa.n tadvada yena pratiikaaraH
+kriyate yadi shakyate kartum | ukta~nca \-
+
+auShadhaarthasumantraaNaa.n buddheshcaiva mahaatmanaam |
+asaadhya.n naasti loke.atra yadbrahmaaNDasya madhyagam || 219||
+
+tadeShaa.n caturNaa.n yadi saadhya.n bhaviShyati tadaaha.n
+saadhayiShyaami | kaulika aaha \- vayasya eteShaamanyeShaamapi
+sahasraaNaamupaayaanaamasaadhya.n tanme duHkham | tasmaanmama
+maraNe maa kaalakShepa.n kuru | rathakaara aaha \- bho mitra
+yadyapyasaadhya.n tathaapi nivedaya yenaahamapi tadasaadhya.n matvaa
+tvayaa sama.n vahnau pravishaami | na kShaNamapi tvadviyoga.n sahiShye |
+eSha me nishcayaH|  kaulika aaha \- vayasya yaa.asau raajakanyaa
+kareNumaaruuDhaa tatrotsave dR^iShTaa tasyaa darshanaanantara.n
+makaradhvajena mameyamavasthaa vihitaa | tanna shaknomi
+tadvedanaa.n soDhum | tathaa coktam \-
+
+mattebhakumbhapariNaahini ku~Nkumaardre
+           tasyaaH payodharayuge ratikhedakhinnaH |
+vakSho nidhaaya bhujapa~njaramadhyavartii
+           svapsye kadaa kShaNamavaapya tadiiyasa~Ngam || 220||
+
+tathaa ca \-
+
+raagii bimbaadharo.asau stanakalashayuga.n yauvanaaruuDhagarvam |
+niicaa naabhiH prakR^ityaa kuTilakamalaka.n svalpaka.n caapi madhyam |
+kurvantvetaani naama prasabhamiha manashcintitaanyaashu khedam |
+yanmaa.n tasyaaH kapolau dahata iti muhuH svacChakau tanna yuktam || 221||
+
+rathakaaro.apyeva.n sakaama.n tadvacanamaakarNya sasmitamidamaaha \-
+vayasya yadyeva.n tarhi diShTyaa siddha.n naH prayojanam | tadadyaiva
+tayaa saha samaagamaH kriyataamiti |kaulika aaha \- vayasya yatra
+kanyaantaHpure vaayu.n muktvaa naanyasya pravesho.asti tatra rakShaa\-
+puruShaadhiShThite katha.n mama tasyaa saha samaagamaH | tatki.n
+maamasatyavacanena viDambayasi | rathakaara aaha \- mitra pashya me
+buddhibalam | evamabhidhaaya tatkShaNaatkiilasa~ncaariNa.n vainateya.n
+baahuyugala.n vaayujavR^ikShadaaruNaa sha~Nkhacakragadaapadmaanvita.n
+sakiriiTakaustubhamaghaTayan | tatastasminkaulika.n samaaropya
+viShNucihnita.n kR^itvaa kiilasa~ncaraNavidnyaana.n ca darshayitvaa
+provaaca \- vayasya, anena viShNuruupeNa gatvaa kanyaantaHpure nishiithe
+taa.n raajakanyaamekaakinii.n saptabhuumikapraasaadapraantagataa.n
+mugdhasvabhaavaa.n tvaa.n vaasudeva.n manyamaanaa.n svakiiyamithyaa\-
+vakroktibhii ra~njayitvaa vaatsyaayanoktavidhinaa bhaja | kauliko.api
+tadaakarNya tathaaruupastatra gatvaa taamaaha \- raajaputri suptaa ki.n
+vaa jaagarShi |  aha.n tava kR^ite samudraatsaanuraago lakShmii.n
+vihaayaivaagataH | tatkriyataa.n mayaa saha samaagama iti |saa.api
+garuDaaruuDha.n caturbhuja.n saayudha.n kaustubhopetamavalokya
+savismayaa shayanaadutthaaya provaaca \- bhagavan aha.n maanuShii
+kiiTikaashuciH | bhagavaa{\m+}strailokyapaavano vandaniiyashca |
+tatkathametadyujyate | kaulika aaha \- subhage satyamabhihita.n
+bhavatyaa | para.n ki.n tu raadhaa naama me bhaaryaa gopakulaprasuutaa
+prathamaa.asiit | saa tvamatraavatiirNaa | tenaahamatraayaataH | ityuktaa
+saa praaha \- bhagavan yadyeva.n tanme taata.n praarthaya |
+so.apyavikalpa.n maa.n tubhya.n prayacChati | kaulika aaha \- subhage
+naaha.n darshanapatha.n maanuShaaNaa.n gacChaami | ki.n
+punaraalaapakaraNam | tva.n gaandharveNa vivaahenaatmaana.n prayacCha |
+no cecChaapa.n dattvaa saanvaya.n te pitara.n bhasmasaatkariShyaamiiti |
+evamabhidhaaya garuDaadavatiirya savye paaNau gR^ihiitvaa taa.n sabhayaa.n
+salajjaa.n vepamaanaa.n shayyaayaamaanayat | tatashca raatrisheSha.n
+yaavadvaatsyaayanoktavidhinaa niShevya pratyuuShe svagR^ihamalakShito
+jagaama | eva.n tasya taa.n nitya.n sevamaanasya kaalo yaati | atha
+kadaacitka~ncukinastasyaaadharoShThapravaalakhaNDana.n dR^iShTvaa
+mithaH procuH \- aho pashyataasyaa raajakanyaayaaH puruShopabhuktaayaiva
+shariiraavayavaa vibhaavyante | tatkathamaya.n surakShite.apyasmingR^iha
+eva.nvidho vyavahaaraH | tadraadnye nivedayaamaH | eva.n nishcitya sarve
+sametya raajaana.n procuH \- deva vaya.n na vidmaH | para.n surakShite.api
+kanyaantaHpure kashcitpravishati | taddevaH pramaaNamiti |
+tacChrutvaa raajaa.atiiva vyaakulitacitto vyacintayat \-
+
+putriiti jaataa mahatiiha cintaa
+           kasmai pradeyeti mahaanvitarkaH |
+dattvaa sukha.n praapsyati vaa na veti
+           kanyaapitR^itva.n khalu naama kaShTam || 222||
+nadyashca naaryashca sadR^ikprabhaavaa\-
+           stulyaani kuulaani kulaani taasaam |
+toyaishca doShaishca nipaatayanti
+           nadyo hi kuulaani kulaani naaryaH || 223||
+jananiimano harati jaatavatii parivardhate saha shucaa suhR^idaam |
+parasaatkR^itaapi kurute malina.n duritakramaa duhitaro vipadaH || 224||
+
+eva.n bahuvidha.n vicintya devii.n rahaHsthaa.n provaaca \- devi dnyaayataa.n
+kimete ka~ncukino vadanti | tasya kR^itaantaH kupito yenaitadeva.n kriyate |
+devyapi tadaakarNya vyaakuliibhuutaa  satvara.n kanyaantaHpure gatvaa taa.n
+khaNDitaadharaa.n nakhavilikhitashariiraavayavaa.n duhitaramapashyat | aaha
+ca \- aaH paape  kulakala~NkakaariNi kimeva shiilakhaNDana.n kR^itam |
+ko.aya.n kR^itaantaavalokitastvatsakaashamabhyeti | tatkathyataa.n
+mamaagre satyam | iti kopaaTopavisa~NkaTa.n vadatyaa.n maatari
+raajaputrii bhayalajjaanataanana.n provaaca \- amba saakShaannaaraayaNaH
+pratyaha.n garuDaaruuDho nishi samaayaati | cedasatya.n mama vaakya.n
+tatsvacakShuShaa vilokayatu niguuDhataraa nishiithe bhagavanta.n
+ramaakaantam | tacChrutvaa saapi prahasitavadanaa pulakaa~Nkitasarvaa~Ngii
+satvara.n raajaanamuuce \- deva diShTyaa vardhase | nityameva nishiithe
+bhagavaannaaraayaNaH kanyakaapaarshve.abhyeti | tena gaandharvavivaahena
+saa vivaahitaa | tadadya tvayaa mayaa ca raatrau vaataayanagataabhyaa.n
+nishiithe draShTavyaH | yato na sa maanuShaiH sahaalaapa.n karoti |
+tacChrutvaa harShitasya raadnyastaddina.n varShashatapraayamiva
+katha~ncijjagaama | tatastu raatrau nibhR^ito bhuutvaa raadnyiisahito raajaa
+vaataayanastho gaganaasaktadR^iShTiryaavattiShThati taavattasminsamaye
+garuDaaruuDha.n ta.n sha~Nkacakragadaapadmahasta.n yathoktacihnaa~Nkita.n
+vyomno.avataranta.n naaraayaNamapashyat | tataH sudhaapuuraplaavita\-
+mivaatmaana.n manyamaanastaamuvaaca \- priye  naastyanyo dhanyataro
+loke mattastvattashca | tatprasuuti.n naaraayaNo bhajate | tatsiddhaaH
+sarve.asmaaka.n manorathaaH | adhunaa jaamaatR^iprabhaaveNa sakalaamapi
+  vasumatii.n vashyaa.n kariShyaami | eva.n nishcitya sarvaiH siimaadhipaiH
+saha maryaadaavyatikramamakarot | te ca ta.n maryaadaavyatikrameNa
+vartamaanamaalokya sarve sametya tena saha vigraha.n cakruH | atraantare
+sa raajaa deviimukhena taa.n duhitaramuvaaca \- putri tvayi duhitari
+vartamaanaayaa.n naaraayaNe bhagavati jaamaatari sthite tatkimeva.n
+yujyate yatsarve paarthivaa mayaa saha vigraha.n kurvanti | tatsa.nbodhyo.adya
+tvayaa nijabhartaa yathaa mama shatruunvyaapaadayati | tatastayaa sa kauliko
+raatrau savinayamabhihitaH \- bhagavan tvayi jaamaatari sthite mama taato
+yacChatrubhiH paribhuuyate tanna yuktam | tatprasaada.n kR^itvaa
+sarvaa.nstaanshatruunvyaapaadaya| kaulika aaha \- subhage kiyanmaatraastvete
+  tava pituH shatravaH | tadvishvastaa bhava | kShaNenaapi sudarshanacakreNa
+sarvaa.nstilashaH khaNDayiShyaami | atha gacChataa kaalena sarvadesha.n
+shatrubhirudvaasya sa raajaa praakaarasheShaH kR^itaH | tathaapi
+vaasudevaruupadhara.n kaulikamajaananraajaa nityameva visheShataH
+karpuuraagurukastuurikaadiparimalavisheShaannaanaaprakaaravastrapuShpa\-
+bhakShyapeyaa.nshca preShayanduhitR^imukhena tamuuce \- bhagavan
+prabhaate nuuna.n sthaanabha~Ngo bhaviShyati | yato yavasendhanakShayaH
+sa.njaatastathaa sarvo.api janaH prahaarairjarjaritadehaH sa.nvR^itto
+yoddhumakShamaH pracuro mR^itashca | tadeva.n dnyaatvaa.atra kaale
+yaducita.n bhavati tadvidheyamiti | tacChrutvaa kauliko.apyacintayat \-
+sthaanabha~Nge jaate mamaanayaa saha viyogo bhaviShyati |
+tasmaadgaruDamaaruhya saayudhamaatmaanamaakaashe darshayaami |
+kadaacinmaa.n vaasudeva.n manyamaanaaste saasha~Nkaa raadnyo
+yoddhR^ibhirhanyate | ukta~nca \-
+
+nirviSheNaapi sarpeNa kartavyaa mahatii phaNaa |
+viSha.n bhavatu vaa maabhuutphaNaaTopo bhaya~NkaraH || 225||
+
+atha yadi mama sthaanaarthamudyatasya mR^ityurbhaviShyati tadapi
+sundarataram | ukta~nca \-
+
+gavaamarthe braahmaNaarthe svaamyarthe sviikR^ite.athavaa |
+sthaanaarthe yastyajet praaNaa.nstasya lokaaH sanaatanaaH || 226||
+candre maNDalasa.nsthe vigR^ihyate raahuNaa dinaadhiishaH |
+sharaNaagatena saardha.n vipadapi tejasvinaa.n shlaaghyaa || 227||
+
+eva.n nishcitya pratyuuShe dantadhaavana.n kR^itvaa taa.n provaaca \-
+subhage samastaiH shatrubhirhatairanna.n paana.n caasvaadayiShyaami |
+  ki.n bahunaa tvayaapi saha sa~Ngama.n tataH kariShyaami | para.n
+vaacyastvayaa.atmapitaa yatprabhaate prabhuutena sainyena saha
+nagaraanniShkramya yoddhavyam | aha.n caakaashasthita eva
+sarvaa.nstaannistejasaH kariShyaami | pashcaatsukhena bhavataa
+hantavyaaH | yadi punaraha.n taansvayameva suudayaami tatteShaa.n
+paapaatmanaa.n vaikuNThiiyaa gatiH syaat | tasmaatte tathaa kartavyaa
+yathaa palaayanto hanyamaanaaH svarga.n na gacChanti | saapi tadaakarNya
+pituH samiipa.n gatvaa sarva.n vR^ittaanta.n nyavedayat | raajaapi tasyaa
+vaakya.n shraddadhaanaH pratyuuShe samutthaaya samunnaddhasainyo
+yuddhaartha.n nishcakraama | kauliko.api maraNe kR^itanishcayashcaapa\-
+paaNirgaganagatirgaruDaaruuDho yuddhaaya prasthitaH | atraantare
+bhagavataa naaraayaNenaatiitaanaagatavartamaanavedinaa smR^itamaatro
+vainateyaH sa.npraapto vihasya proktaH \- bho garutman jaanaasi tva.n
+yanmama ruupeNa kauliko daarumayagaruDe samaaruuDho raajakanyaa.n
+kaamayate | so.abraviit \- deva sarva.n dnyaayate tacceShTitam | tat ki.n
+  kurmaH saampratam | shriibhagavaanaaha \- adya kauliko maraNe
+kR^itanishcayo vihitaniyamo yuddhaarthe vinirgataH sa nuuna.n pradhaana\-
+kShatriyairmilitvaa vaasudevo garuDashca nipaatitaH | tataH para.n
+loko.ayamaavayoH puujaa.n na kariShyati | tatastva.n drutatara.n tatra
+daarumayagaruDe sa~NkramaNa.n kuru | ahamapi kaulikashariire pravesha.n
+kariShyaami | yena sa shatruunvyaapaadayati | tatashca
+shatruvadhaadaavayormaahaatmyavR^iddhiH syaat | atha garuDe tatheti
+pratipanne shriibhagavannaaraayaNastacChariire sa~NkramaNamakarot |
+tato bhagavanmaahaatmyena gaganasthaH sa kaulikaH sha~Nkhacakra\-
+gadaacaapacihnitaH kShaNaadeva liilayaiva samastaanapi pradhaana\-
+kShatriyaannistejasashcakaara | tatastena raadnyaa svasainyaparivR^itena
+sa~Ngraame jitaa nihataashca te sarve.api shatravaH | jaatashca lokamadhye
+pravaado yathaa.anena viShNujaamaatR^iprabhaaveNa sarve shatravo nihataa
+iti | kauliko.api taanhataan dR^iShTvaa pramuditamanaa gaganaadavatiirNaH
+san yaavad raajaamaatyapauralokaasta.n nagaravaastavya.n kaulika.n
+pashyanti tataH pR^iShTaH kimetaditi | tataH so.api muulaadaarabhya sarva.n
+praagvR^ittaanta.n nyavedayat | tatashca kaulikasaahasaanura~njitamanasaa
+shatruvadhaadavaaptatejasaa raadnyaa saa raajakanyaa sakalajanapratyakSha.n
+vivaahavidhinaa tasmai samarpitaa deshashca pradattaH | kauliko.api tayaa
+saardha.n pa~ncaprakaara.n jiivalokasaara.n viShayasukhamanubhavankaala.n
+ninaaya | atastuucyate suprayuktasya dambhasyeti | tacChrutvaa karaTaka
+aaha \- bhadra astvevam | para.n tathaapi mahanme bhayam | yato
+buddhimaansa.njiivako raudrashca si.nhaH | yadyapi te buddhipraagalbhya.n
+tathaapi tva.n pi~Ngalakaatta.n viyojayitumasamartha eva | damanaka aaha \-
+bhraataH asamartho.api samartha eva | ukta~nca \-
+
+upaayena hi yacChakya.n na tacChakya.n paraakramaiH |
+kaakii kanakasuutreNa kR^iShNasarpamaghaatayat || 228||
+
+karaTaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 6
+vaayasadampatikathaa |
+
+asti kasmi.nshcitpradeshe mahaannyagrodhapaadapaH | tatra vaayasa\-
+dampatii prativasataH sma | atha tayoH prasavakaale vR^ikShavivaraanni\-
+Shkramya kR^iShNasarpaH sadaiva tadapatyaani bhakShayati | tatastau
+nirvedaadanyavR^ikShamuulanivaasina.n priyasuhR^ida.n shR^igaala.n
+gatvocatuH \- bhadra kimeva.nvidhe sa~njaata aavayoH kartavya.n bhavati |
+eva.n taavadduShTaatmaa kR^iShNasarpo vR^ikShavivaraannirgatyaavayo\-
+rbaalakaanbhakShayati | tatkathyataa.n tadrakShaartha.n kashcidupaayaH |
+
+yasya kShetra.n nadiitiire bhaaryaa ca parasa~Ngataa |
+sasarpe ca gR^ihe vaasaH katha.n syaattasya nirvR^itiH || 229||
+
+anyacca \-
+
+sarpayukte gR^ihe vaaso mR^ityureva na sa.nshayaH |
+yadgraamaante vasetsarpastasya syaatpraaNasa.nshayaH || 230||
+
+asmaakamapi tatrasthitaanaa.n pratidina.n praaNasa.nshayaH | sa aaha \-
+naatra viShaye svalpo.api viShaadaH kaaryaH | nuuna.n sa lubdho
+nopaayamantareNa vadhyaH syaat |
+
+upaayena jayo yaadR^igripostaadR^i~N na hetibhiH |
+upaayadnyo.alpakaayo.api na shuuraiH paribhuuyate || 231||
+
+tathaa ca \-
+
+bhakShayitvaa bahuunmatsyaanuttamaadhamamadhyamaan |
+atilaulyaadbakaH kashcinmR^itaH karkaTakagrahaat || 232||
+
+taavuucatuH \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 7
+bakakuliirakakathaa |
+
+asti kasmi.nshcidvanapradeshe naanaajalacarasanaatha.n mahatsaraH | tatra
+ca kR^itaashrayo baka eko vR^iddhabhaavamupaagato matsyaanvyaapaada\-
+yitumasamarthaH | tatashca kShutkShaamakaNThaH sarastiira upaviShTo
+muktaaphalaprakarasadR^ishairashrupravaahairdharaatalamabhiShi~ncan
+ruroda | ekaH kuliirako naanaajalacarasametaH sametya tasya duHkhena
+duHkhitaH saadaramidamuuce \- maama kimadya tvayaa naahaaravR^itti\-
+ranuShThiiyate | kevalamashrupuurNanetraabhyaa.n saniHshvaasena
+sthiiyate | sa aaha \- vatsa satyamupalakShita.n bhavataa | mayaa hi
+matsyaadana.n prati paramavairaagyatayaa saamprata.n praayopaveshana.n
+kR^itam | tenaaha.n samiipaagataanapi matsyaanna bhakShayaami |
+kuliirakastacChrutvaa praaha \- maama ki.n tadvairaagyakaaraNam | sa
+praaha \- vatsa ahamasminsarasi jaato vR^iddhi.n gatashca |
+tanmayaitacChruta.n yaddvaadashavarShikyanaavR^iShTiH sampadyate
+  lagnaa | kuliiraka aaha \- kasmaattacChrutam | baka aaha \-
+daivadnyamukhaat | eSha shanaishcaro hi rohiNiishakaTa.n bhittvaa bhauma.n
+shakra.n ca prayaasyati | ukta~nca varaahamihireNa \-
+
+yadi bhinte suuryasuto rohiNyaaH shakaTamiha loke |
+dvaadashavarShaaNi tadaa na hi varShati vaasavo bhuumau || 233||
+
+tathaa ca \-
+
+praajaapatye shakaTe bhinne kR^itvaiva paataka.n vasudhaa |
+bhasmaasthishakalaakiirNaa kaapaalikamiva vrata.n dhatte || 234||
+
+tathaa ca \-
+
+rohiNiishakaTamarkanandanashcedbhinnatti rudhiro.athavaa shashii |
+ki.n vadaami tadaniShTasaagare sarvalokamupayaati sa~NkShayaH || 235||
+rohiNiishakaTamadhyasa.nsthite candramasya sharaNiikR^itaa janaaH |
+kvaapi yaanti shishupaacitaashanaaH suuryataptabhiduraambupaayinaH || 236||
+
+tadetatsaraH svalpatoya.n vartate | shiighra.n shoSha.n yaasyati | asmin
+shuShke yaiH sahaaha.n vR^iddhi.n gataH sadaiva kriiDitashca te sarve
+toyaabhaavaannaasha.n yaasyanti | tatteShaa.n viyoga.n draShTumahama\-
+samarthaH | tenaitatpraayopaveshana.n kR^itam | saamprata.n sarveShaa.n
+svalpajalaashayaanaa.n jalacaraa gurujalaashayeShu svasvajanairniiyante |
+kecicca makarashishumaarajalahastiprabhR^itayaH svayameva gacChanti |
+atra punaH sarasi ye jalacaraaste nishcintaaH santi tenaaha.n
+visheShaadrodimi yadbiijasheShamaatramapyatra noddhariShyati | tataH
+sa tadaakarNyaanyeShaamapi jalacaraaNaa.n tattasya vacana.n
+nivedayaamaasa | atha te sarve bhayatrastamanaso matsyakacChapa\-
+prabhR^itayastamabhyupetya papracChuH \- maama asti kashcidupaayo
+yenaasmaaka.n rakShaa bhavati | baka aaha \- astyasya jalaashayasya
+naatiduure prabhuutajalasanaatha.n saraH padminiikhaNDamaNDita.n
+yaccaturvi.nshatyapi varShaaNaamavR^iShTyaa na shoShameShyati | tadyadi
+  mama pR^iShTha.n kashcidaarohati tadaha.n ta.n tatra nayaami | atha te
+tatra vishvaasamaapannaaH taata maatula bhraataH iti bruvaaNaa aha.n
+puurvamaha.n puurvamiti samantaatparitasthuH | so.api duShTaashayaH
+krameNa taanpR^iShTha aaropya jalaashayasya naatiduure shilaa.n
+samaasaadya tasyaamaakShipya  svecChayaa bhakShayitvaa bhuuyo.api
+jalaashaya.n samaasaadya jalacaraaNaa.n mithyaavaartaasandeshakai\-
+rmanaa.nsi ra~njayannityamevaahaaravR^ittimakarot | anyasmindine ca
+kuliirakeNoktaH \- maama mayaa saha te prathamaH snehasambhaaShaH
+sa~njaataH | tatki.n maa.n parityajyaanyaannayasi | tasmaadadya me
+praaNatraaNa.n kuru | tadaakarNya so.api duShTaashayashcintitavaan \-
+nirviNNo.aha.n matsyamaa.nsaadanena tadadyaina.n kuliiraka.n
+vya~njanasthaane karomi | iti vicintya ta.n pR^iShThe samaaropya taa.n
+vadhyashilaamuddishya prasthitaH | kuliirako.api duuraadevaasthiparvata.n
+shilaashrayamavalokya mastyaasthiini paridnyaaya tamapR^icChat \-
+maama kiyadduure sa jalaashayaH | madiiyabhaareNaatishraantastvam |
+tat kathaya | so.api mandadhiirjalacaro.ayamiti matvaa sthale na prabhavatiiti
+sasmitamidamaaha \- kuliiraka kuto.anyo jalaashayaH | mama
+praaNayaatreyam | tasmaatsmaryataamaatmano.abhiiShTadevataa |
+tvaamapyanyaa.n shilaayaa.n nikShipya bhakShayiShyaami | ityuktavati
+tasminsvavadanada.nshadvayena mR^iNaalanaaladhavalaayaa.n
+mR^idugriivaayaa.n gR^ihiito mR^itashca | atha sa taa.n bakagriivaa.n
+samaadaaya shanaiH shanaistajjalaashayamaasasaada | tataH sarvaireva
+jalacaraiH pR^iShTaH \- bhoH kuliiraka ki.n nivR^ittastvam | sa
+maatulo.api naayaataH | tat ki.n cirayati| vaya.n sarve sotsukaaH
+kR^itakShaNaastiShThaamaH | eva.n tairabhihite kuliirako.api vihasyovaaca \-
+muurkhaaH sarve jalacaraastena mithyaavaadinaa va~ncayitvaa naatiduure
+shilaatale prakShipya bhakShitaaH | tan mamaayuHsheShatayaa tasya
+  vishvaasaghaatakasyaabhipraaya.n dnyaatvaa griiveyam aaniitaa | tad ala.n
+sambhrameNa | adhunaa sarvajalacaraaNaa.n kShema.n bhaviShyati |
+ato.aha.n braviimi \- bhakShayitvaa bahuunmatsyaaniti | vaayasa aaha \-
+bhadra tatkathaya katha.n sa duShTasarpo vadhamupaiShyati | shR^igaala
+aaha \- gacChatu bhavaan ka~ncinnagara.n raajaadhiShThaanam | tatra
+kasyaapi dhanino raajaamaatyaadeH pramaadinaH kanakasuutra.n haara.n
+  vaa gR^ihiitvaa tatkoTare prakShipa yena sarpastadgrahaNena vadhyate |
+tatkShaNaatkaakaH kaakii ca tadaakarNyaatmecChayotpatitau | tatashca
+kaakii ki~ncitsaraH praapya yaavatpashyati taavattanmadhye kasyacidraadnyo\-
+.antaHpura.n jalaasanna.n nyastakanakasuutra.n muktamuktaahaara\-
+vastraabharaNa.n jalakriiDaa.n kurute | atha saa vaayasii kanakasuutra\-
+mekamaadaaya svagR^ihaabhimukha.n pratasthe | tatashca ka~ncukino
+varShavaraashca tanniiyamaanamupalakShya gR^ihiitalaguDaaH
+satvaramanuyayuH | kaakyapi sarpakoTare tatkanakasuutra.n prakShipya
+suduuramavasthitaa | atha yaavadraajapuruShaasta.n vR^ikShamaaruhya
+tatkoTaramavalokayanti taavatkR^iShNasarpaH prasaaritabhogastiShThati |
+tatasta.n laguDaprahaareNa hatvaa kanakasuutramaadaaya yathaabhilaShita.n
+sthaana.n gataaH | vaayasadampatyapi tataH para.n sukhena vasataH |
+ato.aha.n braviimi upaayena hi yatkuryaaditi | tanna ki.ncidiha
+buddhimataamasaadhyamasti | ukta~nca \-
+
+yasya buddhirbala.n tasya nirbuddhestu kuto balam |
+vane si.nho madonmattaH shashakena nipaatitaH || 237||
+
+karaTaka aaha \- kathametat| sa aaha \-
+
+\medskip\hrule\medskip
+kathaa 8
+bhaasurakaakhyasi.nhakathaa |
+
+kasmi.nshcidvane bhaasurako naama si.nhaH prativasati sma | athaasau
+viiryaatirekaannityamevaanekaanmR^igashashakaadiinvyaapaadaya\-
+nnopararaama | athaanyedyustadvanajaaH sarve saara~NgavaraahamahiSha\-
+shashakaadayo militvaa tamabhyupetya procuH \- svaaminkimanena
+sakalamR^igavadhena nityameva yatastavaikenaapi mR^igeNa tR^iptirbhavati
+tatkriyataamasmaabhiH saha samayadharmaH | adyaprabhR^iti
+tavaatropaviShTasya jaatikrameNa pratidinameko mR^igo bhakShaNaartha.n
+sameShyati | eva.n kR^ite tava taavatpraaNayaatraa klesha.n vinaa.api
+bhaviShyati | asmaaka.n ca punaH sarvocChedana.n na syaat | tadeSha
+raajadharmo.anuShThiiyataam | ukta~nca \-
+
+shanaiH shanaishca yo raajyamupabhu~Nkte yathaabalam |
+rasaayanamiva praadnyaH sa puShTi.n paramaa.n vrajet || 238||
+vidhinaa mantrayuktena ruukShaapi mathitaapi ca |
+prayacChati phala.n bhuumiraraNiiva hutaashanam || 239||
+prajaanaa.n paalana.n shasya.n svargakoshasya vardhanam |
+piiDana.n dharmanaashaaya paapaayaayashase sthitam || 240||
+gopaalena prajaadhenorvittadugdha.n shanaiH shanaiH |
+paalanaatpoShaNaadgraahya.n nyaayyaa.n vR^itti.n samaacaret || 241||
+ajaamiva prajaa.n mohaadyo hanyaat pR^ithiviipatiH |
+tasyaikaa jaayate tR^iptirna dvitiiyaa katha~ncana || 242||
+phalaarthii nR^ipatirlokaanpaalayedyatnamaasthitaH |
+daanamaanaaditoyena maalaakaaro.a~Nkuraaniva || 243||
+nR^ipadiipo dhanasneha.n prajaabhyaH sa.nharannapi |
+aantarasthairguNaiH shubhrairlakShyate naiva kenacit || 244||
+yathaa gaurduhyate kaale paalyate ca tathaa prajaa |
+sicyate ciiyate caiva lataa puShpaphalapradaa || 245||
+yathaa biijaa~NkuraH suukShmaH prayatnenaabhirakShitaH |
+phalaprado bhavetkaale tadvallokaH surakShitaH || 246||
+hiraNyadhaanyaratnaani yaanaani vividhaani ca |
+tathaanyadapi yatki~ncitprajaabhyaH syaanmahiipateH || 247||
+lokaanugrahakartaaraH pravardhante nareshvaraaH |
+lokaanaa.n sa.nkShayaaccaiva kShaya.n yaanti na sa.nshayaH || 248||
+
+atha teShaa.n tadvacanamaakarNya bhaasuraka aaha \- aho satyamabhihita.n
+bhavadbhiH | para.n yadi mamopaviShTasyaatra nityameva naikaH shvaapadaH
+samaagamiShyati | tannuuna.n sarvaanapi bhakShayiShyaami | atha te tathaiva
+pratidnyaaya nirvR^itibhaajastatraiva vane nirbhayaaH paryaTanti | ekashca
+pratidina.n krameNa yaati | vR^iddho vaa vairaagyayukto vaa shokagrasto vaa
+putrakalatranaashabhiito vaa teShaa.n madhyaattasya bhojanaartha.n
+madhyaahnasamaya upatiShThate | atha kadaacijjaatikramaacChashaka\-
+syaavasaraH samaayaataH | sa samastamR^igaiH prerito.anicChannapi
+manda.n manda.n gatvaa tasya vadhopaaya.n cintayanvelaatikrama.n
+kR^itvaa vyaakulitahR^idayo yaavadgacChati taavanmaarge gacChataa kuupaH
+sa.ndR^iShTaH | yaavatkuupopari yaati taavatkuupamadhya aatmanaH
+pratibimba.n dadarsha | dR^iShTvaa ca tena hR^idaye cintitam \- yadbhavya
+  upaayo.asti| aha.n bhaasuraka.n prakopya svabuddhyaa.asminkuupe
+paatayiShyaami | athaasau dinasheShe bhaasurakasamiipa.n praaptaH |
+si.nho.api velaatikrameNa kShutkShaamakaNThaH kopaaviShTaH sR^ikkaNii
+parilelihanvyacintayat \- aho praataraahaaraaya niHsattva.n vana.n mayaa
+kartavyam | eva.n cintayatastasya shashako manda.n manda.n gatvaa
+praNamya tasyaagre sthitaH | atha ta.n prajvalitaatmaa bhaasurako
+  bhartsayannaaha \- re shashakaadhama ekastaavattva.n laghuH
+praapto.aparato velaatikrameNa | tadasmaadaparaadhaattvaa.n nipaatya
+praataH sakalaanyapi mR^igakulaanyucChedayiShyaami |atha shashakaH
+savinaya.n provaaca \- svaaminnaaparaadho mama | na ca sattvaanaam |
+tacChruuyataa.n kaaraNam | si.nha aaha \- satvara.n nivedaya yaavanmama
+da.nShTraantargato na bhavaanbhaviShyatiiti | shashaka aaha \-
+svaaminsamastamR^igairadya jaatikrameNa mama laghutarasya prastaava.n
+vidnyaaya tato.aha.n pa~ncashashakaiH sama.n preShitaH | tatashcaaha\-
+maagacChannantaraale mahataa kenacidapareNa si.nhena vivaraannirga\-
+tyaabhihitaH \- abhiiShTadevataa.n smarata | tato mayaabhihitam \- vaya.n
+svaamino bhaasurakasi.nhasya sakaashamaahaaraartha.n samayadharmeNa
+gacChaamaH | tatastenaabhihitam \- yadyeva.n tarhi madiiyametadvanam |
+mayaa saha samayadharmeNa samastairapi shvaapadairvartitavyam |
+cauraruupii sa bhaasurakaH | atha yadi so.atra raajaa vishvaasasthaane
+caturaH shashakaanatra dhR^itvaa tamaahuuya drutataramaagacCha | yena
+yaH kashcidaavayormadhyaatparaakrameNa raajaa bhaviShyati sa
+sarvaanetaanbhakShayiShyatiiti | tato.aha.n tenaadiShTaH
+svaamisakaashamabhyaagataH | etadvelaavyatikramakaaraNam | tadatra
+svaamii pramaaNam | tacChrutvaa bhaasuraka aaha \- bhadra yadyeva.n
+tatsatvara.n darshaya me ta.n caurasi.nha.n yenaaha.n mR^igakopa.n
+tasyopari kShiptvaa svastho bhavaami | ukta~nca \-
+
+bhuumirmitra.n hiraNya.n ca vigrahasya phalatrayam |
+naastyekamapi yadyeShaa.n na ta.n kuryaatkatha~ncana || 249||
+yatra na syaatphala.n bhuuri yatra ca syaatparaabhavaH |
+na tatra matimaanyuddha.n samutpaadya samaacaret || 250||
+
+shashaka aaha \- svaamin satyamidam | svabhuumihetoH paribhavaacca
+yudhyante kShatriyaaH | para.n sa durgaashrayaH | durgaanniShkramya
+vaya.n tena viShkambhitaaH | tato durgastho duHsadhyo bhavati ripuH |
+ukta~nca \-
+
+na gajaanaa.n sahasreNa na ca lakSheNa vaajinaam |
+yatkR^itya.n saadhyate raadnyaa.n durgeNaikena vigrahe || 251||
+shatameko.api sa.ndhatte praakaarastho dhanurdharaH |
+tasmaaddurga.n prasha.nsanti niitishaastravicakShaNaaH || 252||
+puraa guroH samaadeshaaddhiraNyakashiporbhayaat |
+shakreNa vihita.n durga.n prabhaavaadvishvakarmaNaH || 253||
+tenaapi ca varo datto yasya durga.n sa bhuupatiH |
+vijayii syaattato bhuumau durgaaNi syuH sahasrashaH || 254||
+da.nShTraavirahito naago madahiino yathaa gajaH |
+sarveShaa.n jaayate vashyo durgahiinastathaa nR^ipaH || 255||
+
+tacChrutvaa bhaasuraka aaha | bhadra durgasthamapi darshaya ta.n
+caurasi.nha.n yena vyaapaadayaami | ukta~nca \-
+
+jaatamaatra.n na yaH shatru.n roga.n ca prashama.n nayet |
+mahaabalo.api tenaiva vR^iddhi.n praapya sa hanyate || 256||
+
+tathaa ca \-
+uttiShThamaanastu paro nopekShyaH pathyamicChataa |
+samau hi shiShTairaamnaatau vartsyantaavaamayaH sa ca || 257||
+
+api ca \-
+
+upekShitaH kShiiNabalo.api shatruH
+           pramaadadoShaatpuruShairmadaandhaiH |
+saadhyo.api bhuutvaa prathama.n tato.asaa\-
+           vasaadhyataa.n vyaadhiriva prayaati || 258||
+
+tathaa ca \-
+
+aatmanaH shaktimudviikShya maanotsaaha~nca yo vrajet |
+bahuunhanti sa eko.api kShatriyaanbhaargavo yathaa || 259||
+
+shashaka aaha \- astyetat | tathaapi balavaansa mayaa dR^iShTaH | tanna
+yujyate svaaminastasya saamarthyamaviditvaa gantum | ukta~nca \-
+
+aviditvaa.atmanaH shakti.n parasya ca samutsukaH |
+gacChannabhimukho vahnau naasha.n yaati pata~Ngavat || 260||
+yo balaatpronnata.n yaati nihantu.n sabalo.apyarim |
+vimadaH sa nivarteta shiirNadanto gajo yathaa || 261||
+
+bhaasuraka aaha \- bhoH ki.n tavaanena vyaapaareNa | darshaya me ta.n
+durgasthamapi | atha shashaka aaha \- yadyeva.n tarhyaagacChatu svaamii |
+evamuktvaa.agre vyavasthitaH | tatashca tenaagacChataa yaH kuupo
+dR^iShTo.abhuuttameva kuupamaasaadya bhaasurakamaaha \- svaaminkaste
+prataapa.n soDhu.n samarthaH | tvaa.n dR^iShTvaa duurato.api caurasi.nhaH
+praviShTaH sva.n durgam | tadaagacCha yathaa darshayaamiiti | bhaasuraka
+aaha \- darshaya me durgam | tadanu darshitastena kuupaH | tataH so.api
+muurkhaH si.nhaH kuupamadhya aatmapratibimba.n jalamadhyagata.n
+dR^iShTvaa si.nhanaada.n mumoca | tataH pratishabdena kuupamadhyaa\-
+ddviguNataro naadaH samutthitaH | atha tena ta.n shatru.n matvaa.a.atmaana.n
+tasyopari prakShipya praaNaaH parityaktaaH | shashako.api hR^iShTamanaaH
+sarvamR^igaanaanandya taiH saha prashasyamaano yathaasukha.n tatra vane
+nivasati sma | ato.aha.n braviimi \- yasya buddhirbala.n tasyeti | tadyadi
+bhavaankathayati tattatraiva gatvaa tayoH svabuddhiprabhaaveNa maitriibheda.n
+  karomi | karaTaka aaha \- bhadra yadyeva.n tarhi gacCha | shivaaste
+panthaanaH santu | yathaabhipretamanuShThiiyataam | atha damanakaH
+sa~njiivakaviyukta.n pi~Ngalakamavalokya tatraantare praNamyaagre
+samupaviShTaH | pi~Ngalako.api tamaaha \- bhadra ki.n ciraaddR^iShTaH |
+damanaka aaha \- na ki~nciddevapaadaanaamasmaabhiH prayojanam |
+tenaaha.n naagacChaami | tathaapi raajaprayojanavinaashamavalokya
+sa.ndahyamaanahR^idayo vyaakulatayaa svayamevaabhyaagato vaktum |
+ukta~nca \-
+
+priya.n vaa yadi vaa dveShya.n shubha.n vaa yadi vaa.ashubham |
+apR^iShTo.api hita.n vakShyedyasya necChetparaabhavam || 262||
+
+atha tasya saabhipraaya.n vacanamaakarNya pi~Ngalaka aaha \- ki.n
+vaktumanaa bhavaan | tatkathyataa.n yatkathaniiyamasti | sa praaha \-
+deva sa~njiivako yuShmatpaadaanaamupari drohabuddhiriti | vishvaasagatasya
+mama vijana idamaaha \- bho damanaka dR^iShTaa mayaasya pi~Ngalakasya
+saaraasaarataa | tadahamena.n hatvaa sakalamR^igaadhipatya.n tvatsaacivya\-
+padaviisamanvita.n kariShyaami | pi~Ngalako.api 
+tadvajrasaaraprahaarasadR^isha.n
+daaruNa.n vacaH samaakarNya mohamupagato na ki~ncidapyuktavaan |
+damanako.api tasya tamaakaaramaalokya cintitavaan \- aya.n taavatsa~njiivaka\-
+nibaddharaagaH | tannuunamanena mantriNaa raajaa vinaashamavaapsyatiiti |
+ukta~nca \-
+
+eka.n bhuumipatiH karoti saciva.n raajye pramaaNa.n yadaa |
+ta.n mohaacChrayate madaH sa ca madaaddaasyena nirvidyate |
+nirviNNasya pada.n karoti hR^idaye tasya svatantraspR^ihaa |
+svaatantryaspR^ihayaa tataH sa nR^ipateH praaNaanabhidruhyati || 263||
+
+tatkimatra yuktamiti | pi~Ngalako.api cetanaa.n samaasaadya kathamapi
+tamaaha \- sa~njiivakastaavatpraaNasamo bhR^ityaH | sa katha.n mamopari
+drohabuddhi.n karoti | damanaka aaha \- deva bhR^ityo.abhR^itya
+ityanekaantikametat | ukta~nca \-
+
+na so.asti puruSho raadnyaa.n yo na kaamayate shriyam |
+ashaktaa eva sarvatra narendra.n paryupaasate || 264||
+
+pi~Ngalaka aaha \- bhadra tathaapi mama tasyopari cittavR^ittirna vikR^iti.n
+yaati | athavaa saadhvidamucyate \-
+
+anekadoShaduShTasya kaayaH kasya na vallabhaH |
+kurvannapi vyaliikaani yaH priyaH priya eva saH || 265||
+
+damanaka aaha \- ata evaaya.n doShaH | ukta~nca \-
+
+yasminnevaadhika.n  cakShuraaropayati paarthivaH |
+akuliinaH kuliino vaa sa shriyaa bhaajana.n naraH || 266||
+
+apara.n kena guNavisheSheNa svaamii sa~njiivaka.n nirguNakamapi nikaTe
+dhaarayati | atha deva yadyeva.n cintayasi mahaakaayo.ayam | anena
+ripuunvyaapaadayiShyaami | tadasmaanna sidhyati yato.aya.n shaShpabhojii |
+  devapaadaanaa.n punaH shatravo maa.nsaashinaH | tadripusaadhanamasya
+saahaayyena na bhavati | tasmaadena.n duuShayitvaa hanyataamiti |
+pi~Ngalaka aaha \-
+
+ukto bhavati yaH puurva.n  guNavaan iti sa.nsadi |
+tasya doSho na vaktavyaH pratidnyaabha~NgabhiiruNaa || 267||
+
+anyacca | mayaa.asya tava vacanenaabhayapradaana.n dattam | tatkatha.n
+svayameva vyaapaadayaami | sarvathaa sa~njiivako.aya.n suhR^idasmaakam |
+na ta.n prati kashcinmanyuriti | ukta~nca \-
+
+itaH sa daityaH praaptashriirneta evaarhati kShayam |
+viShavR^ikSho.api sa.nvardhya svaya.n Chettumasaampratam || 268||
+aadau na vaa praNayinaa.n praNayo vidheyo
+           datto.athavaa pratidina.n paripoShaNiiyaH |
+utkShipya yatkShipati tatprakaroti lajjaa.n
+           bhuumau sthitasya patanaadbhayameva naasti || 269||
+upakaariShu yaH saadhuH saadhutve tasya ko guNaH |
+apakaariShu yaH saadhuH sa saadhuH sadbhirucyate || 270||
+
+taddrohabuddherapi mayaa.asya na viruddhamaacaraNiiyam | damanaka
+aaha \- svaamin | naiSha raajadharmo yaddrohabuddhirapi kShamyate |
+ukta~nca \-
+
+tulyaartha.n tulyasaamarthya.n marmadnya.n vyavasaayinam |
+ardharaajyahara.n bhR^itya.n yo na hanyaatsa hanyate || 271||
+
+apara.n tvayaasya sakhitvaatsarvo.api raajadharmaH parityaktaH |
+raajadharmaabhaavaatsarvo.api parijano virakti.n gataH | yaH sa~njiivakaH
+shaShpabhojii | bhavaan maa.nsaadaH | tava prakR^itayashca |
+yattavaavadhyavyasaayabaahya.n kutastaasaa.n maa.nsaashanam |
+yadrahitaastvaa.n tyaktvaa yaasyanti | tato.api tva.n vinaShTa eva | asya
+sa~Ngatyaa punaste na kadaacidaakheTake matirbhaviShyati | ukta~nca \-
+
+yaadR^ishaiH sevyate bhR^ityairyaadR^ishaa.nshcopasevate |
+kadaacinnaatra sandehastaadR^igbhavati puuruShaH || 272||
+
+tathaa ca \-
+
+santaptaayasi sa.nsthitasya payaso naamaapi na dnyaayate |
+muktakaaratayaa tadeva naliniipatrasthita.n raajate |
+svaatau saagarashuktikukShipatita.n tajjaayate mauktikam |
+praayeNaadhamamadhyamottamaguNaH sa.nvaasato jaayate || 273||
+
+tathaa ca \-
+
+asataa.n sa~NgadoSheNa satii yaati matirbhramam |
+ekaraatripravaasena kaaShTha.n mu~nje pralambitam || 274||
+
+ata eva santo niicasa~Nga.n varjayanti | ukta~nca \-
+
+na hyavidnyaatashiilasya pradaatavyaH pratishrayaH |
+matkuNasya ca doSheNa hataa mandavisarpiNii || 275||
+
+pi~Ngalaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 9
+mandavisarpiNiinaamayuukaakathaa |
+
+asti kasyacinmahiipatermanorama.n shayanasthaanam | tatra
+shvetatarapaTayugalamadhyasa.nsthitaa mandavisarpiNii yuukaa
+prativasati sma | saa ca tasya mahiipate raktamaasvaadayantii
+sukhena kaala.n nayamaanaa tiShThati | anyedyushca tatra
+shayane kvacidbhraamyannagnimukho naama matkuNaH samaayaataH |
+atha ta.n dR^iShTvaa saa viShaNNavadanaa provaaca | bho.agnimukha
+kutastvamatraanucitasthaane samaayaataH | tadyaavanna kashcidvetti
+taavacChiighra.n  gamyataamiti | sa aaha \- bhagavati
+gR^ihaagatasyaasaadhorapi naitadyujyate vaktum | ukta~nca \-
+
+ehyaagacCha samaavishaasanamida.n kasmaacciraaddR^ishyase |
+kaa vaarteti sudurbalo.asi kushala.n priito.asmi te darshanaat |
+eva.n ye samupaagataanpraNayinaH pratyaalapantyaadaraat |
+teShaa.n yuktamasha~Nkitena manasaa harmyaaNi gantu.n sadaa || 276||
+
+apara.n  mayaanekamaanuShaaNaamanekavidhaani rudhiraaNyaasvaa\-
+ditaanyaahaaradoShaatkaTutiktakaShaayaamlarasaasvaadaani na ca
+kadaacinmadhurarakta.n samaasvaaditam | tadyadi tva.n prasaada.n karoShi
+tadasya nR^ipatervividhavya~njanaannapaanacoShyalehyasvaadvaahaara\-
+vashaadasya shariire yanmiShTa.n rakta.n sa.n jaata.n
+tadaasvaadanena saukhya.n sampaadayaami jihvaayaa iti |
+ukta~nca \-
+
+ra~Nkasya nR^ipatervaapi jihvaasaukhya.n sama.n smR^itam |
+tanmaatra.n ca smR^ita.n saara.n tadartha.n yatate janaH || 277||
+yadyeva na bhavelloke karma jihvaapratuShTidam |
+tanna bhR^ityo bhavetkashcitkasyacidvashago.atha vaa || 278||
+yadasatya.n vadenmartyo yadvaasevya.n ca sevate |
+yadgacChati videsha.n ca tatsarvamudaraarthataH || 279||
+
+tanmayaa gR^ihaagatena bubhukShayaa piiDyamaanenaapi
+tvatsakaashaadbhojanamarthaniiyam | tanna tvayaikaakinyaasya
+bhuupate raktabhojana.n kartu.n yujyate | tacChrutvaa mandavisarpiNyaaha \-
+bho matkuNa | asya nR^ipaternidraavasha.n gatasya raktamaasvaadayaami |
+punastvamagnimukhashcapalashca | tadyadi mayaa saha raktapaana.n
+karoShi tattiShTha | abhiiShTatararaktamaasvaadaya | so.abraviit \- bhagavati
+eva.n kariShyaami | yaavattva.n naasvaadayasi prathama.n nR^iparakta.n
+taavanmama devagurukR^itaH shapathaH syaadyadi tadaasvaadayaami |
+eva.n tayoH paraspara.n vadatoH sa raajaa tacChayanamaasaadya prasuptaH |
+athaasau matkuNo jihvaalaulyotkR^iShTautsukyaajjaagratamapi ta.n
+mahiipatimadashat | athavaa saadhvidamucyate |
+
+svabhaavo nopadeshena shakyate kartumanyathaa |
+sutaptamapi paaniiya.n punargacChati shiitataam || 280||
+yadi syaacChiitalo vahniH shiitaa.nshurdahanaatmakaH |
+na svabhaavo.atra martyaanaa.n shakyate kartumanyathaa || 281||
+
+athaasau mahiipatiH suucyagraviddha iva tacChayana.n tyaktvaa
+tatkShaNaadevotthitaH | aho dnyaayataamatra pracChaadanapaTe matkuNo
+yuukaa vaa nuuna.n tiShThati yenaaha.n daShTa iti | atha ye ka~ncukinastatra
+sthitaaste satvara.n pracChaadanapaTa.n gR^ihiitvaa suukShmadR^iShTyaa
+viikShaa.ncakruH | atraantare sa matkuNashcaapalyaatkhaTvaanta.n
+praviShTaH saa mandavisarpiNyapi vastrasandhyantargataa tairdR^iShTaa
+vyaapaaditaa ca | ato.aha.n  braviimi \-  na hyavidnyaatashiilasya iti | eva.n
+dnyaatvaa tvayaiSha vadhyaH | no cettvaa.n vyaapaadayiShyatiiti |
+ukta~nca \-
+
+tyaktaashcaabhyantaraa yena baahyaashcaabhyantariikR^itaaH |
+sa eva mR^ityumaapnoti yathaa raajaa kakuddrumaH || 282||
+
+pi~Ngalaka aaha \-  kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 10
+caNDaravanaamashR^igaalakathaa |
+
+asti kasmi.nshcidvanoddeshe caNDaravo naama shR^igaalaH prativasati
+sma | sa kadaacitkShudhaaviShTo jihvaalaulyaannagaramadhye praviShTaH |
+atha ta.n nagaravaasinaH saarameyaa avalokya sarvataH shabdaayamaanaaH
+paridhaavya tiikShNada.nShTraagrairbhakShitumaarabdhaaH | so.api
+tairbhakShyamaaNaH praaNabhayaatpratyaasannarajakagR^iha.n  praviShTaH |
+tatra niiliirasaparipuurNa.n  mahaabhaaNDa.n sajjiikR^itamaasiit | tatra
+saarameyairaakraanto bhaaNDamadhye patitaH | atha yaavanniShkraanta\-
+staavanniiliivarNaH sa~njaataH | tatraapare saarameyaasta.n
+shR^igaalamajaananto yathaabhiiShTadisha.n jagmuH | caNDaravo.api
+duuratara.n pradeshamaasaadya kaananaabhimukha.n pratasthe |
+na ca niilavarNena kadaacinnijara~Ngastyajyate | ukta~nca \-
+
+vajralepasya muurkhasya naariiNaa.n karkaTasya ca |
+eko grahastu miinaanaa.n niiliimadyapayoryathaa || 283||
+
+atha ta.n haragalagaralatamaalasamaprabhamapuurva.n sattvamavalokya
+sarve si.nhavyaaghradviipivR^ikaprabhR^itayo.araNyanivaasino
+bhayavyaakulitacittaaH samantaatpalaayanakriyaa.n kurvanti | kathayanti
+ca \-  na dnyaayate.asya kiidR^igviceShTita.n pauruSha.n  ca |
+tadduuratara.n gacChaamaH | ukta~nca \-
+
+na yasya ceShTita.n vidyaanna kula.n na paraakramam |
+na tasya vishvasetpraadnyo yadiicChecChriyamaatmanaH || 284||
+
+caNDaravo.api bhayavyaakulitaanvidnyaayedamaaha \- bho bhoH
+shvaapadaaH | ki.n yuuya.n maa.n dR^iShTvaiva sa.ntrastaa vrajatha |
+tanna bhetavyam | aha.n brahmaNaadya svayameva sR^iShTvaabhihitaH \-
+yacChvaapadaanaa.n kashcidraajaa naasti  | tattva.n mayaadya
+sarvashvaapadaprabhutve.abhiShiktaH kakuddrumaabhidhaH | tato gatvaa
+  kShititale taansarvaanparipaalayeti | tato.ahamatraagataH | tanmama
+ChatracChaayaayaa.n sarvairapi shvaapadairvartitavyam | aha.n kakuddrumo
+  naama raajaa trailokye.api sa.njaataH | tacChrutvaa si.nhavyaaghrapuraHsaraaH
+shvaapadaaH svaaminprabho samaadisheti vadantasta.n parivavruH | atha tena
+si.nhasyaamaatyapadavii pradattaa | vyaaghrasya shayyaapaalakatvam |
+dviipinastaambuulaadhikaaraH | vR^ikasya dvaarapaalakatvam | ye caatmiiyaaH
+shR^igaalaastaiH sahaalaapamaatramapi na karoti | shR^igaalaaH
+sarve.apyadharmacandra.n dattvaa niHsaaritaaH | eva.n tasya raajyakriyayaa.n
+vartamaanasya te si.nhaadayo mR^igaanvyaapaadya tatpurataH prakShipanti |
+so.api prabhudharmeNa sarveShaa.n taanpravibhajya prayacChati | eva.n
+gacChati kaale kadaacittena samaagatena duuradeshe shabdaayamaanasya
+shR^igaalavR^indasya kolaahalo.ashraavi | ta.n shabda.n shrutvaa
+pulakitatanuraanandaashrupuurNanayana utthaaya taarasvareNa
+virotumaarabdhavaan | atha te si.nhaadayasta.n taarasvaramaakarNya
+shR^igaalo.ayamiti matvaa lajjayaa.adhomukhaaH kShaNa.n sthitvaa procuH \-
+bhoH | vaahitaa vayamanena kShudrashR^igaalena | tadvadhyataamiti | so.api
+tadaakarNya palaayitumicCha{\m+}statra sthaana eva si.nhaadibhiH
+khaNDashaH kR^ito mR^itashca |ato.aha.n braviimi \-  tyaktaashcaabhyantaraa
+yeneti | tadaakarNya pi~Ngalaka aaha \- bho damanaka | kaH pratyayo.atra
+viShaye yatsa mamopari duShTabuddhiH |sa aaha \- yadadya mamaagre tena
+nishcayaH kR^ito yatprabhaate pi~Ngalaka.n vadhiShyaami | tadatraiva
+pratyayaH | prabhaate.avasaravelaayaamaaraktamukhanayanaH
+sphuritaadharo disho.avalokayannanucitasthaanopaviShTastvaa.n
+kruuradR^iShTyaa vilokayiShyati | eva.n dnyaatvaa yaducita.n tatkartavyam |
+iti kathayitvaa sa.njiivakasakaasha.n gatasta.n praNamyopaviShTaH |
+sa.njiivako.api sodvegaakaara.n mandagatyaa samaayaanta.n tamudviikShya
+saadarataramuvaaca \-  bho mitra | svaagatam | ciraaddR^iShTo.asi | api
+shiva.n bhavataH | tatkathaya yenaadeyamapi tubhya.n gR^ihaagataaya
+prayacChaami | ukta~nca \-
+
+te dhanyaaste vivekadnyaaste sabhyaa iha bhuutale |
+aagacChanti gR^ihe yeShaa.n kaaryaartha.n suhR^ido janaaH || 285||
+
+damanaka aaha \- bhoH | katha.n shiva.n sevakajanasya |
+
+sampattayaH paraayattaaH sadaa cittamanirvR^itam |
+svajiivite.apyavishvaasasteShaa.n ye raajasevakaaH || 286||
+
+tathaa ca \-
+
+sevayaa dhanamicChadbhiH sevakaiH pashya yatkR^itam |
+svaatantrya.n yacChariirasya muuDhaistadapi haaritam || 287||
+taavajjanmaatiduHkhaaya tato durgatataa sadaa |
+tatraapi sevayaa vR^ittiraho duHkhaparamparaa || 288||
+jiivanto.api mR^itaaH pa~nca shruuyante kila bhaarate |
+daridro vyaadhito muurkhaH pravaasii nityasevakaH || 289||
+naashnaati svacChayotsukyaadvinidro na prabudhyate |
+na niHsha~Nka.n vaco bruute sevako.apyatra jiivati || 290||
+sevaa shvavR^ittiraakhyaataa yaistairmithyaa prajalpitam |
+svacChanda.n carati shvaa.atra sevakaH parashaasanaat || 291||
+bhuushayyaa brahmacarya.n ca kR^ishatva.n laghubhojanam |
+sevakasya yateryadvadvisheShaH paapadharmajaH || 292||
+shiitaatapaadikaShTaani sahate yaani sevakaH |
+dhanaaya taani caalpaani yadi dharmaanna mucyate || 293||
+mR^idunaapi suvR^ittena sushliShTenaapi haariNaa |
+modakenaapi ki.n tena niShpattiryasya sevayaa || 294||
+
+sa.njiivaka aaha \- atha bhavaanki.n vaktumanaaH | so.abraviit \- mitra
+sacivaanaa.n mantrabheda.n kartu.n na yujyate | ukta~nca \-
+
+yo mantra.n svaamino bhidyaatsaacivye sanniyojitaH |
+sa hatvaa nR^ipakaarya.n tatsvaya.n ca naraka.n vrajet || 295||
+yena yasya kR^ito bhedaH sacivena mahiipateH |
+tenaashastravadhastasya kR^ita ityaaha naaradaH || 296||
+
+tathaapi mayaa tava snehapaashabaddhena mantrabhedaH kR^itaH |
+yatastva.n mama vacanenaatra raajakule vishvastaH praviShTashca |
+ukta~nca \-
+
+vishrambhaadyasya yo mR^ityumavaapnoti katha~ncana |
+tasya hatyaa tadutthaa saa praaheda.n vacana.n manuH || 297||
+
+tattavopari pi~Ngalako.aya.n duShTabuddhiH kathita.n caadyaanena
+matpuratashcatuShkarNatayaa \-  yatprabhaate sa.njiivaka.n hatvaa
+samastamR^igaparivaara.n ciraattR^ipti.n neShyaami | tataH sa mayoktaH \-
+svaamin | na yuktamida.n yanmitradroheNa jiivana.n kriyate | ukta~nca \-
+
+api brahmavadha.n kR^itvaa praayashcittena shudhyati |
+tadarthena viciirNena na katha~ncitsuhR^iddruhaH || 298||
+
+tatastenaaha.n saamarSheNoktaH \-  bho duShTabuddhe
+sa.njiivakastaavacChaShpabhojii vaya.n maa.nsaashinaH | tadasmaaka.n
+svaabhaavika.n vairamiti katha.n ripurupekShyate | tasmaatsaamaadibhiru\-
+paayairhanyate | na ca hate tasmindoShaH syaat | ukta~nca \-
+
+dattvaapi kanyakaa.n vairii nihantavyo vipashcitaa |
+anyopaayairashakyo yo hate doSho na vidyate || 299||
+kR^ityaakR^itya.n na manyeta kShatriyo yudhi sa~NgataH |
+prasupto droNaputreNa dhR^iShTadyumnaH puraa hataH || 300||
+
+tadaha.n tasya nishcaya.n dnyaatvaa tvatsakaashamihaagataH | saamprata.n
+me naasti vishvaasaghaatakadoShaH | mayaa suguptamantrastava niveditaH |
+atha yatte pratibhaati tatkuruShva iti | atha sa.njiivakastasya
+tadvajrapaatadaaruNa.n vacana.n shrutvaa mohamupagataH | atha
+cetanaa.n labdhvaa savairaagyamidamaaha \- bhoH saadhvidamucyate \-
+
+durjanagamyaa naaryaH praayeNaasnehavaanbhavati raajaa |
+kR^ipaNaanusaari ca dhana.n megho giridurgavarShii ca || 301||
+aha.n hi sa.nmato raadnyo ya eva.n manyate kudhiiH |
+baliivardaH sa vidnyeyo viShaaNaparivarjitaH || 302||
+vara.n vana.n vara.n bhaikSha.n vara.n bhaaropajiivanam |
+vara.n vyaadhirmanuShyaaNaa.n naadhikaareNa sampadaH || 303||
+
+tadayukta.n mayaa kR^ita.n yadanena saha maitrii vihitaa | ukta~nca \-
+
+yayoreva sama.n vitta.n yayoreva sama.n kulam |
+tayormaitrii vivaahashca na tu puShTavipuShTayoH || 304||
+
+tathaa ca \-
+
+mR^igaa mR^igaiH sa~Ngamanuvrajanti
+           gaavashca gobhisturagaasturagaiH |
+muurkhaashca muurkhaiH sudhiyaH sudhiibhiH
+           samaanashiilavyasanena sakhyam || 305||
+
+tadyadi gatvaa ta.n prasaadayaami tathaapi na prasaada.n yaasyati |
+ukta~nca \-
+
+nimittamuddishya hi yaH prakupyati
+           dhruva.n sa tasyaapagame prashaamyati |
+akaaraNadveShaparo hi yo bhavet
+           katha.n narasta.n paritoShayiShyati || 306||
+
+aho saadhu cedamucyate \-
+
+bhaktaanaamupakaariNaa.n parahitavyaapaarayuktaatmanaam |
+sevaasa.nvyavahaaratattvaviduShaa.n drohacyutaanaamapi |
+vyaapattiH skhalitaantareShu niyataa siddhirbhavedvaa na vaa |
+tasmaadambupaterivaavanipateH sevaa sadaa sha~Nkinii || 307||
+
+tathaa ca \-
+
+bhaavasnigdhairupakR^itamapi dveShyataa.n yaati loke |
+saakShaadanyairapakR^itamapi priitaye copayaati |
+durgraahyatvaannR^ipatimanasaa.n naikabhaavaashrayaaNaam |
+sevaadharmaH paramagahano yoginaamapyagamyaH || 308||
+
+tatparidnyaata.n mayaa matprasaadamasahamaanaiH samiipavartibhireSha
+pi~NgalakaH prakopitaH | tenaaya.n mamaadoShasyaapyeva.n vadati |
+ukta~nca \-
+
+prabhoH prasaadamanyasya na sahantiiha sevakaaH |
+sapatnya iva sa.nkruddhaaH sapatnyaaH sukR^itairapi || 309||
+
+bhavati caiva.n yadguNavatsu samiipavartiShu guNahiinaanaa.n na prasaado
+bhavati | ukta~nca \-
+
+guNavattarapaatreNa cChaadyante guNinaa.n guNaaH |
+raatrau diipashikhaakaantirna bhaanaavudite sati || 310||
+
+damanaka aaha \- bho mitra | yadyeva.n tannaasti te bhayam | prakopito.api
+sa durjanaistava vacanaracanayaa prasaada.n yaasyati | sa aaha \- bhoH |
+na yuktamukta.n bhavataa | laghuunaamapi durjanaanaa.n madhye vastu.n
+na shakyate | upaayaantara.n vidhaaya te nuuna.n ghnanti | ukta~nca \-
+
+bahavaH paNDitaaH kShudraaH sarve maayopajiivinaH |
+kuryuH kR^ityamakR^itya.n vaa uShTre kaakaadayo yathaa || 311||
+
+damanaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 11
+madotkaTasi.nhakathaa |
+
+asti kasmi.nshcidvanoddeshe madotkaTo naama si.nhaH prativasati sma |
+tasya caanucaraa anye dviipivaayasagomaayavaH santi | atha
+kadaacittairitastato bhramadbhiH saarthaadbhraShTaH krathanako
+naamoShTro dR^iShTaH | atha si.nha aaha \- aho apuurvamida.n sattvam |
+tajdnyaayataa.n kimetadaaraNyaka.n graamya.n veti | tacChrutvaa vaayasa
+aaha \- bhoH svaamin | graamyo.ayamuShTranaamaa jiivavisheShastava
+bhojyaH | tadvyaapaadyataam | si.nha aaha \- naaha.n gR^ihamaagata.n
+hanmi | ukta~nca \-
+
+gR^iha.n shatrumapi praapta.n vishvastamakutobhayam |
+yo hanyaattasya paapa.n syaacChatabraahmaNaghaatajam || 312||
+
+tadabhayapradaana.n dattvaa matsakaashamaaniiyataa.n yenaasyaagama\-
+kaaraNa.n pR^icChaami | athaasau sarvairapi vishvaasyaabhayapradaana.n
+dattvaa madotkaTasakaashamaaniitaH praNamyopaviShTashca | tatastasya
+pR^icChatastenaatmavR^ittaantaH saarthabhra.nshasamudbhavo niveditaH |
+tataH si.nhenoktam \-  bhoH krathanaka | maa tva.n graama.n gatvaa
+bhuuyo.api bhaarodvahanakaShTabhaagii bhuuyaaH | tadatraivaaraNye
+nirvisha~Nko marakatasadR^ishaani shaShpaagraaNi bhakShayanmayaa
+saha sadaiva vasa | so.api tathetyuktvaa teShaa.n madhye vicaranna kuto.api
+bhayamiti sukhenaaste | tathaanyedyurmadotkaTasya mahaagajenaa\-
+raNyacaariNaa saha yuddhamabhavat | tatastasya dantamusalaprahaarairvyathaa
+sa~njaataa | vyathitaH kathamapi praaNairna viyuktaH | atha
+shariiraasaamarthyaanna kutracitpadamapi calitu.n shaknoti | te sarve
+kaakaadayo.apyaprabhutvena kShudhaaviShTaaH para.n duHkha.n bhejuH |
+atha taansi.nhaH praaha \- bhoH | anviShyataa.n kutracitki.ncitsattva.n
+yenaahametaamapi dashaa.n praaptastaddhatvaa yuShmadbhojana.n
+sampaadayaami | atha te catvaaro.api bhramitumaarabdhaa yaavanna
+ki.ncitsattva.n pashyanti taavadvaayasashR^igaalau paraspara.n mantrayataH |
+shR^igaala aaha \- bho vaayasa | ki.n prabhuutabhraantena | ayamasmaaka.n
+prabhoH krathanako vishvastastiShThati | tadena.n hatvaa praaNayaatraa.n
+kurmaH | vaayasa aaha \- yuktamukta.n bhavataa | para.n svaaminaa
+tasyaabhayapradaana.n dattamaaste na vadhyo.ayamiti | shR^igaala aaha \-
+  bho vaayasa | aha.n svaamina.n vidnyaapya tathaa kariShye yathaa svaamii
+vadha.n kariShyati | tattiShThantu bhavanto.atraiva yaavadaha.n gR^iha.n
+gatvaa prabhoraadnyaa.n gR^ihiitvaa caagacChaami | evamabhidhaaya
+satvara.n si.nhamuddishya prasthitaH | atha si.nhamaasaadyedamaaha \-
+svaamin | samasta.n vana.n bhraantvaa vayamaagataaH | na
+ki.ncitsattvamaasaaditam | tatki.n kurmo vayam | samprati vaya.n
+bubhukShayaa padamekamapi pracalitu.n na shaknumaH | devo.api
+pathyaashii vartate | tadyadi devaadesho bhavati tatkrathanakapishitenaadya
+pathyakriyaa kriyate | atha si.nhastasya taddaaruNa.n vacanamaakarNya
+sakopamidamaaha \- dhikpaapaadhama | yadyeva.n bhuuyo.api vadasi
+tatastvaa.n tatkShaNameva vadhiShyaami | tato mayaa tasyaabhaya.n
+pradattam | tatkatha.n vyaapaadayaami | ukta~nca \-
+
+na gopradaana.n na mahiipradaana.n
+           na caannadaana.n hi tathaa pradhaanam |
+yathaa vadantiiha budhaaH pradhaana.n
+           sarvapradaaneShvabhayapradaanam || 313||
+
+tacChrutvaa shR^igaala aaha \- svaamin yadyabhayapradaana.n dattvaa
+vadhaH kriyate tadeSha doSho bhavati | punaryadi devapaadaanaa.n
+bhaktyaa sa aatmano jiivitavya.n prayacChati tanna doShaH | tato yadi sa
+svayamevaatmaana.n vadhaaya niyojayati tadvadhyo.anyathaasmaaka.n
+madhyaadekatamo vadhya iti | yato devapaadaaH pathyaashinaH
+kShunnirodhaadantyaa.n dashaa.n yaasyanti | tatkimetaiH praaNairasmaaka.n
+ye svaamyarthe na yaasyanti | apara.n pashcaadapyasmaabhirvahnipraveshaH
+kaaryo yadi svaamipaadaanaa.n ki.ncidaniShTa.n bhaviShyati | ukta~nca \-
+
+yasminkule yaH puruShaH pradhaanaH
+           sa sarvayatnaiH parirakShaNiiyaH |
+tasminvinaShTe svakula.n vinaShTa.n
+           na naabhibha~Nge hyarakaa vahanti || 314||
+
+tadaakarNya madotkaTa aaha \- yadyeva.n tatkuruShva yadrocate |
+tacChrutvaa sa satvara.n gatvaa taanaaha \- bhoH | svaamino mahatyavasthaa
+vartate | tatki.n paryaTitena | tena vinaa ko.atraasmaanrakShayiShyati |
+tadgatvaa tasya kShudrogaatparaloka.n prasthitasyaatmashariiradaana.n
+kurmo yena svaamiprasaadasyaanR^iNataa.n gacChaamaH | ukta~nca \-
+
+aapada.n praapnuyaatsvaamii yasya bhR^ityasya pashyataH |
+praaNeShu vidyamaaneShu sa bhR^ityo naraka.n vrajet || 315||
+
+tadanantara.n te sarve baaShpapuuritadR^isho madotkaTa.n
+praNamyopaviShTaaH | taandR^iShTvaa madotkaTa aaha \- bhoH | praapta.n
+dR^iShTa.n vaa ki~ncitsattvam | atha teShaa.n madhyaatkaakaH provaaca \-
+svaamin | vaya.n taavatsarvatra paryaTitaaH para.n na 
+ki~ncitsattvamaasaadita.n
+dR^iShTa.n vaa | tadadya maa.n bhakShayitvaa praaNaandhaarayatu svaamii
+yena devasyaashvaasana.n bhavati mama punaH svargapraaptiriti | ukta~nca \-
+
+svaamyarthe yastyajetpraaNaanbhR^ityo bhaktisamanvitaH |
+sa para.n padamaapnoti jaraamaraNavarjitam || 316||
+
+tacChrutvaa shR^igaala aaha \- bhoH svalpakaayo bhavaan | tava
+bhakShaNaatsvaaminastaavatpraaNayaatraa na bhavati | aparo doShashca
+taavatsamutpadyate | ukta~nca \-
+
+kaakamaa.nsa.n tathocChiShTa.n stoka.n tadapi durbalam |
+bhakShitenaapi ki.n tena yena tR^iptirna jaayate || 317||
+
+taddarShitaa svaamibhaktirbhavataa gata.n caa.anR^iNya.n bhartR^ipiNDasya
+praaptashcobhayaloke saadhuvaadaH | tadapasaraagrataH | aha.n svaamina.n
+vidnyaapayaami | tathaanuShThite shR^igaalaH saadara.n
+praNamyopaviShTaH praaha \- svaamin | maa.n bhakShayitvaadya
+praaNayaatraa.n vidhaaya mamobhayalokapraapti.n kuru | ukta~nca \-
+
+svaamyaayattaaH sadaa praaNaa bhR^ityaanaamarjitaa dhanaiH |
+yatastato na doSho.asti teShaa.n grahaNasambhavaH || 318||
+
+atha tacChrutvaa dviipyaaha \- bhoH saadhuukta.n bhavataa punarbhavaanapi
+svalpakaayaH svajaatishca nakhaayudhatvaadabhakShya eva | ukta~nca \-
+
+naabhakShya.n bhakShayetpraadnyaH praaNaiH kaNThagatairapi |
+visheShaattadapi stoka.n lokadvayavinaashakam || 319||
+
+taddarshita.n tvayaatmanaH kauliinyam | athavaa saadhu cedamucyate \-
+
+etadartha.n kuliinaanaa.n nR^ipaaH kurvanti sa~Ngraham |
+aadimadhyaavasaaneShu na te gacChanti vikriyaam || 320||
+
+tadapasaraagrataH yenaaha.n svaamina.n vidnyaapayaami | tathaanuShThite
+dviipii praNamya madotkaTamaaha \- svaamin | kriyataamadya mama
+praaNaiH praaNayaatraa | diiyataamakShayo vaasaH svarge | mama
+vistaaryataa.n kShititale prabhuuta.n yashaH | tannaatra vismayaH
+kaaryaH | ukta~nca \-
+
+mR^itaanaa.n svaaminaH kaarye bhR^ityaanaamanuvartinaam |
+bhavetsvarge.akShayo vaasaH kiirtishca dharaNiitale || 321||
+
+tacChrutvaa krathanakashcintayaamaasa \-  etaistaavatsarvairapi
+shobhaavaakyaanyuktaani na caiko.api svaaminaa vinaashitaH | tadahamapi
+praaptakaala.n vakShyaami yena madvacanamete trayo.api samarthayanti |
+  iti nishcitya provaaca \-  bhoH satyamukta.n bhavataa para.n bhavaanapi
+nakhaayudhaH | tatkatha.n bhavanta.n svaamii bhakShayati | ukta~nca \-
+
+manasaa.api svajaatyaanaa.n yo.aniShTaani pracintayet |
+bhavanti tasya taanyeva iha loke paratra ca || 322||
+
+tadapasaraagrataH yenaaha.n svaamina.n vidnyaapayaami | tathaanuShThite
+krathanako.agre sthitvaa praNamyovaaca \-  svaamin | ete.abhakShyaastava
+tanmama praaNaiH praaNayaatraa vidhiiyataa.n yena
+mamobhayalokapraaptirbhavati | ukta~nca \-
+
+na yajvaano.api gacChanti taa.n gati.n naiva yoginaH |
+yaa.n yaanti projjhitapraaNaaH svaamyarthe sevakottamaaH || 323||
+
+evamabhihite taabhyaa.n shR^igaalacitrakaabhyaa.n vidaaritobhayakukShiH
+krathanakaH praaNaanatyaakShiit | tatashca taiH kShudrapaNDitaiH
+sarvairbhakShitaH | ato.aha.n braviimi \-  bahavaH paNDitaaH kShudraa iti |
+tadbhadra kShudraparivaaro.aya.n te raajaa mayaa samyagdnyaataH |
+sataamasevyashca | ukta~nca \-
+
+ashuddhaprakR^itau raadnyi janataa naanurajyate |
+yathaa gR^idhrasamaasannaH kalaha.nsaH samaacaret || 324||
+
+tathaa ca \-
+
+gR^idhraakaaro.api sevyaH syaaddha.nsaakaaraiH sabhaasadaiH |
+ha.nsaakaaro.api santyaajyo gR^idhraakaaraiH sa tairnR^ipaH || 325||
+
+tannuuna.n mamopari kenaciddurjanenaaya.n prakopitaH tenaiva.n vadati |
+athavaa bhavatyetat | ukta~nca \-
+
+mR^idunaa salilena khanyamaanaa\-
+           nyavaghR^iShyanti girerapi sthalaani |
+upajaapavidaa.n ca karNajaapaiH
+           kimu cetaa.nsi mR^iduuni maanavaanaam || 326||
+karNaviSheNa ca bhagnaH ki.n ki.n na karoti baalisho lokaH |
+kShapaNakataamapi dhatte pibati suraa.n narakapaalena || 327||
+
+athavaa saadhvidamucyate \-
+
+paadaahato.api dR^iDhadaNDasamaahato.api
+           ya.n da.nShTrayaa spR^ishati ta.n kila hanti sarpaH |
+ko.apyeSha eva pishunogramanuShyadharmaH
+           karNe para.n spR^ishati hanti para.n samuulam || 328||
+
+tathaa ca \-
+
+aho khalabhuja~Ngasya vipariito vadhakramaH |
+karNe lagati caanyasya praaNairanyo viyujyate || 329||
+
+tadeva.n gate.api ki.n kartavyamityaha.n tvaa.n suhR^idbhaavaatpR^icChaami |
+damanaka aaha \- taddeshaantaragamana.n yujyate | naiva.nvidhasya
+kusvaaminaH sevaa.n vidhaatum | ukta~nca \-
+
+gurorapyavaliptasya kaaryaakaaryamajaanataH |
+utpathapratipannasya parityaago vidhiiyate || 330||
+
+sa.njiivaka aaha \- asmaakamupari svaamini kupite gantu.n na
+shakyate na caanyatra gataanaamapi nirvR^itirbhavati | ukta~nca \-
+
+mahataa.n yo.aparaadhyeta duurastho.asmiiti naashvaset |
+diirghau buddhimato baahuu taabhyaa.n hi.nsati hi.nsakam || 331||
+
+tadyuddha.n muktvaa me naanyadasti shreyaskaram | ukta~nca \-
+
+na taanhi tiirthaistapasaa ca lokaan\-
+           svargaiShiNo daanashataiH suvR^ittaiH |
+kShaNena yaanyaanti raNeShu dhiiraaH
+           praaNaansamujjhanti hi ye sushiilaaH || 332||
+mR^itaiH sampraapyate svargo jiivadbhiH kiirtiruttamaa |
+tadubhaavapi shuuraaNaa.n guNaavetau sudurlabhau || 333||
+lalaaTadeshe rudhira.n sravattu
+           shuurasya yasya pravishecca vaktre |
+tatsomapaanena sama.n bhavecca
+           sa~Ngraamayadnye vidhivatpradiShTam || 334||
+
+tathaa ca \-
+
+homaarthairvidhivatpradaanavidhinaa sadvipravR^indaarcanai \-
+ryadnyairbhuurisudakShiNaiH suvihitaiH sampraapyate yatphalam |
+sattiirthaashramavaasahomaniyamaishcaandraayaNaadyaiH kR^itaiH
+pu.nbhistatphalamaahave vinihitaiH sampraapyate tatkShaNaat || 335||
+
+tadaakarNya damanakashcintayaamaasa \-  yuddhaaya kR^itanishcayo.aya.n
+dR^ishyate duraatmaa | tadyadi kadaacittiikShNashR^i~Ngaabhyaa.n
+svaamina.n prahariShyati tanmahaananarthaH sampatsyate | tadena.n
+bhuuyo.api svabuddhyaa prabodhya tathaa karomi yathaa
+deshaantaragamana.n karoti | aaha ca \-  bho mitra | samyagabhihita.n
+bhavataa | para.n kaH svaamibhR^ityayoH sa~NgraamaH | ukta~nca \-
+
+balavanta.n ripu.n dR^iShTvaa kilaatmaana.n pragopayet |
+balavadbhishca kartavyaa sharaccandraprakaashataa || 336||
+
+anyacca \-
+
+shatrorvikramamadnyaatvaa vairamaarabhate hi yaH |
+sa paraabhavamaapnoti samudraShTiTTibhaadyathaa || 337||
+
+sa.njiivaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 12
+TiTTibhadampatiikathaa |
+
+kasmi.nshcitsamudraikadeshe TiTTibhadampatii prativasataH sma | tato
+gacChati kaala R^itusamayamaasaadya TiTTibhii garbhamaadhatta |
+aasannaprasavaa satii saa TiTTibhamuuce \-  bhoH kaanta | mama
+prasavasamayo vartate | tadvicintyataa.n kimapi nirupadrava.n sthaana.n
+yena tatraahamaNDakamokShaNa.n karomi |TiTTibhaH praaha \- bhadre
+ramyo.aya.n samudrapradeshaH | tadatraiva prasavaH kaaryaH | saa
+praaha \- atra puurNimaadine samudravelaa carati | saa mattagajendraanapi
+samaakarShati | tadduuramanyatra ki~ncitsthaanamanviShyataam |
+tacChrutvaa vihasya TiTTibha aaha \- bhadre na yuktamukta.n bhavatyaa |
+kaa maatraa samudrasya yo mama duuShayiShyati prasuutim | ki.n na
+shruta.n bhavatyaa \-
+
+baddhvaambaracaramaarga.n vyapagatadhuuma.n sadaa mahadbhayadam |
+mandamatiH kaH pravishati hutaashana.n svecChayaa manujaH || 338||
+mattebhakumbhavidalanakR^itashrama.n suptamantakapratimam |
+yamalokadarshanecChuH si.nha.n bodhayati ko naama || 339||
+ko gatvaa yamasadana.n svayamantakamaadishatyajaatabhayaH |
+praaNaanapahara matto yadi shaktiH kaacidasti tava || 340||
+praaleyaleshamishre maruti praabhaatike ca vaati jaDe |
+guNadoShadnyaH puruSho jalena kaH shiitamapanayati || 341||
+
+tasmaadvishrabdhaa.atraiva garbha.n mu~nca | ukta~nca \-
+
+yaH paraabhavasantrastaH svasthaana.n santyajennaraH |
+tena cetputriNii maataa tadvandhyaa kena kathyate || 342||
+
+tacChrutvaa samudrashcintayaamaasa \-  aho garvaH pakShikiiTasyaasya |
+athavaa saadhvidamucyate \-
+
+utkShipya TiTTibhaH paadaavaaste bha~NgabhayaaddivaH |
+svacittakalpito garvaH kasya naatraapi vidyate || 343||
+
+tanmayaasya pramaaNa.n kutuuhalaadapi draShTavyam | ki.n
+mamaiSho.aNDaapahaare kR^ite kariShyati | iti cintayitvaa sthitaH |
+atha prasavaanantara.n praaNayaatraartha.n gataayaaShTiTTibhyaaH
+samudro velaavyaajenaaNDaanyapajahaara | athaayaataa saa TiTTibhii
+prasavasthaana.n shuunyamavalokya pralapantii TiTTibhamuuce \-  bho
+muurkha | kathitamaasiinmayaa te yatsamudravelayaa.aNDaanaa.n vinaasho
+bhaviShyati tadduuratara.n vrajaavaH para.n muuDhatayaa.aha.nkaara\-
+maashritya mama vacana.n na karoShi | athavaa saadhvidamucyate |
+
+suhR^idaa.n hitakaamaanaa.n na karotiiha yo vacaH |
+sa kuurma iva durbuddhiH kaaShThaadbhraShTo vinashyati || 344||
+
+TiTTibha aaha \- kathametat | saabraviit \-
+
+\medskip\hrule\medskip
+kathaa 13
+kambugriivaakhyakuurmakathaa |
+
+asti kasmi.nshcijjalaashaye kambugriivo naama kacChapaH | tasya ca
+sa~NkaTavikaTanaamnii mitre ha.nsajaatiiye paramasnehakoTimaashrite
+nityameva sarastiiramaasaadya tena sahaanekadevarShimaharShiiNaa.n
+kathaaH kR^itvaa.astamayavelaayaa.n svaniiDaasa.nshraya.n kurutaH | atha
+gacChataa kaalenaavR^iShTivashaat saraH shanaiH shanaiH
+shoShamagamat | tatastadduHkhaduHkhitau taavuucatuH \-  bho mitra |
+jambaalasheShametatsaraH  sa~njaatam | tatkatha.n bhavaanbhaviShyatiiti
+vyaakulatva.n no hR^idi vartate | tacChrutvaa kambugriiva aaha \- bhoH
+saamprata.n naastyasmaaka.n jiivitavya.n jalaabhaavaat |
+tathaapyupaayashcintyataamiti | ukta~nca \-
+
+tyaajya.n na dhairya.n vidhure.api kaale
+           dhairyaatkadaacidgatimaapnuyaatsaH |
+yathaa samudre.api ca potabha~Nge
+           saa.nyaatriko vaa~nChati tartumeva || 345||
+
+apara~nca \-
+
+mitraarthe baandhavaarthe ca buddhimaanyatate sadaa |
+jaataasvaapatsu yatnena jagaadeda.n vaco manuH || 346||
+
+tadaaniiyataa.n kaaciddR^iDharajjurlaghukaaShTha.n vaa | anviShyataa.n
+ca prabhuutajalasanaatha.n saraH yena mayaa madhyapradeshe
+dantairgR^ihiite sati yuvaa.n koTibhaagayostatkaaShTha.n mayaa sahita.n
+sa~NgR^ihya tatsaro nayathaH | taavuucatuH \-  bho mitra | eva.n
+kariShyaavaH | para.n bhavataa maunavratena sthaatavyam | no cettava
+kaaShThaatpaato bhaviShyati | tathaanuShThite gacChataa
+kambugriiveNaadhobhaagavyavasthita.n ki~ncitpuramaalokitam | tatra ye
+pauraaste tathaa niiyamaana.n vilokya savismayamidamuucuH \-  aho
+cakraakaara.n kimapi pakShibhyaa.n niiyate | pashyata pashyata | atha
+teShaa.n kolaahalamaakarNya kambugriiva aaha \- bhoH | kimeSha
+kolaahalaH | iti vaktumanaa ardhokte patitaH pauraiH khaNDashaH
+kR^itashca | ato.aha.n braviimi \-  suhR^idaa.n hitakaamaanaamiti |
+tathaa ca \-
+
+anaagatavidhaataa ca pratyutpannamatistathaa |
+dvaavetau sukhamedhete yadbhaviShyo vinashyati || 347||
+
+TiTTibha aaha \- kathametat | saa.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 14
+anaagatavidhaataadimatsyatrayakathaa |
+
+kasmi.nshcijjalaashaye.anaagatavidhaataa pratyutpannamati\-
+ryadbhaviShyashceti trayo matsyaaH santi | atha kadaacitta.n jalaashaya.n
+dR^iShTvaa gacChadbhirmatsyajiivibhirukta.n yadaho bahumatsyo.aya.n
+hradaH | kadaacidapi naasmaabhiranveShitaH | tadadya taavadaahaaravR^ittiH
+sa~njaataa | sandhyaasamayashca sa.nvR^ittaH | tataH
+prabhaate.atraagantavyamiti nishcayaH | atasteShaa.n
+tatkulishapaatopama.n vacaH samaakarNyaanaagatavidhaataa
+sarvaanmatsyaanaahuuyedamuuce \-  aho shruta.n
+bhavadbhiryanmatsyajiivibhirabhihitam | tadraatraavapi gamyataa.n
+ki~ncinnikaTa.n saraH | ukta~nca \-
+
+ashaktairbalinaH shatroH kartavya.n prapalaayanam |
+sa.nshritavyo.athavaa durgo naanyaa teShaa.n gatirbhavet || 348||
+
+tannuuna.n prabhaatasamaye matsyajiivino.atra samaagamya
+matsyasa.nkShaya.n kariShyanti | etanmama manasi vartate |
+tanna yukta.n saamprata.n kShaNamapyatraavasthaatum | ukta~nca \-
+
+vidyamaanaa gatiryeShaamanyatraapi sukhaavahaa |
+te na pashyanti vidvaa.nso dehabha~Nga.n kulakShayam || 349||
+
+tadaakarNya pratyutpannamatiH praaha \- aho satyamabhihita.n bhavataa |
+mamaapyabhiiShTametat | tadanyatra gamyataamiti | ukta~nca \-
+
+paradeshabhayaadbhiitaa bahumaayaa napu.nsakaaH |
+svadeshe nidhana.n yaanti kaakaaH kaapuruShaa mR^igaaH || 350||
+yasyaasti sarvatra gatiH sa kasmaat
+           svadesharaageNa hi yaati naasham |
+taatasya kuupo.ayamiti bruvaaNaaH
+           kShaara.n jala.n kaapuruShaaH pibanti || 351||
+
+atha tatsamaakarNya proccairvihasya  yadbhaviShyaH provaaca \-  aho na
+bhavadbhyaa.n mantrita.n samyagetaditi yataH ki.n vaa~NmaatreNaapi
+teShaa.n pitR^ipaitaamahikametatsarastyaktu.n yujyate |
+yadyaayuHkShayo.asti tadanyatra gataanaamapi mR^ityurbhaviShyatyeva |
+ukta~nca \-
+
+arakShita.n tiShThati daivarakShita.n surakShita.n daivahata.n vinashyati |
+jiivatyanaatho.api vane visarjitaH kR^itaprayatno.api gR^ihe na 
+jiivati || 352||
+
+tadaha.n na yaasyaami | bhavadbhyaa.n ca yatpratibhaati tatkartavyam |
+atha tasya ta.n nishcaya.n dnyaatvaa.anaagatavidhaataa
+pratyutpannamatishca niShkraantau saha parijanena | atha prabhaate
+tairmatsyajiivibhirjaalaistajjalaashayamaaloDya yadbhaviShyeNa saha tatsaro
+nirmatsyataa.n niitam | ato.aha.n braviimi \-  anaagatavidhaataa ceti |
+tacChrutvaa TiTTibha aaha \- bhadre ki.n maa.n yadbhaviShyasadR^isha.n
+sambhaavayasi | tatpashya me buddhiprabhaava.n yaavadena.n
+duShTasamudra.n svaca~ncvaa shoShayaami | TiTTibhyaaha \- aho kaste
+samudreNa saha vigrahaH | tanna yuktamasyopari kopa.n kartum |
+ukta~nca \-
+
+pu.nsaamasamarthaanaamupadravaayaatmano bhavetkopaH |
+piThara.n jvaladatimaatra.n nijapaarshvaaneva dahatitaraam || 353||
+
+tathaa ca \-
+
+aviditvaatmanaH shakti.n parasya na samutsukaH |
+gacChannabhimukho vahnau naasha.n yaati pata~Ngavat || 354||
+
+TiTTibha aaha \- priye maa maiva.n vada | yeShaamutsaahashaktirbhavati
+te svalpaa api guruunvikramante | ukta~nca \-
+
+visheShaatparipuurNasya yaati shatroramarShaNaH |
+aabhimukhya.n shashaa~Nkasya yathaadyaapi vidhuntudaH || 355||
+
+tathaa ca \-
+
+pramaaNaadadhikasyaapi gaNDashyaamamadacyuteH |
+pada.n muurdhni samaadhatte kesarii mattadantinaH || 356||
+
+tathaa ca \-
+
+baalasyaapi raveH paadaaH patantyupari bhuubhR^itaam |
+tejasaa saha jaataanaa.n vayaH kutropayujyate || 357||
+hastii sthuulataraH sa caa~NkushavashaH ki.n hastimaatro.a~NkushoH |
+diipe prajvalite praNashyati tamaH ki.n diipamaatra.n tamaH |
+vajreNaapi hataaH patanti girayaH ki.n vajramaatro giri \-
+stejo yasya viraajate sa balavaansthuuleShu kaH pratyayaH || 358||
+
+tadanayaa ca~ncvaasya sakala.n toya.n shuShkasthalataa.n nayaami |
+TiTTibhyaaha \- bhoH kaanta | yatra jaahnavii navanadiishataani gR^ihiitvaa
+nityameva pravishati tathaa sindhushca | tatkatha.n tvamaShTaadasha\-
+nadiishataiH puuryamaaNa.n ta.n vipruShavaahinyaa ca~ncvaa
+shoShayiShyasi | tatkimashraddheyenoktena | TiTTibha aaha \- priye |
+
+anirvedaH shriyo muula.n ca~ncurme lohasa.nnibhaa |
+ahoraatraaNi diirghaaNi samudraH ki.n na shuShyati || 359||
+duradhigamaH parabhaago yaavatpuruSheNa pauruSha.n na kR^itam |
+jayati tulaamadhiruuDho bhaasvaanapi jaladapaTalaani || 360||
+
+TiTTibhyaaha \- yadi tvayaavashya.n samudreNa saha
+vigrahaanuShThaana.n kaarya.n tadanyaanapi viha~Ngamaanaahuuya
+suhR^ijjanasahita eva.n samaacara | ukta~nca \-
+
+bahuunaamapyasaaraaNaa.n samavaayo hi durjayaH |
+tR^iNairaaveShTyate rajjuryena naago.api baddhyate || 361||
+
+tathaa ca \-
+
+caTakaa kaaShThakuuTena makShikaa darduraistathaa |
+mahaajanavirodhena ku~njaraH pralaya.n gataH || 362||
+
+TiTTibha aaha \- kathametat | saa praaha \-
+
+\medskip\hrule\medskip
+kathaa 15
+ku~njaracaTakadampatiikathaa |
+
+kasmi.nshcidvanoddeshe caTakadampatii tamaalatarukR^itanilayau
+prativasataH sma | atha tayorgacChataa kaalena santatirabhavat |
+anyasminnahani pramatto vanagajaH kashcitta.n tamaalavR^ikSha.n
+gharmaartashChaayaarthii samaashritaH | tato madotkarShaattaa.n tasya
+shaakhaa.n caTakaashritaa.n puShkaraagreNaakR^iShya babha~nja | tasyaa
+bha~Ngena caTakaaNDaani sarvaaNi vishiirNaani | aayuHsheShatayaa ca
+caTakau kathamapi praaNairna viyuktau | atha caTakaa svaaNDabha~Ngaa\-
+bhibhuutaa pralaapaankurvaaNaa na ki~ncitsukhamaasasaada |
+atraantare tasyaastaanpralaapaanshrutvaa kaaShThakuuTo naama pakShii
+tasyaaH paramasuhR^ittadduHkhaduHkhito.abhyetya taamuvaaca \-
+bhagavati | ki.n vR^ithaa pralaapena | ukta~nca \-
+
+naShTa.n mR^itamatikraanta.n naanushocanti paNDitaaH |
+paNDitaanaa.n ca muurkhaaNaa.n visheSho.aya.n yataH smR^itaH || 363||
+
+tathaa ca \-
+
+ashocyaaniiha bhuutaani yo muuDhastaani shocati |
+tadduHkhaallabhate duHkha.n dvaavanarthau niShevate || 364||
+
+anyacca \-
+
+shleShmaashru baandhavairmukta.n preto bhu~Nkte yato.avashaH |
+tasmaanna roditavya.n hi kriyaaH kaaryaashca shaktitaH || 365||
+
+caTakaa praaha \- astvetat | para.n duShTagajena madaanmama
+santaanakShayaH kR^itaH | tadyadi mama tva.n suhR^itsatyastadasya
+gajaapasadasya ko.api vadhopaayashcintyataam | yasyaanuShThaanena
+me santatinaashaduHkhamapasarati | ukta~nca \-
+
+aapadi yenopakR^ita.n yena ca hasita.n dashaasu viShamaasu |
+apakR^itya tayorubhayoH punarapi jaata.n nara.n manye || 366||
+
+kaaShThakuuTa aaha \- bhagavati satyamabhihita.n bhavatyaa |
+ukta~nca \-
+
+sa suhR^idvyasane yaH syaadanyajaatyudbhavo.api san |
+vR^iddhau sarvo.api mitra.n syaatsarveShaameva dehinaam || 367||
+sa suhR^idvyasane yaH syaatsa putro yastu bhaktimaan |
+sa bhR^ityo yo vidheyadnyaH saa bhaaryaa yatra nirvR^itiH || 368||
+
+tatpashya me buddhiprabhaavam | para.n mamaapi suhR^idbhuutaa
+viiNaaravaa naama makShikaasti | tattaamaahuuyaagacChaami yena sa
+duraatmaa duShTagajo vadhyate |athaasau caTakayaa saha
+makShikaamaasaadya provaaca \-  bhadre mameShTeya.n caTakaa
+kenacidduShTagajena paraabhuutaaNDasphoTanena | tattasya
+vadhopaayamanutiShThato me saahaayya.n kartumarhasi |
+makShikaapyaaha \- bhadra | kimucyate.atra viShaye | ukta~nca \-
+
+punaH pratyupakaaraaya mitraaNaa.n kriyate priyam |
+yatpunarmitramitrasya kaarya.n mitrairna ki.n kR^itam || 369||
+
+satyametat | para.n mamaapi bheko meghanaado naama mitra.n
+tiShThati | tamapyaahuuya yathocita.n kurmaH | ukta~nca \-
+
+hitaiH saadhusamaacaaraiH shaastradnyairmatishaalibhiH |
+katha~ncinna vikalpante vidvadbhishcintitaa nayaaH || 370||
+
+atha te trayo.api gatvaa meghanaadasyaagre samasta.n vR^ittaanta.n
+nivedya tasthuH | atha sa provaaca \-  kiyanmaatro.asau varaako gajo
+mahaajanasya kupitasyaagre | tanmadiiyo mantraH kartavyaH | makShike
+tva.n gatvaa madhyaahnasamaye tasya madoddhatasya gajasya karNe
+viiNaaravasadR^isha.n shabda.n kuru | yena shravaNasukhalaalaso
+nimiilitanayano bhavati | tatashca kaaShThakuuTaca~ncvaa
+sphoTitanayano.andhiibhuutastR^iShaarto mama gartataTaashritasya
+saparikarasya shabda.n shrutvaa jalaashaya.n matvaa samabhyeti | tato
+gartamaasaadya patiShyati pa~ncatva.n yaasyati ceti | eva.n samavaayaH
+kartavyo yathaa vairasaadhana.n bhavati | atha tathaanuShThite sa mattagajo
+makShikaageyasukhaannimiilitanetraH kaaShThakuuTahR^itacakShu\-
+rmadhyaahnasamaye bhraamyanmaNDuukashabdaanusaarii
+gacChanmahatii.n gartaamaasaadya patito mR^itashca | ato.aha.n braviimi \-
+caTakaa kaaShThakuuTeneti | TiTTibha aaha \- bhadre eva.n bhavatu |
+suhR^idvargasamudaayena saha samudra.n shoShayiShyaami | iti nishcitya
+bakasaarasamayuuraadiinsamaahuuya provaaca \-  bhoH paraabhuuto.aha.n
+samudreNaaNDakaapahareNa | taccintyataamasya shoShaNopaayaH | te
+sammantrya procuH \-  ashaktaa vaya.n samudrashoShaNe | tatki.n
+vR^ithaa prayaasena | ukta~nca \-
+
+abalaH pronnata.n shatru.n yo yaati madamohitaH |
+yuddhaartha.n sa nivarteta shiirNadanto yathaa gajaH || 371||
+
+tadasmaaka.n svaamii vainateyo.asti | tasmai sarvametatparibhavasthaana.n
+nivedyataa.n yena svajaatiparibhavakupito vairaanR^iNya.n gacChati |
+athavaatraavalepa.n kariShyati tathaapi naasti vo duHkham | ukta~nca \-
+
+suhR^idi nirantararacite guNavati bhR^itye.anuvartini kalatre |
+svaamini shaktisamete nivedya duHkha.n sukhii bhavati || 372||
+
+tadyaamo vainateyasakaasha.n yato.asaavasmaaka.n svaamii |
+tathaanuShThite sarve te pakShiNo viShaNNavadanaa baaShpapuuritadR^isho
+vainateyasakaashamaasaadya karuNasvareNa phuutkartumaarabdhaaH \-
+aho |  abrahmaNyamabrahmaNyam | adhunaa sadaacaarasya TiTTibhasya
+bhavati naathe sati samudreNaaNDaanyapahR^itaani tatpranaShTamadhunaa
+pakShikulam | anye.api svecChayaa samudreNa vyaapaadiShyante |
+ukta~nca \-
+
+kva kasya karma sa.nviikShya karotyanyo.api garhitam |
+gataanugatiko loko na lokaH paaramaarthikaH || 373||
+caaTutaskaradurvR^ittaistathaa saahasikaadibhiH |
+piiDyamaanaaH prajaa rakShyaaH kuuTacChadmaadibhistathaa || 374||
+prajaanaa.n dharmaShaDbhaago raadnyo bhavati rakShituH |
+adharmaadapi ShaDbhaago jaayate yo na rakShati || 375||
+prajaapiiDanasantaapaatsamudbhuuto hutaashanaH |
+raadnyaH shriya.n kula.n praaNaannaadagdhvaa vinivartate || 376||
+raajaa bandhurabandhuunaa.n raajaa cakShuracakShuShaam |
+raajaa pitaa ca maataa ca sarveShaa.n nyaayavartinaam || 377||
+phalaarthii paarthivo lokaanpaalayedyatnamaasthitaH |
+daanamaanaaditoyena maalaakaaro.a~Nkuraaniva || 378||
+yathaa biijaa~NkuraH suukShmaH prayatnenaabhirakShitaH |
+phalaprado bhavetkaale tadvallokaH surakShitaH || 379||
+hiraNyadhaanyaratnaani yaanaani vividhaani ca |
+tathaanyadapi yatki~ncitprajaabhyaH syaannR^ipasya tat || 380||
+
+athaiva.n garuDaH samaakarNya tadduHkhaduHkhitaH kopaaviShTashca
+vyacintayat \-  aho | satyamuktametaiH pakShibhiH | tadadya gatvaa ta.n
+samudra.n shoShayaamaH | eva.n cintayatastasya viShNuduutaH
+samaagatyaaha \- bho garutman | bhagavataa naaraayaNenaaha.n tava
+paarshve preShitaH | devakaaryaaya bhagavaanamaraavatyaa.n yaasyatiiti |
+tatsatvaramaagamyataam| tacChrutvaa garuDaH saabhimaana.n praaha \-
+bho duuta | ki.n mayaa kubhR^ityena bhagavaankariShyati | tadgatvaa
+ta.n vada yadanyo bhR^ityo vaahanaayaasmatsthaane kriyataam |
+madiiyo namaskaaro vaacyo bhagavataH | ukta~nca \-
+
+yo na vetti guNaanyasya na ta.n seveta paNDitaH |
+na hi tasmaatphala.n ki~ncitsukR^iShTaaduuSharaadiva || 381||
+
+duuta aaha \- bho vainateya | kadaacidapi bhagavanta.n prati tvayaa
+naitadabhihitamiidR^ik| tatkathaya ki.n te bhagavataapamaanasthaana.n
+kR^itam | garuDa aaha \- bhagavadaashrayabhuutena
+samudreNaasmaTTiTTibhaaNDaanyapahR^itaani | tadyadi nigraha.n na
+karoti tadaha.n bhagavato na bhR^itya ityeSha nishcayastvayaa vaacyaH |
+taddrutatara.n gatvaa bhavataa bhagavataH samiipe vaktavyam |atha
+duutamukhena praNayakupita.n vainateya.n vidnyaaya
+bhagavaa.nshcintayaamaasa aho sthaane kopo vainateyasya |
+tatsvayameva gatvaa sammaanapuraHsara.n tamaanayaami|
+ukta~nca \-
+
+bhakta.n shakta.n kuliina.n ca na bhR^ityamavamaanayet |
+putrava laalayennitya.n ya icChecChriyamaatmanaH || 382||
+
+anyacca \-
+
+raajaa tuShTo.api bhR^ityaanaamarthamaatra.n prayacChati |
+te tu sammaanitaastasya praaNairapyupakurvate || 383||
+
+ityeva.n sampradhaarya rukmapure vainateyasakaasha.n satvaramagamat |
+vainateyo.api gR^ihaagata.n bhagavantamavalokya trapaadhomukhaH
+praNamyovaaca \-  bhagavan | tvadaashrayonmattena samudreNa mama
+bhR^ityaasyaaNDaanyapahR^itya mamaapamaano vihitaH | para.n
+bhagavallajjayaa mayaa vilambitam | no cedenamaha.n sthalaantaramadyaiva
+nayaami | yataH svaamibhayaacChuNo.api prahaaro na diiyate | ukta~nca \-
+
+yena syaallaghutaa vaatha piiDaa citte prabhoH kvacit |
+praaNatyaage.api tatkarma na kuryaatkulasevakaH || 384||
+
+tacChrutvaa bhagavaanaaha \- bho vainateya | satyamabhihita.n bhavataa |
+ukta~nca \-
+
+bhR^ityaaparaadhajo daNDaH svaamino jaayate yataH |
+tena lajjaapi tasyotthaa na bhR^ityasya tathaa punaH || 385||
+
+tadaagacCha yenaaNDaani samudraadaadaaya TiTTibha.n
+sambhaavayaavaH | amaraavatii.n ca gacChaavaH | tathaanuShThite
+samudro bhagavataa nirbhartsyaagneya.n shara.n sandhyaayaabhihitaH \-
+bho duraatman | diiyantaa.n TiTTibhaaNDaani | no cetsthalataa.n tvaa.n
+nayaami | tataH samudreNa sabhayena TiTTibhaaNDaani taani pradattaani |
+TiTTibhenaapi bhaaryaayai samarpitaani | ato.aha.n braviimi \-
+shatrorbalamavidnyaaya iti | tasmaatpuruSheNodyamo na tyaajyaH |
+tadaakarNya sa.njiivakastameva bhuuyo.api papracCha \-  bho mitra |
+katha.n dnyeyo mayaa.asau duShTabuddhiriti | iyanta.n kaala.n
+yaavaduttarottarasnehena prasaadena caaha.n dR^iShTaH | na
+kadaacittadvikR^itirdR^iShTaa | tatkathyataa.n yenaahamaatmarakShaartha.n
+tadvadhaayodyama.n karomi | damanaka aaha \- bhadra kimatra dnyeyam |
+eSha te pratyayaH | yadi raktanetrastrishikhaa.n bhruukuTi.n dadhaanaH
+sR^ikkiNii.n parilelihantvaa.n dR^iShTvaa bhavati tadduShTabuddhiH |
+anyathaa suprasaadashceti | tadaadnyaapaya maam | svaashraya.n prati
+gacChaami | tvayaa ca yathaaya.n mantrabhedo na bhavati tathaa kaaryam |
+yadi nishaamukha.n praapya gantu.n shaknoShi taddeshatyaagaH
+kaaryaH | yataH \-
+
+tyajedeka.n kulasyaarthe graamasyaarthe kula.n tyajet |
+graama.n janapadasyaarthe svaatmaarthe pR^ithivii.n tyajet || 386||
+aapadarthe dhana.n rakSheddaaraanrakSheddhanairapi |
+aatmaana.n satata.n rakSheddaarairapi dhanairapi || 387||
+
+balavataabhibhuutasya videshagamana.n tadanupravesho vaa niitiH |
+taddeshatyaagaH kaaryaH| athavaatmaa saamaadibhirupaayai\-
+rabhirakShaNiiyaH | ukta~nca \-
+
+api putrakalatrairvaa praaNaanrakSheta paNDitaH |
+vidyamaanairyatastaiH syaatsarva.n bhuuyo.api dehinaam || 388||
+
+tathaa ca \-
+
+yena kenaapyupaayena shubhenaapyashubhena vaa |
+uddhareddiinamaatmaana.n samartho dharmamaacaret || 389||
+yo maayaa.n kurute muuDhaH praaNatyaage dhanaadiShu |
+tasya praaNaaH praNashyanti tairnaShTairnaShTameva tat || 390||
+
+evamabhidhaaya damanakaH karaTakasakaashamagamat | karaTako.api
+tamaayaanta.n dR^iShTvaa provaaca \-  bhadra | ki.n kR^ita.n tatrabhavataa |
+damanaka aaha \- mayaa taavanniitibiijanirvaapaNa.n kR^itam | parato
+daivavihitaayattam | ukta~nca \-
+
+paraa~Nmukhe.api daive.atra kR^itya.n kaarya.n vipashcitaa |
+aatmadoShavinaashaaya svacittastambhanaaya ca || 391||
+
+tathaa ca \-
+
+udyogina.n puruShasi.nhamupaiti lakShmii \-
+rdaiva.n hi daivamiti kaapuruShaa vadanti |
+daiva.n nihatya kuru pauruShamaatmashaktyaa |
+yatne kR^ite yadi na sidhyati ko.atra doShaH || 392||
+
+karaTaka aaha \- tatkathaya kiidR^iktvayaa niitibiija.n nirvaapitam |
+so.abraviit \-
+mayaa.anyonya.n taabhyaa.n mithyaaprajalpena bhedastathaa vihito yathaa
+bhuuyo.api mantrayantaavekasthaanasthitau na drakShyasi | karaTaka aaha \-
+aho na yukta.n bhavataa vihita.n yatparaspara.n tau snehaardrahR^idayau
+sukhaashrayau kopasaagare prakShiptau | ukta~nca \-
+
+aviruddha.n sukhastha.n yo duHkhamaarge niyojayet |
+janmajanmaantara.n duHkhii sa naraH syaadasa.nshayam || 393||
+
+apara.n tva.n yadbhedamaatreNaapi tuShTastadapyayukta.n yataH
+sarvato.api jano viruupakaraNe samartho bhavati nopakartum |
+ukta~nca \-
+
+ghaatayitumeva niicaH parakaarya.n vetti na prasaadayitum |
+paatayitumasti shaktirvaayorvR^ikSha.n na connamitum || 394||
+
+damanaka aaha \- anabhidnyo bhavaanniitishaastrasya tenaitadbraviiti |
+ukta~nca yataH \-
+
+jaatamaatra.n na yaH shatru.n vyaadhi.n ca prashama.n nayet |
+mahaabalo.api tenaiva vR^iddhi.n praapya sa hanyate || 395||
+
+tacChatrubhuuto.ayamasmaaka.n mantripadaaharaNaat | ukta~nca \-
+
+pitR^ipaitaamaha.n sthaana.n yo yasyaatra jigiiShate |
+sa tasya sahajaH shatrurucChedyo.api priye sthitaH || 396||
+
+tanmayaa sa udaasiinatayaa samaaniito.abhayapradaanena
+yaavattaavadahamapi tena saacivyaatpracyaavitaH |
+athavaa saadhvidamucyate \-
+
+dadyaatsaadhuryadi nijapade durjanaaya pravesham
+tannaashaaya prabhavati tato vaa~nChamaanaH svaya.n saH |
+tasmaaddeyo vipulamatibhirnaavakaasho.adhamaanaam |
+jaaraapi syaadgR^ihapatiriti shruuyate vaakyato.atra || 397||
+
+tena mayaa tasyopari vadhopaaya eva viracyate | deshatyaagaaya vaa
+bhaviShyati | tacca tvaa.n muktvaa.anyo na dnyaasyati | taduktametatte
+svaarthaayaanuShThitam | ukta~nca \-
+
+nistri.nsha.n hR^idaya.n kR^itvaa vaaNii.n kShurasamopamaam |
+vikalpo.atra na kartavyo hanyaattatraapakaariNam || 398||
+
+apara.n mR^ito.apyasmaaka.n bhojyo bhaviShyati | tadeka.n
+taavadvarasaadhanam | apara.n saacivya.n ca bhaviShyati tR^iptishceti |
+tadguNatraye.asminnupasthite kasmaanmaa.n duuShayasi tva.n
+jaaDyabhaavaat | ukta~nca \-
+
+parasya piiDana.n kurvansvaarthasiddhi.n ca paNDitaH |
+muuDhabuddhirna bhakSheta vane caturako yathaa || 399||
+
+karaTaka aaha \- kathametat | sa aaha \-
+
+\medskip\hrule\medskip
+kathaa 16
+vajrada.nShTranaamasi.nhakathaa |
+
+asti kasmi.nshcidvanoddeshe vajrada.nShTro naama si.nhaH | tasya
+caturakakravyamukhanaamaanau shR^igaalavR^ikau bhR^ityabhuutau
+sadaivaanugatau tatraiva vane prativasataH | athaanyadine si.nhena
+kadaacidaasannaprasavaa prasavavedanayaa svayuuthaadbhraShToShTryupaviShTaa
+kasmi.nshcidvanagahane samaasaaditaa | atha taa.n vyaapaadya yaavadudara.n
+sphoTayati taavajjiivallaghudaaserakashishurniShkraantaH | si.nho.api
+daaserakyaaH pishitena saparivaaraH paraa.n tR^iptimupaagataH | para.n
+snehaadbaaladaaseraka.n tyakta.n gR^ihamaaniiyedamuvaaca \-  bhadra
+na te.asti mR^ityorbhaya.n matto naanyasmaadapi | tataH svecChayaa.atra
+vane bhraamyataamiti | yataste sha~NkusadR^ishau karNau tataH
+sha~NkukarNo naama bhaviShyati | evamanuShThite catvaaro.api ta
+ekasthaane vihaariNaH parasparamanekaprakaaragoShThiisukha\-
+manubhavantastiShThanti | sha~NkukarNo.api yauvanapadaviimaaruuDhaH
+kShaNamapi na ta.n si.nha.n mu~ncati | atha kadaacidvajrada.nShTrasya
+kenacidvanyena mattagajena saha yuddhamabhavat | tena madaviiryaatsa
+dantaprahaaraistathaa kShatashariiro vihito yathaa pracalitu.n na shaknoti |
+tadaa kShutkShaamakaNThastaanprovaaca \-  bhoH | anviShyataa.n
+ki~ncitsattva.n yenaahameva.nsthito.api ta.n vyaapaadyaa.atmano
+yuShmaaka.n ca kShutpraNaasha.n karomi | tacChrutvaa te trayo.api vane
+sandhyaakaala.n yaavadbhraantaaH para.n na ki~ncitsattvamaasaaditam|
+atha caturakashcintayaamaasa \-  yadi sha~NkukarNo.aya.n vyaapaadyeta
+tataH sarveShaa.n katiciddinaani tR^iptirbhavati | para.n naina.n svaamii
+mitratvaadaashrayasamaashritatvaacca vinaashayiShyati | athavaa
+buddhiprabhaaveNa svaamina.n pratibodhya tathaa kariShye yathaa
+vyaapaadayiShyati | ukta~nca \-
+
+avadhya.n caathavaagamyamakR^itya.n naasti ki~ncana |
+loke buddhimataa.n  buddhestasmaattaa.n viniyojayet|| 400||
+eva.n vicintya sha~NkukarNamidamaaha \- bhoH sha~NkukarNa | svaamii
+taavatpathya.n vinaa kShudhayaa paripiiDyate | svaamyabhaavaadasmaaka\-
+mapi dhruva.n vinaasha eva | tato vaakya.n ki~ncitsvaamyarthe vadiShyaami |
+tacChruuyataam | sha~NkukarNa aaha \- bhoH shiighra.n nivedyataa.n  yena
+te vacana.n shiighra.n nirvikalpa.n karomi | apara.n svaamino hite kR^ite
+mayaa sukR^itashata.n kR^ita.n bhaviShyati | atha caturaka aaha \- bho
+bhadra | aatmashariira.n dviguNalaabhena svaamine prayacCha yena te
+dviguNa.n shariira.n bhavati | svaaminaH punaH praaNayaatraa bhavati |
+tadaakarNya sha~NkukarNaH praaha \- bhadra | yadyeva.n tanmadiiya\-
+prayojanametaducyataa.n svaamyarthaH kriyataamiti | paramatra dharmaH
+pratibhuuriti | te vicintya sarve si.nhasakaashamaajagmuH | tatashcaturaka
+aaha \- deva | na ki~ncitsattva.n praaptam | 
+bhagavaanaadityo.apyasta.n gataH |
+tadyadi svaamii dviguNa.n shariira.n prayacChati tataH sha~NkukarNo.aya.n
+dviguNavR^iddhyaa svashariira.n prayacChati dharmapratibhuvaa | si.nha
+aaha \- bhoH yadyeva.n tatsundarataram | vyavahaarasyaasya dharmaH
+pratibhuuH kriyataamiti |atha si.nhavacanaanantara.n vR^ikashR^igaa\-
+laabhyaa.n vidaaritobhayakukShiH sha~NkukarNaH pa~ncatvamupaagataH |
+atha vajrada.nShTrashcaturakamaaha \- bhoshcaturaka | yaavadaha.n nadii.n
+gatvaa snaana.n devataarcanavidhi.n kR^itvaa.a.agacChaami taavattvayaa
+.atraapramattena bhaavyamityuktvaa nadyaa.n gataH | atha tasmingate
+caturakashcintayaamaasa \-  katha.n mamaikaakino bhojyo.ayamuShTro
+bhaviShyati iti vicintya kravyamukhamaaha \- bhoH kravyamukha |
+kShudhaalurbhavaan | tadyaavadasau svaamii naagacChati taavattvamasyo\-
+ShTrasya maa.nsa.n bhakShaya | aha.n tvaa.n svaamino nirdoSha.n
+pratipaadayiShyaami | so.api tacChrutvaa yaavatki~ncinmaa.nsamaasvaa\-
+dayati taavaccaturakeNoktam \-  bhoH kravyamukha | samaagacChati
+svaamii | tattyaktvaina.n duure tiShTha yenaasya bhakShaNa.n na
+vikalpayati | tathaanuShThite si.nhaH samaayaato yaavaduShTra.n pashyati
+taavadriktiikR^itahR^idayo daaserakaH | tato bhR^ikuTi.n kR^itvaa
+paruShataramaaha \- aho kenaiSha uShTra ucChiShTataa.n niito yena
+tamapi vyaapaadayaami | evamabhihite kravyamukhashcaturakamukha\-
+mavalokayati | atha caturako vihasyovaaca \-  bhoH | maamanaadR^itya
+pishita.n bhakShayitvaa.adhunaa manmukhamavalokayasi |
+tadaasvaadayaasya durNayataroH phalamiti | tadaakarNya kravyamukho
+jiivanaashabhayaadduuradesha.n gataH | etasminnantare tena maargeNa
+daaserakasaartho bhaaraakraantaH samaayaataH | tasyaagresaroShTrasya
+kaNThe mahatii ghaNTaa baddhaa | tasyaaH shabda.n duurato.apyaakarNya
+si.nho jambukamaaha \- bhadra dnyaayataa.n kimeSha raudraH shabdaH
+shruuyate.ashrutapuurvaH |  tacChrutvaa caturakaH ki~ncidvanaantara.n
+gatvaa satvaramabhyupetya provaaca \-  svaamin | gamyataa.n gamyataa.n
+yadi shaknoShi gantum | so.abraviit \- bhadra kimeva.n maa.n vyaakulayasi |
+tatkathaya kimetaditi | caturaka aaha \- svaamin eSha dharmaraajastavopari
+kupitao yadanenaakaale daaserako.aya.n madiiyo vyaapaaditaH |
+tatsahasraguNamuShTramasya sakaashaadgrahiiShyaami | iti nishcitya
+bR^ihanmaanamaadaayaagresarasyoShTrasya griivaayaa.n ghaNTaa.n
+baddhvaa badhyadaaserakasaktaanapi pitR^ipitaamahaanaadaaya
+vairaniryaatanaarthamaayaata eva | si.nho.api tacChrutvaa sarvato
+duuraadevaavalokya mR^itamuShTra.n parityajya praaNabhayaatpraNaShTaH |
+caturako.api shanaiH shanaistasyoShTrasya maa.nsa.n bhakShayaamaasa |
+ato.aha.n braviimi \-  parasya piiDana.n kurvanniti | atha damanake gate
+sa.njiivakashcintayaamaasa \-  aho kimetanmayaa kR^itam |
+yacChaShpaado.api maa.nsaashitastasyaanugaH sa.nvR^ittaH |
+athavaa saadhvidamucyate \-
+
+agamyaanyaH pumaanyaati yo.asevyaa.nshca niShevate |
+sa mR^ityumupagRihNaati garbhamashvatarii yathaa || 401||
+
+tatki.n karomi | kva gacChaami | katha.n me shaantirbhaviShyati |
+athavaa tameva pi~Ngalaka.n gacChaami | kadaacinmaa.n sharaNaagata.n
+rakShati | praaNairna viyojayati | yata ukta~nca \-
+
+dharmaartha.nyatataamapiiha vipado devaadyadi syuH kvacit |
+tattaasaamupashaantaye sumatibhiH kaaryo visheShaannayaH |
+loke khyaatimupaagataa.atra sakale lokoktireShaa yataH |
+dagdhaanaa.n kila vahninaa hitakaraH seko.api tasyodbhavaH || 402||
+
+tathaa ca \-
+
+loke.athavaa tanubhR^itaa.n nijakarmapaaka.n
+nitya.n samaashritavataa.n suhitakriyaaNaam |
+bhaavaarjita.n shubhamathaapyashubha.n nikaama.n
+yadbhaavi tadbhavati naatra vicaarahetuH || 403||
+
+apara.n caanyatra gatasyaapi me kasyacidduShTasattvasya maa.nsaashinaH
+sakaashaanmR^ityurbhaviShyati | tadvara.n si.nhaat | ukta~nca \-
+
+mahadbhiH spardhamaanasya vipadeva gariiyasii |
+dantabha~Ngo.api naagaanaa.n shlaaghyo girividaaraNe || 404||
+
+tathaa ca \-
+
+mahato.api kShaya.n labdhvaa shlaaghya.n niico.api gacChati |
+daanaarthii madhupo yadvadgajakarNasamaahataH || 405||
+
+eva.n nishcitya sa sthalitagatirmanda.n gatvaa si.nhaashraya.n
+pashyannapaThat \-  aho saadhvidamucyate \-
+
+antarliinabhuja~Ngama.n gR^ihamivaantaHsthograsi.nha.n vanam |
+graahaakiirNamivaabhiraamakamalacChaayaasanaatha.n saraH |
+kaalenaaryajanaapavaadapishunaiH kShudrairanaaryaiH shritam |
+duHkhena pravigaahyate sacakita.n raadnyaa.n manaH saamayam || 406||
+
+eva.n paThandamanakoktaakaara.n pi~Ngalaka.n dR^iShTvaa pracakitaH
+sa.nvR^itashariiro duuratara.n praNaamakR^iti.n vinaapyupaviShTaH |
+pi~Ngalako.api tathaavidha.n ta.n vilokya damanakavaakya.n
+shraddadhaanaH kopaattasyopari papaata | atha sa.njiivakaH
+kharanakhavikartitapR^iShThaH shR^i~Ngaabhyaa.n tadudaramullikhya
+kathamapi tasmaadapetaH shR^i~Ngaabhyaa.n hantumicChanyuddhaa\-
+yaavasthitaH | atha dvaavapi tau puShpitapalaashapratimau parasparavadha\-
+kaa~NkShiNau dR^iShTvaa karaTako damanakamaaha \- bho muuDhamate |
+anayorvirodha.n vitanvataa tvayaa saadhu na kR^itam | na ca tva.n 
+niititattva.n
+vetsi | niitividbhirukta~nca \-
+
+kaaryaaNyuttamadaNDasaahasaphalaanyaayaasasaadhyaani ye |
+priityaa sa.nshamayanti niitikushalaaH saamnaiva te mantriNaH |
+niHsaaraalpaphalaani ye tvavidhinaa vaa~nChanti daNDodyamaiH |
+teShaa.n durNayaceShTitairnarapateraaropyate shriistulaam || 407||
+
+tadyadi svaamyabhighaato bhaviShyati tatki.n tvadiiyamantrabuddhyaa
+kriyate | atha sa.njiivako na badhyate tathaapyabhavyam | yataH
+praaNasa.ndehaattasya ca vadhaH | tanmuuDha | katha.n tva.n
+mantripadamabhilaShasi | saamasiddhi.n na vetsi | tadvR^ithaa
+manoratho.aya.n te daNDaruceH | ukta~nca \-
+
+saamaadidaNDaparyanto nayaH proktaH svayambhuvaa |
+teShaa.n daNDastu paapiiyaa.nsta.n pashcaadviniyojayet || 408||
+
+tathaa ca \-
+
+saamnaiva yatra siddhirna tatra daNDo budhena viniyojyaH |
+pitta.n yadi sharkarayaa shaamyati ko.arthaH paTolena || 409||
+
+tathaa ca \-
+
+aadau saama prayoktavya.n puruSheNa vijaanataa |
+saamasaadhyaani kaaryaaNi vikriyaa.n yaanti na kvacit || 410||
+na candreNa na cauShadhyaa na suuryeNa na vahninaa |
+saamnaiva vilaya.nyaati vidveShaprabhava.n tamaH || 411||
+
+tathaa yattva.n mantritvamabhilaShasi tadapyayuktam | yatastva.n
+mantrigati.n na vetsi | yataH pa~ncavidho mantraH | sa ca
+karmaNaamaarambhopaayaH puruShadravyasampaddeshakaalavibhaago
+vinipaatapratiikaaraH kaaryasiddhishceti | so.aya.n svaamyamaatyayo\-
+rekatamasya ki.n vaa dvayorapi vinipaataH samutpadyate lagnaH | tadyadi
+kaacicChaktirasti tadvicintyataa.n vinipaatapratiikaaraH | bhinnasandhaane hi
+mantriNaa.n buddhipariikShaa | tanmuurkha | tatkartumasamarthastva.n
+yato vipariitabuddhirasi | ukta~nca \-
+
+mantriNaa.n bhinnasandhaane bhiShajaa.n saa.nnipaatike |
+karmaNi vyajyate pradnyaa susthe ko vaa na paNDitaH || 412||
+
+anyacca \-
+
+ghaatayitumeva niicaH parakaarya.n vetti na prasaadhayitum |
+paatayitumeva shaktirnaakhoruddhartumannapiTam || 413||
+
+athavaa na te doSho.ayam | svaamino doShaH yaste vaakya.n
+shraddadhaati | ukta~nca \-
+
+naraadhipaa niicajanaanuvartino budhopadiShTena pathaa na yaanti ye |
+vishantyato durgamamaarganirgama.n samastasambaadhamanarthapa~njaram || 414||
+
+tadyadi tvamasya mantrii bhaviShyasi tadaanyo.api kashcinnaasya samiipe
+saadhujanaH sameShyati | ukta~nca \-
+
+guNaalayo.apyasanmantrii nR^ipatirnaadhigamyate |
+prasannasvaadusalilo duShTagraahyo yathaa hradaH || 415||
+
+tathaa ca shiShTajanarahitasya svaamino.api naasho bhaviShyati |
+ukta~nca \-
+
+citraasvaadakathairbhR^ityairanaayaasitakaarmukaiH |
+ye ramante nR^ipaasteShaa.n ramante ripavaH shriyaa || 416||
+
+tatki.n muurkhopadeshena | kevala.n doSho na guNaH | ukta~nca \-
+
+naanaamya.n namate daaru naashmani syaatkShurakriyaa |
+suuciimukha.n vijaaniihi naashiShyaayopashyate || 417||
+
+damanaka aaha kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 17
+vaanarayuuthakathaa |
+
+asti kasmi.nshcitparvataikadeshe vaanarayuutham | tacca kadaaciddhemanta\-
+samaye.atikaThoravaatasa.nsparshavepamaanakalevara.n tuShaaravarSho\-
+ddhatapravarShaghanadhaaraanipaatasamaahata.n na katha~ncicChaanti\-
+magamat | atha kecidvaanaraa vahnikaNasadR^ishaani gu~njaaphalaa\-
+nyavacitya vahnivaa~nChayaa phuutkurvantaH samantaattasthuH | atha
+suuciimukho naama pakShii teShaa.n ta.n vR^ithaayaasamavalokya
+provaaca \-  bhoH sarve muurkhaa yuuyam | naite vahnikaNaaH
+gu~njaaphalaani etaani | tatki.n vR^ithaa shrameNa | naitasmaacChiitarakShaa
+bhaviShyati | tadanviShyataa.n kashcinnirvaato vanapradesho guhaa
+girikandara.n vaa | adyaapi saTopaa medhaa dR^ishyante | atha
+teShaamekatamo vR^iddhavaanarastamuvaaca \-  bho muurkha | ki.n
+taavadanena vyaapaareNa | tadgamyataam | ukta~nca \-
+
+muhurvighnitakarmaaNa.n dyuutakaara.n paraajitam |
+naalaapayedvivekadnyo yadiicChetsiddhimaatmanaH || 418||
+
+tathaa ca \-
+
+aakheTaka.n vR^ithaaklesha.n muurkha.n vyasanasa.nsthitam |
+samaalaapena yo yu~Nkte sa gacChati paraabhavam || 419||
+
+so.api tamanaadR^itya bhuuyo.api vaanaraananavaratamaaha \- bhoH | ki.n
+vR^ithaa kleshena | atha yaavadasau na katha~ncitpralapanviramati
+taavadekena vaanareNa vyarthashramatvaatkupitena pakShaabhyaa.n
+gR^ihiitvaa shilaayaamaasphaalita uparatashca | ato.aha.n braviimi \-
+naanamya.n namate daaru ityaadi | tathaa ca \-
+
+upadesho hi muurkhaaNaa.n prakopaaya na shaantaye |
+payaHpaana.n bhuja~Ngaanaa.n kevala.n viShavardhanam || 420||
+
+anyacca \-
+upadesho na daatavyo yaadR^ishe taadR^ishe nare |
+pashya vaanaramuurkheNa sugR^ihii nirgR^ihiikR^itaa || 421||
+
+damanaka aaha \- kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 18
+
+kasmi.nshcidvanoddeshe shamiivR^ikShaH | tasya lambamaanashaakhaayaa.n
+kR^itaavaasaavaraNyacaTakadampatii prativasataH sma | atha kadaacittayoH
+sukhasa.nsthayorhemantamegho manda.n manda.n varShitumaarabdhaH |
+atraantare kashcicChaakhaamR^igo vaataasaarasamaahataH proddhuuShita\-
+shariiro dantaviiNaa.n vaadayanvepamaanastasyaaH shamyaa
+muulamaasaadyopaviShTaH | atha ta.n taadR^iShamavalokya caTakaa
+praaha \- bho bhadra |
+
+hastapaadasamopeto dR^ishyase puruShaakR^itiH |
+shiitena bhidyase muuDha katha.n na kuruShe gR^iham || 422||
+
+etacChrutvaa taa.n vaanaraH sakopamaaha \- adhame kasmaanna tva.n
+maunavrataa bhavasi | aho dhaarShTyamasyaaH | adya maamupahasati \-
+
+suuciimukhii duraacaaraa raNDaa paNDitavaadinii |
+naasha~Nkate prajalpantii tatkimenaa.n na hanmyaham || 423||
+
+eva.n pralapya taamaaha \- mugdhe | ki.n mama cintayaa tava prayojanam |
+ukta~nca \-
+
+vaacya.n shraddhaasametasya pR^icChatashca visheShataH |
+prokta.n shraddhaavihiinasya araNyaruditopamam || 424||
+
+tatki.n bahunaa taavat | kulaayasthitayaa tayaa punarapyabhihitaH |
+sa taavattaa.n shamiimaaruhya tasyaaH kulaaya.n shatadhaa
+khaNDasho.akarot | ato.aha.n braviimi \-  upadesho na daatavya iti |
+tanmuurkha | shikShaapito.api na shikShitastvam | athavaa na te
+doSho.asti yataH saadhoH shikShaa guNaaya sampadyate
+naasaadhoH | ukta~nca \-
+
+ki.n karotyeva paaNDityamasthaane viniyojitam |
+andhakaarapraticChanne ghaTe diipa ivaahitaH || 425||
+
+tadvyarthapaaNDityamaashritya mama vacanamashR^iNvannaatmanaH
+shaantimapi vetsi tannuunamapajaatastvam | ukta~nca \-
+
+jaataH putro.anujaatashca atijaatastathaiva ca |
+apajaatashca loke.asminmantavyaaH shaastravedibhiH || 426||
+maatR^itulyaguNo jaatastvanujaataH pituH samaH |
+atijaato.adhikastasmaadapajaato.adhamaadhamaH || 427||
+apyaatmano vinaasha.n gaNayati na khalaH paravyasanahR^iShTaH |
+praayo mastakanaashe samaramukhe nR^ityati kabandhaH || 428||
+
+aho saadhvidamucyate \-
+
+dharmabuddhiH kubuddhishca dvaavetau viditau mama |
+putreNa vyarthapaaNDityaatpitaa dhuumena ghaatitaH || 429||
+
+damanaka aaha kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 20
+
+kasmi.nshciddeshe dharmabuddhiH paapabuddhishca dve mitre prativasataH |
+atha kadaacitpaapabuddhinaa cintita.n yadaha.n taavanmuurkho
+daaridryopetashca | tadena.n dharmabuddhimaadaaya deshaantara.n
+gatvaa.asyaashrayeNaarthopaarjanaa.n kR^itvainamapi va~ncayitvaa
+sukhiibhavaami | athaanyasminnahani paapabuddhirdharmabuddhi.n praaha \-
+bho mitra | vaardhakabhaave ki.n tvaatmaviceShTita.n smarasi |
+deshaantaramadR^iShTvaa kaa.n shiShTajanasya vaarttaa.n
+kathayiShyasi | ukta~nca \-
+
+deshaantareShu bahuvidhabhaaShaaveShaadi yena na dnyaatam |
+bhramataa dharaNiipiiThe tasya phala.n janmano vyartham || 430||
+
+tathaa ca \-
+
+vidyaa.n vitta.n shilpa.n taavannaapnoti maanavaH samyak |
+yaavadvrajati na bhuumau deshaaddeshaantara.n hR^iShTaH || 431||
+
+atha tasya tadvacanamaakarNya prahR^iShTamanaastenaiva saha
+gurujanaanudnyaataH shubhe.ahani deshaantara.n prasthitaH | tatra
+ca dharmabuddhiprabhaaveNa bhramataa paapabuddhinaa prabhuutatara.n
+vittamaasaaditam | tatashca tau dvaavapi prabhuutopaarjitadravyau
+prahR^iShTau svagR^iha.n pratyautsukyena prasthitau | ukta~nca \-
+
+praaptavidyaarthashilpaanaa.n deshaantaranivaasinaam |
+kroshamaatro.api bhuubhaagaH shatayojanavadbhavet || 432||
+
+atha svasthaanasamiipavartinaa paapabuddhinaa dharmabuddhirabhihitaH \-
+bhadra | na sarvametaddhana.n gR^iha.n prati netu.n yujyate | yataH
+kuTumbino baandhavaashca praarthayiShyante | tadatraiva vanagahane
+kvaapi bhuumau nikShipya ki~ncinmaatramaadaaya gR^iha.n pravishaavaH |
+bhuuyo.api prayojane sa~njaate tanmaatra.n sametyaasmaat\-
+sthaanaanneShyaavaH | ukta~nca \-
+
+na vitta.n darshayetpraadnyaH kasyacitsvalpamapyaho |
+munerapi yatastasya darshanaaccalate manaH || 433||
+
+tathaa ca \-
+
+yathaamiSha.n jale matsyairbhakShyate shvaapadairbhuvi |
+aakaashe pakShibhishcaiva tathaa sarvatra vittavaan || 434||
+
+tadaakarNya dharmabuddhiraaha \- bhadra eva.n kriyataam | tathaanuShThite
+dvaavapi tau svagR^iha.n gatvaa sukhena sa.n sthitavantau |
+athaanyasminnahani paapabuddhirnishiithe.aTavyaa.n gatvaa tatsarva.n vitta.n
+samaadaaya garta.n puurayitvaa svabhavana.n jagaama | athaanyedyu\-
+rdharmabuddhi.n sametya provaaca \-  sakhe bahukuTumbaa vaya.n
+vittaabhaavaatsiidaamaH | tadgatvaa tatra sthaane ki~ncinmaatra.n
+dhanamaanayaavaH | so.abraviit \- bhadra eva.n kriyataam | atha dvaavapi
+gatvaa tatsthaana.n yaavatkhanatastaavadrikta.n bhaaNDa.n dR^iShTavantau |
+atraantare paapabuddhiH shirastaaDayanprovaaca \-  bho dharmabuddhe |
+tvayaa hR^itametaddhana.n  naanyena | yato bhuuyo.api gartaapuuraNa.n
+kR^itam | tatprayacCha me tasyaardham | anyathaa.aha.n raajakule
+nivedayiShyaami | sa aaha \- bho duraatman | maa maiva.n vada |
+dharmabuddhiH khalvaham | naitaccaurakarma karomi | ukta~nca \-
+
+maatR^ivatparadaaraaNi paradravyaaNi loShTavat |
+aatmavatsarvabhuutaani viikShante dharmabuddhayaH || 435||
+
+eva.n dvaavapi vivadamaanau dharmaadhikaariNa.n gatau | procatushca
+paraspara.n duuShayantau | atha dharmaadhikaraNaadhiShThitapuruShai\-
+rdivyaarthe yaavanniyojitau taavatpaapabuddhiraaha \- aho na
+samyagdR^iShTo nyaayaH | ukta~nca \-
+
+vivaade.anviShyate patra.n tadabhaave.api saakShiNaH |
+saakShyabhaavaattato divya.n pravadanti maniiShiNaH || 436||
+
+tadatra viShaye mama vR^ikShadevataaH saakShiibhuutaastiShThanti |
+taa apyaavayorekatara.n caura.n saadhu.n vaa kariShyanti | atha taiH
+sarvairabhihitam \-  bho yuktamukta.n bhavataa | ukta~nca \-
+
+antyajo.api yadaa saakShii vivaade samprajaayate |
+na tatra yujyate divya.n ki.n punarvanadevataaH || 437||
+
+tadasmaakamapyatra viShaye mahatkautuuhala.n vartate | pratyuuShasamaye
+yuvaabhyaamapyasmaabhiH saha tatra vanoddeshe gantavyamiti |
+etasminnantare paapabuddhiH svagR^iha.n gatvaa svajanakamuvaaca \-
+taata prabhuuto.aya.n mayaartho dharmabuddheshcoritaH | sa ca tava
+vacanena pariNati.n gacChati | anyathaa.asmaaka.n praaNaiH saha yaasyati |
+sa aaha \- vatsa druta.n vada yena procya taddravya.n sthirataa.n nayaami |
+paapabuddhiraaha \- taata asti tatpradeshe mahaashamii | tasyaa.n
+mahatkoTaramasti | tatra tva.n saa.npratameva pravisha | tataH prabhaate
+yadaaha.n satyashraavaNa.n karomi tadaa tvayaa vaacya.n
+yaddharmabuddhishcaura iti | tathaanuShThite pratyuuShe snaatvaa
+paapabuddhiH dharmabuddhipuraHsaro dharmaadhikaraNakaiH saha taa.n
+shamiimabhyetya taarasvareNa provaaca |
+
+aadityacandraavanilo.analashca
+           dyaurbhuumiraapo hR^idaya.n yamashca |
+ahashca raatrishca ubhe ca sandhye
+           dharmo hi jaanaati narasya vR^ittam || 438||
+
+bhagavati vanadevate | aavayormadhye yashcaurasta.n kathaya | atha
+paapabuddhipitaa shamiikoTarasthaH provaaca \-  bho dharmabuddhinaa
+hR^itametaddhanam| tadaakarNya sarve te raajapuruShaa
+vismayotphullalocanaa yaavaddharmabuddhervittaharaNocita.n nigraha.n
+shaastradR^iShTyaavalokayanti taavaddharmabuddhinaa tacChamiikoTara.n
+vahnibhojyadravyaiH pariveShTya vahninaa sandiipitam | atha jvalati
+tasminshamiikoTare.ardhadagdhashariiraH sphuTitekShaNaH karuNa.n
+paridevayanpaapabuddhipitaa nishcakraama | tatashca taiH sarvaiH pR^iShTaH \-
+bhoH kimidam | ityukta ida.n sarva.n kukR^itya.n paapabuddheH
+kaaraNaajjaatamityuktvaa mR^itaH | tataste raajapuruShaaH paapabuddhi.n
+shamiishaakhaayaa.n pratilambya dharmabuddhi.n prashasyedamuucuH \-
+aho saadhvidamucyate \-
+
+upaaya.n cintayetpraadnyastathaapaaya.n ca cintayet |
+pashyato bakamuurkhasya nakulairbhakShitaaH sutaaH || 439||
+
+dharmabuddhiH praaha \- kathametat | te procuH \-
+
+\medskip\hrule\medskip
+kathaa 21
+kR^iShNasarpakathaa |
+
+asti kasmi.nshcidvanoddeshe bahubakasanaatho vaTapaadapaH | tasya
+koTare kR^iShNasarpaH prativasati sma | sa ca bakabaalakaanajaata\-
+pakShaanapi sadaiva bhakShayankaala.n nayati | athaiko bakastena
+bhakShitaanyapatyaani dR^iShTvaa shishuvairaagyaatsarastiiramaasaadya
+baaShpapuurapuuritanayano.adhomukhastiShThati | ta.n ca taadR^ikceShTita\-
+mavalokya kuliirakaH provaaca \-  maama kimeva.n rudyate bhavataa.adya |
+sa aaha \- bhadra ki.n karomi | mama mandabhaagyasya baalakaaH
+koTaranivaasinaa sarpeNa bhakShitaaH | tadduHkhaduHkhito.aha.n
+rodimi | tatkathaya me yadyasti kashcidupaayastadvinaashaaya |
+tadaakarNya kuliirakashcintayaamaasa \-  aya.n taavadasmatsahajavairii |
+tathopadesha.n prayacChaami satyaanR^ita.n yathaanye.api bakaaH
+sarve sa~NkShayamaayaanti | ukta~nca \-
+
+navaniitasamaa.n vaaNii.n kR^itvaa citta.n tu nirdayam |
+tathaa prabodhyate shatruH saanvayo mriyate yathaa || 440||
+
+aaha ca \-  maama yadyeva.n tanmatsyamaa.nsakhaNDaani nakulasya
+biladvaaraatsarpakoTara.n yaavatprakShipa yathaa nakulastanmaargeNa
+gatvaa ta.n duShTasarpa.n vinaashayati | atha tathaanuShThite
+matsyamaa.nsaanusaariNaa nakulena ta.n kR^iShNasarpa.n nihatya te.api
+tadvR^ikShaashrayaaH sarve bakaashca shanaiH shanairbhakShitaaH | ato
+vaya.n bruumaH \-  upaaya.n cintayediti |  eva.n muuDha | tvayaapyupaaya\-
+shcintito naapaayaH paapabuddhivat | tanna bhavasi tva.n sajjanaH| kevala.n
+paapabuddhirasi | dnyaato mayaa svaaminaH praaNasa.ndehaanayanaat |
+prakaTiikR^ita.n tvayaa svayamevaatmano duShTatva.n kauTilya.n ca |
+athavaa saadhvidamucyate \-
+
+yatnaadapi kaH pashyecChikhinaamaahaaraniHsaraNamaargam |
+yadi jaladadhvanimuditaasta eva muuDhaa na nR^ityeyuH || 441||
+
+yadi tva.n svaaminamenaa.n dashaa.n nayasi tadasmadvidhasya kaa
+gaNanaa | tasmaanmamaasannena bhavataa na bhaavyam | ukta~nca \-
+
+tulaa.n lohasahasrasya yatra khaadanti muuShakaaH |
+raaja.nstatra harecChyeno baalaka.n naatra sa.nshayaH || 442||
+
+damanaka aaha kathametat |so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 22
+jiirNadhananaamavaNikputrakathaa |
+
+asti kasmi.nshcidadhiShThaane jiirNadhano naama vaNikputraH | sa ca
+dravyakShayaaddeshaantaragamanamanaa vyacintayat \-
+
+yatra deshe.athavaa sthaane bhogaanbhuktvaa svaviiryataH |
+tasminvibhavahiino yo vasetsa puruShaadhamaH || 443||
+
+tathaa ca \-
+
+yenaaha.nkaarayuktena cira.n vilasita.n puraa |
+diina.n vadati tatraiva yaH pareShaa.n sa ninditaH || 444||
+
+tasya ca gR^ihe sahasralohabhaaraghaTitaa puurvapuruShopaarjitaa
+tulaa.asiit | taa.n ca kasyacicChreShTino gR^ihe nikShepabhuutaa.n
+kR^itvaa deshaantara.n prasthitaH | tataH sucira.n kaala.n deshaantara.n
+yathecChayaa bhraantvaa punaH svapuramaagatya ta.n shreShThinamuvaaca \-
+bhoH shreShThin | diiyataa.n me saa nikShepatulaa | sa aaha \- bho | naasti
+saa tvadiiyaa tulaa | muuShikairbhakShitaa | jiirNadhana aaha \- bhoH
+shreShThin | naasti doShaste yadi muuShikairbhakShiteti | iidR^igevaaya.n
+sa.nsaaraH | na ki~ncidatra shaashvatamasti | paramaha.n nadyaa.n
+snaanaartha.n gamiShyaami | tattvamaatmiiya.n shishumena.n
+dhanadevanaamaana.n mayaa saha snaanopakaraNahasta.n preShayeti |
+so.api cauryabhayaattasya sha~NkitaH svaputramuvaaca \-  vatsa
+pitR^ivyo.aya.n tava snaanaartha.n nadyaa.n yaasyati | tadgamyataamanena
+saardha.n snaanopakaraNamaadaayeti | aho saadhvidamucyate \-
+
+na bhaktyaa kasyacitko.api priya.n prakurute naraH |
+muktvaa bhaya.n pralobha.n vaa kaaryakaaraNameva vaa || 445||
+
+tathaa ca \-
+
+atyaadaro bhavedyatra kaaryakaaraNavarjitaH |
+tatra sha~Nkaa prakartavyaa pariNaame.asukhaavahaa || 446||
+
+athaasau vaNikshishuH snaanopakaraNamaadaaya prahR^iShTamanaa\-
+stenaabhyaagatena saha prasthitaH | tathaanuShThite vaNiksnaatvaa
+ta.n shishu.n nadiiguhaayaa.n prakShipya taddvaara.n
+bR^ihacChilayaacChaadya satvara.n gR^ihamaagataH | pR^iShTashca
+tena vaNijaa \-  bho abhyaagata tatkathyataa.n kutra me shishuryastvayaa
+saha nadii.n gataH iti | sa aaha \- nadiitaTaatsa shyenena hR^ita iti |
+shreShThyaaha \- mithyaavaadin | ki.n kvacicChyeno baala.n hartu.n
+shaknoti | tatsamarpaya me sutamanyathaa raajakule nivedayiShyaamiiti |
+sa aaha \- bhoH satyavaadin | yathaa shyeno baala.n na nayati tathaa
+muuShikaa api lohabhaaraghaTitaa.n tulaa.n na bhakShayanti | tadarpaya
+me tulaa.n yadi daarakeNa prayojanam | eva.n vivadamaanau dvaavapi
+raajakula.n gatau | tatra shreShThii taarasvareNa provaaca \-  bho
+abrahmaNyamabrahmaNyam | mama shishuranena caureNaapahR^itaH |
+atha dharmaadhikaariNastamuucuH \-  bhoH samarpyataa.n shreShThisutaH |
+sa aaha \- ki.n karomi | pashyato me nadiitaTaacChyenenaapahR^itaH
+shishuH | tacChrutvaa te procuH \-  bho na satyamabhihita.n bhavataa |
+ki.n shyenaH shishu.n hartu.n samartho bhavati | sa aaha \- bho bhoH
+shruuyataa.n madvacaH |
+
+tulaa.n lohasahasrasya yatra khaadanti muuShikaaH |
+raaja.nstatra harecChyeno baalaka.n naatra sa.n shayaH || 447||
+
+te procuH \-  kathametat | tataH shreShThii sabhyaanaamagre sarva.n
+vR^ittaanta.n nivedayaamaasa | tatastairvihasya dvaavapi tau paraspara.n
+sambodhya tulaashishupradaanena santoShitau | ato.aha.n braviimi \-
+tulaa.n lohasahasrasya iti | tanmuurkha | sa.njiivakaprasaadamasahamaanena
+tvayaitatkR^itam | aho saadhvidamucyate \-
+
+praayeNaatra kulaanvita.n kukulajaaH shriivallabha.n durbhagaa
+daataara.n kR^ipaNaa R^ijuunanR^ijavo vitte sthita.n nirdhanaaH |
+vairuupyopahataashca kaantavapuSha.n dharmaashraya.n paapino
+naanaashaastravicakShaNa.n ca puruSha.n nindanti muurkhaaH sadaa || 448||
+
+tathaa ca \-
+
+muurkhaaNaa.n paNDitaa dveShyaa nirdhanaanaa.n mahaadhanaaH |
+vratinaH paapashiilaanaamasatiinaa.n kulastriyaH || 449||
+
+tanmuurkha tvayaa hitamapyahita.n kR^itam | ukta~nca \-
+
+paNDito.api vara.n shatrurna muurkho hitakaarakaH |
+vaanareNa hato raajaa vipraashcaureNa rakShitaaH || 450||
+
+damanaka aaha kathametat | so.abraviit \-
+
+\medskip\hrule\medskip
+kathaa 23
+
+kasyacidraadnyo nitya.n vaanaro.atibhaktiparo.a~Ngasevako.antaHpure\-
+.apyapratiShiddhaprasaro.ativishvaasasthaanamabhuut | ekadaa raadnyo
+nidraa.n gatasya vaanare vyajana.n niitvaa vaayu.n vidadhati raadnyo
+vakShaHsthalopari makShikopaviShTaa | vyajanena muhurmuhurniShidhya\-
+maanaapi punaH punastatra evopavishati | tatastena svabhaavacapalena
+muurkheNa vaanareNa kruddhena sataa tiikShNa.n khaDgamaadaaya
+tasyaa upari prahaaro vihitaH | tato makShikoDDiiya gataa para.n tena
+shitadhaareNaasinaa raadnyo vakSho dvidhaa jaata.n raajaa mR^itashca |
+tasmaacciraayuricChataa nR^ipeNa muurkho.anucaro na rakShaNiiyaH |
+aparamekasminnagare ko.api vipro mahaavidvaanpara.n puurvajanmayogena
+cauro vartate | tasminpure.anyadeshaadaagataa.nshcaturo vipraanbahuuni
+vastuuni vikriiNato dR^iShTvaa cintitavaan \-  aho kenopaayenaiShaa.n
+dhana.n labhe | iti vicintya teShaa.n puro.anekaani shaastroktaani
+subhaaShitaani caatipriyaaNi madhuraaNi vacanaani jalpataa teShaa.n
+manasi vishvaasamutpaadya sevaa kartumaarabdhaa | athavaa
+saadhvidamucyate \-
+
+asatii bhavati salajjaa kShaara.n niira.n ca shiitala.n bhavati |
+dambhii bhavati vivekii priyavaktaa bhavati dhuurtajanaH || 451||
+
+atha tasminsevaa.n kurvati tairvipraiH sarvavastuuni vikriiya bahumuulyaani
+ratnaani kriitaani | tatastaani ja~Nghaamadhye tatsamakSha.n prakShipya
+svadesha.n prati gantumudyamo vihitaH | tataH sa dhuurtaviprastaanvipraan
+gantumudyataanprekShya cintaavyaakulitamanaaH sa.njaataH \-  aho
+dhanametanna ki~ncinmama caTitam | athaibhiH saha yaami | pathi kvaapi
+viSha.n dattvaitaannihatya sarvaratnaani gR^ihNaami | iti vicintya
+teShaamagre sakaruNa.n vilapyedamaaha \- bho mitraaNi | yuuya.n
+maamekaakina.n muktvaa gantumudyataaH | tanme mano bhavadbhiH saha
+snehapaashena baddha.n bhavadvirahanaamnaivaakula.n sa~njaata.n yathaa
+dhR^iti.n kvaapi na dhatte | yuuyamanugraha.n vidhaaya sahaayabhuuta.n
+maamapi sahaiva nayata | tadvacaH shrutvaa te karuNaardracittaastena
+samameva svadesha.n prati prasthitaaH | athaadhvani teShaa.n
+pa~ncaanaamapi palliipuramadhye vrajataa.n dhvaa~NkShaaH
+kathayitumaarabdhaaH \-  re re kiraataaH | dhaavata dhaavata |
+sapaadalakShadhanino yaanti | etaannihatya dhana.n nayata | tataH
+kiraatairdhvaa~NkShavacanamaakarNya satvara.n gatvaa te vipraa
+laguDaprahaarairjarjariikR^itya vastraaNi mocayitvaa vilokitaaH para.n
+dhana.n ki~ncinna labdham | tadaa taiH kiraatairabhihitam \-  bhoH
+paanthaaH | puraa kadaapi dhvaa~NkShavacanamanR^ita.n naasiit |
+tato bhavataa.n sa.nnidhau kvaapi dhana.n vidyate tadarpayata | anyathaa
+sarveShaamapi vadha.n vidhaaya carma vidaarya pratya~Nga.n prekShya
+dhana.n neShyaamaH | tadaa teShaamiidR^isha.n vacanamaakarNya
+cauravipreNa manasi cintitam \-  yadaiShaa.n vipraaNaa.n vadha.n
+vidhaayaa~Nga.n vilokya ratnaani neShyanti tadaapi maa.n vadhiShyanti
+tato.aha.n puurvamevaatmaanamaratna.n samarpyaitaanmu~ncaami |
+ukta~nca \-
+
+mR^ityorbibheShi ki.n baala na sa bhiita.n vimu~ncati |
+adya vaa.abdashataante vaa mR^ityurvai praaNinaa.n dhruvaH || 452||
+
+tathaa ca \-
+
+gavaarthe braahmaNaarthe ca praaNatyaaga.n karoti yaH |
+suuryasya maNDala.n bhittvaa sa yaati paramaa.n gatim || 453||
+
+iti nishcityaabhihitam \-  bhoH kiraataaH | yadyeva.n tato maa.n puurva.n
+nihatya vilokayata | tatastaistathaanuShThite ta.n dhanarahitamavalokyaapare
+catvaaro.api muktaaH |ato.aha.n braviimi \-  paNDito.api vara.n shatruriti |
+athaiva.n sa.nvadatostayoH sa.njiivakaH kShaNameka.n pi~Ngalakena
+saha yuddha.n kR^itvaa tasya kharanakharaprahaaraabhihito
+gataasurvasundharaapiiThe nipapaata | atha ta.n gataasumavalokya
+pi~NgalakastadguNasmaraNaardrahR^idayaH provaaca \-  bho ayukta.n
+mayaa paapena kR^ita.n sa.njiivaka.n vyaapaadayataa | yato
+vishvaasaghaataadanyannaasti paapatara.n karma | ukta~nca \-
+
+mitradrohii kR^itaghnashca yashca vishvaasaghaatakaH |
+te naraa naraka.n yaanti yaavaccandradivaakarau || 454||
+bhuumikShaye raajavinaasha eva
+           bhR^ityasya vaa buddhimato vinaashe |
+no yuktamukta.n hyanayoH samatva.n
+           naShTaapi bhuumiH sulabhaa na bhR^ityaaH || 455||
+
+tathaa mayaa sabhaamadhye sa sadaiva prasha.nsitaH | tatki.n
+kathayiShyaami teShaamagrataH | ukta~nca \-
+
+ukto bhavati yaH puurva.n guNavaan iti sa.nsadi |
+na tasya doSho vaktavyaH pratidnyaabha~NgabhiiruNaa || 456||
+
+eva.nvidha.n pralapanta.n damanakaH sametya saharShamidamaaha \-
+deva kaataratamastavaiSha nyaayo yaddrohakaariNa.n shaShpabhuja.n
+hatvettha.n shocasi | tannaitadupapanna.n bhuubhujaam | ukta~nca \-
+
+pitaa vaa yadi vaa bhraataa putro bhaaryaa.athavaa suhR^it |
+praaNadroha.n yadaa gacCheddhantavyo naasti paatakam || 457||
+
+tathaa ca \-
+
+raajaa ghR^iNii braahmaNaH sarvabhakShii
+           strii caatrapaa duShTamatiH sahaayaH |
+preShyaH pratiipo.adhikR^itaH pramaadii
+           tyaajyaa amii yashca kR^ita.n na vetti || 458||
+
+api ca \-
+
+satyaanR^itaa ca paruShaa priyavaadinii ca
+           hi.nsraa dayaalurapi caarthaparaa vadaanyaa |
+bhuurivyathaa pracuravittasamaagamaa ca
+           veshyaa~Nganeva nR^ipaniitiranekaruupaa || 459||
+
+api ca \-
+
+akR^itopadravaH kashcinmahaanapi na puujyate |
+puujayanti naraa naagaanna taarkShya.n naagaghaatinam || 460||
+
+tathaa ca \-
+
+ashocyaananvashocastva.n pradnyaavaadaa.nshca bhaaShase |
+gataasuunagataasuu.nshca naanushocanti paNDitaaH || 461||
+
+eva.n tena sambodhitaH pi~NgalakaH sa.njiivakashoka.n tyaktvaa
+damanakasaacivyena raajyamakarot |
+
+iti shriiviShNusharmaviracite pa~ncatantre mitrabhedo naama
+prathama.n tantram |
+##
+Notes:
+1) The original encoding showed all ##samaasa##s broken 
+into their ##pada##s, separated by hyphens. All hyphens have 
+been removed now and the ##samaasa##s joined together. 
+2) The original encoding also had all ## sandhi##s separated into 
+their components. These have been joined back. 3) Punctuation marks 
+such as ? and ! have been replaced by ##daNDa##s. 
+
+The introduction of the original encoding:
+
+The text used for this edition comes from the following : 
+(ed.)Ramchandra Jha. Vidyabhavan Sanskrit Granthamala, 17. 
+Sixth edition.(Varanasi: Chowkhamba Vidyabhavan, 1991).
+
+There are considerable differences in various editions of the 
+Panchatantra.  I have also consulted (ed.) N.R. Kale. Delhi: 
+Motilal Banarsidass, reprint 1991 (original 1911), but clearly 
+there are several differences.  Eventually, a revised
+version based on Kosambi as 1949 critical edition should be prepared.
+
+Electronic text entered by Jan Brzezinski, 2003. This text is 
+available freely, but we request all users to please acknowledge 
+Gaudiya Grantha Mandir as its source.  A few corrections have 
+been made (2003-11-02)
+
+Corrections from Ulrich Stiehl entered 2003-11-05
+\medskip\hrule\medskip
+Assembled, reprocessed, and proofread by 
+Arvind Kolhatkar akolhatkar at rogers.com
+\medskip\hrule\obeylines
+\medskip
+{\rm Please send corrections to sanskrit@cheerful.com}
+{\rm Last updated \today}
+\end{document}

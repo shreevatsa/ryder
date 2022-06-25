@@ -1,0 +1,11 @@
+Images are 3353x5828. We want only the area from roughly (400,800) to (3000,5000), which is an area of 2600x4200.
+When image is resized to 633x1100, we want roughly (75,151) to (566,943), which is an area of 491x792.
+Actually, height is fine, but width is not.
+x-offset should be <=58, and width >=506. Currently I'm trying 506x792+55+150.
+
+Pages to the "left": 124 (x-offset <= 60)
+Pages to the "right": 79, 257 (60+520=580 is enough)
+Pages that are "low": 271 (y-offset + y-size >= 962)
+Pages that are "high": 167 (y-offset <= 158)
+
+------------------------------------------------------------

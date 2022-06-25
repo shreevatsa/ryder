@@ -1,0 +1,101 @@
+Hello,
+
+I'm trying to typeset a few verses, and define an appropriate
+environment/macro in (La)TeX so that one can simply write, for
+example:
+
+\begin{myverse}
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+"Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!"
+\end{myverse}
+
+and have it typeset
+(i) looking like two stanzas("verses"),
+(ii) centered on the page (width-wise, I mean), and
+(iii) with alternate lines indented, as above
+
+LaTeX has a "verse" environment, but it requires \\ at the end of each
+line, and one must specify indentation with something like
+\hspace{2em} for each line that is to be indented.
+Alternatively, there is the "alltt" environment, which respects
+indentation and newlines, and inside which one can use \normalfont to
+avoid the monospaced font, but everything is typeset flush left, the
+same as the paragraphs. (Also, page breaks within a verse seem more
+likely.)
+With either of them, though, I don't know how to center the verses as
+a whole (i.e., so that they are flush left in a box of width that of
+the longest line in the verse, and the box is centered on the page).
+Enclosing them in a "center" or "centering" environment centers each
+line independently, which looks ugly.
+
+There is also Peter Wilson's "verse" package, from whose excellent
+documentation I learnt all the above, and which has some nice features
+such as setting \indentpattern{01} to get alternate lines indented,
+but it requires \\ at the end of each line as well, and requires each
+stanza to be enclosed in a "patverse*" environment inside the verse
+environment, which makes it all too verbose. Also, it seems to have an
+ability to center the verses, but it requires the width of the longest
+line to be manually set into \versewidth.
+
+(I also tried something with \obeylines, but it's the equivalent of
+inserting a \par token at the end of each line, so that was stupid of
+me.)
+
+So all things considered, the alltt environment seems the best option,
+with something like:
+\newenvironment{myverse}{\begin{alltt}\normalfont}{\end{alltt}}
+
+Could someone help me figure out how to center its contents? (And to
+decrease the likelihood of a page break?)
+
+If centering is either impossible or not recommended, how can I
+specify an indentation?
+
+Thanks,
+
+shreevatsa <shreevatsa.public@xxxxxxxxx> wrote:
+
+
+    So all things considered, the alltt environment seems the best option,
+    with something like:
+    \newenvironment{myverse}{\begin{alltt}\normalfont}{\end{alltt}}
+
+    Could someone help me figure out how to center its contents? (And to
+    decrease the likelihood of a page break?)
+
+
+It is not clear what "center its contents" may mean in the context.
+But it appears that appropriately positioned minipage with your verse
+in it should to the job.
+
+Michal
+.
+
+------------------------------------------------------------
+
+
+Hello,
+
+I'm typesetting a document with frequent verse, something like the following:
+
+
+
+[Line 1]
+[Spaces][Line2]
+[Line3]
+[Spaces][Line4]
+
+(Another stanza)
+
+There's the "verse" environment, which requires setting \versewidth,
+and \\ after every line. This is quite inconvenient; my preferred
+solution at the moment is to enclose them in an `alltt` environment
+with 
+
