@@ -2,77 +2,142 @@
 %
 %
 
+<style>
+dt {
+  font-weight: bold;
+}
+</style>
+
 [Arthur W. Ryder](http://en.wikipedia.org/wiki/Arthur_W._Ryder)
-(1877–1938) was, in my opinion, the best translator of Sanskrit verse
-into English verse — and one of the best translators to translate
-Sanskrit without making it awkward. His masterpiece is probably his
-translation of the Panchatantra, which is still popular and in print
-in India (where it is out of copyright — see below).
+(1877–1938) translated several Sanskrit works into English.
+His goal in translation was to produce a work that stood by itself.
+At this he was successful.
+Especially in translating short memorable Sanskrit verses into 
+equally memorable English verse (with metre and rhyme), he has
+no equal.
+Few other translators from Sanskrit into English manage to do so
+without making it sound awkward.
 
-A list of translations, along with what's available online (including here).
+His masterpiece is his translation of the Panchatantra (1925),
+which is still popular and in print, but most other translations
+of his are still worth reading. 
+All his works are now in the public domain. 
+(His *Panchatantra* was the only one of his works whose 
+copyright was renewed, so it was the last
+one to enter the public domain, which it did in 2021.)
 
- #. _The Little Clay Cart (Mrcchakatika): A Hindu drama attributed to King Shūdraka_ (1905)
-    * Translation of _Mṛcchakaṭikā_ by Śūdraka
-    * [Project Gutenberg](http://www.gutenberg.org/etext/21020):
-      [HTML](http://www.gutenberg.org/files/21020/21020-h/21020-h.htm),
-      [Plain text](http://www.gutenberg.org/files/21020/21020-8.txt)
-    * [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/lcc/index.htm)
-    * Internet Archive: Scanned copies:
-      [this](http://www.archive.org/details/littleclaycartmr00sudruoft),
-      [this](http://www.archive.org/details/littleclaycart032535mbp),
-      [DjVu](http://www.archive.org/details/TheHarvardOrientalSeriesVolXI)
-    * Google Books: At least 8 scanned copies; one is
-      [this](http://books.google.com/books?id=-B4pAAAAYAAJ).
+----
 
- #. _Women's Eyes_: _Being Verses Translated from the Sanskrit_ (1910, Second printing 1916, reprinted in _Original Poems…_)
-    * One hundred verses, 85 from Bhartṛhari and 15 from other sources
+A large number of verses, collected in a posthumous volume, is **[transcribed here on this website](../verses/verses.html).**
+
+----
+
+A list of translations, along with what's available online (including some only on this website).
+
+• _The Little Clay Cart [Mṛcchakaṭikā]: A Hindu drama_ (1905)
+
+:   This is a translation of _Mṛcchakaṭikā_, by king Śūdraka. It's a pleasant translation with several nice touches,
+e.g. in the dialogue of Sansthānaka (Śakāra) he substitutes _sh_ for _s_ just as in the Sanskrit:
+_“Shtop, Vasantasenā, shtop! […] Lishten to me, shir!”_
+
+    Read it at:
+  
+    -   [Project Gutenberg](http://www.gutenberg.org/etext/21020) ([HTML](http://www.gutenberg.org/files/21020/21020-h/21020-h.htm))
+    -   [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/lcc/index.htm)
+    -   [Wikisource](https://en.wikisource.org/wiki/Little_Clay_Cart_(Ryder_1905))
+    -   scanned copies on [Internet Archive](http://www.archive.org/details/littleclaycartmr00sudruoft) 
+        and [Google Books](http://books.google.com/books?id=-B4pAAAAYAAJ).
+
+• “The Old Tiger and the Traveller” (1908)
+
+:   A short (4 pages, 1500 words) translation of a single story from the _Hitopadesha_.
+
+    Read it here on this website: [just the story](../1908-hitopadesha/ryder.html), [the story side-by-side with Sanskrit text](../1908-hitopadesha/ryder-images.html).
+
+• _Women's Eyes_: _Being Verses Translated from the Sanskrit_ (1910)
+
+:   One hundred verses, 85 from Bhartṛhari and 15 from other sources.
+
+    This was reprinted in his posthumous volume (below).
+
     * Internet Archive: Scanned copies,
       [1910](http://www.archive.org/details/womenseyes00rydeiala)
       [1916](http://www.archive.org/details/womenseyesbeingv00ryderich)
     * Google Books: [Scanned](http://books.google.com/books?id=05ooAAAAYAAJ)
-    * Also here
+    * Included in the [verses](../verses/verses.html) page here.
 
- #. _Kalidasa: Translations of Shakuntala and Other Works_ (1913)
-    * Complete translation of Shakuntala, and partial translation of other works
-    * [Project Gutenberg](http://www.gutenberg.org/etext/16659):
-      [HTML](http://www.gutenberg.org/files/16659/16659-h/16659-h.htm),
-      [Plain text](http://www.gutenberg.org/files/16659/16659-8.txt)
-    * [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/sha/index.htm)
-    * Internet Archive: Junk
-    * Google Books: [Scanned](http://books.google.com/books?id=JbpfAAAAMAAJ)
-    * _An Acting Version in Three Acts_:
-       [Google Books](http://books.google.com/books?id=Ly4pAAAAYAAJ),
-       [Internet Archive](http://www.archive.org/details/shakuntala00holm)
+• _Kalidasa: Translations of Shakuntala and Other Works_ (1913)
 
- #. _Malavika: A Five-act Comedy of Kalidasa_ (1915, University of California Chronicle)
-    * Google Books: Scanned, start on page 123 of
-      [this](http://books.google.com/books?id=UJ8jAQAAIAAJ&pg=PA123),
-      [this](http://books.google.com/books?id=TLXMAAAAMAAJ&pg=PA123),
-      [this](http://books.google.com/books?id=izkXAAAAYAAJ&pg=PA123), or
-      [this](http://books.google.com/books?id=Ck8MAQAAIAAJ&pg=PA123).
+:   Complete translation of Shakuntala, and partial translations of other works.
 
- #. _Twenty Two Goblins_ (1917)
-    * (One of the versions of) the famous Vikram-Vetaal
-      stories. (Names are translated, e.g. Trivikrama is translated as
-      King Triple-victory.)
-    * [Project Gutenberg](http://www.gutenberg.org/etext/2290):
-      [HTML](http://www.gutenberg.org/files/2290/2290-h/2290-h.htm),
-      [Plain text](http://www.gutenberg.org/files/2290/2290.txt)
-    * [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/ttg/index.htm)
-    * Internet Archive:
-    [Scanned (best)](http://www.archive.org/details/cu31924023163292),
-    [Scanned](http://www.archive.org/details/twentytwogoblins00rydeuoft),
-    [Scanned](http://www.archive.org/details/twentytwogoblin00ryde),
-    [Scanned](http://www.archive.org/details/twentytwogoblins00ryde),
-    [Copy of GB hqx...](http://www.archive.org/details/twentytwogoblin00nahlgoog),
-    [Copy of GB Nax...](http://www.archive.org/details/twentytwogoblin00rydegoog),
-    [Just-PG](http://www.archive.org/details/twentytwogoblins02290gut)
-    * Google Books:
-    [Scanned](http://books.google.com/books?id=NaxZAAAAMAAJ),
-    [Scanned](http://books.google.com/books?id=-uCAAAAAIAAJ),
-    [Scanned](http://books.google.com/books?id=hqxDAAAAIAAJ)
+    Just his Shakuntala is available online in [a nicely typeset PDF](https://www.yorku.ca/inpar/shakuntala_ryder.pdf) 
+    by ["In parentheses" publications](https://www.yorku.ca/inpar/Sanskrit.html).
 
- #. _Relatives: Being Further Verses Translated from the Sanskrit_ (1919)
+    For the whole book, read it at:
+
+    *   [Project Gutenberg](http://www.gutenberg.org/etext/16659) ([HTML](http://www.gutenberg.org/files/16659/16659-h/16659-h.htm))
+    *   [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/sha/index.htm)
+    *   Scanned copy [on Google Books](http://books.google.com/books?id=JbpfAAAAMAAJ), 
+        borrowable at [Internet Archive](https://archive.org/details/translationsofsh0000klid)
+
+    With Garnet Holme, he also did an abdridgment ("An Acting Version in Three Acts"), 1914: 
+    [Internet Archive](http://www.archive.org/details/shakuntala00holm), 
+    [Google Books](http://books.google.com/books?id=Ly4pAAAAYAAJ).
+       
+
+• _Malavika: A Five-act Comedy of Kalidasa_ (1915, University of California Chronicle)
+
+:   Scanned copies on Google Books (start on page 123) of
+    [this](http://books.google.com/books?id=UJ8jAQAAIAAJ&pg=PA123),
+    [this](http://books.google.com/books?id=TLXMAAAAMAAJ&pg=PA123),
+    [this](http://books.google.com/books?id=izkXAAAAYAAJ&pg=PA123), or
+    [this](http://books.google.com/books?id=Ck8MAQAAIAAJ&pg=PA123).
+
+• _Fables from the Hitopadesha_ (Jan 1917)
+
+:   In the University of California Chronicle.
+
+    Scanned copy [here](https://archive.org/details/universityofcali19berkuoft/page/15/mode/1up) 
+    or [here](https://books.google.com/books?id=lk8MAQAAIAAJ&pg=PA15)
+    or [here](https://books.google.com/books?id=pK1HAQAAMAAJ&pg=PA168).
+
+• _Lovers' Meeting: translated from the Kathasaritsagara, canto 104_ (Oct 1917)
+
+:   Scanned copy [here](https://archive.org/details/universityofcali19berkuoft/page/364/mode/2up)
+    or [here](https://books.google.com/books?id=pK1HAQAAMAAJ&pg=PA4)
+    or [here](https://books.google.com/books?id=Kv9JAQAAMAAJ&pg=RA2-PA364)
+    or [here](https://books.google.com/books?id=lk8MAQAAIAAJ&pg=PA364)
+
+• _Twenty Two Goblins_ (1917)
+
+:   (One of the versions of) the famous Vikram-Vetaal stories.
+    (Names are translated, e.g. Trivikrama is translated as King Triple-victory.)
+
+    Read it at:
+
+    *   [Project Gutenberg](http://www.gutenberg.org/etext/2290) ([HTML](http://www.gutenberg.org/files/2290/2290-h/2290-h.htm))
+    *   [Internet Sacred Text Archive](http://www.sacred-texts.com/hin/ttg/index.htm)
+    *   Scanned copies:
+        *   Internet Archive:
+            [Scanned](http://www.archive.org/details/cu31924023163292),
+            [Scanned](http://www.archive.org/details/twentytwogoblins00rydeuoft),
+            [Scanned](http://www.archive.org/details/twentytwogoblin00ryde),
+            [Scanned](http://www.archive.org/details/twentytwogoblins00ryde)
+        *   Google Books:
+            [Scanned](http://books.google.com/books?id=NaxZAAAAMAAJ),
+            [Scanned](http://books.google.com/books?id=-uCAAAAAIAAJ),
+            [Scanned](http://books.google.com/books?id=hqxDAAAAIAAJ)
+
+• _Relatives: Being Further Verses Translated from the Sanskrit_ (1919)
+
+:   More verse translations, some short and some long (the longest is the _Caura-pañcāśikā_, 50 stanzas long).
+
+    > The verses here presented are from many sources, and the selections are of very different length and date.
+    > The only bond of union is this — that these poems are all taken from the ancient Sanskrit language,
+    > and all seemed to the translator worthy of an English rendering.
+
+    This was reprinted in his posthumous volume (see below).
+
     * Google Books: Scanned,
       [here](http://books.google.com/books?id=KRxHAAAAIAAJ),
       [here](http://books.google.com/books?id=sS4OAAAAIAAJ)
@@ -80,22 +145,92 @@ A list of translations, along with what's available online (including here).
       [here](http://www.archive.org/details/relativesbeing00ryderich)
       [here](http://www.archive.org/details/relativesbeingf00rydegoog).
 
- #. _The Panchatantra_ (1925)
-    * Translation of the Panchatantra, prose-for-prose and verse-for-verse.
-    * **On this website, [here](../panchatantra/ryder.html)**
-    * Internet Archive: [Scanned, pages missing](http://www.archive.org/details/panchatantra035159mbp)
-    * Scribd: [scanned, pages missing](http://www.scribd.com/doc/2573842/Panchatantra-as-translated-by-Arthur-W-Ryder)
+• _The Panchatantra_ (1925)
 
-  **The following are believed to be out of copyright**, as they were published before 1963 and [record](http://collections.stanford.edu/copyrightrenewals/)[s](http://comminfo.rutgers.edu/~lesk/copyrenew.html) do not indicate their copyright was renewed. In any case, they are out of copyright in India, Australia, etc. and most non-US countries where copyright term for foreign works is at most 70 years past death of author.
+:   His masterpiece. IMO the most delightful English work translated from Sanskrit ever published.
 
- #. _Dandin's Dasha-kumara-charita: The Ten Princes, Translated from the Sanskrit_ (1927)
+    This is a translation of the Panchatantra, prose-for-prose and verse-for-verse.
+    As with all his other works, Sanskrit verses are translated into English verses with metre and rhyme—something
+    few other translators of the Panchatantra have managed, and none so well as here.
 
- #. _The Bhagavad-gita_ (1929)
+    In places he makes it even funnier than the original.
 
- #. _Original Poems: Together with translations from the Sanskrit_ (1939, posthumous)
-    * Includes _Women's Eyes_ and _Relatives_ along with a few stray verses and some of his own poetry
-    * **On this website: [Scanned PDF](lighter.pdf), [Darker copy of same PDF](darker.pdf)**
+    * **On this website, [here](https://shreevatsa.net/panchatantra/index.html)**
+    * ~~Internet Archive: [Scanned, pages missing](http://www.archive.org/details/panchatantra035159mbp)~~
+    * Internet Archive: [scanned](https://archive.org/details/panchatantra0000unse_u5j1),
+    [borrowable](https://archive.org/details/panchatantra00ryde),
+    [borrowable](https://archive.org/details/trent_0116301634410), 
+    [borrowable](https://archive.org/details/panchatantra0000unse).
 
-For the last of these, I have transcribed the translations, along with whatever originals I can find, [here](verses.html).
+    He also published a selection (subset), under the name
+    [Gold's Gloom: Tales from the Panchatantra](https://archive.org/details/goldsgloomtalesf0000unse).
 
+• _The Ten Princes_ (1927)
 
+:   A decent translation of Daṇḍin's _Daśa-kumāra-carita_.
+
+    Read it at:
+
+    -   Can be [borrowed here](https://archive.org/details/tenprinces0000unse)
+    -   On this website: [scanned PDF here](../1927-ten-princes/RyderTenPrinces.pdf#page=3)
+
+• _The Bhagavad-gita_ (1929)
+
+:   The same talents and style that made his Panchatantra so delightful
+    make this one possibly the most inappropriate translation of the Bhagavad Gita!
+
+    Kees W. Bolle, in his translation of the Bhagavadgītā, who mentions Ryder's *Panchatantra* as the very foremost translation (pp. 222–3):
+
+    > Among the outstanding translations from Sanskrit we have *The Panchatantra* of Arthur W. Ryder,
+    > who succeeds magnificently in rendering this most famous and down-to-earth, witty and instructive
+    > cycle of stories, and who succeeds even in reproducing the terse metric morals of the tales in laconic
+    > little rhymes—as if they were meant that way:
+    >
+    >            After money has departed,
+    >                If the wit is frail,
+    >            Then, like rills in summer weather,
+    >                Undertakings fail.
+    >            
+    >            Forest sesame, crow-barley,
+    >                Men who have no cash,
+    >            Owning names but lacking substance,
+    >                Are accounted trash.
+
+    continues with (pp. 235–6, emphasis mine):
+
+    > […] I want to look for a moment at the translation of Arthur W. Ryder. Ryder, as I have already noted,
+    > showed himself a genius in translating the Pañcatantra from the Sanskrit.
+    > His translation of the Bhagavadgītā, first published in 1929 and reprinted one year later, **is less well known. This is fortunate**
+    > […] because of the form his translation took. The “cute” expressions and phrases that served Ryder so well in the popular,
+    > entertaining, and edifying tales of the Pañcatantra led to total disaster in this case.
+    > Indeed, it is hard to believe that anyone could have taken the work seriously at the time and that a reprint was called for within a year.
+    > Ryder maintained rhyme throughout, thereby arriving at such crambo as this:
+
+    and so on.
+
+    Is this "total disaster" of a translation best forgotten, or is there some value nevertheless? Read it and decide:
+
+    -   Scanned:
+        -  [on this website](../1929-gita/Ryder-BG.pdf)
+        -  can be [borrowed here](https://archive.org/details/bhagavadgita0000unse_g1d6)
+    -   [transcribed on this website](../1929-gita/ryder-gita.html)
+
+• _Original Poems: Together with translations from the Sanskrit_ (1939, posthumous)
+
+:   Reprints _Women's Eyes_ and _Relatives_ along with a few previously unpublished verses.
+    Also contains an account of his life and work, and some of his own poetry.
+
+    Read it on this website:
+    
+    - scanned: [fullbook PDF](../1939-OriginalPoems/fullbook.pdf) (pp. iv–v missing),
+    [lighter PDF](../1939-OriginalPoems/lighter.pdf), [darker PDF](../1939-OriginalPoems/darker.pdf)
+
+    - as mentioned above, **[transcribed here](../verses/verses.html).**
+
+----
+
+Enjoy!
+
+And if you like, you can help: proofread [the verses](../verses/verses.html), find Sanskrit originals for more of them,
+transcribe some of the things which are only available as a scan, improve the formatting of this website, or just share
+the joy of Sanskrit literature with others who may find delight in it.

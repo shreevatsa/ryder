@@ -1,12 +1,10 @@
-table
-{
+table {
     border-color: #600;
     border-width: 0 0 1px 1px;
     border-style: solid;
 }
 
-td
-{
+td {
     border-color: #600;
     border-width: 1px 1px 0 0;
     border-style: solid;
@@ -15,10 +13,15 @@ td
     background-color: #FFC;
 }
 
-ol > li {
+ol>li {
     margin-top: 1em;
 }
 
-ul > li {
+ul>li {
     margin-top: 0.3em;
+}
+
+pre {
+    font-family: serif;
+    font-size: 18px;
 }
