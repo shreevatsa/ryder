@@ -1,0 +1,60 @@
+Floating annotations
+
+DON'T REALLY NEED "FLOATING"
+
+I have a text document with some annotations — let's say they are just numbers, for this example — and I would like to make them appear near the corresponding text, on a webpage.
+
+That is, I want to convert something like this:
+
+       The Houdan hen was never drawn into the
+       cult of Sredni Vashtar. Conradin had
+       long ago settled that she was an
+       Anabaptist. He did not pretend to have        [23]
+       the remotest knowledge as to what an
+       Anabaptist was, but he privately hoped
+       that it was dashing and not very
+       respectable.
+
+appropriately, so that in a browser, the [23] will be displayed near the words "pretend to have" (preferably in the left or right 'margin' on the page), whatever the font size or wherever the line breaks might be. Is this possible, with any mix of CSS/JavaScript/pre-processing, whatever?
+
+If necessary, it's ok to have the annotations moved to near the top/bottom of the paragraph, but I'd really not prefer that.
+
+I realise the question might be vague, but I'm open to suggestions.
+
+html css javascript web-development layout
+------------------------------------------------------------
+
+
+I have a file that contains "straight" (normal, ASCII) quotes, and I'm trying to write a script that converts them to “curly” quotes. Since the transformation from different quote characters into a single one has been lossy in the first place, obviously there is no way to automatically perform this conversion; nevertheless I suspect a few heuristics will cover most cases. So the plan is a script (in Emacs) that does something like this: for each straight quote character,
+ # guess which curly quote character to use, if possible
+ # ask the user (me) to confirm, or make a choice
+
+
+What algorithms (heuristics, rather) are used to convert "straight quotes" to “curly quotes”?
+
+###### Rambling History
+Proper typography has [separate glyphs](http://en.wikipedia.org/wiki/Quotation_mark_glyphs) for opening and closing quotation marks, but early typewriters and (subsequently) computers, in an attempt to save space, felt that having just one "ambidextrous" character was sufficient. [Some early displays had the apostrophe (') looking like a closing quote (’) and the grave accent (&#96;) looking like an opening quote (‘), which led to the practice of writing ``like this'', which is still used in TeX and by people who <a href="http://www.informit.com/articles/article.aspx?p=1193856">still think</a> of &#96; as the left open quote, not a grave accent by itself.] Meanwhile, Unicode now has separate characters U+201C (“) and U+201D (”), also U+2018 (‘) and U+2019 (’), which is what I'd like to use sometimes, when there is no possibility of encoding confusion.
+
+### Interface
+Cannot be automated: disaster.
+
+Make smart choices, ask for confirmation: Press SPC to accept, 1 for opening, 2 for closing.
+
+### Ideas
+###### Double quotes
+At the beginning of a line, use opening quote. In the middle somewhere, use the opposite of the last-used one.
+
+###### Single quotes
+Single quotes are slightly trickier, because
+
+ * actual apostrophes must be left alone. (mustn't write “mustn’t”)
+ * apostrophes are not always inside words. 'Tis possible they are at the beginning of words, although 'twas more common in the past. They can also be at words' ends.
+
+###### Nested quotes
+"'Heal thyself' is the proverb, I believe", he said.
+
+Keeping all this in mind, what would be good choices to make?
+
+Although my goal here is to write code for Emacs, I'd also like to hear general ideas. Are there other special cases I've missed?
+
+

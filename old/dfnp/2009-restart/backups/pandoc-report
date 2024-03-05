@@ -1,0 +1,24 @@
+When --smart is on, ending a line with two hyphens and spaces does not cause a line break.
+
+What steps will reproduce the problem?
+1. Type the following "This is a line--   \n like this."
+2. Convert from markdown to HTML.
+3. Notice that there is no <br/> after the first line.
+
+What is the expected output? What do you see instead?
+The Markdown syntax (http://daringfireball.net/projects/markdown/syntax#p) says "When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return."
+
+So expected:
+
+    This is a line&mdash;<br/>
+    like this.
+
+Actual result:
+    
+    This is a line&mdash; like this.
+
+What version of the product are you using? On what operating system?
+    
+    pandoc 0.46, 
+
+Please provide any additional information below.
