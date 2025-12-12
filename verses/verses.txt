@@ -702,6 +702,10 @@ Miller:
     These things are with vexation fraught.
 }
 {
+पल्लवग्राहि पाण्डित्यं
+क्रयक्रीतं च मैथुनम् ।
+भोजनं च पराधीनं
+तिस्रः पुंसां विडम्बनाः ॥
   [Hitopadesha]
 }
 
@@ -4818,6 +4822,8 @@ Thieves cannot plunder, gold cannot buy
   The wisdom that perisheth never.
 }
 {
+sarva-dravyeṣu vidyaiva dravyam āhur anuttamam |
+ahāryatvād anarghatvād akṣayatvāc ca sarvadā ||
 [Hitopadesha]
 }
 
